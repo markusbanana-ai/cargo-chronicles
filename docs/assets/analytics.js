@@ -151,7 +151,7 @@
     charts = [];
     if (!TABS.some(([id]) => id === tab)) tab = 'markets';
     const body = el('div');
-    main.append(
+    F.fill(main,
       el('div', { class: 'page-head' },
         el('span', { class: 'eyebrow' }, 'Analytics'),
         el('h1', { class: 'page-title' }, 'What happens if…'),

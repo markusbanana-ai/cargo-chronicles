@@ -401,7 +401,7 @@
     const list = arts.filter((a) => matchLevel(a, state.level));
     const srcCount = new Set(arts.map((a) => a.source)).size;
     const shown = new Set();
-    main.append(
+    fill(main,
       el('div', { class: 'page-head' },
         el('span', { class: 'eyebrow' }, fmtLong.format(refNow())),
         el('h1', { class: 'page-title' }, 'What’s moving in transport and shipping'),
@@ -444,7 +444,7 @@
       filterRow = levelChips(arts, sid);
     }
     const core = F.data.glossary.terms.filter((t) => (t.core || []).includes(sid));
-    main.append(
+    fill(main,
       el('div', { class: 'page-head' },
         el('span', { class: 'eyebrow' }, 'Section'),
         el('h1', { class: 'page-title' }, seg.name),
@@ -465,7 +465,7 @@
     const ql = q.toLowerCase();
     const arts = q ? sortArts(F.data.articles.articles.filter((a) => (a.title + ' ' + (a.excerpt || '') + ' ' + sourceOf(a).name).toLowerCase().includes(ql))) : [];
     const terms = q ? F.data.glossary.terms.filter((t) => (t.term + ' ' + (t.full || '') + ' ' + (t.no || '') + ' ' + t.m.join(' ')).toLowerCase().includes(ql)).slice(0, 12) : [];
-    main.append(
+    fill(main,
       el('div', { class: 'page-head' },
         el('span', { class: 'eyebrow' }, 'Search'),
         el('h1', { class: 'page-title' }, q ? `Results for “${q}”` : 'Search'),
@@ -515,7 +515,7 @@
     input.addEventListener('input', () => { state.glossQ = input.value; drawList(); });
     drawCats();
     drawList();
-    main.append(
+    fill(main,
       el('div', { class: 'page-head' },
         el('span', { class: 'eyebrow' }, 'Glossary'),
         el('h1', { class: 'page-title' }, `${G.terms.length} terms, explained with examples`),
@@ -535,7 +535,7 @@
     const status = (F.data.status && F.data.status.sources) || {};
     const sample = F.data.articles.sample;
     const segs = (s) => (s.segments && s.segments.length ? s.segments.map(segName).join(', ') : 'Sorted by topic');
-    main.append(
+    fill(main,
       el('div', { class: 'page-head' },
         el('span', { class: 'eyebrow' }, 'About'),
         el('h1', { class: 'page-title' }, 'About Cargo Chronicles and its sources'),

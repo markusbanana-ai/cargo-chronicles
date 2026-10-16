@@ -87,6 +87,9 @@ class _Text(HTMLParser):
             self.parts.append(data)
 
 
+INVISIBLE = re.compile("[\u00ad\u200b\u200c\u200d\u2060\ufeff]")
+
+
 def strip_html(s):
     if not s:
         return ""
@@ -98,6 +101,7 @@ def strip_html(s):
     except Exception:  # noqa: BLE001
         text = re.sub(r"<[^>]+>", " ", s)
     text = html.unescape(text)
+    text = INVISIBLE.sub("", text)  # soft hyphens and zero-width marks break word matching
     return re.sub(r"\s+", " ", text).strip()
 
 
@@ -509,6 +513,7 @@ def run(offline=False):
         src = src_by_id.get(art["source"])
         if not src:
             continue
+        art["title"] = INVISIBLE.sub("", art["title"])
         segs, subs, _policy, _level = clf.classify(src, art["title"], art.get("excerpt", ""), [])
         art["segments"] = sorted(set(art["segments"]) | set(segs), key=lambda s: order.index(s) if s in order else 99)
         art["subs"] = sorted(set(art.get("subs", [])) | set(subs))
