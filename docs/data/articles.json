@@ -1,7 +1,152 @@
 {
- "updated": "2026-10-16T12:29:22Z",
+ "updated": "2026-10-16T15:40:46Z",
  "sample": false,
  "articles": [
+  {
+   "id": "357c307abdbc",
+   "title": "Carrier stocks push DynaLiners index to 2026 high",
+   "link": "https://container-news.com/carrier-stocks-push-dynaliners-index-to-2026-high/",
+   "source": "containernews",
+   "published": "2026-10-16T15:00:52Z",
+   "seen": "2026-10-16T15:40:46Z",
+   "lang": "en",
+   "excerpt": "The DynaLiners Shares Index rebounded during the latest trading week, gaining 75 points, or 2.8%, to move above the 2,800-point threshold and reach its highest level of 2026.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "0ccada80debe",
+   "title": "Larger UPS air hub in Philippines boosts Asia service levels",
+   "link": "https://www.freightwaves.com/news/larger-ups-air-hub-in-philippines-boosts-asia-service-levels",
+   "source": "freightwaves",
+   "published": "2026-10-16T14:52:48Z",
+   "seen": "2026-10-16T15:40:46Z",
+   "lang": "en",
+   "excerpt": "UPS has opened a larger air cargo and package terminal in the Philippines to better connect Asia with its global network.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a0040d475aae",
+   "title": "Container ship attacks escalate in Strait of Hormuz",
+   "link": "https://www.freightwaves.com/news/container-ship-attacks-escalate-in-strait-of-hormuz",
+   "source": "freightwaves",
+   "published": "2026-10-16T14:51:24Z",
+   "seen": "2026-10-16T15:40:46Z",
+   "lang": "en",
+   "excerpt": "Container ships are being increasingly targeted in the Strait of Hormuz, with one Singapore-flagged vessel sinking after a strike.",
+   "segments": [
+    "road",
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner",
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "4b4f820f2fe8",
+   "title": "Helgebrief uke 42: Når vareflyten stopper, merkes det hjemme",
+   "link": "https://www.mtlogistikk.no/helgebrief-kronikk-ukerapport/helgebrief-uke-42-nar-vareflyten-stopper-merkes-det-hjemme/1337853",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-16T14:10:46Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a18dcd333b4a",
+   "title": "CMA Terminals completes acquisition of 49% stake in Nador Container Terminal",
+   "link": "https://container-news.com/cma-terminals-completes-acquisition-of-49-stake-in-nador-container-terminal/",
+   "source": "containernews",
+   "published": "2026-10-16T14:00:58Z",
+   "seen": "2026-10-16T15:40:46Z",
+   "lang": "en",
+   "excerpt": "Marsa Maroc has completed the entry of CMA Terminals into the capital of Nador Container Terminal (NCT), the concessionaire responsible for the western container terminal at Morocco’s Nador West Med Port.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "e634304924b8",
+   "title": "New Long Beach record as volume nears 1M containers",
+   "link": "https://www.freightwaves.com/news/new-long-beach-record-as-volume-nears-1m-containers",
+   "source": "freightwaves",
+   "published": "2026-10-16T13:09:32Z",
+   "seen": "2026-10-16T15:40:46Z",
+   "lang": "en",
+   "excerpt": "The Port of Long Beach set an all-time monthly cargo record in September as shipper managed soaring diesel costs.",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "shipper-consignee"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "214957a0f609",
+   "title": "DHL earmarks $450M for Eastern Europe logistics expansion",
+   "link": "https://www.freightwaves.com/news/dhl-earmarks-450m-for-eastern-europe-logistics-expansion",
+   "source": "freightwaves",
+   "published": "2026-10-16T12:39:06Z",
+   "seen": "2026-10-16T15:40:46Z",
+   "lang": "en",
+   "excerpt": "DHL Group plans to make big logistics investments in Central and Eastern Europe.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
   {
    "id": "fccae4aafe8c",
    "title": "Nederland-fergen tar et nytt steg – men skipet er fortsatt ukjent",
@@ -17,6 +162,25 @@
    "subs": [],
    "policy": false,
    "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "7b2a80c2351d",
+   "title": "J.B. Hunt experiences growing pains in Q3",
+   "link": "https://www.freightwaves.com/news/j-b-hunt-experiences-growing-pains-in-q3",
+   "source": "freightwaves",
+   "published": "2026-10-16T12:20:27Z",
+   "seen": "2026-10-16T15:40:46Z",
+   "lang": "en",
+   "excerpt": "J.B. Hunt Transport Services’ third quarter displayed growth pains and other cost pressures, but management said this was likely a speed bump on the road to recovery.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
    "terms": [],
    "paywall": false
   },
@@ -55,6 +219,50 @@
    "level": "national",
    "terms": [
     "csv"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "2a5a6c80f05d",
+   "title": "Iran Ships Some LPG, Jet Fuel Despite US Blockade, Data Shows",
+   "link": "https://gcaptain.com/iran-ships-some-lpg-jet-fuel-despite-us-blockade-data-shows/",
+   "source": "gcaptain",
+   "published": "2026-10-16T12:10:04Z",
+   "seen": "2026-10-16T15:40:46Z",
+   "lang": "en",
+   "excerpt": "Iran has managed to export some liquefied petroleum gas and jet fuel since July, despite a US naval blockade, shipping intelligence showed and people involved in security said.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lpg"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "0a38f6b5afe3",
+   "title": "Ship-Fuel Crunch to Persist Despite More Oil, Vitol Says",
+   "link": "https://gcaptain.com/ship-fuel-crunch-to-persist-despite-more-oil-vitol-says/",
+   "source": "gcaptain",
+   "published": "2026-10-16T12:07:25Z",
+   "seen": "2026-10-16T15:40:46Z",
+   "lang": "en",
+   "excerpt": "Accelerating crude exports through the Strait of Hormuz aren’t translating into higher production of a dirty shipping fuel, according to a top Vitol Group executive, tightening supplies and sending prices soaring.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
    ],
    "paywall": false
   },
@@ -163,6 +371,24 @@
    "source": "mtlogistikk",
    "published": null,
    "seen": "2026-10-16T11:29:22Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "bcd3f562f0dd",
+   "title": "190 tonns Liebherr skal losse 1000 tonn i timen",
+   "link": "https://www.mtlogistikk.no/gc-rieber-salt-liebherr-liebherr-norge/190-tonns-liebherr-skal-losse-1000-tonn-i-timen/1340393",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-16T11:25:46Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
