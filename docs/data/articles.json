@@ -1,7 +1,397 @@
 {
- "updated": "2026-10-16T15:40:46Z",
+ "updated": "2026-10-16T18:45:49Z",
  "sample": false,
  "articles": [
+  {
+   "id": "33f4f0548f35",
+   "title": "Samferdselsministeren til Troms og Nordland",
+   "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-til-troms-og-nordland/id3178449/",
+   "source": "regjeringen",
+   "published": "2026-10-16T18:45:49Z",
+   "seen": "2026-10-16T18:45:49Z",
+   "lang": "no",
+   "excerpt": "Samferdselsminister Kamzy Gunaratnam besøker blant annet Tromsø mandag 19. oktober og Bodø og Evenes tirsdag 20. oktober. Presse som ønsker å dekke besøket, kan ta kontakt med kommunikasjonsrådgiver i Samferdselsdepartementet Frøydis …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false,
+   "upcoming": true
+  },
+  {
+   "id": "9da2c2457ae9",
+   "title": "BPA analysis attributes UK container growth to port investment",
+   "link": "https://container-news.com/bpa-analysis-attributes-uk-container-growth-to-port-investment/",
+   "source": "containernews",
+   "published": "2026-10-16T18:00:26Z",
+   "seen": "2026-10-16T18:45:49Z",
+   "lang": "en",
+   "excerpt": "New analysis from the British Ports Association challenges claims that EU Emissions Trading System pricing is diverting container traffic from continental Europe to Britain, finding instead that infrastructure investment is the primary …",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "eu-ets"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "3dfef21d26b0",
+   "title": "Bulgaria and Romania Continue Black Sea Searches After Attacks",
+   "link": "https://maritime-executive.com/article/bulgaria-and-romania-continue-black-sea-searches-after-attacks",
+   "source": "marex",
+   "published": "2026-10-16T17:52:06Z",
+   "seen": "2026-10-16T18:45:49Z",
+   "lang": "en",
+   "excerpt": "Search and rescue and salvage efforts are continuing in both the Bulgarian and Romanian zones of the Black Sea after the attacks earlier this week on...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "salvage"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "3bf78d6cdcf8",
+   "title": "25 charged after drug ring used unsuspecting truckers to haul cocaine from California to Florida",
+   "link": "https://www.freightwaves.com/news/25-charged-after-drug-ring-used-unsuspecting-truckers-to-haul-cocaine-from-california-to-florida",
+   "source": "freightwaves",
+   "published": "2026-10-16T17:43:14Z",
+   "seen": "2026-10-16T18:45:49Z",
+   "lang": "en",
+   "excerpt": "Operation Icebreaker exposed a drug trafficking network that moved cocaine from California through unsuspecting trucking companies. Authorities seized more than 45 kilograms of cocaine, while a suspected supplier reportedly claimed …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "395655b340e3",
+   "title": "International Seaways Adds to VLCC Fleet with $370 Million Bruton Deal",
+   "link": "https://gcaptain.com/international-seaways-adds-to-vlcc-fleet-with-370-million-bruton-deal/",
+   "source": "gcaptain",
+   "published": "2026-10-16T17:22:27Z",
+   "seen": "2026-10-16T18:45:49Z",
+   "lang": "en",
+   "excerpt": "Deal adds four modern crude tankers as International Seaways reports sharply higher spot earnings entering the fourth quarter. International Seaways has agreed to acquire Oslo-listed Bruton Limited in a deal...",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "vlcc"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "c96f5afee4ee",
+   "title": "ATRI gets a new head: TeamOne’s Siplon",
+   "link": "https://www.freightwaves.com/news/atri-gets-a-new-head-teamones-siplon",
+   "source": "freightwaves",
+   "published": "2026-10-16T17:10:32Z",
+   "seen": "2026-10-16T18:45:49Z",
+   "lang": "en",
+   "excerpt": "ATRI named a new head to replace retiring Rebecca Brewster.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5f5aa18bc9d2",
+   "title": "Southern California Ports Shatter Cargo Records as Imports Surge",
+   "link": "https://gcaptain.com/southern-california-ports-shatter-cargo-records-as-imports-surge/",
+   "source": "gcaptain",
+   "published": "2026-10-16T17:07:07Z",
+   "seen": "2026-10-16T18:45:49Z",
+   "lang": "en",
+   "excerpt": "The ports of Los Angeles and Long Beach both set all-time monthly cargo records in September, handling a combined 2.04 million twenty-foot equivalent units (TEUs) as strong imports and shifting...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "1ca47f5f46b8",
+   "title": "Houthi Attacks on Saudi Arabia Defy Difference in Military Power",
+   "link": "https://gcaptain.com/houthi-attacks-on-saudi-arabia-defy-difference-in-military-power/",
+   "source": "gcaptain",
+   "published": "2026-10-16T17:01:24Z",
+   "seen": "2026-10-16T18:45:49Z",
+   "lang": "en",
+   "excerpt": "The Houthi attacks on Saudi Arabia are demonstrating the limits of the kingdom’s military prowess — despite defense spending that far outstrips that of its regional neighbors.",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "16117bbe0872",
+   "title": "2 ships on fire off Romania’s Black Sea coast, 7 crew missing",
+   "link": "https://www.hellenicshippingnews.com/2-ships-on-fire-off-romanias-black-sea-coast-7-crew-missing/",
+   "source": "hsn",
+   "published": "2026-10-16T17:00:59Z",
+   "seen": "2026-10-16T18:45:49Z",
+   "lang": "en",
+   "excerpt": "Romanian authorities have launched search and rescue operations in the Black Sea in a bid to find seven missing crew from a chemical tanker that caught fire overnight to Thursday.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "3cbeb429be9a",
+   "title": "Pacific Environment welcomes Singapore grant to accelerate electric harbour craft adoption",
+   "link": "https://www.hellenicshippingnews.com/pacific-environment-welcomes-singapore-grant-to-accelerate-electric-harbour-craft-adoption/",
+   "source": "hsn",
+   "published": "2026-10-16T17:00:57Z",
+   "seen": "2026-10-16T18:45:49Z",
+   "lang": "en",
+   "excerpt": "On 14 October 2026, The Maritime and Port Authority of Singapore (MPA) announced the Early Adopter Scheme for Electric Harbour Craft (EASE), offering harbour craft operators of up to S$250,000 per vessel to support the transition to …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8c531f04b93a",
+   "title": "Havila Shipping ASA: 3-years contracts with Neo Next + UK for the PSVs Havila Fanø and Havila Herøy",
+   "link": "https://www.hellenicshippingnews.com/havila-shipping-asa-3-years-contracts-with-neo-next-uk-for-the-psvs-havila-fano-and-havila-heroy/",
+   "source": "hsn",
+   "published": "2026-10-16T17:00:55Z",
+   "seen": "2026-10-16T18:45:49Z",
+   "lang": "en",
+   "excerpt": "Havila Shipping has entered into contracts with Neo Next + Energy E&P UK Limited for the PSV vessels Havila Fanø and Havila Herøy. Each contract is for three years firm until September 2029 and 3 optional periods of one year thereafter.",
+   "segments": [
+    "freight",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "psv",
+    "ep"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "7a330aa710c5",
+   "title": "DP World Deploys 55 Electric Yard Tractors At South Korea’s Busan Terminal",
+   "link": "https://www.hellenicshippingnews.com/dp-world-deploys-55-electric-yard-tractors-at-south-koreas-busan-terminal/",
+   "source": "hsn",
+   "published": "2026-10-16T17:00:53Z",
+   "seen": "2026-10-16T18:45:49Z",
+   "lang": "en",
+   "excerpt": "DP World has deployed 55 electric yard tractors (E-YTs) at its Busan terminal in South Korea, marking a significant step up in its efforts to reduce emissions from terminal operations.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lng"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "64490b000cee",
+   "title": "OECD employment and labour force participation rates at record highs in Q2 2026; unemployment rate remains near record low in August",
+   "link": "https://www.hellenicshippingnews.com/oecd-employment-and-labour-force-participation-rates-at-record-highs-in-q2-2026-unemployment-rate-remains-near-record-low-in-august/",
+   "source": "hsn",
+   "published": "2026-10-16T17:00:43Z",
+   "seen": "2026-10-16T18:45:49Z",
+   "lang": "en",
+   "excerpt": "h rates increased by 0.1 percentage point (p.p.) or less from the previous quarter, remaining broadly stable (Figure 1). Compared with the same quarter in 2025, both rates were also broadly unchanged. Employment and labour force",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "fa2597ffebd4",
+   "title": "Jade Pacific Line launches India–Red Sea service",
+   "link": "https://container-news.com/jade-pacific-line-launches-india-red-sea-service/",
+   "source": "containernews",
+   "published": "2026-10-16T17:00:14Z",
+   "seen": "2026-10-16T18:45:49Z",
+   "lang": "en",
+   "excerpt": "Newly established Singapore-based carrier Jade Pacific Line (JPL) has launched a container service connecting the Indian Subcontinent with Egypt’s Red Sea coast.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint",
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "1b8d8d42f0aa",
+   "title": "Supertanker Rates Fall from Record Highs",
+   "link": "https://gcaptain.com/supertanker-rates-fall-from-record-highs/",
+   "source": "gcaptain",
+   "published": "2026-10-16T16:36:16Z",
+   "seen": "2026-10-16T18:45:49Z",
+   "lang": "en",
+   "excerpt": "The cost ?of shipping oil on the largest tankers fell this week from record highs as demand eased following a wave of attacks on vessels in the Middle East and as the US considered easing sanctions on the so-called shadow fleet.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "vlcc",
+    "sanctions",
+    "shadow-fleet"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "87cc3e5aa748",
+   "title": "Carrier Logistics, LSP44 announce partnership to automate LTL shipment identification",
+   "link": "https://www.freightwaves.com/news/carrier-logistics-lsp44-announce-partnership-to-automate-ltl-shipment-identification",
+   "source": "freightwaves",
+   "published": "2026-10-16T16:08:59Z",
+   "seen": "2026-10-16T18:45:49Z",
+   "lang": "en",
+   "excerpt": "Carrier Logistics and LSP44 have launched an API that uses shipment details such as company names, delivery locations and approximate dates to identify LTL freight when a valid tracking number is missing or incorrect.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ltl"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "ce2454c45fe5",
+   "title": "Rhenus to double logistics space with new hub in Padua",
+   "link": "https://container-news.com/rhenus-to-double-logistics-space-with-new-hub-in-padua/",
+   "source": "containernews",
+   "published": "2026-10-16T16:00:03Z",
+   "seen": "2026-10-16T18:45:49Z",
+   "lang": "en",
+   "excerpt": "Rhenus is expanding its logistics operations in Italy with a new 10,000 sqm hub at Interporto Padova. The facility will bring together transport, warehousing and freight forwarding services in one location.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "forwarder"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "8c21cdd86bd4",
+   "title": "Lawmakers Seek to Strip COSCO Ships of U.S. Port Inspection Privileges Over Espionage Claims",
+   "link": "https://gcaptain.com/lawmakers-seek-to-strip-cosco-ships-of-u-s-port-inspection-privileges-over-espionage-claims/",
+   "source": "gcaptain",
+   "published": "2026-10-16T15:58:14Z",
+   "seen": "2026-10-16T18:45:49Z",
+   "lang": "en",
+   "excerpt": "Three senior House Republicans are calling on the Department of Homeland Security to revoke special inspection privileges granted to vessels operated by Chinese state-owned shipping giant COSCO, citing allegations that...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "3f97426f1441",
+   "title": "IEA Moves to Accelerate Oil Reserve Releases as Hormuz Crisis Drags On",
+   "link": "https://gcaptain.com/iea-moves-to-accelerate-oil-reserve-releases-as-hormuz-crisis-drags-on/",
+   "source": "gcaptain",
+   "published": "2026-10-16T15:50:36Z",
+   "seen": "2026-10-16T18:45:49Z",
+   "lang": "en",
+   "excerpt": "The International Energy Agency (IEA) has agreed to accelerate the release of approximately 100 million barrels of emergency oil stocks, including more than 20 million barrels of diesel, as the...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
   {
    "id": "357c307abdbc",
    "title": "Carrier stocks push DynaLiners index to 2026 high",
