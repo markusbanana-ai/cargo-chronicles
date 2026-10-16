@@ -1,0 +1,114 @@
+{
+  "_help": "Cause & effect explorer. Each event lists typical effects at three levels: local (Western Norway), national (Norway) and international (World). Effects are typical directions, not forecasts.",
+  "events": [
+    {
+      "id": "oil-spike",
+      "name": "Oil price jumps 30%",
+      "summary": "Brent rises sharply, for example after supply disruptions in the Middle East.",
+      "effects": [
+        {"level": "local", "seg": "offshore", "label": "Supply base activity", "dir": "up", "text": "Oil companies spend more on the shelf. That means more traffic at bases like CCB Ågotnes and Mongstad, and more trucking, warehousing and project logistics serving them.", "terms": ["supply-base", "project-cargo"]},
+        {"level": "national", "seg": "road", "label": "Truck operating cost", "dir": "up", "text": "Diesel is often a quarter to a third of a truck's running cost. Hauliers with a diesel clause pass it on monthly; those without carry the loss until contracts are renegotiated.", "terms": ["fuel-surcharge", "road-tax"]},
+        {"level": "national", "seg": "finance", "label": "Oslo-listed tanker & offshore shares", "dir": "up", "text": "Investors expect higher earnings for tanker and offshore companies. Over time, higher oil revenue also tends to support the krone.", "terms": ["nav"]},
+        {"level": "international", "seg": "freight", "label": "Bunker cost, sailing speed", "dir": "mixed", "text": "Fuel costs rise, so ships slow down. Slower ships carry less per year, which tightens supply and can support freight rates.", "terms": ["bunkers", "slow-steaming", "tce"]},
+        {"level": "international", "seg": "freight", "label": "Tanker rates", "dir": "mixed", "text": "Higher prices can trim oil demand, but if the spike comes from a supply disruption, cargoes travel further and tanker rates often rise.", "terms": ["ton-miles", "vlcc"]},
+        {"level": "international", "seg": "offshore", "label": "Rig and vessel dayrates", "dir": "up", "text": "Oil companies raise exploration and production budgets. Rig and supply vessel dayrates usually follow, with a lag of 6–18 months.", "terms": ["dayrate", "ep", "psv"]}
+      ]
+    },
+    {
+      "id": "chokepoint",
+      "name": "Red Sea or Hormuz disrupted",
+      "summary": "Attacks make a key strait unsafe, and ships reroute or wait.",
+      "effects": [
+        {"level": "local", "seg": "freight", "label": "Feeder schedules to Bergen", "dir": "down", "text": "Containers to Western Norway usually come via hubs like Rotterdam or Hamburg. When ocean ships arrive late or in bunches, feeder services and local deliveries slip too.", "terms": ["transshipment", "congestion"]},
+        {"level": "national", "seg": "road", "label": "Delivery predictability", "dir": "down", "text": "Imported goods arrive later and less evenly. Terminals and hauliers see quiet days followed by peaks when delayed ships arrive together.", "terms": ["forwarder", "dwell"]},
+        {"level": "national", "seg": "finance", "label": "Norwegian tanker & gas owners", "dir": "up", "text": "Owners with ships trading in the spot market often earn more as routes lengthen, and their share prices react quickly.", "terms": ["spot-market"]},
+        {"level": "international", "seg": "freight", "label": "Container spot rates", "dir": "up", "text": "Going around the Cape of Good Hope makes Asia–Europe voyages roughly a third longer. That absorbs ships, so spot container rates jump and schedules slip.", "terms": ["chokepoint", "ton-miles", "container-index"]},
+        {"level": "international", "seg": "insurance", "label": "War-risk premiums", "dir": "up", "text": "Insurers charge large additional premiums for the area, and some owners and crews refuse to sail there.", "terms": ["war-risk", "listed-areas"]},
+        {"level": "international", "seg": "freight", "label": "Tanker ton-mile demand", "dir": "up", "text": "Oil takes longer routes or comes from more distant suppliers, so each cargo ties up a tanker for longer.", "terms": ["ton-miles", "vlcc"]}
+      ]
+    },
+    {
+      "id": "fuel-tax-cut",
+      "name": "Norway cuts diesel tax by NOK 1/litre",
+      "summary": "The road usage tax on diesel is reduced.",
+      "effects": [
+        {"level": "local", "seg": "road", "label": "Cost for Western Norway hauliers", "dir": "down", "text": "Long distances and mountain routes make fuel a big cost in Western Norway, so timber, construction and distribution hauliers feel the relief quickly.", "terms": ["road-tax"]},
+        {"level": "national", "seg": "road", "label": "Haulier margins", "dir": "up", "text": "A truck using 40,000 litres a year saves about NOK 40,000. Hauliers on fixed-price contracts keep the saving; those with diesel clauses pass it on.", "terms": ["fuel-surcharge", "pro-diesel"]},
+        {"level": "national", "seg": "road", "label": "Incentive to go electric", "dir": "down", "text": "Cheaper diesel weakens the cost case for electric trucks, so expect debate about climate targets and road funding.", "terms": ["electric-truck"]}
+      ]
+    },
+    {
+      "id": "china-steel",
+      "name": "China construction boom",
+      "summary": "Stimulus drives up steel production and raw material imports.",
+      "effects": [
+        {"level": "national", "seg": "finance", "label": "Norwegian dry bulk shares", "dir": "up", "text": "Oslo-listed bulker owners earn more, and some pay large dividends in strong markets.", "terms": ["dividend"]},
+        {"level": "international", "seg": "freight", "label": "Capesize rates", "dir": "up", "text": "More iron ore and coal is imported, mainly on Capesizes from Australia and Brazil. With few spare ships, rates can multiply.", "terms": ["capesize", "utilisation", "bdi"]},
+        {"level": "international", "seg": "finance", "label": "Bulker values and orders", "dir": "up", "text": "Higher earnings lift secondhand prices. Owners start ordering newbuildings, which limits how long the upswing lasts.", "terms": ["sale-purchase", "orderbook"]}
+      ]
+    },
+    {
+      "id": "sanctions",
+      "name": "Sanctions on an oil exporter",
+      "summary": "Western countries ban services to a major oil exporter's trade.",
+      "effects": [
+        {"level": "national", "seg": "insurance", "label": "Shadow-fleet risk in Nordic waters", "dir": "up", "text": "Older tankers with unclear insurance sail along the Norwegian coast and through the Baltic approaches. Nordic and Baltic authorities step up checks of their documents.", "terms": ["shadow-fleet", "pi"]},
+        {"level": "national", "seg": "road", "label": "Diesel import cost", "dir": "up", "text": "Fuel imports shift to other suppliers, often farther away, which can push up wholesale diesel prices.", "terms": ["road-tax"]},
+        {"level": "international", "seg": "freight", "label": "Compliant tanker rates", "dir": "up", "text": "Trade reroutes over longer distances and part of the fleet splits off into a shadow fleet, so tankers available for mainstream trades become scarcer.", "terms": ["shadow-fleet", "ton-miles"]},
+        {"level": "international", "seg": "insurance", "label": "Insurance & finance withdrawal", "dir": "down", "text": "Western insurers and banks must stop covering sanctioned trades, raising oil spill risk for coastal states.", "terms": ["sanctions", "pi-club"]}
+      ]
+    },
+    {
+      "id": "rates-up",
+      "name": "Interest rates rise 1 percentage point",
+      "summary": "Central banks tighten, and floating-rate loans get more expensive.",
+      "effects": [
+        {"level": "national", "seg": "road", "label": "Truck financing cost", "dir": "up", "text": "Truck loans and leases cost more. Small hauliers with thin margins feel it first, and fleet renewal, including electric trucks, slows down.", "terms": ["electric-truck"]},
+        {"level": "national", "seg": "finance", "label": "Nordic bond coupons", "dir": "up", "text": "NOK bonds priced at NIBOR plus a margin cost more for Norwegian shipping and offshore companies.", "terms": ["nibor", "bond"]},
+        {"level": "international", "seg": "finance", "label": "Ship breakeven", "dir": "up", "text": "On a USD 30 million floating-rate loan, one percentage point adds USD 300,000 a year—about USD 820 a day on the breakeven.", "terms": ["breakeven", "sofr"]},
+        {"level": "international", "seg": "freight", "label": "Newbuilding orders", "dir": "down", "text": "Costlier financing and lower ship values cool ordering, which limits future supply and supports rates later.", "terms": ["orderbook", "newbuilding"]}
+      ]
+    },
+    {
+      "id": "carbon-price",
+      "name": "EU carbon price doubles",
+      "summary": "Emission allowances under the EU ETS become twice as expensive.",
+      "effects": [
+        {"level": "local", "seg": "freight", "label": "Shore power and green fuels in ports", "dir": "up", "text": "Ports such as Bergen invest more in shore power and alternative fuels, since ships pay for emissions at berth.", "terms": ["eu-ets"]},
+        {"level": "national", "seg": "freight", "label": "Coastal and short-sea cost", "dir": "up", "text": "Voyages within the EEA pay for all their emissions, which raises costs for coastal shipping and can shift some cargo between sea and road.", "terms": ["eu-ets", "fueleu"]},
+        {"level": "international", "seg": "freight", "label": "Surcharges and speed", "dir": "mixed", "text": "Carriers pass the cost on through emission surcharges, and ships slow down to burn less fuel.", "terms": ["baf", "slow-steaming"]},
+        {"level": "international", "seg": "finance", "label": "Old vs new ship values", "dir": "mixed", "text": "Older, less efficient ships lose value, while modern dual-fuel ships earn a premium.", "terms": ["cii", "impairment"]}
+      ]
+    },
+    {
+      "id": "delivery-wave",
+      "name": "Wave of newbuilding deliveries",
+      "summary": "Ships ordered in a boom all arrive within a year or two.",
+      "effects": [
+        {"level": "international", "seg": "freight", "label": "Freight rates", "dir": "down", "text": "The fleet grows faster than demand, utilisation drops and rates fall—often sharply, towards the level where ships only cover operating costs.", "terms": ["orderbook", "utilisation"]},
+        {"level": "international", "seg": "freight", "label": "Scrapping", "dir": "up", "text": "Owners send older ships to recycling earlier, which partly offsets the new supply.", "terms": ["recycling"]},
+        {"level": "international", "seg": "finance", "label": "Ship values and covenants", "dir": "down", "text": "Secondhand values fall, and owners with high loan-to-value may breach value maintenance clauses.", "terms": ["ltv", "vmc"]}
+      ]
+    },
+    {
+      "id": "port-congestion",
+      "name": "Strike or congestion at European hub ports",
+      "summary": "Rotterdam, Antwerp or Hamburg slow down for weeks.",
+      "effects": [
+        {"level": "local", "seg": "freight", "label": "Feeder arrivals in Western Norway", "dir": "down", "text": "Feeder schedules to Bergen and Stavanger slip when the hubs they connect to are congested.", "terms": ["transshipment"]},
+        {"level": "national", "seg": "road", "label": "Truck and terminal load", "dir": "mixed", "text": "Containers for Norway arrive late and in bunches, leaving truck capacity idle one week and overloaded the next.", "terms": ["dnd", "dwell"]},
+        {"level": "international", "seg": "freight", "label": "Effective container capacity", "dir": "down", "text": "Ships waiting outside ports are effectively removed from supply. Carriers add congestion surcharges and skip ports.", "terms": ["congestion", "port-omission"]}
+      ]
+    },
+    {
+      "id": "road-closure",
+      "name": "Key road closure in Western Norway",
+      "summary": "For example night closures of Lærdalstunnelen on the E16.",
+      "effects": [
+        {"level": "local", "seg": "road", "label": "Detours and waiting time", "dir": "up", "text": "Trucks must plan around closure windows or wait for reopening, which can break driving-time plans and delivery slots.", "terms": ["driving-rest", "rest-area"]},
+        {"level": "national", "seg": "road", "label": "Load on alternative routes", "dir": "up", "text": "Some Bergen–Oslo freight moves to other mountain crossings or to rail, which can congest those alternatives.", "terms": ["intermodal"]},
+        {"level": "national", "seg": "road", "label": "Freight prices on the corridor", "dir": "up", "text": "Longer trips and lost hours raise the cost per trip, which hauliers try to pass on to customers.", "terms": ["fuel-surcharge"]}
+      ]
+    }
+  ]
+}

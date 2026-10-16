@@ -1,0 +1,247 @@
+{
+  "_help": "Each source is fetched every few hours. type 'rss' reads a feed; type 'html' reads headline links from a front page. lang: 'en', 'no', 'auto' (detect Norwegian/English) or another code such as 'sv' or 'de' (those are translated to English). segments: sections the source always goes into. auto: true means items are only kept if they match a section's keywords. Set enabled to false to pause a source.",
+  "sources": [
+    {
+      "id": "lastebil",
+      "name": "Lastebil.no (NLF)",
+      "url": "https://lastebil.no",
+      "type": "rss",
+      "feed": "https://lastebil.no/rss/feed/siste_nytt",
+      "lang": "no",
+      "region": "NO",
+      "segments": [
+        "road"
+      ],
+      "about": "News from Norges Lastebileier-Forbund, the Norwegian truck owners' association. Strong on taxes, budgets and rules that affect hauliers.",
+      "access": "free",
+      "enabled": true
+    },
+    {
+      "id": "mtlogistikk",
+      "name": "MT Logistikk",
+      "url": "https://www.mtlogistikk.no",
+      "type": "html",
+      "list_url": "https://www.mtlogistikk.no/",
+      "link_pattern": "^https://www\\.mtlogistikk\\.no/[a-z0-9-]+/[a-z0-9-]+/\\d+$",
+      "lang": "no",
+      "region": "NO",
+      "segments": [
+        "road"
+      ],
+      "about": "Norway's main trade magazine for transport and logistics. Headlines are read from the front page (no feed is offered); some articles are for subscribers.",
+      "access": "partly paid",
+      "enabled": true
+    },
+    {
+      "id": "regjeringen",
+      "name": "Regjeringen.no",
+      "url": "https://www.regjeringen.no",
+      "type": "rss",
+      "feed": "https://www.regjeringen.no/no/rss/Rss/2581966/",
+      "lang": "auto",
+      "region": "NO",
+      "segments": [],
+      "auto": true,
+      "require_keywords": [
+        "samferdsel*",
+        "samferdselsminister*",
+        "vei",
+        "veier",
+        "veg",
+        "vegar",
+        "tungtransport",
+        "lastebil*",
+        "transportnæring*",
+        "sjøfart*",
+        "maritim*",
+        "rederi*",
+        "rederiforbund*",
+        "havn*",
+        "kystverket",
+        "jernbane*",
+        "godstog*",
+        "drivstoff*",
+        "diesel*",
+        "vegvesen*",
+        "nye veier",
+        "tolletaten",
+        "digitoll",
+        "beredskapslager*",
+        "logistikk*",
+        "ntp",
+        "nasjonal transportplan"
+      ],
+      "about": "Norwegian government news. Only items about transport, maritime affairs, fuel and related policy are kept.",
+      "access": "free",
+      "enabled": true
+    },
+    {
+      "id": "freightwaves",
+      "name": "FreightWaves",
+      "url": "https://www.freightwaves.com",
+      "type": "rss",
+      "feed": "https://www.freightwaves.com/news/feed",
+      "lang": "en",
+      "region": "INT",
+      "segments": [
+        "road"
+      ],
+      "auto": false,
+      "about": "US freight market news, mostly trucking: rates, capacity, diesel and cross-border trade.",
+      "access": "free",
+      "enabled": true
+    },
+    {
+      "id": "splash",
+      "name": "Splash247",
+      "url": "https://splash247.com",
+      "type": "rss",
+      "feed": "https://splash247.com/feed/",
+      "lang": "en",
+      "region": "INT",
+      "segments": [],
+      "auto": true,
+      "about": "Fast, deal-focused shipping news: ship sales, orders, finance and markets.",
+      "access": "free",
+      "enabled": true
+    },
+    {
+      "id": "hsn",
+      "name": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com",
+      "type": "rss",
+      "feed": "https://www.hellenicshippingnews.com/feed/",
+      "lang": "en",
+      "region": "INT",
+      "segments": [],
+      "auto": true,
+      "about": "Daily shipping news plus free weekly market reports from shipbrokers such as Intermodal and Banchero Costa.",
+      "access": "free",
+      "enabled": true
+    },
+    {
+      "id": "gcaptain",
+      "name": "gCaptain",
+      "url": "https://gcaptain.com",
+      "type": "rss",
+      "feed": "https://gcaptain.com/feed/",
+      "lang": "en",
+      "region": "INT",
+      "segments": [],
+      "auto": true,
+      "about": "Maritime news with strong coverage of incidents, security and operations.",
+      "access": "free",
+      "enabled": true
+    },
+    {
+      "id": "marex",
+      "name": "The Maritime Executive",
+      "url": "https://maritime-executive.com",
+      "type": "rss",
+      "feed": "https://www.maritime-executive.com/articles.rss",
+      "lang": "en",
+      "region": "INT",
+      "segments": [],
+      "auto": true,
+      "about": "Maritime business, regulation and security news.",
+      "access": "free",
+      "enabled": true
+    },
+    {
+      "id": "containernews",
+      "name": "Container News",
+      "url": "https://container-news.com",
+      "type": "rss",
+      "feed": "https://container-news.com/feed/",
+      "lang": "en",
+      "region": "INT",
+      "segments": [],
+      "about": "Liner shipping, ports and container rates and surcharges.",
+      "access": "free",
+      "enabled": true,
+      "auto": true
+    },
+    {
+      "id": "offshoreenergy",
+      "name": "Offshore Energy",
+      "url": "https://www.offshore-energy.biz",
+      "type": "rss",
+      "feed": "https://www.offshore-energy.biz/feed/",
+      "lang": "en",
+      "region": "INT",
+      "segments": [],
+      "about": "Offshore oil and gas, wind, subsea and vessels, with plenty of North Sea coverage.",
+      "access": "free",
+      "enabled": true,
+      "auto": true
+    },
+    {
+      "id": "imn",
+      "name": "Insurance Marine News",
+      "url": "https://insurancemarinenews.com",
+      "type": "rss",
+      "feed": "https://insurancemarinenews.com/feed/",
+      "lang": "en",
+      "region": "INT",
+      "segments": [
+        "insurance"
+      ],
+      "about": "Marine insurance market news: P&I, hull, war risk and casualties. Most full articles require a free or paid membership.",
+      "access": "members",
+      "enabled": true
+    },
+    {
+      "id": "transinfo",
+      "name": "Trans.info",
+      "url": "https://trans.info/en",
+      "type": "html",
+      "list_url": "https://trans.info/en",
+      "link_pattern": "^https://trans\\.info/en/[a-z0-9-]+-\\d{5,}$",
+      "lang": "en",
+      "region": "INT",
+      "segments": [
+        "road"
+      ],
+      "about": "European road transport news. Paused until you have checked that the site allows automated headline reading.",
+      "access": "free",
+      "enabled": false
+    }
+  ],
+  "bookmarks": [
+    {
+      "name": "TradeWinds",
+      "url": "https://www.tradewindsnews.com",
+      "note": "Shipping news (subscription)"
+    },
+    {
+      "name": "Clarksons Shipping Intelligence Network",
+      "url": "https://sin.clarksons.net",
+      "note": "Market data (login)"
+    },
+    {
+      "name": "Clarksons World Fleet Register",
+      "url": "https://www.clarksons.net/wfr/",
+      "note": "Ship database (login)"
+    },
+    {
+      "name": "Fearnleys",
+      "url": "https://www.fearnleys.com",
+      "note": "Weekly market reports"
+    },
+    {
+      "name": "Finansavisen",
+      "url": "https://www.finansavisen.no",
+      "note": "Shipping and markets (subscription)"
+    },
+    {
+      "name": "Dagens Næringsliv",
+      "url": "https://www.dn.no",
+      "note": "Business news (subscription)"
+    },
+    {
+      "name": "Bloomberg",
+      "url": "https://www.bloomberg.com",
+      "note": "Markets (subscription)"
+    }
+  ]
+}

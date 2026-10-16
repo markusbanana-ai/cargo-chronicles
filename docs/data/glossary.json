@@ -1,0 +1,3639 @@
+{
+ "version": 1,
+ "categories": {
+  "road": "Road transport",
+  "charter": "Chartering & contracts",
+  "market": "Freight markets & ships",
+  "finance": "Ship finance",
+  "insurance": "Marine insurance",
+  "offshore": "Offshore & energy",
+  "reg": "Regulation & compliance",
+  "trade": "Trade, ports & logistics",
+  "email": "Email & everyday abbreviations"
+ },
+ "terms": [
+  {
+   "id": "cabotage",
+   "term": "Cabotage",
+   "cat": "road",
+   "ex": "A Lithuanian truck delivers a load from Germany to Bergen, then carries a load from Bergen to Ålesund before leaving Norway. The Bergen–Ålesund trip is cabotage.",
+   "no": "Kabotasje",
+   "m": [
+    "cabotage",
+    "kabotasje",
+    "kabotasjekjøring"
+   ],
+   "hl": true,
+   "core": [
+    "road"
+   ],
+   "def": "Domestic transport inside a country carried out by a haulier registered in another country. In the EU/EEA it is only allowed in limited form: EU rules permit up to three cabotage trips within seven days after an international delivery, followed by a waiting period before new cabotage in the same country."
+  },
+  {
+   "id": "driving-rest",
+   "term": "Driving and rest times",
+   "cat": "road",
+   "ex": "Bergen–Oslo is roughly 7–8 hours of driving. It is legal in one day, but the driver must take a 45-minute break on the way (it can be split into 15 + 30 minutes).",
+   "no": "Kjøre- og hviletid",
+   "m": [
+    "driving and rest times",
+    "driving times",
+    "driving time",
+    "rest rules",
+    "hours of service",
+    "hours-of-service",
+    "=HOS",
+    "kjøre- og hviletid",
+    "kjøre- og hviletidsreglene",
+    "hviletid",
+    "hviletidsreglene"
+   ],
+   "hl": true,
+   "core": [
+    "road"
+   ],
+   "def": "EU rules (Regulation 561/2006, also applied in Norway) that limit truck driving: max 9 hours a day (10 hours twice a week), 56 hours a week and 90 hours over two weeks; a 45-minute break after 4.5 hours of driving; and at least 11 hours of daily rest (reducible to 9 hours three times between weekly rests). In the US the equivalent is called hours of service (HOS), with different limits."
+  },
+  {
+   "id": "tachograph",
+   "term": "Tachograph",
+   "cat": "road",
+   "ex": "At a roadside check, Statens vegvesen downloads the driver card data for the past weeks and finds a missing daily rest. Both driver and company can be fined.",
+   "no": "Fartsskriver",
+   "m": [
+    "tachograph",
+    "tachographs",
+    "smart tachograph",
+    "fartsskriver",
+    "fartsskrivere",
+    "fartsskriveren"
+   ],
+   "hl": true,
+   "def": "Device in the truck that records driving time, rest, speed and distance, linked to the driver's card. Authorities read it to check driving and rest times. Under the EU Mobility Package, vans over 2.5 tonnes used in international transport are also brought under tachograph rules."
+  },
+  {
+   "id": "rest-area",
+   "term": "Truck rest area",
+   "cat": "road",
+   "ex": "If Statens vegvesen builds 50 new rest spaces along the E16, drivers between Bergen and Oslo can stop when their driving time runs out instead of searching for a legal place to park.",
+   "no": "Døgnhvileplass",
+   "m": [
+    "døgnhvileplass",
+    "døgnhvileplasser",
+    "døgnhvile",
+    "dognhvileplasser",
+    "hvileplass",
+    "hvileplasser",
+    "rest area",
+    "rest areas",
+    "truck stop",
+    "truck stops"
+   ],
+   "hl": true,
+   "def": "A parking area where truck drivers can take their legally required daily or weekly rest, with toilets and room for long vehicles. Norway has too few on key routes, which makes it hard to follow the rest rules."
+  },
+  {
+   "id": "modulvogntog",
+   "term": "Modular vehicle combination",
+   "cat": "road",
+   "ex": "Letting modular trucks through the E6 tunnels in Sørfold means north–south freight in Norway no longer has to detour via Sweden or Lofoten.",
+   "no": "Modulvogntog",
+   "m": [
+    "modulvogntog",
+    "modular truck",
+    "modular trucks",
+    "modular vehicle combination",
+    "=EMS",
+    "longer and heavier vehicles"
+   ],
+   "hl": true,
+   "def": "A longer and heavier truck combination (up to 25.25 m and 60 tonnes in Norway) allowed only on approved roads. Two modular trucks can carry roughly as much as three regular ones, which lowers cost and emissions per tonne."
+  },
+  {
+   "id": "vogntog",
+   "term": "Truck-trailer combination",
+   "cat": "road",
+   "ex": "A tractor with a 13.6 m semitrailer can carry 33 euro pallets on one deck.",
+   "no": "Vogntog / trekkvogn med semitrailer",
+   "m": [
+    "vogntog",
+    "semitrailer",
+    "semitrailers",
+    "semi-trailer",
+    "semi-trailers",
+    "trekkvogn",
+    "tractor unit",
+    "articulated lorry",
+    "articulated lorries"
+   ],
+   "hl": true,
+   "def": "A truck (tractor unit or rigid truck) pulling one or more trailers. The most common long-haul setup is a tractor unit with a semitrailer."
+  },
+  {
+   "id": "bruksklasse",
+   "term": "Road class (BK)",
+   "cat": "road",
+   "ex": "A 70-tonne transformer cannot use a BK10/50 road without a special permit (dispensasjon) and possibly bridge reinforcement.",
+   "no": "Bruksklasse",
+   "m": [
+    "bruksklasse",
+    "bruksklassen",
+    "=BK10/50",
+    "=BK10/60",
+    "=BK10",
+    "=BKT8"
+   ],
+   "hl": true,
+   "def": "Norwegian classification of roads by the axle load, total weight and length they allow, for example BK10/50 (10 t axle load, 50 t total) or BK10/60. Weaker county roads may have lower classes, which limits what trucks can deliver there."
+  },
+  {
+   "id": "axle-load",
+   "term": "Axle load",
+   "cat": "road",
+   "ex": "In spring, thaw restrictions (telerestriksjoner) can cut the allowed axle load on a county road for several weeks, so a haulier must split loads or use other routes.",
+   "no": "Aksellast",
+   "m": [
+    "axle load",
+    "axle loads",
+    "axle weight",
+    "aksellast",
+    "telerestriksjoner"
+   ],
+   "hl": true,
+   "def": "The weight carried by one axle. Roads and bridges are rated for a maximum axle load, which often decides how much a truck may carry even when its total weight is below the limit."
+  },
+  {
+   "id": "ftl",
+   "term": "FTL",
+   "full": "Full truckload",
+   "cat": "road",
+   "ex": "A factory in Sandnes sends 33 pallets to one warehouse in Oslo. That is one FTL.",
+   "no": "Komplette laster",
+   "m": [
+    "=FTL",
+    "full truckload",
+    "full truck load",
+    "truckload"
+   ],
+   "hl": true,
+   "def": "Full truckload: a shipment that fills or books a whole truck for one customer, going directly from loading to unloading without passing a terminal."
+  },
+  {
+   "id": "ltl",
+   "term": "LTL / groupage",
+   "full": "Less than truckload",
+   "cat": "road",
+   "ex": "Three pallets from Bergen to Trondheim go as groupage: collected, sorted at a terminal and delivered together with other freight.",
+   "no": "Stykkgods / samlast / partilast",
+   "m": [
+    "=LTL",
+    "less than truckload",
+    "less-than-truckload",
+    "groupage",
+    "part load",
+    "part loads",
+    "partilast",
+    "stykkgods",
+    "samlast"
+   ],
+   "hl": true,
+   "core": [
+    "road"
+   ],
+   "def": "Less than truckload: shipments too small to fill a truck are combined with other customers' goods, usually sorted through terminals, and priced per kg, pallet or loading metre. Groupage and part load (partilast) are related European terms."
+  },
+  {
+   "id": "ldm",
+   "term": "Loading metre (LDM)",
+   "cat": "road",
+   "ex": "One euro pallet (1.2 × 0.8 m) takes 0.4 ldm, so 33 pallets fill a 13.6 m trailer. A customer booking 4 ldm is buying space for about 10 pallets.",
+   "no": "Lastemeter",
+   "m": [
+    "loading metre",
+    "loading metres",
+    "loading meter",
+    "loading meters",
+    "lastemeter",
+    "=LDM",
+    "=ldm"
+   ],
+   "hl": true,
+   "core": [
+    "road"
+   ],
+   "def": "Unit for how much trailer floor length a shipment takes, regardless of weight. One loading metre is one metre of a 2.4 m wide trailer; a standard semitrailer has 13.6 loading metres."
+  },
+  {
+   "id": "euro-pallet",
+   "term": "Euro pallet",
+   "cat": "road",
+   "ex": "A customer asking for space for 10 euro pallets needs about 4 loading metres.",
+   "no": "EUR-pall",
+   "m": [
+    "euro pallet",
+    "euro pallets",
+    "=EUR pallet",
+    "EUR-pall",
+    "europall",
+    "europaller",
+    "EUR-paller"
+   ],
+   "hl": true,
+   "def": "Standard wooden pallet measuring 1200 × 800 mm. The basic unit for pricing and planning road freight in Europe."
+  },
+  {
+   "id": "cmr",
+   "term": "CMR",
+   "full": "Convention on the Contract for the International Carriage of Goods by Road",
+   "cat": "road",
+   "ex": "A 1,000 kg pallet of electronics worth NOK 2 million is lost on a trip from Germany. The haulier is liable for about 8,330 SDR (roughly NOK 110,000 at recent exchange rates), so the owner needs cargo insurance for the rest.",
+   "no": "CMR-fraktbrev",
+   "m": [
+    "=CMR",
+    "CMR waybill",
+    "CMR convention",
+    "fraktbrev"
+   ],
+   "hl": true,
+   "core": [
+    "road"
+   ],
+   "def": "The 1956 convention on contracts for international road transport, and the consignment note (CMR waybill) used with it. Unless more is agreed, the carrier's liability for lost or damaged goods is limited to 8.33 SDR per kg gross weight."
+  },
+  {
+   "id": "adr",
+   "term": "ADR",
+   "full": "Agreement concerning the International Carriage of Dangerous Goods by Road",
+   "cat": "road",
+   "ex": "A tank truck carrying diesel shows 30 over 1202 on its orange plate: 30 means flammable liquid, 1202 is diesel/gas oil.",
+   "no": "ADR / farlig gods",
+   "m": [
+    "=ADR",
+    "dangerous goods",
+    "farlig gods",
+    "hazmat"
+   ],
+   "hl": true,
+   "core": [
+    "road"
+   ],
+   "def": "European rules for carrying dangerous goods by road: packaging, labelling, vehicle equipment, documents and driver training (ADR certificate). Vehicles show orange plates with a hazard number on top and a UN number below."
+  },
+  {
+   "id": "un-number",
+   "term": "UN number",
+   "cat": "road",
+   "ex": "UN 1203 is petrol, UN 1202 is diesel/gas oil and UN 1965 is LPG.",
+   "no": "UN-nummer",
+   "m": [
+    "UN number",
+    "UN numbers",
+    "UN-nummer",
+    "~UN ?\\d{4}"
+   ],
+   "hl": true,
+   "def": "Four-digit code identifying a dangerous substance in transport, used for road, sea and air."
+  },
+  {
+   "id": "autopass",
+   "term": "AutoPASS (road tolls)",
+   "cat": "road",
+   "ex": "A distribution truck passing several toll points around Bergen each day pays heavy-vehicle rates every time, which becomes a real share of the route cost.",
+   "no": "Bompenger / bombrikke",
+   "m": [
+    "AutoPASS",
+    "bompenger",
+    "bompengar",
+    "bomstasjon",
+    "bomstasjoner",
+    "bombrikke",
+    "road toll",
+    "road tolls",
+    "toll road",
+    "toll roads"
+   ],
+   "hl": true,
+   "def": "Norway's electronic toll system. Vehicles over 3.5 tonnes used in business must carry an AutoPASS tag, and heavy vehicles pay much higher toll rates than cars."
+  },
+  {
+   "id": "road-tax",
+   "term": "Road usage tax on fuel",
+   "cat": "road",
+   "ex": "A truck using 40,000 litres of diesel a year saves about NOK 40,000 if fuel taxes are cut by NOK 1 per litre.",
+   "no": "Veibruksavgift / dieselavgift",
+   "m": [
+    "veibruksavgift",
+    "veibruksavgiften",
+    "dieselavgift",
+    "dieselavgiften",
+    "dieselavgiftene",
+    "dieselavgiftslettelsene",
+    "fuel duty",
+    "fuel tax",
+    "fuel taxes",
+    "diesel tax",
+    "diesel taxes"
+   ],
+   "hl": true,
+   "core": [
+    "road"
+   ],
+   "def": "Norwegian excise duty on diesel and petrol used on roads. Together with the CO2 tax it makes up a large share of the pump price, so tax changes hit hauliers' costs directly."
+  },
+  {
+   "id": "pro-diesel",
+   "term": "Professional diesel",
+   "cat": "road",
+   "ex": "A refund of NOK 2 per litre would give a haulier with ten trucks, each using 40,000 litres a year, NOK 800,000 back.",
+   "no": "Proff diesel",
+   "m": [
+    "proff diesel",
+    "professional diesel"
+   ],
+   "hl": true,
+   "def": "A scheme where commercial hauliers get part of the fuel tax back, so they pay less than private motorists. Some EU countries (for example Belgium and France) have one; Norwegian truck owners have asked for a similar arrangement."
+  },
+  {
+   "id": "fuel-surcharge",
+   "term": "Fuel surcharge / diesel clause",
+   "cat": "road",
+   "ex": "A truck using 0.35 litres per km: every NOK 1 rise in the litre price adds NOK 0.35 per km. On a 400 km job that is NOK 140 the clause passes on to the customer.",
+   "no": "Dieselklausul / drivstofftillegg",
+   "m": [
+    "fuel surcharge",
+    "fuel surcharges",
+    "diesel clause",
+    "dieselklausul",
+    "drivstofftillegg"
+   ],
+   "hl": true,
+   "core": [
+    "road"
+   ],
+   "def": "A contract term that adjusts the freight price when diesel prices move, usually monthly against an index. Without it, the haulier carries all the fuel price risk."
+  },
+  {
+   "id": "backhaul",
+   "term": "Backhaul / return load",
+   "cat": "road",
+   "ex": "If trucks arrive full in a town but find few loads out, a carrier prices the inbound trip higher to cover the empty return.",
+   "no": "Returlast",
+   "m": [
+    "backhaul",
+    "backhauls",
+    "return load",
+    "return loads",
+    "returlast",
+    "returlaster"
+   ],
+   "hl": true,
+   "def": "A load carried on the way back after a delivery, so the truck does not drive empty. When more goods flow into a region than out of it, backhauls are scarce and prices rise in the busy direction."
+  },
+  {
+   "id": "empty-running",
+   "term": "Empty running",
+   "cat": "road",
+   "ex": "A truck that drives 1,000 km loaded and 300 km empty has 23% empty running.",
+   "no": "Tomkjøring",
+   "m": [
+    "empty running",
+    "empty miles",
+    "empty kilometres",
+    "tomkjøring"
+   ],
+   "hl": true,
+   "def": "Kilometres driven without cargo. A major cost driver that good planning and freight exchanges try to reduce."
+  },
+  {
+   "id": "driver-cpc",
+   "term": "Driver CPC (YSK)",
+   "full": "Certificate of Professional Competence",
+   "cat": "road",
+   "ex": "A driver whose YSK has expired cannot drive commercially until the 35-hour course is done, even with a valid licence.",
+   "no": "Yrkessjåførkompetanse (YSK)",
+   "m": [
+    "=YSK",
+    "yrkessjåførkompetanse",
+    "driver CPC",
+    "yrkessjåfør",
+    "yrkessjåfører"
+   ],
+   "hl": true,
+   "def": "Certificate of Professional Competence that commercial truck and bus drivers in the EU/EEA need, renewed with 35 hours of training every five years."
+  },
+  {
+   "id": "operator-licence",
+   "term": "Haulage licence",
+   "cat": "road",
+   "ex": "A new company in Bergen must hold a goods licence before taking paid jobs with trucks over 3.5 tonnes.",
+   "no": "Løyve (godsløyve)",
+   "m": [
+    "løyve",
+    "løyver",
+    "godsløyve",
+    "operator licence",
+    "operator license",
+    "haulage licence"
+   ],
+   "hl": true,
+   "def": "Permit a company needs to carry goods for others for payment. Requires good repute, sound finances and professional competence."
+  },
+  {
+   "id": "abnormal-load",
+   "term": "Abnormal load / special transport",
+   "cat": "road",
+   "ex": "Moving a 120-tonne transformer from Ågotnes to a substation can require a route survey, escort cars, police help and night-time driving.",
+   "no": "Spesialtransport",
+   "m": [
+    "abnormal load",
+    "abnormal loads",
+    "special transport",
+    "spesialtransport",
+    "oversize load",
+    "oversized load",
+    "oversized cargo",
+    "heavy haulage",
+    "dispensasjon"
+   ],
+   "hl": true,
+   "core": [
+    "road"
+   ],
+   "def": "Cargo that exceeds normal size or weight limits, such as transformers, rig equipment or wind turbine blades. Needs a special permit (dispensasjon), route planning and often escort vehicles."
+  },
+  {
+   "id": "escort-vehicle",
+   "term": "Escort vehicle",
+   "cat": "road",
+   "ex": "A very wide load on a narrow two-lane road needs escort cars in front and behind so oncoming traffic can be stopped in time.",
+   "no": "Følgebil",
+   "m": [
+    "escort vehicle",
+    "escort vehicles",
+    "escort car",
+    "escort cars",
+    "følgebil",
+    "følgebiler",
+    "pilot car"
+   ],
+   "hl": true,
+   "def": "A vehicle that travels with an oversized load to warn other traffic and guide the truck through narrow points. The permit decides when escorts are required."
+  },
+  {
+   "id": "route-survey",
+   "term": "Route survey",
+   "cat": "road",
+   "ex": "Before moving a 6 m tall module from Haugesund, the survey finds a tunnel that is too low, and the convoy is rerouted.",
+   "no": "Ruteundersøkelse",
+   "m": [
+    "route survey",
+    "route surveys",
+    "ruteundersøkelse"
+   ],
+   "hl": true,
+   "def": "A check of the planned route for an oversized load: bridges, tunnels, height clearances, curves, roundabouts and overhead lines."
+  },
+  {
+   "id": "mcs",
+   "term": "Megawatt charging (MCS)",
+   "cat": "road",
+   "ex": "A truck with a 600 kWh battery charging at 1 MW could refill most of it during the mandatory break.",
+   "no": "Megawattlading",
+   "m": [
+    "megawatt charging",
+    "megawattlading",
+    "=MCS"
+   ],
+   "hl": true,
+   "def": "Fast-charging standard for heavy electric trucks with power above 1 MW, so a truck can add a large share of its range during the driver's 45-minute break."
+  },
+  {
+   "id": "electric-truck",
+   "term": "Electric truck",
+   "cat": "road",
+   "ex": "Norwegian hauliers often start with electric trucks on city distribution, where daily distances are short and depot charging covers most needs.",
+   "no": "Elektrisk lastebil / el-lastebil",
+   "m": [
+    "electric truck",
+    "electric trucks",
+    "e-truck",
+    "e-trucks",
+    "el-lastebil",
+    "el-lastebiler",
+    "elektrisk lastebil",
+    "elektriske lastebiler",
+    "battery-electric truck",
+    "battery-electric trucks"
+   ],
+   "hl": true,
+   "def": "Battery-powered truck. Lower energy and maintenance costs than diesel, but higher purchase price, heavier batteries and dependence on charging along the route."
+  },
+  {
+   "id": "charter-party",
+   "term": "Charter party (C/P)",
+   "cat": "charter",
+   "ex": "A fixture recap might read: 'Gencon 94 C/P, otherwise as per last'. It means the standard Gencon form with the same extra terms as the previous deal.",
+   "no": "Certeparti",
+   "m": [
+    "charter party",
+    "charter parties",
+    "charterparty",
+    "charterparties",
+    "=C/P",
+    "certeparti"
+   ],
+   "hl": true,
+   "core": [
+    "freight"
+   ],
+   "def": "The contract between a shipowner and a charterer for the use of a ship. Standard forms (Gencon, NYPE, Shelltime and others) are used as the base and amended with extra clauses."
+  },
+  {
+   "id": "voyage-charter",
+   "term": "Voyage charter",
+   "cat": "charter",
+   "ex": "A Supramax is fixed to carry 55,000 t of grain from Brazil to Egypt at USD 38 per tonne: freight of about USD 2.1 million.",
+   "no": "Reisebefraktning",
+   "m": [
+    "voyage charter",
+    "voyage charters",
+    "voyage-charter",
+    "spot charter"
+   ],
+   "hl": true,
+   "core": [
+    "freight"
+   ],
+   "def": "The ship is hired to carry a cargo from A to B for a freight per tonne or a lump sum. The owner pays bunkers, port costs and crew; the charterer pays demurrage if loading or discharging takes longer than agreed."
+  },
+  {
+   "id": "time-charter",
+   "term": "Time charter (T/C)",
+   "cat": "charter",
+   "ex": "A VLCC fixed on a one-year time charter at USD 60,000 per day earns the owner about USD 21.9 million over the year.",
+   "no": "Tidsbefraktning",
+   "m": [
+    "time charter",
+    "time charters",
+    "time-charter",
+    "time-chartered",
+    "=T/C",
+    "time-charter contract"
+   ],
+   "hl": true,
+   "core": [
+    "freight"
+   ],
+   "def": "The charterer hires the ship for a period (days to years) at a daily hire rate, decides where it trades and pays bunkers and port costs. The owner still runs the ship and pays crew, maintenance and insurance."
+  },
+  {
+   "id": "tct",
+   "term": "Trip time charter (TCT)",
+   "cat": "charter",
+   "ex": "'TCT via Black Sea, redelivery Skaw, USD 18,500/day' means daily hire for one trip ending off Skagen.",
+   "m": [
+    "trip time charter",
+    "trip charter",
+    "=TCT"
+   ],
+   "hl": true,
+   "def": "A time charter for a single voyage: paid per day, but the length is decided by the trip."
+  },
+  {
+   "id": "bareboat",
+   "term": "Bareboat charter",
+   "cat": "charter",
+   "ex": "A Chinese leasing company buys a tanker and bareboat charters it back to the seller for 10 years with an option to buy it back.",
+   "no": "Bareboat-befraktning",
+   "m": [
+    "bareboat",
+    "bareboat charter",
+    "bareboat charters",
+    "demise charter",
+    "=BBC charter"
+   ],
+   "hl": true,
+   "def": "The charterer takes over the ship as if owning it: provides the crew, maintenance and insurance, and pays hire for a long period. Common in financing deals."
+  },
+  {
+   "id": "coa",
+   "term": "Contract of affreightment (COA)",
+   "cat": "charter",
+   "ex": "A COA to move 600,000 t of iron ore a year from Northern Norway to Rotterdam in eight shipments.",
+   "m": [
+    "contract of affreightment",
+    "contracts of affreightment",
+    "=COA",
+    "=COAs"
+   ],
+   "hl": true,
+   "def": "An agreement to carry a set volume of cargo over a period, for example 10 shipments a year. The owner decides which ship performs each shipment."
+  },
+  {
+   "id": "laytime",
+   "term": "Laytime",
+   "cat": "charter",
+   "ex": "Loading 50,000 t at 10,000 t per weather working day gives 5 days of laytime.",
+   "no": "Liggetid",
+   "m": [
+    "laytime",
+    "liggetid"
+   ],
+   "hl": true,
+   "core": [
+    "freight"
+   ],
+   "def": "Time the charterer is allowed for loading and discharging without paying extra, set in the charter party as a number of days or a loading rate."
+  },
+  {
+   "id": "demurrage",
+   "term": "Demurrage",
+   "cat": "charter",
+   "ex": "Exceeding laytime by 2 days and 6 hours with demurrage at USD 20,000/day pro rata costs the charterer USD 45,000.",
+   "no": "Overliggedagspenger",
+   "m": [
+    "demurrage",
+    "overliggedagspenger",
+    "=DEM"
+   ],
+   "hl": true,
+   "core": [
+    "freight"
+   ],
+   "def": "Compensation the charterer pays the shipowner when loading or discharging takes longer than the agreed laytime, at a daily rate. In container shipping, demurrage instead means a fee for leaving a container too long in the terminal."
+  },
+  {
+   "id": "despatch",
+   "term": "Despatch",
+   "cat": "charter",
+   "ex": "Finishing one day early with despatch at USD 10,000/day earns the charterer USD 10,000.",
+   "m": [
+    "despatch",
+    "dispatch money",
+    "=DHD"
+   ],
+   "hl": true,
+   "def": "The reverse of demurrage: money the owner pays the charterer for finishing cargo work faster than the allowed laytime, often at half the demurrage rate."
+  },
+  {
+   "id": "laycan",
+   "term": "Laycan",
+   "cat": "charter",
+   "ex": "'Laycan 20–25 November Narvik' means the ship must tender notice of readiness in Narvik between those dates.",
+   "m": [
+    "laycan",
+    "laydays",
+    "laydays/cancelling"
+   ],
+   "hl": true,
+   "def": "The date window in which the ship must arrive ready to load (laydays and cancelling). Early arrival need not be accepted; late arrival lets the charterer cancel."
+  },
+  {
+   "id": "nor",
+   "term": "NOR",
+   "full": "Notice of readiness",
+   "cat": "charter",
+   "ex": "NOR tendered 08:00 Monday with 6 hours' notice time: laytime starts counting at 14:00.",
+   "m": [
+    "notice of readiness",
+    "=NOR"
+   ],
+   "hl": true,
+   "def": "Notice of readiness: the master's formal notice that the ship has arrived and is ready to load or discharge. Laytime normally starts after a set notice time following a valid NOR."
+  },
+  {
+   "id": "sof",
+   "term": "SOF",
+   "full": "Statement of facts",
+   "cat": "charter",
+   "ex": "The SOF shows that rain stopped loading for 9 hours, which does not count as laytime on a weather working day basis.",
+   "m": [
+    "statement of facts",
+    "=SOF"
+   ],
+   "hl": true,
+   "def": "Statement of facts: the port log of all key times during a call (arrival, NOR, berthing, start and stop of cargo work, delays). Used to calculate laytime and demurrage."
+  },
+  {
+   "id": "off-hire",
+   "term": "Off-hire",
+   "cat": "charter",
+   "ex": "An engine failure keeps the ship idle for 3 days. At USD 25,000/day the owner loses USD 75,000 of hire.",
+   "m": [
+    "off-hire",
+    "off hire",
+    "offhire"
+   ],
+   "hl": true,
+   "def": "Periods under a time charter when the ship cannot perform (breakdown, crew problems, dry-docking), so the charterer stops paying hire."
+  },
+  {
+   "id": "fixture",
+   "term": "Fixture",
+   "cat": "charter",
+   "ex": "A reported fixture might read: 'Capesize, 170,000 t iron ore, Tubarão to Qingdao, USD 24.50/t'.",
+   "m": [
+    "fixture",
+    "fixtures",
+    "fixture recap",
+    "clean recap"
+   ],
+   "hl": true,
+   "def": "A concluded charter deal. Broker reports list fixtures with ship size, cargo, route, rate and charterer."
+  },
+  {
+   "id": "subjects",
+   "term": "Subjects (subs)",
+   "cat": "charter",
+   "ex": "A ship 'fixed on subs' can still fall through if the receiver rejects the vessel.",
+   "m": [
+    "on subs",
+    "subs lifted",
+    "subjects lifted"
+   ],
+   "hl": true,
+   "def": "Conditions that must be lifted before a fixture becomes binding, such as board approval or the receiver's approval of the ship. 'On subs' means agreed but not yet firm."
+  },
+  {
+   "id": "shipbroker",
+   "term": "Shipbroker",
+   "cat": "charter",
+   "ex": "Fearnleys, Clarksons and Banchero Costa publish weekly market reports based on what their brokers see in the market.",
+   "no": "Skipsmegler",
+   "m": [
+    "shipbroker",
+    "shipbrokers",
+    "shipbroking",
+    "ship broker",
+    "ship brokers",
+    "skipsmegler",
+    "skipsmeglere",
+    "skipsmegling",
+    "broker's report",
+    "brokers report"
+   ],
+   "hl": true,
+   "core": [
+    "freight"
+   ],
+   "def": "Intermediary who negotiates deals between shipowners and charterers (chartering) or between buyers and sellers of ships (sale and purchase), paid by commission—typically 1.25% of freight or about 1% of a ship sale."
+  },
+  {
+   "id": "commission",
+   "term": "Address commission and brokerage",
+   "cat": "charter",
+   "ex": "On USD 1 million of freight with 3.75% total commission, the owner receives USD 962,500.",
+   "m": [
+    "address commission",
+    "=ADCOM",
+    "brokerage commission"
+   ],
+   "hl": true,
+   "def": "Commissions deducted from freight or hire. Address commission goes back to the charterer (often 2.5–3.75%), brokerage goes to the brokers (often 1.25%)."
+  },
+  {
+   "id": "operator",
+   "term": "Operator / disponent owner",
+   "cat": "charter",
+   "ex": "An operator takes a Supramax for one year at USD 14,000/day and re-lets it on trips averaging USD 16,000/day, a margin of USD 2,000 per day.",
+   "m": [
+    "disponent owner",
+    "disponent owners",
+    "tonnage provider"
+   ],
+   "hl": true,
+   "def": "A company that charters in ships and trades them as if it owned them, earning the difference between the hire it pays and what the ships earn."
+  },
+  {
+   "id": "bimco",
+   "term": "BIMCO",
+   "cat": "charter",
+   "ex": "BIMCO's war risk clauses (CONWARTIME for time charters, VOYWAR for voyage charters) decide whether a ship must sail into an area that has become dangerous.",
+   "m": [
+    "=BIMCO",
+    "=CONWARTIME",
+    "=VOYWAR"
+   ],
+   "hl": true,
+   "def": "The largest international shipping association. It drafts standard contracts and clauses (Gencon, Supplytime, Barecon and others) used across the industry."
+  },
+  {
+   "id": "cp-forms",
+   "term": "Standard charter forms",
+   "cat": "charter",
+   "ex": "Because both sides start from Gencon, they only need to negotiate the rider clauses that differ from the standard text.",
+   "m": [
+    "Gencon",
+    "=NYPE",
+    "Shelltime",
+    "=BPTIME",
+    "Asbatankvoy",
+    "Barecon",
+    "Supplytime"
+   ],
+   "hl": true,
+   "def": "Pre-printed contracts used as the base for charters: Gencon (voyage, dry cargo), NYPE (time charter, dry cargo), Shelltime and BPTIME (tanker time charter), Asbatankvoy (tanker voyage), Barecon (bareboat) and Supplytime (offshore vessels)."
+  },
+  {
+   "id": "worldscale",
+   "term": "Worldscale (WS)",
+   "cat": "charter",
+   "ex": "If the flat rate Middle East–China is USD 20/t and a VLCC is fixed at WS 60, the freight is USD 12 per tonne.",
+   "m": [
+    "Worldscale",
+    "~WS ?\\d{2,3}"
+   ],
+   "hl": true,
+   "def": "Freight rate system for tankers. Each route has a flat rate (WS 100) in USD per tonne, published yearly, and deals are quoted as a percentage of it."
+  },
+  {
+   "id": "ballast",
+   "term": "Ballast and laden legs",
+   "cat": "charter",
+   "ex": "A tanker that discharges in China often sails four to five weeks in ballast back to the Middle East or the US Gulf.",
+   "m": [
+    "in ballast",
+    "ballast leg",
+    "ballast legs",
+    "ballasting",
+    "laden leg",
+    "laden voyage"
+   ],
+   "hl": true,
+   "def": "Laden: sailing with cargo. Ballast: sailing empty to the next loading port, with ballast water for stability. Ballast legs earn nothing, so the whole round voyage decides profitability."
+  },
+  {
+   "id": "dry-bulk",
+   "term": "Dry bulk",
+   "cat": "market",
+   "ex": "Iron ore from Brazil and Australia to China is the largest dry bulk trade by volume.",
+   "no": "Tørrbulk",
+   "m": [
+    "dry bulk",
+    "drybulk",
+    "dry-bulk",
+    "bulk carrier",
+    "bulk carriers",
+    "bulker",
+    "bulkers",
+    "tørrbulk"
+   ],
+   "hl": true,
+   "core": [
+    "freight"
+   ],
+   "def": "Unpackaged dry cargo shipped in large volumes: iron ore, coal, grain, bauxite and fertiliser. Carried by bulk carriers grouped by size."
+  },
+  {
+   "id": "capesize",
+   "term": "Capesize",
+   "cat": "market",
+   "ex": "Capesize rates can double or halve within weeks when Chinese iron ore imports change.",
+   "m": [
+    "capesize",
+    "capesizes",
+    "=Capes",
+    "Newcastlemax",
+    "=VLOC",
+    "VLOCs"
+   ],
+   "hl": true,
+   "def": "The largest common bulk carriers (about 160,000–210,000 dwt), too big for the old Panama Canal, so they sail around the Cape of Good Hope or Cape Horn. They mainly carry iron ore and coal and are the most volatile segment."
+  },
+  {
+   "id": "panamax",
+   "term": "Panamax / Kamsarmax",
+   "cat": "market",
+   "ex": "Grain from the US Gulf to China often moves on Panamax or Kamsarmax ships.",
+   "m": [
+    "panamax",
+    "panamaxes",
+    "kamsarmax",
+    "kamsarmaxes",
+    "post-panamax"
+   ],
+   "hl": true,
+   "def": "Mid-sized bulk carriers of about 65,000–85,000 dwt, originally sized for the old Panama Canal locks. Kamsarmax (about 82,000 dwt) is the modern standard. They carry coal, grain and minerals."
+  },
+  {
+   "id": "supramax",
+   "term": "Supramax / Ultramax",
+   "cat": "market",
+   "ex": "A 61,000 dwt Ultramax can load steel coils in a port that has no cranes of its own.",
+   "m": [
+    "supramax",
+    "supramaxes",
+    "ultramax",
+    "ultramaxes",
+    "handymax"
+   ],
+   "hl": true,
+   "def": "Bulk carriers of about 50,000–66,000 dwt with their own cranes (geared), so they can load and discharge in ports without shore equipment."
+  },
+  {
+   "id": "handysize",
+   "term": "Handysize",
+   "cat": "market",
+   "ex": "Logs and steel products from smaller ports often move on handysize ships.",
+   "m": [
+    "handysize",
+    "handysizes"
+   ],
+   "hl": true,
+   "def": "Small bulk carriers (about 10,000–40,000 dwt) serving smaller ports and minor bulk trades such as logs, steel and fertiliser."
+  },
+  {
+   "id": "vlcc",
+   "term": "VLCC",
+   "full": "Very large crude carrier",
+   "cat": "market",
+   "ex": "At USD 100 per barrel, one full VLCC cargo is worth about USD 200 million.",
+   "m": [
+    "=VLCC",
+    "=VLCCs",
+    "very large crude carrier",
+    "supertanker",
+    "supertankers",
+    "=ULCC"
+   ],
+   "hl": true,
+   "core": [
+    "freight"
+   ],
+   "def": "Very large crude carrier: a crude oil tanker of about 300,000 dwt carrying roughly 2 million barrels. The workhorse of long-haul crude trades such as Middle East–China."
+  },
+  {
+   "id": "suezmax",
+   "term": "Suezmax",
+   "cat": "market",
+   "ex": "Crude from West Africa to Europe often moves on Suezmaxes.",
+   "m": [
+    "suezmax",
+    "suezmaxes"
+   ],
+   "hl": true,
+   "def": "Crude tanker of about 150,000–160,000 dwt (about 1 million barrels), the largest size that can pass the Suez Canal fully loaded."
+  },
+  {
+   "id": "aframax",
+   "term": "Aframax",
+   "cat": "market",
+   "ex": "Crude from Norwegian fields to European refineries often moves on Aframaxes.",
+   "m": [
+    "aframax",
+    "aframaxes"
+   ],
+   "hl": true,
+   "def": "Tanker of about 80,000–120,000 dwt, common in shorter regional trades such as the North Sea, Baltic and Mediterranean. The coated version for refined products is called LR2."
+  },
+  {
+   "id": "product-tanker",
+   "term": "Product tanker (MR, LR1, LR2)",
+   "cat": "market",
+   "ex": "Diesel from India to Europe typically moves on LR1 or LR2 tankers.",
+   "m": [
+    "product tanker",
+    "product tankers",
+    "products tanker",
+    "clean tanker",
+    "clean tankers",
+    "=LR1",
+    "=LR2",
+    "=MR tanker",
+    "=MR tankers",
+    "=MRs"
+   ],
+   "hl": true,
+   "def": "Tankers with coated tanks that carry refined products such as diesel, jet fuel and naphtha. Sizes: MR about 45,000–55,000 dwt, LR1 about 70,000–80,000 dwt, LR2 about 110,000 dwt."
+  },
+  {
+   "id": "teu",
+   "term": "TEU",
+   "full": "Twenty-foot equivalent unit",
+   "cat": "market",
+   "ex": "A 24,000 TEU ship can carry about 12,000 forty-foot containers.",
+   "m": [
+    "=TEU",
+    "=TEUs",
+    "=FEU",
+    "=FEUs",
+    "twenty-foot equivalent"
+   ],
+   "hl": true,
+   "core": [
+    "freight"
+   ],
+   "def": "Twenty-foot equivalent unit: the standard measure of container capacity and volume. A 20-foot container is 1 TEU; a 40-foot container is 2 TEU (also called 1 FEU)."
+  },
+  {
+   "id": "liner",
+   "term": "Liner shipping",
+   "cat": "market",
+   "ex": "Maersk, MSC and Hapag-Lloyd are liner carriers.",
+   "no": "Linjefart",
+   "m": [
+    "liner shipping",
+    "liner carrier",
+    "liner carriers",
+    "linjefart",
+    "container line",
+    "container lines",
+    "boxship",
+    "boxships",
+    "containership",
+    "containerships",
+    "container ship",
+    "container ships"
+   ],
+   "hl": true,
+   "def": "Ships running fixed, published schedules between ports—mainly container shipping—and selling space to many customers, like a bus route. The opposite of tramp shipping."
+  },
+  {
+   "id": "tramp",
+   "term": "Tramp shipping",
+   "cat": "market",
+   "ex": "A bulk carrier discharging in Rotterdam may next load coal in Colombia or grain in the Black Sea, depending on which fixture pays best.",
+   "m": [
+    "tramp shipping",
+    "tramp trade"
+   ],
+   "hl": true,
+   "def": "Ships without fixed routes that are chartered wherever the cargo is (dry bulk, tankers). Rates are set in the spot market."
+  },
+  {
+   "id": "blank-sailing",
+   "term": "Blank sailing",
+   "cat": "market",
+   "ex": "Cancelling 10% of Asia–Europe sailings in a quiet week cuts supply and slows the fall in spot rates.",
+   "m": [
+    "blank sailing",
+    "blank sailings",
+    "cancelled sailings"
+   ],
+   "hl": true,
+   "def": "A scheduled liner voyage that the carrier cancels, usually to remove capacity when demand is weak and support freight rates."
+  },
+  {
+   "id": "port-omission",
+   "term": "Port omission",
+   "cat": "market",
+   "ex": "If a ship skips Genoa, import containers are discharged in Valencia and carried on by the next ship in the service.",
+   "m": [
+    "omission",
+    "omissions",
+    "port omission",
+    "port omissions",
+    "skips port",
+    "skip calls"
+   ],
+   "hl": true,
+   "def": "A container ship skipping a scheduled port call, often to recover from delays. The cargo is moved via another port instead."
+  },
+  {
+   "id": "container-index",
+   "term": "Container freight indices",
+   "cat": "market",
+   "ex": "If the index for Shanghai–Rotterdam rises from USD 2,000 to USD 3,000 per FEU, importers pay 50% more on new spot bookings.",
+   "m": [
+    "=SCFI",
+    "=WCI",
+    "=FBX",
+    "World Container Index",
+    "container index"
+   ],
+   "hl": true,
+   "def": "Published indices tracking the spot price for shipping a container on major routes, such as the SCFI (Shanghai), Drewry's WCI and Freightos' FBX."
+  },
+  {
+   "id": "lng-carrier",
+   "term": "LNG carrier",
+   "cat": "market",
+   "ex": "Gas from Hammerfest LNG reaches buyers in Europe and Asia on LNG carriers.",
+   "m": [
+    "LNG carrier",
+    "LNG carriers",
+    "LNG vessel",
+    "LNG vessels",
+    "LNG ship",
+    "LNG ships",
+    "LNG shipping"
+   ],
+   "hl": true,
+   "core": [
+    "freight"
+   ],
+   "def": "Ship carrying liquefied natural gas at about −162 °C in insulated tanks. The standard size today is about 174,000 cubic metres."
+  },
+  {
+   "id": "lpg",
+   "term": "LPG / VLGC",
+   "cat": "market",
+   "ex": "US LPG exports to Asia are mostly carried on VLGCs.",
+   "m": [
+    "=LPG",
+    "=VLGC",
+    "=VLGCs",
+    "liquefied petroleum gas",
+    "=VLAC",
+    "=VLACs"
+   ],
+   "hl": true,
+   "def": "LPG (propane and butane) is shipped liquefied by pressure or cooling. The largest LPG ships are VLGCs (very large gas carriers) of about 84,000–90,000 cubic metres."
+  },
+  {
+   "id": "car-carrier",
+   "term": "Car carrier (PCTC)",
+   "cat": "market",
+   "ex": "Chinese car exports to Europe have created strong demand for PCTCs.",
+   "m": [
+    "car carrier",
+    "car carriers",
+    "=PCTC",
+    "=PCTCs",
+    "vehicle carrier",
+    "vehicle carriers"
+   ],
+   "hl": true,
+   "def": "Roll-on/roll-off ship with internal decks and ramps for cars, trucks and machinery. PCTC means pure car and truck carrier."
+  },
+  {
+   "id": "bdi",
+   "term": "Baltic Dry Index (BDI)",
+   "cat": "market",
+   "ex": "A BDI falling seven days in a row usually reflects weaker Capesize demand, often linked to iron ore.",
+   "m": [
+    "Baltic Dry Index",
+    "=BDI",
+    "Baltic Dry"
+   ],
+   "hl": true,
+   "core": [
+    "freight"
+   ],
+   "def": "Daily index from the Baltic Exchange combining time charter rates for Capesize, Panamax and Supramax bulk carriers. A broad gauge of dry bulk freight levels."
+  },
+  {
+   "id": "baltic-exchange",
+   "term": "Baltic Exchange",
+   "cat": "market",
+   "ex": "Many index-linked time charters pay the average of the relevant Baltic Exchange routes.",
+   "m": [
+    "Baltic Exchange"
+   ],
+   "hl": true,
+   "def": "London-based organisation that publishes daily freight assessments and indices for dry bulk and tanker routes, based on brokers' reports. Also used to settle FFAs."
+  },
+  {
+   "id": "tce",
+   "term": "TCE",
+   "full": "Time charter equivalent",
+   "cat": "market",
+   "ex": "USD 1.32 million net freight minus USD 0.74 million voyage costs over 36 days gives a TCE of about USD 16,100 per day.",
+   "m": [
+    "=TCE",
+    "time charter equivalent",
+    "time-charter equivalent",
+    "TCE rate",
+    "TCE rates",
+    "TCE earnings"
+   ],
+   "hl": true,
+   "core": [
+    "freight",
+    "finance"
+   ],
+   "def": "Time charter equivalent: a voyage's earnings converted to a daily rate. (Freight − voyage costs such as bunkers, port costs and commission) ÷ voyage days. Lets you compare voyage charters with time charters."
+  },
+  {
+   "id": "spot-market",
+   "term": "Spot market",
+   "cat": "market",
+   "ex": "A tanker owner with every ship in the spot market gains most when rates spike, but has no protection when they crash.",
+   "m": [
+    "spot market",
+    "spot markets",
+    "spot rate",
+    "spot rates",
+    "spot freight"
+   ],
+   "hl": true,
+   "core": [
+    "freight"
+   ],
+   "def": "Market for single-voyage deals at today's price. Spot rates react quickly to news, while period rates show where the market expects things to go."
+  },
+  {
+   "id": "period-market",
+   "term": "Period market",
+   "cat": "market",
+   "ex": "When one-year VLCC charters are fixed above the current spot rate, owners expect the market to strengthen.",
+   "m": [
+    "period market",
+    "period rates",
+    "period rate",
+    "period charter",
+    "period charters",
+    "one-year charter",
+    "1-year charter"
+   ],
+   "hl": true,
+   "def": "Time charters lasting months or years. Period rates reflect expectations about future spot rates."
+  },
+  {
+   "id": "ffa",
+   "term": "FFA",
+   "full": "Forward freight agreement",
+   "cat": "market",
+   "ex": "A grain trader worried about higher Panamax rates buys Q1 FFAs at USD 15,000/day. If the index averages USD 18,000, the trader receives the difference.",
+   "m": [
+    "=FFA",
+    "=FFAs",
+    "forward freight agreement",
+    "forward freight agreements",
+    "freight derivatives"
+   ],
+   "hl": true,
+   "def": "Forward freight agreement: a financial contract to buy or sell freight at an agreed rate for a future period, settled in cash against Baltic Exchange indices. Used to hedge or speculate."
+  },
+  {
+   "id": "ton-miles",
+   "term": "Ton-miles",
+   "cat": "market",
+   "ex": "Ships diverting around the Cape of Good Hope instead of using Suez sail roughly a third further on Asia–Europe, so ton-mile demand rises without any extra cargo.",
+   "m": [
+    "ton-miles",
+    "ton-mile",
+    "tonne-miles",
+    "tonne-mile",
+    "ton miles",
+    "tonnemiles"
+   ],
+   "hl": true,
+   "core": [
+    "freight"
+   ],
+   "def": "Cargo volume multiplied by distance sailed. The real measure of shipping demand: longer routes tie up more ships even if cargo volumes stay the same."
+  },
+  {
+   "id": "utilisation",
+   "term": "Fleet utilisation",
+   "cat": "market",
+   "ex": "That is why freight rates can triple in a few weeks while cargo volumes change only a few percent.",
+   "m": [
+    "fleet utilisation",
+    "fleet utilization",
+    "vessel utilisation",
+    "vessel utilization"
+   ],
+   "hl": true,
+   "def": "The share of fleet capacity needed to carry current demand. Above roughly 85–90%, small changes in demand cause large rate spikes because almost no spare ships exist."
+  },
+  {
+   "id": "orderbook",
+   "term": "Orderbook",
+   "cat": "market",
+   "ex": "An orderbook of 15% of the fleet delivered over three years adds about 5% supply a year before scrapping.",
+   "m": [
+    "orderbook",
+    "orderbooks",
+    "order book",
+    "orderbook-to-fleet"
+   ],
+   "hl": true,
+   "core": [
+    "freight",
+    "finance"
+   ],
+   "def": "Ships ordered but not yet delivered, often shown as a percentage of the existing fleet. A large orderbook means more supply is coming, which can pressure future rates."
+  },
+  {
+   "id": "newbuilding",
+   "term": "Newbuilding",
+   "cat": "market",
+   "ex": "Six tankers ordered now for delivery in 2029–2030 will not add to supply for years.",
+   "no": "Nybygg",
+   "m": [
+    "newbuilding",
+    "newbuildings",
+    "newbuild",
+    "newbuilds",
+    "nybygg",
+    "nybygging"
+   ],
+   "hl": true,
+   "def": "A ship ordered from a shipyard. Paid in instalments during construction and typically delivered two to four years after ordering when yards are busy."
+  },
+  {
+   "id": "sale-purchase",
+   "term": "Sale and purchase (S&P)",
+   "cat": "market",
+   "ex": "Selling a 2011-built Suezmax at a large book gain shows secondhand prices are high compared with what the owner paid.",
+   "m": [
+    "=S&P",
+    "sale and purchase",
+    "secondhand",
+    "second-hand",
+    "secondhand market",
+    "secondhand prices",
+    "=MOA",
+    "Norwegian Saleform"
+   ],
+   "hl": true,
+   "def": "The market for buying and selling secondhand ships, handled by S&P brokers. Prices follow earnings, so strong rates make even older ships valuable."
+  },
+  {
+   "id": "recycling",
+   "term": "Ship recycling (demolition)",
+   "cat": "market",
+   "ex": "A ship of 15,000 LDT sold at USD 450 per LDT brings about USD 6.75 million.",
+   "m": [
+    "ship recycling",
+    "recycling markets",
+    "demolition",
+    "scrapping",
+    "scrapped",
+    "=LDT",
+    "light displacement",
+    "cash buyer",
+    "cash buyers"
+   ],
+   "hl": true,
+   "def": "Selling old ships to yards—mainly in India, Bangladesh, Pakistan and Turkey—that cut them up for steel. Prices are quoted per light displacement tonne (LDT). Strong freight markets mean fewer ships are scrapped."
+  },
+  {
+   "id": "contango",
+   "term": "Contango",
+   "cat": "market",
+   "ex": "If oil six months ahead is USD 6 per barrel higher, storing 2 million barrels on a VLCC earns USD 12 million before charter and financing costs.",
+   "m": [
+    "contango",
+    "floating storage"
+   ],
+   "hl": true,
+   "def": "When oil for future delivery costs more than oil today. If the gap is wide enough, traders store oil on tankers (floating storage) to sell later, which takes tankers out of service and lifts rates."
+  },
+  {
+   "id": "backwardation",
+   "term": "Backwardation",
+   "cat": "market",
+   "ex": "Strong backwardation in diesel makes long voyages risky for traders, because the cargo may be worth less on arrival.",
+   "m": [
+    "backwardation",
+    "backwardated"
+   ],
+   "hl": true,
+   "def": "When oil today is more expensive than oil for future delivery. Encourages selling quickly from storage and usually signals a tight market."
+  },
+  {
+   "id": "slow-steaming",
+   "term": "Slow steaming",
+   "cat": "market",
+   "ex": "When bunker or emission costs rise, ships slow down. That ties up more ships for the same cargo and can support freight rates.",
+   "m": [
+    "slow steaming",
+    "slow-steaming",
+    "slow down",
+    "speed reduction"
+   ],
+   "hl": true,
+   "def": "Deliberately sailing slower to save fuel. Fuel use per day rises roughly with the cube of speed, so a 10% speed cut saves about 27% fuel per day (about 19% per voyage, since the trip takes longer). It also reduces effective fleet capacity."
+  },
+  {
+   "id": "shadow-fleet",
+   "term": "Shadow fleet",
+   "cat": "market",
+   "ex": "European navies boarding shadow fleet tankers is part of efforts to enforce sanctions at sea.",
+   "m": [
+    "shadow fleet",
+    "shadow-fleet",
+    "dark fleet"
+   ],
+   "hl": true,
+   "core": [
+    "freight",
+    "insurance"
+   ],
+   "def": "Tankers, often old and with unclear ownership and insurance, that carry sanctioned oil (for example Russian, Iranian or Venezuelan) outside Western services. Raises safety, pollution and insurance concerns."
+  },
+  {
+   "id": "ais",
+   "term": "AIS",
+   "full": "Automatic identification system",
+   "cat": "market",
+   "ex": "Analysts count AIS signals to see how many tankers transit the Strait of Hormuz each day.",
+   "m": [
+    "=AIS",
+    "going dark",
+    "goes dark",
+    "go dark",
+    "automatic identification system"
+   ],
+   "hl": true,
+   "def": "Automatic identification system: radio broadcasts of a ship's identity, position, speed and course. Used for safety and tracking. Switching it off ('going dark') is a red flag for sanctions evasion."
+  },
+  {
+   "id": "chokepoint",
+   "term": "Chokepoint",
+   "cat": "market",
+   "ex": "About a fifth of global oil consumption normally passes Hormuz, so attacks there move oil prices and tanker rates at the same time.",
+   "m": [
+    "chokepoint",
+    "chokepoints",
+    "choke point",
+    "choke points",
+    "Strait of Hormuz",
+    "Hormuz",
+    "Bab el-Mandeb",
+    "Bab al-Mandeb",
+    "Bab al-Mandab",
+    "Suez Canal",
+    "Panama Canal",
+    "Red Sea",
+    "Strait of Malacca",
+    "Bosporus"
+   ],
+   "hl": true,
+   "core": [
+    "freight"
+   ],
+   "def": "Narrow sea passage that a large share of world trade must pass: the Strait of Hormuz, Bab el-Mandeb and the Suez Canal, the Panama Canal, the Strait of Malacca and the Bosporus. Disruptions force longer routes or stop trade altogether."
+  },
+  {
+   "id": "bunkers",
+   "term": "Bunkers",
+   "cat": "market",
+   "ex": "A Capesize burning 35 t per day at sea pays about USD 21,000 a day for fuel at USD 600 per tonne.",
+   "no": "Bunkers / skipsdrivstoff",
+   "m": [
+    "bunker",
+    "bunkers",
+    "bunkering",
+    "bunker prices",
+    "=VLSFO",
+    "=HSFO",
+    "=MGO",
+    "marine fuel",
+    "marine fuels",
+    "ship fuel"
+   ],
+   "hl": true,
+   "core": [
+    "freight"
+   ],
+   "def": "Ship fuel. Main grades are VLSFO (very low sulphur fuel oil, max 0.5% sulphur), HSFO (high sulphur fuel, for ships with scrubbers) and MGO (marine gasoil). Fuel is often the largest voyage cost."
+  },
+  {
+   "id": "scrubber",
+   "term": "Scrubber",
+   "cat": "market",
+   "ex": "With a USD 120 per tonne price gap and 30 t per day consumption, a scrubber saves USD 3,600 a day.",
+   "m": [
+    "scrubber",
+    "scrubbers",
+    "scrubber-fitted"
+   ],
+   "hl": true,
+   "def": "Exhaust gas cleaning system that lets a ship burn cheaper high-sulphur fuel while meeting sulphur limits. Pays off most when the price gap between VLSFO and HSFO is wide."
+  },
+  {
+   "id": "dwt",
+   "term": "Deadweight (dwt)",
+   "cat": "market",
+   "ex": "A 61,446 dwt Ultramax might load around 58,000 t of cargo after fuel and stores.",
+   "m": [
+    "deadweight",
+    "=dwt",
+    "=DWT"
+   ],
+   "hl": true,
+   "def": "How much weight a ship can carry—cargo, fuel, water, stores and crew—in metric tonnes. The usual size measure for bulk carriers and tankers."
+  },
+  {
+   "id": "gt",
+   "term": "Gross tonnage",
+   "cat": "market",
+   "ex": "The EU emissions trading rules apply to ships of 5,000 gross tonnage and above.",
+   "m": [
+    "gross tonnage"
+   ],
+   "hl": true,
+   "def": "A measure of a ship's enclosed volume, not its weight. Used for port dues, registration and to decide which rules apply."
+  },
+  {
+   "id": "imo-number",
+   "term": "IMO number",
+   "cat": "market",
+   "ex": "Writing 'Lady Mariia (IMO 9220641)' lets readers track the ship in databases even if its name changes later.",
+   "m": [
+    "IMO number",
+    "IMO numbers",
+    "~IMO \\d{7}"
+   ],
+   "hl": true,
+   "def": "Seven-digit number that permanently identifies a ship, even if it is renamed or reflagged."
+  },
+  {
+   "id": "flag-state",
+   "term": "Flag state",
+   "cat": "market",
+   "ex": "When Panama strikes sanctioned tankers from its register, they lose their flag, which makes insurance and port calls very difficult.",
+   "m": [
+    "flag state",
+    "flag states",
+    "reflag",
+    "reflags",
+    "reflagged",
+    "reflagging",
+    "open registry",
+    "open registries",
+    "flag of convenience",
+    "flags of convenience",
+    "=NIS",
+    "Norwegian International Ship Register",
+    "ship registry"
+   ],
+   "hl": true,
+   "def": "The country where a ship is registered; its laws and inspections apply on board. Open registries such as Panama, Liberia and the Marshall Islands register ships from anywhere. Reflagging means moving a ship to another register."
+  },
+  {
+   "id": "class-society",
+   "term": "Classification society",
+   "cat": "reg",
+   "ex": "DNV, headquartered at Høvik outside Oslo, is one of the largest classification societies.",
+   "m": [
+    "classification society",
+    "classification societies",
+    "class society",
+    "class societies",
+    "=DNV",
+    "=ABS",
+    "Lloyd's Register",
+    "=ClassNK",
+    "=RINA",
+    "Bureau Veritas"
+   ],
+   "hl": true,
+   "def": "Organisation such as DNV, ABS or Lloyd's Register that sets technical rules for ships, surveys them and issues class certificates. Without class, a ship can't get insurance or finance."
+  },
+  {
+   "id": "syndicated-loan",
+   "term": "Syndicated loan",
+   "cat": "finance",
+   "ex": "A USD 1 billion facility from eight banks to finance 15 containership newbuildings is a syndicated loan.",
+   "m": [
+    "syndicated loan",
+    "syndicated loans",
+    "syndicated loan facility",
+    "loan facility",
+    "credit facility",
+    "bank syndicate"
+   ],
+   "hl": true,
+   "core": [
+    "finance"
+   ],
+   "def": "A large loan provided by a group of banks together and arranged by one or more lead banks, so the risk is spread."
+  },
+  {
+   "id": "sofr",
+   "term": "SOFR",
+   "full": "Secured Overnight Financing Rate",
+   "cat": "finance",
+   "ex": "A loan at SOFR + 1.5% costs about 5.5% a year if SOFR is 4%.",
+   "m": [
+    "=SOFR",
+    "=LIBOR"
+   ],
+   "hl": true,
+   "core": [
+    "finance"
+   ],
+   "def": "Secured Overnight Financing Rate: the US dollar benchmark interest rate that replaced LIBOR. Ship loans are usually priced as SOFR plus a margin."
+  },
+  {
+   "id": "basis-point",
+   "term": "Basis point (bp)",
+   "cat": "finance",
+   "ex": "A margin 550 bp lower saves USD 5.5 million a year for every USD 100 million borrowed.",
+   "m": [
+    "basis point",
+    "basis points",
+    "=bp",
+    "=bps",
+    "loan margin",
+    "interest margin"
+   ],
+   "hl": true,
+   "def": "One hundredth of a percentage point (0.01%). Loan margins and rate changes are quoted in basis points."
+  },
+  {
+   "id": "nibor",
+   "term": "NIBOR",
+   "cat": "finance",
+   "ex": "A Nordic bond paying NIBOR + 5% pays about 9% a year if NIBOR is 4%.",
+   "m": [
+    "=NIBOR"
+   ],
+   "hl": true,
+   "def": "Norwegian interbank offered rate: the NOK benchmark used for floating-rate loans and bonds in Norway."
+  },
+  {
+   "id": "ltv",
+   "term": "LTV",
+   "full": "Loan-to-value",
+   "cat": "finance",
+   "ex": "A USD 30 million loan on a ship worth USD 50 million is 60% LTV.",
+   "m": [
+    "=LTV",
+    "loan-to-value",
+    "loan to value"
+   ],
+   "hl": true,
+   "core": [
+    "finance"
+   ],
+   "def": "Loan-to-value: the loan as a percentage of the ship's market value. Ship loans often start around 50–65% LTV. If ship values fall, the borrower may have to repay early or add security."
+  },
+  {
+   "id": "vmc",
+   "term": "Value maintenance clause",
+   "cat": "finance",
+   "ex": "With a USD 30 million loan and a 130% clause, the ship must be worth at least USD 39 million.",
+   "m": [
+    "value maintenance clause",
+    "minimum value clause",
+    "security cover",
+    "=VMC"
+   ],
+   "hl": true,
+   "def": "Loan term requiring the ship's value to stay above a set percentage of the loan, for example 130%. If it is breached, the owner must repay part of the loan or provide more security."
+  },
+  {
+   "id": "covenant",
+   "term": "Covenant",
+   "cat": "finance",
+   "ex": "In a weak market, owners may ask their banks for a covenant waiver to avoid a default.",
+   "m": [
+    "covenant",
+    "covenants",
+    "covenant waiver"
+   ],
+   "hl": true,
+   "def": "A promise in a loan agreement, such as minimum cash, maximum leverage or value maintenance. Breaching one lets the lender demand repayment."
+  },
+  {
+   "id": "balloon",
+   "term": "Balloon",
+   "cat": "finance",
+   "ex": "A seven-year loan of USD 40 million repaying USD 3 million a year leaves a USD 19 million balloon.",
+   "m": [
+    "balloon",
+    "balloon payment",
+    "balloon repayment"
+   ],
+   "hl": true,
+   "def": "The large final repayment when a loan matures, because the instalments did not repay all of it. Usually refinanced or paid by selling the ship."
+  },
+  {
+   "id": "sale-leaseback",
+   "term": "Sale and leaseback",
+   "cat": "finance",
+   "ex": "An owner raises USD 25 million by selling a ship to a lessor and paying bareboat hire for eight years.",
+   "m": [
+    "sale and leaseback",
+    "sale-and-leaseback",
+    "sale-leaseback",
+    "leaseback",
+    "Chinese leasing",
+    "lessor",
+    "lessors",
+    "leasing house"
+   ],
+   "hl": true,
+   "core": [
+    "finance"
+   ],
+   "def": "The owner sells the ship to a financier—often a Chinese leasing company—and charters it back on bareboat terms, usually with options or an obligation to buy it back. An alternative to bank loans."
+  },
+  {
+   "id": "ks",
+   "term": "KS (limited partnership)",
+   "cat": "finance",
+   "ex": "Investors buy units in a single-ship KS that owns one vessel on charter, and the income flows to the partners.",
+   "no": "Kommandittselskap",
+   "m": [
+    "kommandittselskap",
+    "kommandittselskaper"
+   ],
+   "hl": true,
+   "def": "Norwegian partnership structure used to fund single ships with equity from many investors plus a bank loan. Widely used in Norwegian shipping booms."
+  },
+  {
+   "id": "bond",
+   "term": "Nordic high-yield bond",
+   "cat": "finance",
+   "ex": "An offshore company issues a USD 200 million bond at SOFR + 6% to refinance its vessels.",
+   "m": [
+    "Nordic bond",
+    "Nordic bonds",
+    "high-yield bond",
+    "high yield bond",
+    "bond issue",
+    "project bond",
+    "bond loan",
+    "obligasjonslån",
+    "bond"
+   ],
+   "hl": true,
+   "core": [
+    "finance"
+   ],
+   "def": "Bonds issued by shipping and offshore companies in the Oslo bond market, often three to five years with floating rates. Faster and more flexible than bank loans, but more expensive. Project bonds are tied to one asset or contract."
+  },
+  {
+   "id": "private-placement",
+   "term": "Private placement",
+   "cat": "finance",
+   "ex": "A tanker company raises NOK 500 million in a private placement to pay yard instalments.",
+   "no": "Rettet emisjon",
+   "m": [
+    "private placement",
+    "private placements",
+    "rettet emisjon",
+    "emisjon",
+    "share issue",
+    "equity raise"
+   ],
+   "hl": true,
+   "def": "Selling new shares directly to selected investors, common on Euronext Oslo. Quicker than a public offering, but dilutes existing shareholders."
+  },
+  {
+   "id": "nav",
+   "term": "NAV",
+   "full": "Net asset value",
+   "cat": "finance",
+   "ex": "Fleet worth USD 2 billion, net debt USD 0.8 billion and 100 million shares give a NAV of USD 12 per share. A share price of USD 10 is a 17% discount.",
+   "m": [
+    "=NAV",
+    "=P/NAV",
+    "net asset value"
+   ],
+   "hl": true,
+   "core": [
+    "finance"
+   ],
+   "def": "Net asset value: the market value of a shipping company's fleet minus net debt, per share. Comparing the share price with NAV (P/NAV) shows whether the stock is cheap or expensive compared with its ships."
+  },
+  {
+   "id": "ebitda",
+   "term": "EBITDA",
+   "cat": "finance",
+   "ex": "TCE income USD 100 million − OPEX USD 35 million − G&A USD 5 million = EBITDA of USD 60 million.",
+   "m": [
+    "=EBITDA"
+   ],
+   "hl": true,
+   "def": "Earnings before interest, tax, depreciation and amortisation. In shipping, roughly what the ships earn minus operating and administration costs: a measure of cash generated before financing."
+  },
+  {
+   "id": "opex",
+   "term": "OPEX",
+   "full": "Operating expenses",
+   "cat": "finance",
+   "ex": "A Supramax with OPEX of USD 6,500 per day must earn at least that just to keep running.",
+   "m": [
+    "=OPEX",
+    "=opex",
+    "=Opex",
+    "operating expenses",
+    "running costs",
+    "vessel operating costs"
+   ],
+   "hl": true,
+   "core": [
+    "finance"
+   ],
+   "def": "Operating expenses: the daily cost of running a ship—crew, maintenance, insurance, stores and lubricants. Fuel is a voyage cost, not OPEX. Roughly USD 6,000–10,000 per day depending on size and type."
+  },
+  {
+   "id": "breakeven",
+   "term": "Cash breakeven",
+   "cat": "finance",
+   "ex": "OPEX 7,000 + overhead 1,000 + interest 3,000 + repayments 5,000 = a cash breakeven of USD 16,000 per day.",
+   "m": [
+    "breakeven",
+    "break-even",
+    "cash breakeven",
+    "breakeven rate",
+    "breakeven level"
+   ],
+   "hl": true,
+   "core": [
+    "finance"
+   ],
+   "def": "The daily rate a ship must earn to cover OPEX, overhead, interest and loan repayments. Above it the ship generates free cash; below it the owner burns cash."
+  },
+  {
+   "id": "refund-guarantee",
+   "term": "Refund guarantee",
+   "cat": "finance",
+   "ex": "If a yard goes bankrupt halfway through a build, the refund guarantee returns the buyer's USD 20 million paid so far.",
+   "m": [
+    "refund guarantee",
+    "refund guarantees"
+   ],
+   "hl": true,
+   "def": "Guarantee from the shipyard's bank that the buyer gets its instalments back if the yard fails to deliver. Buyers require it before paying instalments."
+  },
+  {
+   "id": "charter-backed",
+   "term": "Charter-backed financing",
+   "cat": "finance",
+   "ex": "Because all its newbuildings have long time charters from delivery, a containership owner can borrow at a low margin.",
+   "m": [
+    "charter-backed",
+    "charter backed",
+    "contracted revenue",
+    "charter coverage"
+   ],
+   "hl": true,
+   "def": "Loans based on a long time charter with a strong charterer. The secure income lowers the lender's risk and the margin."
+  },
+  {
+   "id": "poseidon",
+   "term": "Poseidon Principles",
+   "cat": "finance",
+   "ex": "A bank that has signed may offer better terms on ships with lower carbon intensity.",
+   "m": [
+    "Poseidon Principles"
+   ],
+   "hl": true,
+   "def": "Framework in which shipping banks measure and report how well their loan portfolios align with IMO climate targets."
+  },
+  {
+   "id": "eca",
+   "term": "ECA",
+   "cat": "finance",
+   "ex": "If the article is about financing, it means the agency. If it is about fuel or sulphur, it means the emission area.",
+   "m": [
+    "=ECA",
+    "=ECAs",
+    "export credit agency",
+    "export credit",
+    "emission control area",
+    "emission control areas",
+    "=SECA",
+    "=Eksfin"
+   ],
+   "hl": true,
+   "def": "Two meanings. (1) Export credit agency: a state agency, such as Eksfin in Norway or KEXIM in Korea, that lends or guarantees to support exports, often for newbuildings. (2) Emission control area: sea areas such as the North Sea and the Baltic with stricter limits on sulphur and NOx emissions."
+  },
+  {
+   "id": "book-gain",
+   "term": "Book gain",
+   "cat": "finance",
+   "ex": "Selling a ship carried at USD 20 million for USD 80 million gives a USD 60 million gain.",
+   "m": [
+    "book gain",
+    "capital gain",
+    "capital gains"
+   ],
+   "hl": true,
+   "def": "Profit when a ship is sold for more than its depreciated value in the accounts. Common when secondhand prices are high."
+  },
+  {
+   "id": "impairment",
+   "term": "Impairment",
+   "cat": "finance",
+   "ex": "An offshore company impairs its PSV fleet by USD 100 million after a weak market outlook.",
+   "m": [
+    "impairment",
+    "impairments",
+    "write-down",
+    "write-downs"
+   ],
+   "hl": true,
+   "def": "Writing down a ship's value in the accounts when expected earnings or market values fall below the carrying value. A loss on paper, with no cash leaving the company."
+  },
+  {
+   "id": "asset-play",
+   "term": "Asset play",
+   "cat": "finance",
+   "ex": "Buying 10-year-old bulkers at the bottom of a cycle and selling two years later can earn more than the freight they carried.",
+   "m": [
+    "asset play",
+    "asset plays"
+   ],
+   "hl": true,
+   "def": "Buying ships when prices are low to sell when values rise, rather than profiting mainly from operating them."
+  },
+  {
+   "id": "dividend",
+   "term": "Dividend yield",
+   "cat": "finance",
+   "ex": "A tanker share at NOK 100 paying NOK 12 over the year has a 12% dividend yield.",
+   "m": [
+    "dividend yield",
+    "dividend yields",
+    "dividend payout",
+    "payout ratio"
+   ],
+   "hl": true,
+   "def": "Annual dividends as a percentage of the share price. Many listed shipping companies pay out most of their free cash, so yields swing with freight markets."
+  },
+  {
+   "id": "hm",
+   "term": "Hull & Machinery (H&M)",
+   "cat": "insurance",
+   "ex": "If a ship grounds and damages its propeller, the repair cost above the deductible is a hull claim.",
+   "no": "Kaskoforsikring",
+   "m": [
+    "=H&M",
+    "hull and machinery",
+    "hull & machinery",
+    "hull insurance",
+    "hull insurer",
+    "hull insurers",
+    "hull claim",
+    "hull claims",
+    "kaskoforsikring",
+    "kasko",
+    "Marine Hull"
+   ],
+   "hl": true,
+   "core": [
+    "insurance"
+   ],
+   "def": "Insurance for physical damage to or loss of the ship itself: hull, engine and equipment. Under the Nordic Marine Insurance Plan it also covers collision liability."
+  },
+  {
+   "id": "pi",
+   "term": "P&I",
+   "full": "Protection and indemnity",
+   "cat": "insurance",
+   "ex": "When a ship spills oil after a grounding, the clean-up cost is typically a P&I claim.",
+   "m": [
+    "=P&I",
+    "protection and indemnity",
+    "protection & indemnity"
+   ],
+   "hl": true,
+   "core": [
+    "insurance"
+   ],
+   "def": "Protection and indemnity: insurance for the shipowner's liabilities to others—crew injury, pollution, wreck removal, cargo damage and collision damage not covered by hull insurance. Mostly provided by mutual P&I clubs."
+  },
+  {
+   "id": "pi-club",
+   "term": "P&I club",
+   "cat": "insurance",
+   "ex": "Gard in Arendal and Skuld in Oslo are Norwegian P&I clubs.",
+   "m": [
+    "P&I club",
+    "P&I clubs",
+    "=P&I Club",
+    "mutual insurer",
+    "mutual insurers",
+    "=Gard",
+    "=Skuld",
+    "Steamship Mutual",
+    "NorthStandard",
+    "UK P&I",
+    "Swedish Club",
+    "West of England",
+    "American Club",
+    "Japan P&I"
+   ],
+   "hl": true,
+   "core": [
+    "insurance"
+   ],
+   "def": "Mutual insurance association owned by its shipowner members. Members pay premiums (calls) and share each other's claims; large claims are pooled between clubs."
+  },
+  {
+   "id": "ig",
+   "term": "International Group of P&I Clubs (IG)",
+   "cat": "insurance",
+   "ex": "A 'non-IG' club is one outside this group. It may be cheaper, but some ports and charterers demand IG cover.",
+   "m": [
+    "International Group",
+    "=IG club",
+    "=IG clubs",
+    "=non-IG",
+    "=IG"
+   ],
+   "hl": true,
+   "def": "The group of the largest P&I clubs, together insuring around 90% of the world's ocean-going tonnage and sharing large claims through a pool and a joint reinsurance programme."
+  },
+  {
+   "id": "call",
+   "term": "Call (P&I premium)",
+   "cat": "insurance",
+   "ex": "A 5% general increase on an annual call of USD 300,000 adds USD 15,000.",
+   "m": [
+    "advance call",
+    "general increase",
+    "supplementary call",
+    "release call",
+    "P&I renewal"
+   ],
+   "hl": true,
+   "def": "The premium a P&I club member pays. The advance call is paid up front; a general increase raises all members' calls for the coming policy year, which renews on 20 February."
+  },
+  {
+   "id": "deductible",
+   "term": "Deductible",
+   "cat": "insurance",
+   "ex": "With a USD 150,000 deductible, a USD 400,000 engine damage gives an insurance payout of USD 250,000.",
+   "no": "Egenandel",
+   "m": [
+    "deductible",
+    "deductibles",
+    "egenandel"
+   ],
+   "hl": true,
+   "def": "The part of each claim the insured pays before the insurance pays. Higher deductibles mean lower premiums."
+  },
+  {
+   "id": "war-risk",
+   "term": "War risk insurance",
+   "cat": "insurance",
+   "ex": "An additional premium of 1% on a USD 100 million tanker costs USD 1 million for one call in a listed area.",
+   "no": "Krigsforsikring",
+   "m": [
+    "war risk",
+    "war risks",
+    "war-risk",
+    "war risk insurance",
+    "war-risk insurance",
+    "war risk premium",
+    "war risk premiums",
+    "additional premium",
+    "additional premiums",
+    "krigsforsikring",
+    "=DNK"
+   ],
+   "hl": true,
+   "core": [
+    "insurance"
+   ],
+   "def": "Covers the ship against war, terrorism, piracy, mines and similar perils that ordinary hull and P&I policies exclude. For high-risk listed areas, insurers charge an additional premium per voyage, often as a percentage of the ship's value."
+  },
+  {
+   "id": "listed-areas",
+   "term": "Listed areas (JWC)",
+   "cat": "insurance",
+   "ex": "Parts of the Gulf, the Red Sea and the Black Sea have been listed areas in recent years.",
+   "m": [
+    "listed area",
+    "listed areas",
+    "Joint War Committee",
+    "=JWC"
+   ],
+   "hl": true,
+   "def": "High-risk sea areas listed by the Joint War Committee of the London insurance market. Entering one usually means notifying war risk insurers and paying an additional premium."
+  },
+  {
+   "id": "loh",
+   "term": "Loss of hire (LOH)",
+   "cat": "insurance",
+   "ex": "A ship idle for 44 days after a fire, with a 14-day deductible and USD 20,000 per day insured, receives USD 600,000.",
+   "m": [
+    "loss of hire",
+    "=LOH"
+   ],
+   "hl": true,
+   "def": "Covers the owner's lost income when the ship is out of service after damage covered by hull insurance, after a waiting period such as 14 days."
+  },
+  {
+   "id": "iv",
+   "term": "Increased value (IV)",
+   "cat": "insurance",
+   "ex": "A ship insured at USD 40 million for hull plus USD 10 million IV pays out USD 50 million if it is lost.",
+   "m": [
+    "increased value"
+   ],
+   "hl": true,
+   "def": "Additional insurance that pays on a total loss, covering the gap between the hull's insured value and the owner's real loss."
+  },
+  {
+   "id": "fdd",
+   "term": "FD&D",
+   "full": "Freight, demurrage and defence",
+   "cat": "insurance",
+   "ex": "An owner disputing a USD 200,000 demurrage claim has its lawyers paid by its FD&D cover.",
+   "m": [
+    "=FD&D",
+    "freight, demurrage and defence",
+    "defence cover"
+   ],
+   "hl": true,
+   "def": "Freight, demurrage and defence: legal-costs insurance, often from P&I clubs, for disputes about charter parties, freight, demurrage and shipbuilding contracts."
+  },
+  {
+   "id": "ga",
+   "term": "General average",
+   "cat": "insurance",
+   "ex": "After an engine-room fire, the ship is towed to port. Cargo owners must post general average security before they get their containers.",
+   "m": [
+    "general average",
+    "York-Antwerp Rules",
+    "York Antwerp Rules",
+    "general average declared"
+   ],
+   "hl": true,
+   "core": [
+    "insurance"
+   ],
+   "def": "Old principle of shared sacrifice: when ship or cargo is deliberately sacrificed, or extra costs are paid to save the whole voyage (salvage, port of refuge), all parties share the loss in proportion to their values. Governed by the York-Antwerp Rules."
+  },
+  {
+   "id": "salvage",
+   "term": "Salvage",
+   "cat": "insurance",
+   "ex": "A tug that saves a USD 50 million ship and cargo may earn a reward of several million dollars.",
+   "m": [
+    "salvage",
+    "salvor",
+    "salvors",
+    "Lloyd's Open Form",
+    "=LOF",
+    "=SCOPIC",
+    "port of refuge"
+   ],
+   "hl": true,
+   "def": "Help to a ship in danger from a third party, usually rewarded under 'no cure, no pay' on Lloyd's Open Form (LOF). The reward depends on the values saved and the effort; SCOPIC adds payment for protecting the environment."
+  },
+  {
+   "id": "total-loss",
+   "term": "Total loss",
+   "cat": "insurance",
+   "ex": "A burned car carrier whose repairs are estimated above its value is declared a constructive total loss.",
+   "m": [
+    "total loss",
+    "total losses",
+    "constructive total loss",
+    "actual total loss",
+    "=CTL"
+   ],
+   "hl": true,
+   "def": "Actual total loss: the ship is destroyed or lost. Constructive total loss (CTL): repairs would cost more than the ship is worth, so insurers pay the insured value instead."
+  },
+  {
+   "id": "nordic-plan",
+   "term": "Nordic Marine Insurance Plan",
+   "cat": "insurance",
+   "ex": "Norwegian Hull Club, based in Bergen, is one of the insurers writing hull cover on the Nordic Plan.",
+   "m": [
+    "Nordic Plan",
+    "Nordic Marine Insurance Plan",
+    "Norwegian Plan",
+    "=Cefor",
+    "Norwegian Hull Club"
+   ],
+   "hl": true,
+   "core": [
+    "insurance"
+   ],
+   "def": "Standard conditions for hull, loss of hire and war risk insurance used by Nordic insurers and maintained by Cefor. It differs from English clauses—for example, collision liability sits under hull cover."
+  },
+  {
+   "id": "lloyds",
+   "term": "Lloyd's of London",
+   "cat": "insurance",
+   "ex": "War risk cover for a tanker heading into the Gulf is often placed with Lloyd's syndicates.",
+   "m": [
+    "Lloyd's of London",
+    "Lloyd's market",
+    "Lloyd's syndicate",
+    "Lloyd's syndicates"
+   ],
+   "hl": true,
+   "def": "The London insurance market where syndicates underwrite risks, including a large share of the world's marine, war and specialty insurance."
+  },
+  {
+   "id": "underwriter",
+   "term": "Underwriter",
+   "cat": "insurance",
+   "ex": "After several groundings in a fleet, the hull underwriter raises the deductible at renewal.",
+   "m": [
+    "underwriter",
+    "underwriters",
+    "underwriting"
+   ],
+   "hl": true,
+   "def": "The insurer's specialist who assesses a risk and sets premium and terms; also used for the insurer itself."
+  },
+  {
+   "id": "insurance-broker",
+   "term": "Insurance broker",
+   "cat": "insurance",
+   "ex": "A broker shops a fleet's hull renewal across Nordic, London and Asian markets to find the best price.",
+   "m": [
+    "insurance broker",
+    "insurance brokers",
+    "=Howden",
+    "=Lockton",
+    "=Marsh",
+    "=Tysers"
+   ],
+   "hl": true,
+   "def": "Represents the shipowner when buying insurance: places the risk with underwriters and helps with claims. Large marine brokers include Howden, Lockton, Marsh and Tysers."
+  },
+  {
+   "id": "reinsurance",
+   "term": "Reinsurance",
+   "cat": "insurance",
+   "ex": "A hull insurer covering a USD 300 million LNG carrier may keep USD 50 million of the risk and reinsure the rest.",
+   "m": [
+    "reinsurance",
+    "reinsurer",
+    "reinsurers",
+    "reinsured"
+   ],
+   "hl": true,
+   "def": "Insurance for insurers: they pass part of their risk to reinsurers so one large loss does not break them."
+  },
+  {
+   "id": "cargo-insurance",
+   "term": "Cargo insurance",
+   "cat": "insurance",
+   "ex": "Under CMR a haulier may pay only about NOK 110,000 for a lost one-tonne pallet. Cargo insurance covers the real value.",
+   "no": "Vareforsikring / transportforsikring",
+   "m": [
+    "cargo insurance",
+    "cargo insurer",
+    "cargo insurers",
+    "Institute Cargo Clauses",
+    "vareforsikring",
+    "transportforsikring"
+   ],
+   "hl": true,
+   "def": "Covers the cargo owner against loss or damage in transport, usually on the Institute Cargo Clauses: (A) all risks, (B) and (C) named perils only. Needed because carriers' liability is limited."
+  },
+  {
+   "id": "subrogation",
+   "term": "Subrogation",
+   "cat": "insurance",
+   "ex": "A cargo insurer pays the cargo owner, then claims the money from the carrier under CMR or the bill of lading.",
+   "no": "Regress",
+   "m": [
+    "subrogation",
+    "subrogated",
+    "regress",
+    "recourse claim"
+   ],
+   "hl": true,
+   "def": "After paying a claim, the insurer takes over the insured's right to recover the money from whoever caused the loss."
+  },
+  {
+   "id": "seaworthiness",
+   "term": "Seaworthiness",
+   "cat": "insurance",
+   "ex": "Sending a ship to sea with an untrained crew can make it unseaworthy even if the hull is perfect.",
+   "no": "Sjødyktighet",
+   "m": [
+    "seaworthiness",
+    "seaworthy",
+    "unseaworthy",
+    "unseaworthiness",
+    "sjødyktighet",
+    "sjødyktig"
+   ],
+   "hl": true,
+   "def": "A ship's fitness for the voyage: hull, equipment, crew, documents and cargo stowage. Unseaworthiness can remove insurance cover or make the carrier liable."
+  },
+  {
+   "id": "combined-ratio",
+   "term": "Combined ratio",
+   "cat": "insurance",
+   "ex": "Premiums of 100, claims of 80 and costs of 15 give a combined ratio of 95%.",
+   "m": [
+    "combined ratio",
+    "combined ratios",
+    "loss ratio",
+    "loss ratios"
+   ],
+   "hl": true,
+   "def": "Claims plus costs divided by premiums. Below 100% the insurer makes an underwriting profit; above 100% it loses money before investment income."
+  },
+  {
+   "id": "loi",
+   "term": "Letter of indemnity (LOI)",
+   "cat": "insurance",
+   "ex": "The receiver wants its cargo before the original B/L arrives from the bank, so the charterer issues an LOI to the owner.",
+   "m": [
+    "letter of indemnity",
+    "letters of indemnity",
+    "=LOI",
+    "=LOIs"
+   ],
+   "hl": true,
+   "def": "A guarantee given to the carrier so it delivers cargo without the original bill of lading, or at a different port. Risky for the owner, because P&I cover may not apply to such deliveries."
+  },
+  {
+   "id": "lou",
+   "term": "Club letter of undertaking (LOU)",
+   "cat": "insurance",
+   "ex": "A ship arrested in port after a cargo claim is released once the P&I club issues an LOU.",
+   "m": [
+    "letter of undertaking",
+    "=LOU",
+    "=LOUs",
+    "ship arrest",
+    "arrested"
+   ],
+   "hl": true,
+   "def": "A guarantee from a P&I club to a claimant that a claim will be paid if proven, so the ship avoids arrest or is released."
+  },
+  {
+   "id": "sanctions",
+   "term": "Sanctions",
+   "cat": "reg",
+   "ex": "When the US sanctions a tanker, its insurers usually cancel cover and many ports refuse it entry.",
+   "no": "Sanksjoner",
+   "m": [
+    "sanctions",
+    "sanctioned",
+    "sanktioner",
+    "sanksjoner",
+    "=OFAC",
+    "price cap",
+    "oil price cap"
+   ],
+   "hl": true,
+   "core": [
+    "insurance"
+   ],
+   "def": "Restrictions imposed by the US, EU, UK, UN or Norway on trading with certain countries, companies or ships. Insurers, banks and charterers screen against sanctions lists, and dealing with a sanctioned party can void insurance and financing."
+  },
+  {
+   "id": "psv",
+   "term": "PSV",
+   "full": "Platform supply vessel",
+   "cat": "offshore",
+   "ex": "PSVs shuttle from bases such as CCB Ågotnes near Bergen to fields in the North Sea.",
+   "m": [
+    "=PSV",
+    "=PSVs",
+    "platform supply vessel",
+    "platform supply vessels",
+    "supply vessel",
+    "supply vessels"
+   ],
+   "hl": true,
+   "core": [
+    "offshore"
+   ],
+   "def": "Platform supply vessel: carries supplies such as pipes, chemicals, fuel, water and food between supply bases and offshore installations. Sized by deck area."
+  },
+  {
+   "id": "ahts",
+   "term": "AHTS",
+   "full": "Anchor handling tug supply vessel",
+   "cat": "offshore",
+   "ex": "Moving a semi-submersible rig between fields can require two or three AHTS vessels.",
+   "m": [
+    "=AHTS",
+    "anchor handling",
+    "anchor handler",
+    "anchor handlers",
+    "bollard pull"
+   ],
+   "hl": true,
+   "def": "Anchor handling tug supply vessel: powerful ship that tows rigs and handles their anchors. Sized by bollard pull in tonnes."
+  },
+  {
+   "id": "csov",
+   "term": "CSOV / SOV",
+   "full": "(Commissioning) service operation vessel",
+   "cat": "offshore",
+   "ex": "A CSOV with 120 beds can keep a commissioning team offshore without daily crew-boat trips.",
+   "m": [
+    "=CSOV",
+    "=CSOVs",
+    "=SOV",
+    "=SOVs",
+    "service operation vessel",
+    "service operation vessels",
+    "walk-to-work",
+    "=W2W"
+   ],
+   "hl": true,
+   "core": [
+    "offshore"
+   ],
+   "def": "(Commissioning) service operation vessel: houses technicians at offshore wind farms for weeks and gets them safely onto turbines via a motion-compensated gangway (walk-to-work)."
+  },
+  {
+   "id": "csv",
+   "term": "Subsea construction vessel (CSV)",
+   "cat": "offshore",
+   "ex": "A CSV installs a new manifold on the seabed and connects it to existing pipelines.",
+   "m": [
+    "subsea construction vessel",
+    "subsea construction vessels",
+    "=CSV",
+    "=IMR",
+    "inspection, maintenance and repair"
+   ],
+   "hl": true,
+   "def": "Large vessel with cranes, ROVs and deck space for installing and maintaining subsea equipment. Many also do inspection, maintenance and repair (IMR) work."
+  },
+  {
+   "id": "fpso",
+   "term": "FPSO",
+   "full": "Floating production, storage and offloading unit",
+   "cat": "offshore",
+   "ex": "The Johan Castberg field in the Barents Sea produces through an FPSO.",
+   "m": [
+    "=FPSO",
+    "=FPSOs",
+    "floating production",
+    "shuttle tanker",
+    "shuttle tankers"
+   ],
+   "hl": true,
+   "core": [
+    "offshore"
+   ],
+   "def": "Floating production, storage and offloading unit: a ship-shaped unit that produces oil from subsea wells, stores it and offloads it to shuttle tankers. Often leased from specialists such as SBM Offshore, Yinson or BW Offshore on long contracts."
+  },
+  {
+   "id": "fsru",
+   "term": "FSRU / FLNG",
+   "cat": "offshore",
+   "ex": "Germany used FSRUs to start importing LNG quickly after 2022.",
+   "m": [
+    "=FSRU",
+    "=FSRUs",
+    "=FLNG",
+    "floating LNG",
+    "regasification"
+   ],
+   "hl": true,
+   "def": "FSRU: floating storage and regasification unit, an LNG ship that turns LNG back into gas for a country's grid. FLNG: floating liquefaction unit that produces LNG offshore."
+  },
+  {
+   "id": "lng",
+   "term": "LNG",
+   "full": "Liquefied natural gas",
+   "cat": "offshore",
+   "ex": "Norwegian gas mostly reaches Europe by pipeline, but Hammerfest LNG ships it as LNG.",
+   "m": [
+    "=LNG",
+    "liquefied natural gas"
+   ],
+   "hl": true,
+   "def": "Liquefied natural gas: natural gas cooled to about −162 °C so it becomes liquid and takes about 600 times less space, so it can be shipped by sea. Also used as ship fuel."
+  },
+  {
+   "id": "rig",
+   "term": "Drilling rig types",
+   "cat": "offshore",
+   "ex": "Harsh-environment semi-subs from contractors such as Transocean and Odfjell Drilling work on the Norwegian shelf.",
+   "m": [
+    "jack-up",
+    "jack-ups",
+    "jackup",
+    "jackups",
+    "semi-submersible",
+    "semi-submersibles",
+    "semi-sub",
+    "semi-subs",
+    "drillship",
+    "drillships",
+    "=MODU",
+    "=MODUs",
+    "drilling rig",
+    "drilling rigs",
+    "rig",
+    "rigs"
+   ],
+   "hl": true,
+   "core": [
+    "offshore"
+   ],
+   "def": "Mobile offshore drilling units (MODUs): jack-ups stand on legs in shallow water; semi-submersibles float on pontoons and suit harsh areas such as the Norwegian shelf; drillships drill in ultra-deep water."
+  },
+  {
+   "id": "dayrate",
+   "term": "Dayrate",
+   "cat": "offshore",
+   "ex": "A harsh-environment semi-sub at USD 450,000 per day on a 300-day campaign earns USD 135 million.",
+   "m": [
+    "dayrate",
+    "dayrates",
+    "day rate",
+    "day rates",
+    "day-rate"
+   ],
+   "hl": true,
+   "core": [
+    "offshore"
+   ],
+   "def": "Daily fee paid to hire a rig or offshore vessel. Rises when utilisation is high."
+  },
+  {
+   "id": "backlog",
+   "term": "Backlog",
+   "cat": "offshore",
+   "ex": "A USD 1.1 billion rise in backlog means future work is locked in even if the market weakens.",
+   "no": "Ordrereserve",
+   "m": [
+    "backlog",
+    "backlogs",
+    "order backlog",
+    "contract backlog",
+    "ordrereserve"
+   ],
+   "hl": true,
+   "def": "The value of signed contracts not yet performed. Shows how secure a company's future revenue is."
+  },
+  {
+   "id": "decommissioning",
+   "term": "Decommissioning",
+   "cat": "offshore",
+   "ex": "A Norwegian vessel owner wins a campaign to remove subsea structures from a retired North Sea field.",
+   "m": [
+    "decommissioning",
+    "=P&A",
+    "plug and abandonment",
+    "plugging and abandonment"
+   ],
+   "hl": true,
+   "def": "Shutting down and removing offshore installations at the end of a field's life: plugging wells (P&A) and removing platforms, pipelines and subsea equipment."
+  },
+  {
+   "id": "tieback",
+   "term": "Subsea tieback",
+   "cat": "offshore",
+   "ex": "Many new Norwegian discoveries near large fields like Gullfaks or Troll are developed as tiebacks.",
+   "m": [
+    "tieback",
+    "tiebacks",
+    "tie-back",
+    "tie-backs",
+    "subsea tieback",
+    "subsea tiebacks"
+   ],
+   "hl": true,
+   "def": "A smaller field developed with seabed wells connected by pipelines to a nearby existing platform, instead of building a new one. Cheaper and faster."
+  },
+  {
+   "id": "rov",
+   "term": "ROV",
+   "full": "Remotely operated vehicle",
+   "cat": "offshore",
+   "ex": "A work-class ROV closes a valve on a subsea template 300 metres down.",
+   "m": [
+    "=ROV",
+    "=ROVs",
+    "=WROV",
+    "remotely operated vehicle",
+    "remotely operated vehicles"
+   ],
+   "hl": true,
+   "def": "Remotely operated vehicle: underwater robot controlled from a ship, used for inspection, construction and repair at depths divers cannot reach."
+  },
+  {
+   "id": "dp",
+   "term": "Dynamic positioning (DP)",
+   "cat": "offshore",
+   "ex": "A DP2 vessel can hold position next to a platform in rough seas while transferring cargo.",
+   "m": [
+    "dynamic positioning",
+    "=DP2",
+    "=DP3",
+    "DP system"
+   ],
+   "hl": true,
+   "def": "Computer-controlled thrusters that keep a vessel in an exact position without anchors. DP2 and DP3 have redundancy, so one failure will not make the ship drift—required for work close to installations."
+  },
+  {
+   "id": "supply-base",
+   "term": "Supply base",
+   "cat": "offshore",
+   "ex": "A haulier delivering drill pipe to CCB Ågotnes links road transport directly to offshore logistics.",
+   "no": "Forsyningsbase",
+   "m": [
+    "supply base",
+    "supply bases",
+    "forsyningsbase",
+    "forsyningsbaser",
+    "=CCB",
+    "Ågotnes",
+    "Mongstad"
+   ],
+   "hl": true,
+   "core": [
+    "offshore",
+    "road"
+   ],
+   "def": "Port base where offshore supplies are stored and loaded onto supply vessels. Norwegian examples include CCB Ågotnes and Mongstad near Bergen, Dusavik in Stavanger and Vestbase in Kristiansund."
+  },
+  {
+   "id": "inter-array",
+   "term": "Inter-array and export cables",
+   "cat": "offshore",
+   "ex": "Cable-lay vessels install inter-array cables after the turbine foundations are in place.",
+   "m": [
+    "inter-array",
+    "inter-array cable",
+    "inter-array cables",
+    "array cable",
+    "array cables",
+    "export cable",
+    "export cables"
+   ],
+   "hl": true,
+   "def": "Inter-array cables connect the turbines in an offshore wind farm to its substation; export cables bring the power to shore."
+  },
+  {
+   "id": "ep",
+   "term": "E&P",
+   "full": "Exploration and production",
+   "cat": "offshore",
+   "ex": "When oil companies raise E&P budgets, rig dayrates usually follow 6–18 months later.",
+   "m": [
+    "=E&P",
+    "exploration and production",
+    "upstream"
+   ],
+   "hl": true,
+   "def": "Exploration and production: the upstream oil and gas business of finding, developing and producing fields. E&P spending drives demand for rigs, supply vessels and subsea vessels."
+  },
+  {
+   "id": "mopu",
+   "term": "MOPU",
+   "full": "Mobile offshore production unit",
+   "cat": "offshore",
+   "ex": "Converting an old jack-up into a MOPU lets a small gas field start production without a new platform.",
+   "m": [
+    "=MOPU",
+    "=MOPUs"
+   ],
+   "hl": true,
+   "def": "Mobile offshore production unit: a movable production platform, often a converted jack-up, used for smaller fields."
+  },
+  {
+   "id": "seismic",
+   "term": "Seismic survey",
+   "cat": "offshore",
+   "ex": "Seismic data from a survey ship help decide where to drill the next exploration well.",
+   "m": [
+    "seismic",
+    "seismic survey",
+    "seismic surveys",
+    "seismic vessel",
+    "seismic research vessel"
+   ],
+   "hl": true,
+   "def": "Survey that sends sound pulses into the seabed and records the echoes to map rock layers and find oil, gas or CO2 storage sites."
+  },
+  {
+   "id": "ccs",
+   "term": "CCS",
+   "full": "Carbon capture and storage",
+   "cat": "offshore",
+   "ex": "CO2 is shipped in liquid form to the terminal at Øygarden and piped to a reservoir offshore.",
+   "m": [
+    "=CCS",
+    "carbon capture",
+    "carbon capture and storage",
+    "CO2 storage",
+    "Northern Lights"
+   ],
+   "hl": true,
+   "def": "Carbon capture and storage: capturing CO2 from industry and storing it permanently underground, for example under the North Sea through the Northern Lights project near Bergen."
+  },
+  {
+   "id": "offshore-wind",
+   "term": "Offshore wind",
+   "cat": "offshore",
+   "ex": "A 2.9 GW wind farm needs hundreds of kilometres of cable and years of vessel work.",
+   "m": [
+    "offshore wind",
+    "wind farm",
+    "wind farms",
+    "floating wind",
+    "floating offshore wind",
+    "havvind"
+   ],
+   "hl": true,
+   "core": [
+    "offshore"
+   ],
+   "def": "Wind turbines installed at sea, either on fixed foundations in shallow water or floating in deeper water (as at Hywind Tampen off Norway). Creates demand for installation vessels, CSOVs and cable-lay ships."
+  },
+  {
+   "id": "imo",
+   "term": "IMO",
+   "full": "International Maritime Organization",
+   "cat": "reg",
+   "ex": "Rules on sulphur in ship fuel and the CII carbon rating both come from the IMO.",
+   "m": [
+    "=IMO",
+    "International Maritime Organization"
+   ],
+   "hl": true,
+   "core": [
+    "freight"
+   ],
+   "def": "International Maritime Organization: UN agency in London that sets global shipping rules on safety (SOLAS), pollution (MARPOL), emissions and crew training."
+  },
+  {
+   "id": "marpol",
+   "term": "MARPOL",
+   "cat": "reg",
+   "ex": "The global 0.5% sulphur cap on ship fuel since 2020 comes from MARPOL Annex VI.",
+   "m": [
+    "=MARPOL",
+    "Annex VI"
+   ],
+   "hl": true,
+   "def": "IMO convention on preventing pollution from ships: oil, chemicals, sewage, garbage and air emissions. Annex VI covers sulphur, NOx and CO2 rules."
+  },
+  {
+   "id": "solas",
+   "term": "SOLAS",
+   "cat": "reg",
+   "ex": "Lifeboat and fire drill requirements on board come from SOLAS.",
+   "m": [
+    "=SOLAS"
+   ],
+   "hl": true,
+   "def": "International Convention for the Safety of Life at Sea: minimum standards for construction, fire safety, lifesaving equipment and navigation. Also the source of the container weight rule (VGM)."
+  },
+  {
+   "id": "eu-ets",
+   "term": "EU ETS (shipping)",
+   "cat": "reg",
+   "ex": "A voyage from Rotterdam to New York emitting 3,000 t of CO2 needs allowances for 1,500 t. At EUR 70 per tonne that is EUR 105,000.",
+   "no": "EUs kvotesystem",
+   "m": [
+    "=EU ETS",
+    "=ETS",
+    "emissions trading",
+    "emission allowances",
+    "carbon allowances",
+    "=EUA",
+    "=EUAs",
+    "kvotehandel",
+    "klimakvoter"
+   ],
+   "hl": true,
+   "core": [
+    "freight"
+   ],
+   "def": "The EU emissions trading system, which since 2024 includes ships of 5,000 gross tonnage and above. Companies must surrender allowances for their CO2: all emissions on voyages within the EU/EEA and at berth, half on voyages into or out of the EU/EEA. Phased in: 40% of 2024 emissions, 70% of 2025 and 100% from 2026."
+  },
+  {
+   "id": "fueleu",
+   "term": "FuelEU Maritime",
+   "cat": "reg",
+   "ex": "An owner with a biofuel-powered ship can pool its surplus with fossil-fuelled ships to avoid penalties.",
+   "m": [
+    "FuelEU",
+    "FuelEU Maritime",
+    "Fuel EU"
+   ],
+   "hl": true,
+   "def": "EU regulation from 2025 requiring ships to cut the greenhouse-gas intensity of the energy they use: 2% in 2025, rising step by step to 80% by 2050. Ships can pool surpluses and deficits or pay penalties."
+  },
+  {
+   "id": "cii",
+   "term": "CII",
+   "full": "Carbon Intensity Indicator",
+   "cat": "reg",
+   "ex": "An older bulker rated D may need to sail slower or fit energy-saving devices to keep charterers interested.",
+   "m": [
+    "=CII",
+    "carbon intensity indicator"
+   ],
+   "hl": true,
+   "def": "Carbon Intensity Indicator: IMO rating from A to E of a ship's yearly CO2 per unit of capacity and distance. Ships rated E, or D three years in a row, need a corrective plan, and charterers increasingly prefer A–C ships."
+  },
+  {
+   "id": "eexi",
+   "term": "EEXI",
+   "full": "Energy Efficiency Existing Ship Index",
+   "cat": "reg",
+   "ex": "An engine power limit means a 2010-built tanker can no longer speed up much to chase a high-paying cargo.",
+   "m": [
+    "=EEXI",
+    "engine power limitation",
+    "=EPL"
+   ],
+   "hl": true,
+   "def": "Energy Efficiency Existing Ship Index: IMO technical efficiency requirement for existing ships since 2023. Many older ships complied by limiting engine power, which lowers their top speed."
+  },
+  {
+   "id": "psc",
+   "term": "Port State Control (PSC)",
+   "cat": "reg",
+   "ex": "The Paris MoU, which includes Norway, publishes lists of detained ships; flags with many detentions end up on its black list.",
+   "m": [
+    "port state control",
+    "=PSC",
+    "Paris MoU",
+    "detained",
+    "detention list"
+   ],
+   "hl": true,
+   "def": "Inspections of foreign ships in a country's ports to check they meet international rules. Serious faults lead to detention until fixed."
+  },
+  {
+   "id": "ism",
+   "term": "ISM Code",
+   "cat": "reg",
+   "ex": "After an accident, investigators check whether the company followed its own ISM procedures.",
+   "m": [
+    "ISM Code",
+    "=ISM",
+    "=DPA"
+   ],
+   "hl": true,
+   "def": "International Safety Management Code: every shipping company must have a safety management system, a designated person ashore (DPA) and documented procedures."
+  },
+  {
+   "id": "mlc",
+   "term": "MLC",
+   "full": "Maritime Labour Convention",
+   "cat": "reg",
+   "ex": "Crew stuck on board for months past their contracts is an MLC breach that port inspectors can act on.",
+   "m": [
+    "=MLC",
+    "Maritime Labour Convention",
+    "seafarers' rights"
+   ],
+   "hl": true,
+   "def": "Maritime Labour Convention: ILO convention setting seafarers' rights to contracts, wages, rest hours, accommodation and repatriation."
+  },
+  {
+   "id": "mobility-package",
+   "term": "Mobility Package",
+   "cat": "reg",
+   "ex": "A truck from a Polish haulier working mostly in Western Europe must return to Poland at least every eight weeks.",
+   "no": "Mobilitetspakken",
+   "m": [
+    "Mobility Package",
+    "mobilitetspakken"
+   ],
+   "hl": true,
+   "core": [
+    "road"
+   ],
+   "def": "EU road transport rules adopted in 2020 covering cabotage, posting of drivers, rest rules, return of vehicles to their home country every eight weeks and tachographs for vans in international transport."
+  },
+  {
+   "id": "posting",
+   "term": "Posting of drivers",
+   "cat": "reg",
+   "ex": "A foreign driver doing cabotage in Norway must get the Norwegian minimum wage for those trips.",
+   "m": [
+    "posting of drivers",
+    "posted drivers",
+    "allmenngjøring",
+    "allmenngjort",
+    "utsendte sjåfører"
+   ],
+   "hl": true,
+   "def": "Rules requiring foreign drivers doing cabotage and some international jobs to be paid at least the host country's wage for that work. In Norway, minimum wages for road freight are set through generally applicable collective agreements (allmenngjøring)."
+  },
+  {
+   "id": "digitoll",
+   "term": "Digitoll",
+   "cat": "reg",
+   "ex": "If Digitoll goes down, trucks at the border may wait hours while customs falls back to manual procedures.",
+   "m": [
+    "Digitoll",
+    "Tolletaten",
+    "Norwegian Customs"
+   ],
+   "hl": true,
+   "def": "Norwegian Customs' digital system for reporting goods before they cross the border. Carriers must send electronic information in advance, and trucks without it can be held."
+  },
+  {
+   "id": "incoterms",
+   "term": "Incoterms",
+   "cat": "trade",
+   "ex": "'FCA Bergen' means the seller hands the goods to the buyer's carrier in Bergen. After that, risk and cost are the buyer's.",
+   "no": "Leveringsbetingelser",
+   "m": [
+    "Incoterms",
+    "Incoterm",
+    "Incoterms 2020",
+    "leveringsbetingelser",
+    "leveringsbetingelse"
+   ],
+   "hl": true,
+   "core": [
+    "road"
+   ],
+   "def": "Standard ICC rules (current version Incoterms 2020) that define who pays for transport, insurance and duties, and where the risk passes from seller to buyer."
+  },
+  {
+   "id": "exw",
+   "term": "EXW (Ex Works)",
+   "cat": "trade",
+   "ex": "Buying machinery EXW from a factory in Germany means you book and pay the truck from the factory gate.",
+   "m": [
+    "=EXW",
+    "ex works"
+   ],
+   "hl": true,
+   "def": "The seller makes the goods available at its own premises. The buyer handles and pays for everything from loading onwards."
+  },
+  {
+   "id": "fca",
+   "term": "FCA (Free Carrier)",
+   "cat": "trade",
+   "ex": "'FCA seller's warehouse, Bergen': risk passes when the goods are loaded onto the buyer's truck.",
+   "m": [
+    "=FCA",
+    "free carrier"
+   ],
+   "hl": true,
+   "def": "The seller delivers export-cleared goods to the carrier named by the buyer at an agreed place, where the risk passes. The most used term for road and container freight."
+  },
+  {
+   "id": "fob",
+   "term": "FOB (Free On Board)",
+   "cat": "trade",
+   "ex": "Grain bought FOB Santos: the buyer charters the ship and carries the risk once the grain is loaded.",
+   "m": [
+    "=FOB",
+    "free on board"
+   ],
+   "hl": true,
+   "def": "Sea and inland waterway only: risk passes when the goods are on board the ship at the loading port, and the buyer pays the sea freight. Common for bulk cargo."
+  },
+  {
+   "id": "cif",
+   "term": "CIF / CFR",
+   "cat": "trade",
+   "ex": "A steel cargo sold CIF Rotterdam: the seller pays the ship, but the buyer carries the risk from loading in Asia.",
+   "m": [
+    "=CIF",
+    "=CFR",
+    "cost, insurance and freight",
+    "cost insurance and freight",
+    "cost and freight"
+   ],
+   "hl": true,
+   "def": "Sea only. CFR (cost and freight): the seller pays freight to the destination port. CIF adds minimum insurance paid by the seller. In both, risk passes to the buyer when the goods are loaded on board."
+  },
+  {
+   "id": "dap",
+   "term": "DAP / DDP",
+   "cat": "trade",
+   "ex": "An online seller shipping DDP to Norway must handle Norwegian VAT and customs itself.",
+   "m": [
+    "=DAP",
+    "=DDP",
+    "=DPU",
+    "delivered at place",
+    "delivered duty paid"
+   ],
+   "hl": true,
+   "def": "DAP (Delivered at Place): the seller carries cost and risk to the named destination, and the buyer pays import duties. DDP (Delivered Duty Paid): the seller also pays import duties and VAT. DPU means delivered and unloaded."
+  },
+  {
+   "id": "bol",
+   "term": "Bill of lading (B/L)",
+   "cat": "trade",
+   "ex": "A bank financing a cargo holds the original B/L until the buyer has paid.",
+   "no": "Konnossement",
+   "m": [
+    "bill of lading",
+    "bills of lading",
+    "=B/L",
+    "=B/Ls",
+    "konnossement",
+    "=MBL",
+    "=HBL",
+    "sea waybill",
+    "sea waybills"
+   ],
+   "hl": true,
+   "core": [
+    "freight"
+   ],
+   "def": "Document issued by the sea carrier: a receipt for the cargo, evidence of the transport contract and a document of title—whoever holds an original 'to order' B/L can claim the goods. A sea waybill is a non-negotiable alternative."
+  },
+  {
+   "id": "shipper-consignee",
+   "term": "Shipper / consignee / notify party",
+   "cat": "trade",
+   "ex": "On an export from Bergen, the fish exporter is shipper, the importer in Rotterdam is consignee, and its customs agent is notify party.",
+   "no": "Vareeier / avsender / mottaker",
+   "m": [
+    "shipper",
+    "shippers",
+    "consignee",
+    "consignees",
+    "notify party",
+    "vareeier",
+    "vareeiere",
+    "vareeierne"
+   ],
+   "hl": true,
+   "def": "Shipper: the party sending the goods. Consignee: the receiver named on the transport document. Notify party: who the carrier contacts on arrival, often an agent or customs broker."
+  },
+  {
+   "id": "forwarder",
+   "term": "Freight forwarder",
+   "cat": "trade",
+   "ex": "DSV and Kuehne+Nagel are among the world's largest forwarders.",
+   "no": "Speditør",
+   "m": [
+    "freight forwarder",
+    "freight forwarders",
+    "forwarder",
+    "forwarders",
+    "freight forwarding",
+    "speditør",
+    "speditører",
+    "spedisjon"
+   ],
+   "hl": true,
+   "core": [
+    "road"
+   ],
+   "def": "Company that organises transport for shippers: books carriers, consolidates cargo and handles documents and customs. May own few or no trucks or ships."
+  },
+  {
+   "id": "nvocc",
+   "term": "NVOCC",
+   "cat": "trade",
+   "ex": "A forwarder acting as NVOCC books 50 containers with a liner and resells the space to small exporters.",
+   "m": [
+    "=NVOCC",
+    "=NVOCCs",
+    "non-vessel operating"
+   ],
+   "hl": true,
+   "def": "Non-vessel operating common carrier: issues its own (house) bills of lading and sells container transport without owning ships, buying space from shipping lines."
+  },
+  {
+   "id": "3pl",
+   "term": "3PL / 4PL",
+   "cat": "trade",
+   "ex": "A retailer outsources its central warehouse near Oslo to a 3PL instead of running it itself.",
+   "m": [
+    "=3PL",
+    "=4PL",
+    "third-party logistics",
+    "contract logistics",
+    "tredjepartslogistikk"
+   ],
+   "hl": true,
+   "def": "Third-party logistics: an outside company runs warehousing and transport for a business. Fourth-party logistics (4PL) manages the whole supply chain, including other 3PLs, on the customer's behalf."
+  },
+  {
+   "id": "cross-docking",
+   "term": "Cross-docking",
+   "cat": "trade",
+   "ex": "Pallets from twenty suppliers are cross-docked overnight onto trucks for each grocery store.",
+   "m": [
+    "cross-docking",
+    "cross docking",
+    "cross-dock",
+    "crossdock",
+    "crossdocking"
+   ],
+   "hl": true,
+   "def": "Goods arriving at a terminal are sorted and moved straight onto outgoing vehicles with little or no storage."
+  },
+  {
+   "id": "last-mile",
+   "term": "Last mile",
+   "cat": "trade",
+   "ex": "Parcel lockers cut last-mile cost because one stop serves dozens of customers.",
+   "m": [
+    "last mile",
+    "last-mile",
+    "home delivery",
+    "home deliveries",
+    "hjemlevering",
+    "siste mil"
+   ],
+   "hl": true,
+   "def": "The final delivery step to the end customer, often the most expensive part of the journey per parcel."
+  },
+  {
+   "id": "thc",
+   "term": "THC",
+   "full": "Terminal handling charge",
+   "cat": "trade",
+   "ex": "A THC of USD 455 per 20-foot box at Long Beach adds directly to an importer's landed cost.",
+   "m": [
+    "=THC",
+    "=THCs",
+    "terminal handling charge",
+    "terminal handling charges"
+   ],
+   "hl": true,
+   "def": "Terminal handling charge: the fee for handling a container at the terminal—lifting it on or off the ship and moving it in the yard—charged at origin and destination."
+  },
+  {
+   "id": "baf",
+   "term": "BAF",
+   "full": "Bunker adjustment factor",
+   "cat": "trade",
+   "ex": "If fuel prices rise 20% in a quarter, the BAF on each container goes up at the next adjustment.",
+   "m": [
+    "=BAF",
+    "bunker adjustment factor",
+    "bunker surcharge",
+    "emission surcharge",
+    "ETS surcharge"
+   ],
+   "hl": true,
+   "def": "Bunker adjustment factor: surcharge on container freight that follows fuel prices, so carriers pass changes in fuel cost on to customers. Emission surcharges for EU ETS work the same way."
+  },
+  {
+   "id": "dnd",
+   "term": "Demurrage & detention (containers)",
+   "cat": "trade",
+   "ex": "Free time of 5 days and a container collected on day 9 at USD 100 per day costs USD 400 in demurrage.",
+   "m": [
+    "demurrage and detention",
+    "=D&D",
+    "free time",
+    "detention charges"
+   ],
+   "hl": true,
+   "def": "Container fees: demurrage for leaving a full container in the terminal beyond the free time; detention for keeping the carrier's container outside the terminal too long."
+  },
+  {
+   "id": "vgm",
+   "term": "VGM",
+   "full": "Verified gross mass",
+   "cat": "trade",
+   "ex": "Without a VGM before the cut-off, the terminal will not load the container.",
+   "m": [
+    "=VGM",
+    "verified gross mass"
+   ],
+   "hl": true,
+   "def": "Verified gross mass: SOLAS rule that the shipper must declare the verified weight of a packed container before it is loaded on a ship."
+  },
+  {
+   "id": "cut-off",
+   "term": "Cut-off",
+   "cat": "trade",
+   "ex": "Cargo cut-off Thursday 12:00 for a Saturday sailing means the truck must reach the terminal before Thursday noon.",
+   "m": [
+    "cut-off",
+    "cutoff",
+    "cut off time",
+    "closing time"
+   ],
+   "hl": true,
+   "def": "Deadline for cargo, documents or VGM before a ship departs. Miss it and the container waits for the next sailing."
+  },
+  {
+   "id": "reefer",
+   "term": "Reefer",
+   "cat": "trade",
+   "ex": "Fresh Norwegian salmon leaves in reefer trailers kept just above freezing.",
+   "no": "Kjøletransport / termotransport",
+   "m": [
+    "reefer",
+    "reefers",
+    "refrigerated",
+    "termotransport",
+    "kjøletransport",
+    "cold chain",
+    "cold storage",
+    "fryselager"
+   ],
+   "hl": true,
+   "def": "Refrigerated container or trailer with its own cooling unit, used for food, fish and medicines."
+  },
+  {
+   "id": "project-cargo",
+   "term": "Project cargo",
+   "cat": "trade",
+   "ex": "A 300-tonne module from a yard in Germany to Ågotnes may combine a heavy-lift ship, self-propelled modular transporters (SPMT) and a road convoy.",
+   "no": "Prosjektlogistikk",
+   "m": [
+    "project cargo",
+    "project logistics",
+    "prosjektlogistikk",
+    "heavy lift",
+    "heavy-lift",
+    "=OOG",
+    "out of gauge",
+    "out-of-gauge",
+    "=SPMT",
+    "=SPMTs",
+    "breakbulk",
+    "break bulk"
+   ],
+   "hl": true,
+   "core": [
+    "road",
+    "offshore"
+   ],
+   "def": "Large, heavy or complex cargo for industrial projects—power plants, offshore modules, wind turbines—moved with tailored engineering by road, sea and air. Includes heavy lift and out-of-gauge (OOG) cargo."
+  },
+  {
+   "id": "roro",
+   "term": "Ro-ro / lo-lo",
+   "cat": "trade",
+   "ex": "Unaccompanied trailers between Norway and the continent often travel on ro-ro ships while the truck stays home.",
+   "m": [
+    "ro-ro",
+    "roro",
+    "=RoRo",
+    "lo-lo",
+    "lolo",
+    "unaccompanied trailer",
+    "unaccompanied trailers"
+   ],
+   "hl": true,
+   "def": "Ro-ro (roll-on/roll-off): cargo is driven on and off via ramps—trailers, cars and machinery. Lo-lo (lift-on/lift-off): cargo is lifted by cranes, like containers."
+  },
+  {
+   "id": "intermodal",
+   "term": "Intermodal transport",
+   "cat": "trade",
+   "ex": "A trailer goes Bergen–Oslo by train, then to Germany by ship, and a truck makes the final delivery.",
+   "m": [
+    "intermodal",
+    "multimodal",
+    "combined transport",
+    "kombitransport",
+    "rail freight",
+    "godstog",
+    "godstogene",
+    "jernbanefrakt"
+   ],
+   "hl": true,
+   "def": "Moving goods in one loading unit (container, trailer or swap body) using several modes—truck, rail and ship—without handling the goods themselves."
+  },
+  {
+   "id": "transshipment",
+   "term": "Transshipment / feeder",
+   "cat": "trade",
+   "ex": "Containers for Bergen often come from Asia to Rotterdam or Hamburg and continue on a feeder.",
+   "m": [
+    "transshipment",
+    "transhipment",
+    "feeder",
+    "feeders",
+    "feeder ship",
+    "feeder service",
+    "hub port"
+   ],
+   "hl": true,
+   "def": "Moving cargo from one ship to another at a hub port, for example from a large ocean ship to a smaller feeder ship that serves smaller ports such as most Norwegian ones."
+  },
+  {
+   "id": "dwell",
+   "term": "Dwell time",
+   "cat": "trade",
+   "ex": "Rail dwell times rising at a busy port can delay inland deliveries by days.",
+   "m": [
+    "dwell time",
+    "dwell times"
+   ],
+   "hl": true,
+   "def": "How long cargo or a container stays in a terminal before moving on. Rising dwell times are an early sign of congestion."
+  },
+  {
+   "id": "congestion",
+   "term": "Port congestion",
+   "cat": "trade",
+   "ex": "During the pandemic, dozens of container ships waited outside Los Angeles, which sent freight rates to record highs.",
+   "m": [
+    "port congestion",
+    "congestion",
+    "congested"
+   ],
+   "hl": true,
+   "core": [
+    "freight"
+   ],
+   "def": "Ships waiting to berth because terminals are full or slow. Waiting ships are effectively removed from supply, which pushes freight rates up."
+  },
+  {
+   "id": "customs-transit",
+   "term": "Customs transit (T1) / EORI",
+   "cat": "trade",
+   "ex": "A truck from Sweden carries goods to Bergen under a T1 transit, and duties are paid when customs clears them in Bergen.",
+   "m": [
+    "=T1",
+    "transit procedure",
+    "=EORI",
+    "customs transit",
+    "customs clearance",
+    "fortolling"
+   ],
+   "hl": true,
+   "def": "Transit (T1) lets goods move under customs control without paying duties until they reach the destination office. EORI is the ID number businesses need for customs in the EU."
+  },
+  {
+   "id": "supply-chain",
+   "term": "Supply chain resilience",
+   "cat": "trade",
+   "ex": "Norway building larger fuel stocks is a resilience measure: it buys time if imports are disrupted.",
+   "no": "Forsyningssikkerhet / beredskap",
+   "m": [
+    "supply chain resilience",
+    "forsyningssikkerhet",
+    "beredskap",
+    "beredskapslager",
+    "transportberedskap",
+    "drivstoffberedskap"
+   ],
+   "hl": true,
+   "def": "How well a supply chain withstands disruptions such as conflicts, cyberattacks or closed routes, using buffer stock, alternative suppliers and routes."
+  },
+  {
+   "id": "eta",
+   "term": "ETA / ETD / ETB",
+   "cat": "email",
+   "ex": "'ETA Mongstad 15/10 0600 LT, ETB 0900 AGW' means expected arrival at 06:00 local time and berthing at 09:00 if all goes well.",
+   "m": [
+    "=ETA",
+    "=ETD",
+    "=ETB",
+    "=ATA",
+    "=ATD",
+    "=ETAs"
+   ],
+   "hl": true,
+   "def": "Estimated time of arrival / departure / berthing. ATA and ATD are the actual times. Usually given with date and local time (LT) or UTC."
+  },
+  {
+   "id": "pol-pod",
+   "term": "POL / POD",
+   "cat": "email",
+   "ex": "'POL Bergen, POD Rotterdam' is a sea shipment. 'Please send POD for the Oslo delivery' asks for the signed receipt.",
+   "m": [
+    "=POL",
+    "=POD",
+    "port of loading",
+    "port of discharge",
+    "proof of delivery"
+   ],
+   "hl": true,
+   "def": "Port of loading / port of discharge. Careful: in road transport POD usually means proof of delivery, the signed delivery receipt."
+  },
+  {
+   "id": "tba",
+   "term": "TBA / TBC / TBN",
+   "cat": "email",
+   "ex": "'Laycan 1–5 Dec, vessel TBN' means the dates are agreed and the owner will name the ship later.",
+   "m": [
+    "=TBA",
+    "=TBC",
+    "=TBN"
+   ],
+   "hl": true,
+   "def": "To be advised / to be confirmed / to be nominated. 'Vessel TBN' means the ship has not been named yet."
+  },
+  {
+   "id": "eod",
+   "term": "EOD / COB / ASAP",
+   "cat": "email",
+   "ex": "'Please revert by COB Friday' means reply before the end of the working day on Friday.",
+   "m": [
+    "=EOD",
+    "=COB",
+    "=ASAP"
+   ],
+   "hl": true,
+   "def": "End of day / close of business (often around 16:00–17:00 local time) / as soon as possible."
+  },
+  {
+   "id": "pfa",
+   "term": "PFA / FYI / WRT / PLS",
+   "cat": "email",
+   "ex": "'PFA the CMR for today's load, pls confirm receipt. BR' is a typical dispatcher email.",
+   "m": [
+    "=PFA",
+    "=FYI",
+    "=WRT",
+    "=PLS",
+    "=Pls",
+    "=Rgds",
+    "=TIA"
+   ],
+   "hl": true,
+   "def": "Please find attached / for your information / with regard to / please. Common shorthand in operations emails, along with Rgds or BR (best regards) and TIA (thanks in advance)."
+  },
+  {
+   "id": "lt-utc",
+   "term": "LT / UTC",
+   "cat": "email",
+   "ex": "'ETA 0400 UTC' at Bergen in October is 06:00 local time.",
+   "m": [
+    "=UTC",
+    "=GMT",
+    "local time"
+   ],
+   "hl": true,
+   "def": "Local time / Coordinated Universal Time. Shipping often uses UTC to avoid time-zone confusion. Norway is UTC+1 in winter and UTC+2 in summer."
+  },
+  {
+   "id": "agw",
+   "term": "AGW / WP / WOG",
+   "cat": "email",
+   "ex": "'ETB tomorrow 0800 AGWWP' means berthing is expected at 08:00 if nothing goes wrong and the weather allows.",
+   "m": [
+    "=AGW",
+    "=WOG",
+    "=AGWWP",
+    "=WP"
+   ],
+   "hl": true,
+   "def": "All going well / weather permitting / without guarantee. Signals that a time or figure is an estimate, not a promise."
+  },
+  {
+   "id": "shinc",
+   "term": "SHINC / SHEX / SSHEX",
+   "cat": "email",
+   "ex": "'7,000 MT PWWD SHEX UU' means 7,000 tonnes per weather working day, Sundays and holidays excluded unless work is actually done.",
+   "m": [
+    "=SHINC",
+    "=SHEX",
+    "=SSHEX",
+    "=FHEX",
+    "=EIU",
+    "=UU"
+   ],
+   "hl": true,
+   "def": "Laytime terms: Sundays and holidays included (time counts every day) / Sundays and holidays excepted / Saturdays, Sundays and holidays excepted. Often combined with EIU (even if used) or UU (unless used) to say whether work done on excepted days counts."
+  },
+  {
+   "id": "wwd",
+   "term": "WWD / PWWD",
+   "cat": "email",
+   "ex": "A grain cargo at 8,000 t PWWD: a rainy day that stops loading does not use up laytime.",
+   "m": [
+    "=WWD",
+    "=PWWD",
+    "weather working day",
+    "weather working days"
+   ],
+   "hl": true,
+   "def": "Weather working day / per weather working day: days on which the weather allows cargo work. Hours lost to rain do not count as laytime."
+  },
+  {
+   "id": "wibon",
+   "term": "WIBON / WIPON / WIFPON / WCCON",
+   "cat": "email",
+   "ex": "With WIBON, a ship waiting three days at anchor for a berth is already using the charterer's laytime.",
+   "m": [
+    "=WIBON",
+    "=WIPON",
+    "=WIFPON",
+    "=WCCON"
+   ],
+   "hl": true,
+   "def": "Whether in berth or not / whether in port or not / whether in free pratique or not / whether customs cleared or not. These let the owner tender NOR and start laytime even while the ship waits for a berth or formalities."
+  },
+  {
+   "id": "moloo",
+   "term": "MOLOO / MOLCO",
+   "cat": "email",
+   "ex": "'50,000 MT 10% MOLOO' lets the owner load anything from 45,000 to 55,000 tonnes.",
+   "m": [
+    "=MOLOO",
+    "=MOLCO",
+    "=MOLCHOPT"
+   ],
+   "hl": true,
+   "def": "More or less in owner's option / in charterer's option: the allowed tolerance on cargo quantity."
+  },
+  {
+   "id": "dwcc",
+   "term": "DWCC",
+   "cat": "email",
+   "ex": "A 58,000 dwt ship with 1,800 t of fuel, water and stores has a DWCC of about 56,000 t.",
+   "m": [
+    "=DWCC"
+   ],
+   "hl": true,
+   "def": "Deadweight cargo capacity: how much cargo the ship can actually load after deducting fuel, water and stores from its deadweight."
+  },
+  {
+   "id": "pdpr",
+   "term": "PDPR",
+   "cat": "email",
+   "ex": "Demurrage of USD 20,000 PDPR for 6 hours comes to USD 5,000.",
+   "m": [
+    "=PDPR"
+   ],
+   "hl": true,
+   "def": "Per day pro rata: a daily rate (hire or demurrage) charged proportionally for part days."
+  },
+  {
+   "id": "units",
+   "term": "PMT / CBM / BBL",
+   "cat": "email",
+   "ex": "'USD 24.50 PMT' is the freight per tonne; a 'VLCC with 2 million bbls' carries about 318 million litres of crude.",
+   "m": [
+    "=PMT",
+    "=CBM",
+    "=cbm",
+    "=bbls",
+    "=bbl"
+   ],
+   "hl": true,
+   "def": "Per metric tonne / cubic metres / barrels (1 barrel = 159 litres). Units you meet in freight quotes and cargo descriptions."
+  },
+  {
+   "id": "oa-abt-bss",
+   "term": "O/A / ABT / BSS",
+   "cat": "email",
+   "ex": "'Laycan o/a 10 Nov, abt 30,000 MT, bss 1/1 USD 22 PMT' is a compact freight offer.",
+   "m": [
+    "=O/A",
+    "=ABT",
+    "=BSS",
+    "=bss"
+   ],
+   "hl": true,
+   "def": "On or about / about / basis. 'BSS 1/1' means based on one loading port and one discharge port."
+  },
+  {
+   "id": "rnr",
+   "term": "RNR / P&C",
+   "cat": "email",
+   "ex": "'VLCC, MEG/China, RNR' means the fixture happened, but the price was not disclosed.",
+   "m": [
+    "=RNR",
+    "=P&C"
+   ],
+   "hl": true,
+   "def": "Rate not reported / private and confidential. Market reports use these when the deal terms are kept secret."
+  },
+  {
+   "id": "cqd",
+   "term": "CQD",
+   "cat": "email",
+   "ex": "Under CQD terms, the owner must prove the port worked slower than usual to claim demurrage.",
+   "m": [
+    "=CQD"
+   ],
+   "hl": true,
+   "def": "Customary quick despatch: cargo handled as fast as is normal in that port, with no fixed laytime. Often leads to disputes."
+  },
+  {
+   "id": "fios",
+   "term": "FIO / FIOS / FIOST",
+   "cat": "email",
+   "ex": "A freight of USD 30 PMT FIOS means the cargo owner also pays the stevedores at both ends.",
+   "m": [
+    "=FIO",
+    "=FIOS",
+    "=FIOST",
+    "=FILO",
+    "=LIFO"
+   ],
+   "hl": true,
+   "def": "Free in and out (stowed, trimmed): the charterer pays for loading, discharging, stowing and trimming the cargo; the owner pays only for the ship."
+  },
+  {
+   "id": "delivery-points",
+   "term": "APS / DLOSP / DOP",
+   "cat": "email",
+   "ex": "'Delivery DLOSP Rotterdam' means hire starts when the pilot leaves the ship on its way out of Rotterdam.",
+   "m": [
+    "=APS",
+    "=DLOSP",
+    "=DOP"
+   ],
+   "hl": true,
+   "def": "Delivery and redelivery points in time charters: arrival pilot station / dropping last outward sea pilot / dropping outward pilot. Hire starts or ends when the ship passes that point."
+  },
+  {
+   "id": "cve",
+   "term": "CVE",
+   "cat": "email",
+   "ex": "'CVE USD 1,500 per month pro rata' is a standard line in a time charter recap.",
+   "m": [
+    "=CVE"
+   ],
+   "hl": true,
+   "def": "Communications, victualling and entertainment: a monthly lump sum the time charterer pays the owner on top of hire."
+  },
+  {
+   "id": "ilohc",
+   "term": "ILOHC",
+   "cat": "email",
+   "ex": "'ILOHC USD 5,000' means the charterer pays USD 5,000 and the crew cleans the holds.",
+   "m": [
+    "=ILOHC"
+   ],
+   "hl": true,
+   "def": "In lieu of hold cleaning: a lump sum the charterer pays instead of cleaning the holds after discharge."
+  }
+ ]
+}

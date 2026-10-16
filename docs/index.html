@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<!--HEAD-START-->
+<title>Cargo Chronicles</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Road transport and shipping news from free sources in one place, with every term explained.">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="robots" content="noindex, nofollow"><!-- personal phase: remove this line when you want search engines to find the site -->
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='10' fill='none' stroke='%23d6461a' stroke-width='3'/%3E%3Cpath d='M2 16h28' stroke='%230f1e2b' stroke-width='3'/%3E%3C/svg%3E">
+<!--HEAD-END-->
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<!--BODY-START-->
+<div class="app">
+  <header class="masthead">
+    <a class="brand" href="#home" aria-label="Cargo Chronicles, home">
+      <svg width="34" height="22" viewBox="0 0 34 22" aria-hidden="true">
+        <circle cx="17" cy="11" r="8.5" fill="none" stroke="var(--accent)" stroke-width="2.4"></circle>
+        <path d="M1 11h32" stroke="var(--ink)" stroke-width="2.4"></path>
+      </svg>
+      <span>
+        <span class="brand-name">Cargo Chronicles</span><br>
+        <span class="brand-sub">Transport &amp; shipping, explained</span>
+      </span>
+    </a>
+    <div class="ticker" id="ticker" aria-label="Market snapshot"></div>
+    <div class="mast-tools">
+      <form class="search" id="search-form" role="search">
+        <svg width="14" height="14" viewBox="0 0 16 16" aria-hidden="true"><circle cx="7" cy="7" r="5" fill="none" stroke="currentColor" stroke-width="1.8"></circle><path d="M11 11l4 4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg>
+        <label class="visually-hidden" for="q">Search news and terms</label>
+        <input id="q" type="search" placeholder="Search news & terms" autocomplete="off">
+      </form>
+      <button class="icon-btn" id="theme-btn" type="button" aria-label="Switch colour theme" title="Theme"></button>
+    </div>
+  </header>
+
+  <nav class="rail" id="rail" aria-label="Sections"></nav>
+
+  <main id="main" tabindex="-1">
+    <p class="empty">Loading…</p>
+  </main>
+
+  <aside class="side" id="side" aria-label="Learning"></aside>
+</div>
+
+<div id="pop-layer"></div>
+
+<dialog class="reader" id="reader" aria-label="Article details">
+  <div class="reader-inner" id="reader-body"></div>
+</dialog>
+<!--BODY-END-->
+<!--SCRIPTS-START-->
+<script src="assets/vendor/chart.umd.min.js"></script>
+<script src="assets/app.js"></script>
+<script src="assets/analytics.js"></script>
+<!--SCRIPTS-END-->
+</body>
+</html>
