@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T06:46:31Z",
+ "updated": "2026-10-17T09:38:28Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren til Troms og Nordland",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-til-troms-og-nordland/id3178449/",
    "source": "regjeringen",
-   "published": "2026-10-17T06:46:31Z",
+   "published": "2026-10-17T09:38:28Z",
    "seen": "2026-10-16T18:45:49Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam besøker blant annet Tromsø mandag 19. oktober og Bodø og Evenes tirsdag 20. oktober. Presse som ønsker å dekke besøket, kan ta kontakt med kommunikasjonsrådgiver i Samferdselsdepartementet Frøydis …",
@@ -20,6 +20,83 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "3f8e6e7d8040",
+   "title": "Fra «Paradise Hotel» til «Norske Truckers»",
+   "link": "https://lastebil.no/aktuelt/nyheter/2026/fra-paradise-hotel-til-norske-truckers",
+   "source": "lastebil",
+   "published": "2026-10-17T09:09:50Z",
+   "seen": "2026-10-17T09:38:28Z",
+   "lang": "no",
+   "excerpt": "«Norske Truckers» er tilbake med en ny sesong. Fra 19. oktober får seerne igjen bli med lastebilsjåfører og transportarbeidere på jobb over hele landet – og møte både kjente favoritter og nye profiler som holder Norge i gang, én mil av …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "0cbbeceb8574",
+   "title": "MSC-backed Nador terminal set to begin operations",
+   "link": "https://container-news.com/msc-backed-nador-terminal-set-to-begin-operations/",
+   "source": "containernews",
+   "published": "2026-10-17T08:30:19Z",
+   "seen": "2026-10-17T09:38:28Z",
+   "lang": "en",
+   "excerpt": "West Med Container Terminal (WMCT) is preparing to commence commercial operations at Morocco’s Port of Nador West Med following a series of operational trials, according to DynaLiners.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ea7ace5a4e16",
+   "title": "Innenriks sjøfart:Brønnbåtrederiene dominerer - og Sølvtrans gikk for gull",
+   "link": "https://www.mtlogistikk.no/innenriks-sjofart-med-gods-rostein-solvtrans/innenriks-sjofartbronnbatrederiene-dominerer-og-solvtrans-gikk-for-gull/1338804",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-17T08:08:28Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "2587cb5bc5bf",
+   "title": "CU Lines exits CNC’s Japan–Thailand service",
+   "link": "https://container-news.com/cu-lines-exits-cncs-japan-thailand-service/",
+   "source": "containernews",
+   "published": "2026-10-17T07:00:50Z",
+   "seen": "2026-10-17T09:38:28Z",
+   "lang": "en",
+   "excerpt": "CU Lines has withdrawn from its slot charter arrangement on CNC Line’s Japan–Thailand Express (JTX) service. Following the withdrawal, CNC Line, the intra-Asia subsidiary of CMA CGM, continues to operate the service across Japan, China and …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
   },
   {
    "id": "7e0d9bf40150",
