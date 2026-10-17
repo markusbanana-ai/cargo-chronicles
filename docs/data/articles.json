@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T18:38:48Z",
+ "updated": "2026-10-17T21:36:04Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren til Troms og Nordland",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-til-troms-og-nordland/id3178449/",
    "source": "regjeringen",
-   "published": "2026-10-17T18:38:48Z",
+   "published": "2026-10-17T21:36:04Z",
    "seen": "2026-10-16T18:45:49Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam besøker blant annet Tromsø mandag 19. oktober og Bodø og Evenes tirsdag 20. oktober. Presse som ønsker å dekke besøket, kan ta kontakt med kommunikasjonsrådgiver i Samferdselsdepartementet Frøydis …",
@@ -20,6 +20,68 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "9681aff97108",
+   "title": "DP World deploys electric yard tractors at Busan",
+   "link": "https://container-news.com/dp-world-deploys-electric-yard-tractors-at-busan/",
+   "source": "containernews",
+   "published": "2026-10-17T20:59:17Z",
+   "seen": "2026-10-17T21:36:04Z",
+   "lang": "en",
+   "excerpt": "DP World has deployed 55 electric yard tractors at its Busan terminal in South Korea, replacing LNG-powered vehicles and accounting for approximately 36 percent of the terminal’s 154-strong yard tractor fleet.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lng"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "ebfc0b2f1108",
+   "title": "Arkas redirects Russia Express to St. Petersburg",
+   "link": "https://container-news.com/arkas-redirects-russia-express-to-st-petersburg/",
+   "source": "containernews",
+   "published": "2026-10-17T19:00:01Z",
+   "seen": "2026-10-17T21:36:04Z",
+   "lang": "en",
+   "excerpt": "Arkas Line has redirected its Russia Express Service (REX) from Novorossiysk to St. Petersburg, restoring Russian port coverage through the Baltic, according to DynaLiners.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "5f1c53fd9ec2",
+   "title": "Fincantieri Accelerates Robotics and Physical AI to Build Future Shipyard",
+   "link": "https://maritime-executive.com/article/fincantieri-accelerates-robotics-and-physical-ai-to-build-future-shipyard",
+   "source": "marex",
+   "published": "2026-10-17T18:23:15Z",
+   "seen": "2026-10-17T21:36:04Z",
+   "lang": "en",
+   "excerpt": "Fincantieri, a global leader in high-complexity shipbuilding, is accelerating the transformation of its shipyards through the integration of advanced...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
   },
   {
    "id": "4e4e419c930c",
