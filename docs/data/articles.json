@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T12:43:33Z",
+ "updated": "2026-10-17T15:36:59Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren til Troms og Nordland",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-til-troms-og-nordland/id3178449/",
    "source": "regjeringen",
-   "published": "2026-10-17T12:43:33Z",
+   "published": "2026-10-17T15:36:59Z",
    "seen": "2026-10-16T18:45:49Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam besøker blant annet Tromsø mandag 19. oktober og Bodø og Evenes tirsdag 20. oktober. Presse som ønsker å dekke besøket, kan ta kontakt med kommunikasjonsrådgiver i Samferdselsdepartementet Frøydis …",
@@ -20,6 +20,45 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "441f81a7aca4",
+   "title": "How Bangladesh is dividing its ports among rival partners",
+   "link": "https://container-news.com/how-bangladesh-is-dividing-its-ports-among-rival-partners/",
+   "source": "containernews",
+   "published": "2026-10-17T14:00:29Z",
+   "seen": "2026-10-17T15:36:59Z",
+   "lang": "en",
+   "excerpt": "Danish equity, Gulf operators, Japanese aid and Chinese credit each have a role and Dhaka keeps ownership of them all. In the space of six weeks, Bangladesh has signed three port deals with three different partners.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ab45637fe83a",
+   "title": "Kjøre øst-vest? Rv. 52 Hemsedalsfjellet stenger 13,5 timer i døgnet",
+   "link": "https://lastebil.no/aktuelt/nyheter/kjoere-oest-vest-rv.-52-hemsedalsfjellet-stenger-13-5-timer-i-doegnet",
+   "source": "lastebil",
+   "published": "2026-10-17T13:11:47Z",
+   "seen": "2026-10-17T15:36:59Z",
+   "lang": "no",
+   "excerpt": "Sprengningsarbeid stenger riksveg 52 Hemsedalsfjellet i lange perioder daglig fram til jul. Vegen blir stengt dag, kveld og natt.Fra onsdag 21. oktober og fram til 17. desember blir Hemsedalsfjellet delvis stengt seks dager i uken.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "local",
+   "terms": [],
+   "paywall": false
   },
   {
    "id": "d203a807bbbe",
