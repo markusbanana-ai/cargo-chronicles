@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T21:39:16Z",
+ "updated": "2026-10-17T00:51:25Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren til Troms og Nordland",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-til-troms-og-nordland/id3178449/",
    "source": "regjeringen",
-   "published": "2026-10-16T21:39:16Z",
+   "published": "2026-10-17T00:51:25Z",
    "seen": "2026-10-16T18:45:49Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam besøker blant annet Tromsø mandag 19. oktober og Bodø og Evenes tirsdag 20. oktober. Presse som ønsker å dekke besøket, kan ta kontakt med kommunikasjonsrådgiver i Samferdselsdepartementet Frøydis …",
@@ -20,6 +20,64 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "31b60e0c5904",
+   "title": "BREAKING: Texas judge upholds nuclear verdict against C.H. Robinson",
+   "link": "https://www.freightwaves.com/news/breaking-texas-judge-upholds-nuclear-verdict-against-c-h-robinson",
+   "source": "freightwaves",
+   "published": "2026-10-17T00:15:48Z",
+   "seen": "2026-10-17T00:51:25Z",
+   "lang": "en",
+   "excerpt": "The nuclear verdict against C.H. Robinson in Texas has been affirmed.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "413ea538e75e",
+   "title": "Capital Maritime Finance sets final IPO price after strong demand",
+   "link": "https://container-news.com/capital-maritime-finance-sets-final-ipo-price-after-strong-demand/",
+   "source": "containernews",
+   "published": "2026-10-16T23:00:53Z",
+   "seen": "2026-10-17T00:51:25Z",
+   "lang": "en",
+   "excerpt": "Capital Maritime Finance Corp. has set the final offer price for its Greek public offering at €7.50 per share after investor demand exceeded €1 billion.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "9f2afe1e4705",
+   "title": "Maritime Piracy in 2026 Fell to 1992 Levels Despite Somalia-Yemen Surge",
+   "link": "https://maritime-executive.com/article/maritime-piracy-in-2026-fell-to-1992-levels-despite-somalia-yemen-surge",
+   "source": "marex",
+   "published": "2026-10-16T22:56:29Z",
+   "seen": "2026-10-17T00:51:25Z",
+   "lang": "en",
+   "excerpt": "The waters off the Horn of Africa are now the most dangerous for the merchant shipping industry owing to the resurgence of Somali piracy, a developmen...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
   },
   {
    "id": "eeb93fdf01bf",
