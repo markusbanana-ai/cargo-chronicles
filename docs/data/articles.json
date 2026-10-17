@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T09:38:28Z",
+ "updated": "2026-10-17T12:43:33Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren til Troms og Nordland",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-til-troms-og-nordland/id3178449/",
    "source": "regjeringen",
-   "published": "2026-10-17T09:38:28Z",
+   "published": "2026-10-17T12:43:33Z",
    "seen": "2026-10-16T18:45:49Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam besøker blant annet Tromsø mandag 19. oktober og Bodø og Evenes tirsdag 20. oktober. Presse som ønsker å dekke besøket, kan ta kontakt med kommunikasjonsrådgiver i Samferdselsdepartementet Frøydis …",
@@ -20,6 +20,48 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "d203a807bbbe",
+   "title": "Signal Ocean acquires maritime communications specialist Lgmar",
+   "link": "https://container-news.com/signal-ocean-acquires-maritime-communications-specialist-lgmar/",
+   "source": "containernews",
+   "published": "2026-10-17T12:30:55Z",
+   "seen": "2026-10-17T12:43:33Z",
+   "lang": "en",
+   "excerpt": "Signal Ocean has acquired Athens-based software company Lgmar, the developer of Telix, a maritime email and communications platform used by shipping professionals.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "560a3cae27f1",
+   "title": "CMA CGM removes Salerno from FEMEX1 service",
+   "link": "https://container-news.com/cma-cgm-removes-salerno-from-femex1-service/",
+   "source": "containernews",
+   "published": "2026-10-17T10:13:30Z",
+   "seen": "2026-10-17T12:43:33Z",
+   "lang": "en",
+   "excerpt": "CMA CGM has removed the northbound Salerno call from its North Europe–East Mediterranean FEMEX1 service. The carrier operates the FEMEX1 service with seven container ships averaging approximately 5,000 TEUs.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner",
+    "teu"
+   ],
+   "paywall": false
   },
   {
    "id": "3f8e6e7d8040",
