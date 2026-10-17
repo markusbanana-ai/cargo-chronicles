@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T15:36:59Z",
+ "updated": "2026-10-17T18:38:48Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren til Troms og Nordland",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-til-troms-og-nordland/id3178449/",
    "source": "regjeringen",
-   "published": "2026-10-17T15:36:59Z",
+   "published": "2026-10-17T18:38:48Z",
    "seen": "2026-10-16T18:45:49Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam besøker blant annet Tromsø mandag 19. oktober og Bodø og Evenes tirsdag 20. oktober. Presse som ønsker å dekke besøket, kan ta kontakt med kommunikasjonsrådgiver i Samferdselsdepartementet Frøydis …",
@@ -20,6 +20,146 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "4e4e419c930c",
+   "title": "International Seaways Expands VLCC Fleet Through Combination with Bruton",
+   "link": "https://maritime-executive.com/article/international-seaways-expands-vlcc-fleet-through-combination-with-bruton",
+   "source": "marex",
+   "published": "2026-10-17T18:09:23Z",
+   "seen": "2026-10-17T18:38:48Z",
+   "lang": "en",
+   "excerpt": "International Seaways, Inc. (NYSE: INSW), one of the largest tanker companies worldwide providing energy transportation services for crude oil and pet...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "vlcc"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "8b72ebd39630",
+   "title": "What Daimler’s Finance And Global Chiefs Revealed About Diesel, Driverless Trucks, And The Future Of The Industry",
+   "link": "https://www.freightwaves.com/news/what-daimlers-finance-and-global-chiefs-revealed-about-diesel-driverless-trucks-and-the-future-of-the-industry",
+   "source": "freightwaves",
+   "published": "2026-10-17T17:32:16Z",
+   "seen": "2026-10-17T18:38:48Z",
+   "lang": "en",
+   "excerpt": "On a rainy Saturday morning in Charlotte, inside the brand new North American headquarters of Daimler Truck Financial Services, four of the company’s senior leaders traded the usual press-conference script for something closer to a …",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "e5f7228fb66c",
+   "title": "Port of Montreal and Adani Group renew collaboration agreement",
+   "link": "https://container-news.com/port-of-montreal-and-adani-group-renew-collaboration-agreement/",
+   "source": "containernews",
+   "published": "2026-10-17T17:20:33Z",
+   "seen": "2026-10-17T18:38:48Z",
+   "lang": "en",
+   "excerpt": "The Montreal Port Authority and the Adani Group have renewed their collaboration agreement during Team Canada’s trade mission to India, signed in Mumbai by Captain Sandeep Mehta representing the Adani Group and Marie-Claude Galarneau …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6fac1eed4fb8",
+   "title": "Canaveral Port Authority Donates Firefighting Equipment",
+   "link": "https://maritime-executive.com/article/canaveral-port-authority-donates-firefighting-equipment",
+   "source": "marex",
+   "published": "2026-10-17T17:15:22Z",
+   "seen": "2026-10-17T18:38:48Z",
+   "lang": "en",
+   "excerpt": "The Canaveral Port Authority today officially turned over the ceremonial keys to “Truck 52,” an aerial fire apparatus formerly operated by Canaveral F...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "55827e8a9046",
+   "title": "Evergreen overhauls intra-Asia KTP service",
+   "link": "https://container-news.com/evergreen-overhauls-intra-asia-ktp-service/",
+   "source": "containernews",
+   "published": "2026-10-17T15:41:07Z",
+   "seen": "2026-10-17T18:38:48Z",
+   "lang": "en",
+   "excerpt": "Evergreen will restructure its intra-Far East KTP service by adding calls at Xiamen, Ho Chi Minh City, Qinzhou and Taipei, according to DynaLiners.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "0cf86eddd8cf",
+   "title": "Iran’s Guards Say Two Tankers Hit Mines In Strait Of Hormuz",
+   "link": "https://gcaptain.com/irans-guards-say-two-tankers-hit-mines-in-strait-of-hormuz/",
+   "source": "gcaptain",
+   "published": "2026-10-17T14:44:46Z",
+   "seen": "2026-10-17T18:38:48Z",
+   "lang": "en",
+   "excerpt": "DUBAI, Oct 17 (Reuters) – Iran’s Revolutionary Guards Navy said on Saturday that two oil tankers had caught fire after hitting naval mines while crossing the Strait of Hormuz, the official Iranian news agency...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "0a29570d9dd5",
+   "title": "Baltic Block Of Russian Grain May Open Black Sea, Latvia Says",
+   "link": "https://gcaptain.com/baltic-block-of-russian-grain-may-open-black-sea-latvia-says/",
+   "source": "gcaptain",
+   "published": "2026-10-17T14:21:57Z",
+   "seen": "2026-10-17T18:38:48Z",
+   "lang": "en",
+   "excerpt": "By Milda Seputyte and Aaron Eglitis Oct 16, 2026 (Bloomberg) –Europe should block the transit of Russian grain through Baltic ports as that may force Moscow to seek ways to open...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
   },
   {
    "id": "441f81a7aca4",
