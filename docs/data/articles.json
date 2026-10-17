@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T03:38:50Z",
+ "updated": "2026-10-17T06:46:31Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren til Troms og Nordland",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-til-troms-og-nordland/id3178449/",
    "source": "regjeringen",
-   "published": "2026-10-17T03:38:50Z",
+   "published": "2026-10-17T06:46:31Z",
    "seen": "2026-10-16T18:45:49Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam besøker blant annet Tromsø mandag 19. oktober og Bodø og Evenes tirsdag 20. oktober. Presse som ønsker å dekke besøket, kan ta kontakt med kommunikasjonsrådgiver i Samferdselsdepartementet Frøydis …",
@@ -20,6 +20,29 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "7e0d9bf40150",
+   "title": "Port of Long Beach sets monthly cargo record in September",
+   "link": "https://container-news.com/port-of-long-beach-sets-monthly-cargo-record-in-september/",
+   "source": "containernews",
+   "published": "2026-10-17T05:30:20Z",
+   "seen": "2026-10-17T06:46:31Z",
+   "lang": "en",
+   "excerpt": "The Port of Long Beach achieved its busiest month in 115 years of history in September 2026, handling 997,177 TEUs and eclipsing the previous record of 987,191 TEUs set in October 2024.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "teu",
+    "congestion"
+   ],
+   "paywall": false
   },
   {
    "id": "e26350e22651",
