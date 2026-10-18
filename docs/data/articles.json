@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T21:36:04Z",
+ "updated": "2026-10-18T00:51:42Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren til Troms og Nordland",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-til-troms-og-nordland/id3178449/",
    "source": "regjeringen",
-   "published": "2026-10-17T21:36:04Z",
+   "published": "2026-10-18T00:51:42Z",
    "seen": "2026-10-16T18:45:49Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam besøker blant annet Tromsø mandag 19. oktober og Bodø og Evenes tirsdag 20. oktober. Presse som ønsker å dekke besøket, kan ta kontakt med kommunikasjonsrådgiver i Samferdselsdepartementet Frøydis …",
@@ -20,6 +20,47 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "420113177506",
+   "title": "MSC adds Southampton to Ireland feeder service",
+   "link": "https://container-news.com/msc-adds-southampton-to-ireland-feeder-service/",
+   "source": "containernews",
+   "published": "2026-10-17T23:30:32Z",
+   "seen": "2026-10-18T00:51:42Z",
+   "lang": "en",
+   "excerpt": "MSC has added Southampton to its North West Continent–Ireland feeder service, expanding the loop to include the United Kingdom, according to DynaLiners. The feeder previously connected ports in Belgium and France with Ireland.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "transshipment",
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "b18b9498c97f",
+   "title": "Romanian Fighter Jets Shoot Down Two Drones Over Territorial Waters",
+   "link": "https://gcaptain.com/romanian-fighter-jets-shoot-down-two-drones-over-territorial-waters/",
+   "source": "gcaptain",
+   "published": "2026-10-17T22:58:23Z",
+   "seen": "2026-10-18T00:51:42Z",
+   "lang": "en",
+   "excerpt": "BUCHAREST, Oct 17 (Reuters) – Romanian F-16 fighter jets shot down two drones over the country’s territorial waters on Saturday, the defense ministry said. The drones were brought down days after two...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
   },
   {
    "id": "9681aff97108",
@@ -177,6 +218,25 @@
    ],
    "policy": false,
    "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "9d7a5d2a0c1c",
+   "title": "Ådalen styrker seg på stortruck med oppkjøp",
+   "link": "https://www.mtlogistikk.no/oppkjop-stortruck-truck-marine-service/adalen-styrker-seg-pa-stortruck-med-oppkjop/1330499",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-17T15:06:42Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
    "terms": [],
    "paywall": false
   },
