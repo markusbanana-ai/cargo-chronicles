@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T15:36:23Z",
+ "updated": "2026-10-18T18:39:15Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren til Troms og Nordland",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-til-troms-og-nordland/id3178449/",
    "source": "regjeringen",
-   "published": "2026-10-18T15:36:23Z",
+   "published": "2026-10-18T18:39:15Z",
    "seen": "2026-10-16T18:45:49Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam besøker blant annet Tromsø mandag 19. oktober og Bodø og Evenes tirsdag 20. oktober. Presse som ønsker å dekke besøket, kan ta kontakt med kommunikasjonsrådgiver i Samferdselsdepartementet Frøydis …",
@@ -20,6 +20,128 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "b4c9722bddcb",
+   "title": "GT Lines launches Khorfakkan–Djibouti shuttle",
+   "link": "https://container-news.com/gt-lines-launches-khorfakkan-djibouti-shuttle/",
+   "source": "containernews",
+   "published": "2026-10-18T18:30:09Z",
+   "seen": "2026-10-18T18:39:15Z",
+   "lang": "en",
+   "excerpt": "Gulftainer’s shipping arm, GT Lines, has launched a new direct container service connecting Khorfakkan in the United Arab Emirates with Djibouti.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint",
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "0d757e7ea136",
+   "title": "The Shift From Owning Trucks To Subscribing To Them, And What It Means For Fleet Finance",
+   "link": "https://www.freightwaves.com/news/the-shift-from-owning-trucks-to-subscribing-to-them-and-what-it-means-for-fleet-finance",
+   "source": "freightwaves",
+   "published": "2026-10-18T18:07:23Z",
+   "seen": "2026-10-18T18:39:15Z",
+   "lang": "en",
+   "excerpt": "The trucking industry has fallen in love with two phrases that get tossed around in conference rooms and press releases without anyone stopping to explain them, and if you have heard the terms truck as a service and driver as a service and …",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "bb04de863fd6",
+   "title": "California trucking owner pleads guilty in $2.1M identity theft scheme",
+   "link": "https://www.freightwaves.com/news/california-trucking-owner-pleads-guilty-in-2-1m-identity-theft-scheme",
+   "source": "freightwaves",
+   "published": "2026-10-18T17:37:19Z",
+   "seen": "2026-10-18T18:39:15Z",
+   "lang": "en",
+   "excerpt": "Nearly 100 people had their personal information compromised. Federal investigators traced the proceeds through international bank transfers before authorities arrested the operator following 18 months in Turkey.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lou"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "798064aac50e",
+   "title": "CMA CGM and MSC return Europe–Australia service to Suez",
+   "link": "https://container-news.com/cma-cgm-and-msc-return-europe-australia-service-to-suez/",
+   "source": "containernews",
+   "published": "2026-10-18T16:30:26Z",
+   "seen": "2026-10-18T18:39:15Z",
+   "lang": "en",
+   "excerpt": "CMA CGM and MSC have resumed routing their joint North Europe–Australasia service through the Suez Canal in both directions, according to DynaLiners. The service is marketed as Newmo by CMA CGM and Australia Express by MSC.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "c78a82d4fe6f",
+   "title": "Iran Urges US To Accept Proposal To Reopen Strait Of Hormuz",
+   "link": "https://gcaptain.com/iran-urges-us-to-accept-proposal-to-reopen-strait-of-hormuz/",
+   "source": "gcaptain",
+   "published": "2026-10-18T16:07:02Z",
+   "seen": "2026-10-18T18:39:15Z",
+   "lang": "en",
+   "excerpt": "DUBAI, Oct 18 (Reuters) – Iran’s offer to the United States to reopen the Strait of Hormuz within seven days is still on the table, Foreign Minister Abbas Araqchi told Iranian media...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "8468d6d82750",
+   "title": "Tailwind adds Casablanca–Setúbal link via WEC Lines",
+   "link": "https://container-news.com/tailwind-adds-casablanca-setubal-link-via-wec-lines/",
+   "source": "containernews",
+   "published": "2026-10-18T14:30:25Z",
+   "seen": "2026-10-18T18:39:15Z",
+   "lang": "en",
+   "excerpt": "Tailwind Shipping Lines has introduced a new short-sea connection between Morocco and Portugal through a slot-charter agreement with WEC Lines. The carrier will market the service as the Casablanca–Setúbal Connection (CSC).",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
   },
   {
    "id": "f8b8c9bfe29e",
