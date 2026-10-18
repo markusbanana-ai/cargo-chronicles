@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T03:39:00Z",
+ "updated": "2026-10-18T06:45:40Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren til Troms og Nordland",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-til-troms-og-nordland/id3178449/",
    "source": "regjeringen",
-   "published": "2026-10-18T03:39:00Z",
+   "published": "2026-10-18T06:45:40Z",
    "seen": "2026-10-16T18:45:49Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam besøker blant annet Tromsø mandag 19. oktober og Bodø og Evenes tirsdag 20. oktober. Presse som ønsker å dekke besøket, kan ta kontakt med kommunikasjonsrådgiver i Samferdselsdepartementet Frøydis …",
@@ -20,6 +20,50 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "1d6885098349",
+   "title": "Maersk updates automatic booking cancellation timeline",
+   "link": "https://container-news.com/maersk-updates-automatic-booking-cancellation-timeline/",
+   "source": "containernews",
+   "published": "2026-10-18T06:30:11Z",
+   "seen": "2026-10-18T06:45:40Z",
+   "lang": "en",
+   "excerpt": "Maersk has revised its automatic booking cancellation timeline for eligible shipments that have not materialised. Effective 15 October 2026, an eligible booking may be automatically cancelled when at least five days have passed since the …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6e3f469cdf5e",
+   "title": "Shipowners expand orderbooks at Chinese yards",
+   "link": "https://container-news.com/shipowners-expand-orderbooks-at-chinese-yards/",
+   "source": "containernews",
+   "published": "2026-10-18T05:00:29Z",
+   "seen": "2026-10-18T06:45:40Z",
+   "lang": "en",
+   "excerpt": "Zhonggu Shipping Group, Tsakos and Elbdeich Reederei have placed new containership orders at Chinese shipyards, covering vessels ranging from 3,200 TEU to 14,000 TEU, according to DynaLiners.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "orderbook",
+    "liner",
+    "teu"
+   ],
+   "paywall": false
   },
   {
    "id": "ef2149fee673",
