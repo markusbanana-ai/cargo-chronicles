@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T00:51:42Z",
+ "updated": "2026-10-18T03:39:00Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren til Troms og Nordland",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-til-troms-og-nordland/id3178449/",
    "source": "regjeringen",
-   "published": "2026-10-18T00:51:42Z",
+   "published": "2026-10-18T03:39:00Z",
    "seen": "2026-10-16T18:45:49Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam besøker blant annet Tromsø mandag 19. oktober og Bodø og Evenes tirsdag 20. oktober. Presse som ønsker å dekke besøket, kan ta kontakt med kommunikasjonsrådgiver i Samferdselsdepartementet Frøydis …",
@@ -20,6 +20,26 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "ef2149fee673",
+   "title": "No signs of truckload capacity recovering",
+   "link": "https://www.freightwaves.com/news/no-signs-of-truckload-capacity-recovering",
+   "source": "freightwaves",
+   "published": "2026-10-18T00:30:00Z",
+   "seen": "2026-10-18T03:39:00Z",
+   "lang": "en",
+   "excerpt": "Many expected a recovering truckload market after months of rate inflation. The data suggests the opposite.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ftl"
+   ],
+   "paywall": false
   },
   {
    "id": "420113177506",
