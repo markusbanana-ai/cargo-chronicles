@@ -3,7 +3,7 @@
 (function () {
   'use strict';
   const F = (window.Fairway = window.Fairway || {});
-  const state = { route: 'home', arg: '', level: 'all', sub: {}, limit: {}, glossCat: 'all', glossQ: '', search: '' };
+  const state = { route: 'home', arg: '', level: 'all', sub: {}, theme: {}, limit: {}, glossCat: 'all', glossQ: '', search: '' };
   F.state = state;
 
   const SEG_ORDER = ['road', 'freight', 'finance', 'insurance', 'offshore'];
@@ -258,7 +258,7 @@
     const titleNode = el('h3', { class: 'card-title' }, highlight(a.title, seen));
     const exNode = a.excerpt ? el('p', { class: 'card-ex' }, highlight(a.excerpt, seen)) : null;
     const extra = (a.terms || []).filter((id) => !seen.has(id) && F.terms.byId.get(id)).slice(0, 4);
-    const node = el('article', { class: 'card' },
+    const node = el('article', { class: 'card seg-' + a.segments[0] },
       el('div', { class: 'meta' },
         el('span', { class: 'src' }, src.name),
         el('span', null, when(a)),
@@ -287,6 +287,7 @@
     voyage: { tab: 'voyage', name: 'Voyage economics', text: 'Turn a freight rate into daily earnings (TCE), with bunker and EU ETS costs.' },
     effects: { tab: 'effects', name: 'Cause & effect', text: 'Follow one event from world markets down to Norway and Western Norway.' },
   };
+  TOOLS.markets = { tab: 'markets', name: 'Market pulse', text: 'Brent oil and the krone against the dollar and euro, with what they mean for transport.' };
   function toolsFor(a) {
     const out = [];
     const s = a.segments;
@@ -297,18 +298,124 @@
     return [...new Set(out)].slice(0, 3);
   }
 
+  // ---------------------------------------------------------------- reading guide (data/insights.json)
+  // Each rule describes a situation (keywords), explains the mechanism, and says what to watch.
+  // Rules are scored against the headline (x3) and summary (x1); the best two or three are shown.
+  const WB = '(?<![\\p{L}\\p{N}_])', WE = '(?![\\p{L}\\p{N}_])';
+  function kwRx(k) {
+    const esc = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    if (k[0] === '~') return new RegExp(WB + '(?:' + k.slice(1) + ')' + WE, 'iu');
+    let cs = false;
+    if (k[0] === '=') { cs = true; k = k.slice(1); }
+    const star = k.endsWith('*');
+    const body = esc(star ? k.slice(0, -1) : k) + (star ? '[\\p{L}\\p{N}_-]*' : '');
+    return new RegExp(WB + body + WE, cs ? 'u' : 'iu');
+  }
+  const DIR_UP = ['rise', 'rises', 'rising', 'rose', 'up', 'jump*', 'surge*', 'soar*', 'climb*', 'gain*', 'firm*', 'strengthen*', 'rally', 'rallies', 'increase*', 'higher', 'spike*', 'boost*', 'hike*', 'record high', 'øker', 'stiger', 'steg', 'opp', 'dyrere', 'høyere', 'økning', 'rekordhøy*'].map(kwRx);
+  const DIR_DN = ['fall', 'falls', 'falling', 'fell', 'drop*', 'slump*', 'plunge*', 'decline*', 'down', 'ease', 'eases', 'easing', 'eased', 'soften*', 'weaken*', 'lower', 'slide*', 'slid', 'tumble*', 'dip', 'dips', 'faller', 'falt', 'synker', 'ned', 'billigere', 'lavere', 'nedgang'].map(kwRx);
+
+  function guideRules() {
+    if (F._rules) return F._rules;
+    const raw = (F.data.insights && F.data.insights.rules) || [];
+    F._rules = raw.map((r) => ({
+      ...r,
+      _m: (r.m || []).map(kwRx),
+      _x: (r.x || []).map(kwRx),
+      _req: (r.req || []).map((g) => g.map(kwRx)),
+    }));
+    return F._rules;
+  }
+
+  function directionNear(title, pos) {
+    let best = null;
+    for (const [lab, list] of [['up', DIR_UP], ['dn', DIR_DN]]) {
+      for (const rx of list) {
+        const g = new RegExp(rx.source, rx.flags + 'g');
+        for (const m of title.matchAll(g)) {
+          const d = Math.abs(m.index - pos);
+          if (!best || d < best[0]) best = [d, lab];
+        }
+      }
+    }
+    return best && best[0] <= 45 ? best[1] : null;
+  }
+
+  function guideFor(a) {
+    const rules = guideRules();
+    const t = a.title || '', ex = a.excerpt || '', both = t + '\n' + ex;
+    const segs = new Set(a.segments), terms = new Set(a.terms || []);
+    const hits = [];
+    rules.forEach((r, i) => {
+      if (r.generic) return;
+      if (r.lang && r.lang !== a.lang) return;
+      if (r._x.some((x) => x.test(both))) return;
+      if (r._req.some((g) => !g.some((k) => k.test(both)))) return;
+      const inTitle = r._m.map((k) => k.exec(t)).filter(Boolean);
+      const inEx = r._m.filter((k) => k.test(ex)).length;
+      if (!inTitle.length && !inEx) return;
+      const score = 3 * inTitle.length + inEx + ((r.seg || []).some((s) => segs.has(s)) ? 1 : 0) + ((r.terms || []).some((x) => terms.has(x)) ? 1 : 0);
+      if (score < 3) return;
+      const dir = (r.up || r.dn) && inTitle.length ? directionNear(t, Math.min(...inTitle.map((m) => m.index))) : null;
+      hits.push({ r, dir, score, i });
+    });
+    hits.sort((x, y) => y.score - x.score || x.i - y.i);
+    const out = hits.slice(0, 3);
+    if (out.length < 2) {
+      const g = rules.find((r) => r.generic && (r.seg || []).includes(a.segments[0]));
+      if (g) out.push({ r: g, dir: null, score: 0 });
+    }
+    return out;
+  }
+  F.guideFor = guideFor;
+
+  function goLink(spec, close) {
+    const [kind, rest] = spec.split(':');
+    if (kind === 'tool') {
+      const tool = TOOLS[rest];
+      if (!tool) return null;
+      return el('a', { class: 'go go-tool', href: '#analytics.' + tool.tab, onclick: close }, el('span', { class: 'go-k' }, 'Analytics'), tool.name);
+    }
+    if (kind === 'map') {
+      const parts = rest.split('/');
+      const tab = parts[0];
+      const id = parts[parts.length - 1] === tab ? '' : parts[parts.length - 1];
+      const names = (F.mapNames && F.mapNames()) || {};
+      const label = id ? (names[id] || id) : (tab === 'sea' ? 'Shipping routes' : 'Road network');
+      return el('a', { class: 'go go-map', href: '#maps.' + tab + (id ? '.' + id : ''), onclick: close }, el('span', { class: 'go-k' }, tab === 'sea' ? 'Sea map' : 'Road map'), label);
+    }
+    return null;
+  }
+
+  function guideBlock(a, close) {
+    const items = guideFor(a);
+    if (!items.length) return null;
+    return [
+      el('h3', { class: 'section-h' }, 'How to read this story'),
+      el('div', { class: 'guide' }, items.map(({ r, dir }) => {
+        const v = dir === 'up' ? r.up : dir === 'dn' ? r.dn : null;
+        const chips = (r.terms || []).filter((id) => F.terms.byId.get(id)).slice(0, 4).map(termChip);
+        const links = (r.go || []).map((g) => goLink(g, close)).filter(Boolean);
+        return el('section', { class: 'guide-item' + (dir ? ' dir-' + dir : '') + (r.generic ? ' generic' : '') },
+          el('h4', null, dir ? el('span', { class: 'dir', 'aria-hidden': 'true' }, dir === 'up' ? '▲' : '▼') : null, v ? v.t : r.t),
+          el('p', null, v ? r.b + ' ' + v.b : r.b),
+          r.w ? el('p', { class: 'watch' }, el('b', null, 'Watch next: '), r.w) : null,
+          chips.length || links.length ? el('div', { class: 'guide-foot' }, chips, links) : null);
+      })),
+    ];
+  }
+
   function openReader(a) {
     closePop();
     const dlg = document.getElementById('reader');
     const body = document.getElementById('reader-body');
     const src = sourceOf(a);
     const seen = new Set();
+    dlg.className = 'reader seg-' + a.segments[0];
     const title = el('h2', { class: 'reader-title' }, highlight(a.title, seen));
     const ex = a.excerpt
       ? el('p', { class: 'reader-ex' }, highlight(a.excerpt, seen))
       : el('p', { class: 'small-note' }, 'This source does not share a summary. Open the article to read it.');
     const ids = [...new Set([...seen, ...(a.terms || [])])].filter((id) => F.terms.byId.get(id));
-    const seg = F.segments.get(a.segments[0]);
     const notes = [];
     if (a.paywall || src.access === 'members') notes.push('The full article may require a subscription or membership.');
     if (a.orig_title) notes.push(`Translated automatically from ${a.orig_lang.toUpperCase()}. Original title: “${a.orig_title}”.`);
@@ -324,6 +431,7 @@
         a.segments.map((s) => el('a', { class: 'chip seg-' + s, href: '#' + s, onclick: () => dlg.close() }, el('span', { class: 'seg-dot' }), segName(s))),
         el('span', { class: 'chip', style: 'cursor:default' }, 'Level: ' + levelName(a.level)),
         a.policy ? el('span', { class: 'chip', style: 'cursor:default' }, 'Policy & rules') : null),
+      guideBlock(a, () => dlg.close()),
       el('h3', { class: 'section-h' }, 'Terms in this article', el('span', { class: 'n' }, String(ids.length))),
       ids.length
         ? ids.map((id) => {
@@ -334,10 +442,6 @@
               el('a', { href: '#t.' + id, class: 'small-note', onclick: () => dlg.close() }, 'More in the glossary →'));
           })
         : el('p', { class: 'small-note' }, 'No glossary terms were found in the headline or summary. The full article may still use terms you can look up in the glossary.'),
-      seg && seg.hints ? [
-        el('h3', { class: 'section-h' }, 'How to read news like this'),
-        el('ul', { class: 'hint-list' }, seg.hints.map((h) => el('li', null, el('b', null, h.if), h.then))),
-      ] : null,
       el('h3', { class: 'section-h' }, 'Try it yourself'),
       toolsFor(a).map((tool) => el('a', { class: 'tool-link', href: '#analytics.' + tool.tab, onclick: () => dlg.close() },
         el('div', null, el('div', { class: 'k' }, 'Analytics'), el('div', null, el('b', null, tool.name), ' — ', tool.text)))));
@@ -396,6 +500,29 @@
   }
 
   // ---------------------------------------------------------------- pages
+  const MINI_SEA = '<svg width="54" height="38" viewBox="0 0 54 38" aria-hidden="true"><rect x="0.5" y="0.5" width="53" height="37" rx="4" fill="none" stroke="currentColor" stroke-opacity=".35"/><path d="M6 27c8-2 12-12 21-12s13 7 21 3" fill="none" stroke="var(--seg-freight)" stroke-width="2.4" stroke-linecap="round"/><circle cx="27" cy="15" r="3" fill="var(--accent)"/></svg>';
+  const MINI_ROAD = '<svg width="54" height="38" viewBox="0 0 54 38" aria-hidden="true"><rect x="0.5" y="0.5" width="53" height="37" rx="4" fill="none" stroke="currentColor" stroke-opacity=".35"/><path d="M14 33c3-8 2-14 9-18s15-4 18-10" fill="none" stroke="var(--seg-road)" stroke-width="3.2" stroke-linecap="round"/><path d="M14 33c6-4 14-4 26-1" fill="none" stroke="var(--seg-road)" stroke-width="1.6" stroke-linecap="round" stroke-opacity=".7"/></svg>';
+  function mapsCell() {
+    const svg = (html) => { const t = document.createElement('span'); t.innerHTML = html; return t.firstChild; };
+    return el('section', { class: 'board-cell maps-cell', 'aria-label': 'Maps' },
+      el('a', { class: 'board-head', href: '#maps' }, el('span', { class: 'nm' }, 'Route maps'), el('span', { class: 'open' }, 'Open maps')),
+      el('a', { class: 'maps-link', href: '#maps.sea' }, svg(MINI_SEA), el('b', null, 'Shipping routes'), el('span', null, 'Baltic routes, chokepoints and what-if closures')),
+      el('a', { class: 'maps-link', href: '#maps.road' }, svg(MINI_ROAD), el('b', null, 'Road network'), el('span', null, 'Traffic and trucks on Norway’s main roads')));
+  }
+
+  // themes: the situations (reading-guide rules) that come up most in a set of articles
+  function guideCached(a) {
+    F._guideCache = F._guideCache || new Map();
+    if (!F._guideCache.has(a.id)) F._guideCache.set(a.id, guideFor(a).filter((g) => !g.r.generic).map((g) => g.r.id));
+    return F._guideCache.get(a.id);
+  }
+  function themesFor(arts) {
+    const counts = new Map();
+    for (const a of arts) for (const id of guideCached(a)) counts.set(id, (counts.get(id) || 0) + 1);
+    const byId = new Map(guideRules().map((r) => [r.id, r]));
+    return [...counts.entries()].filter(([, n]) => n >= 2).sort((x, y) => y[1] - x[1]).slice(0, 6).map(([id, n]) => ({ r: byId.get(id), n }));
+  }
+
   function pageHome(main) {
     const arts = sortArts(F.data.articles.articles);
     const list = arts.filter((a) => matchLevel(a, state.level));
@@ -407,17 +534,21 @@
         el('h1', { class: 'page-title' }, 'What’s moving in transport and shipping'),
         el('p', { class: 'page-intro' }, `${arts.length} articles from ${srcCount} free sources, sorted into five sections. Hover or tap any dotted word for a plain explanation with an example.`)),
       sampleNotice(),
-      el('section', { class: 'briefing', 'aria-label': 'Latest in each section' },
-        el('div', { class: 'brief-head' }, 'Latest in each section'),
+      el('section', { class: 'board', 'aria-label': 'Latest in each section' },
         SEG_ORDER.map((sid) => {
           const sa = arts.filter((a) => a.segments.includes(sid));
-          const top = sa.find((a) => !shown.has(a.id)) || sa[0];
-          if (top) shown.add(top.id);
-          return el('a', { class: 'brief-row seg-' + sid, href: '#' + sid },
-            el('span', { class: 'k' }, el('span', { class: 'seg-dot' }), segName(sid), el('span', { class: 'n' }, String(sa.length))),
-            el('span', { class: 't' }, top ? top.title : 'Nothing new yet'),
-            el('span', { class: 'go', 'aria-hidden': 'true' }, '→'));
-        })),
+          const top = sa.filter((a) => !shown.has(a.id)).slice(0, 3);
+          top.forEach((a) => shown.add(a.id));
+          return el('section', { class: 'board-cell seg-' + sid, 'aria-label': segName(sid) },
+            el('a', { class: 'board-head', href: '#' + sid },
+              el('span', { class: 'nm' }, segName(sid)), el('span', { class: 'n' }, String(sa.length)), el('span', { class: 'open' }, 'Open section')),
+            el('ul', { class: 'board-list' }, top.length ? top.map((a) => el('li', null,
+              el('button', { class: 'board-item', type: 'button', onclick: () => openReader(a) },
+                el('span', { class: 't' }, a.title),
+                el('span', { class: 'm' }, el('span', null, sourceOf(a).name.replace(/\s*\(.*\)$/, '')), el('span', null, when(a))))))
+              : el('li', { class: 'empty' }, 'Nothing new yet')));
+        }),
+        mapsCell()),
       el('div', { class: 'filters' }, el('span', { class: 'lbl' }, 'Show'), levelChips(arts, 'home')),
       feed(list, 'home'));
   }
@@ -444,18 +575,28 @@
       filterRow = levelChips(arts, sid);
     }
     const core = F.data.glossary.terms.filter((t) => (t.core || []).includes(sid));
+    const themes = themesFor(arts);
+    const theme = themes.some((x) => x.r.id === state.theme[sid]) ? state.theme[sid] : null;
+    const themeRule = theme ? themes.find((x) => x.r.id === theme).r : null;
+    if (theme) list = list.filter((a) => guideCached(a).includes(theme));
     fill(main,
-      el('div', { class: 'page-head' },
-        el('span', { class: 'eyebrow' }, 'Section'),
+      el('div', { class: 'page-head seg-band seg-' + sid },
+        el('span', { class: 'eyebrow' }, el('span', { class: 'seg-dot' }), `${arts.length} articles`),
         el('h1', { class: 'page-title' }, seg.name),
         el('p', { class: 'page-intro' }, seg.intro)),
       sampleNotice(),
+      themes.length ? el('section', { class: 'learn seg-' + sid, 'aria-label': 'Themes right now' },
+        el('h2', null, 'What is driving this section right now'),
+        el('div', { class: 'themes' }, themes.map(({ r, n }) => el('button', { class: 'theme-btn', type: 'button', 'aria-pressed': String(theme === r.id),
+          onclick: () => { state.theme[sid] = theme === r.id ? null : r.id; state.limit[sid] = 30; render(); } }, r.t, el('span', { class: 'n' }, String(n))))),
+        themeRule ? el('div', { class: 'theme-explain' },
+          el('p', null, themeRule.b),
+          themeRule.w ? el('p', null, el('b', null, 'Watch next: '), themeRule.w) : null,
+          el('div', { class: 'guide-foot' }, (themeRule.terms || []).filter((id) => F.terms.byId.get(id)).slice(0, 4).map(termChip), (themeRule.go || []).map((g) => goLink(g)).filter(Boolean),
+            el('button', { class: 'btn-link', type: 'button', onclick: () => { state.theme[sid] = null; render(); } }, 'Show all stories'))) : null) : null,
       el('section', { class: 'learn', 'aria-label': 'Learn the basics' },
         el('h2', null, 'Learn the basics'),
-        el('div', { class: 'learn-row' }, core.map((t) => termChip(t.id))),
-        el('details', { class: 'hints' },
-          el('summary', null, 'How to read news in this section'),
-          el('ul', { class: 'hint-list' }, (seg.hints || []).map((h) => el('li', null, el('b', null, h.if), h.then))))),
+        el('div', { class: 'learn-row' }, core.map((t) => termChip(t.id)))),
       el('div', { class: 'filters' }, el('span', { class: 'lbl' }, 'Filter'), filterRow),
       feed(list, sid));
   }
@@ -547,6 +688,12 @@
           el('li', null, 'Articles in English and Norwegian are kept as they are. Articles in other languages are translated to English automatically.'),
           el('li', null, 'Dotted words link to the glossary. The program also lists the terms found in each article, so the “Explain this” panel can teach the vocabulary.'),
           el('li', null, 'Cargo Chronicles shows the headline, a short summary where the source provides one, and a link. To read the full story, you go to the source.')),
+        el('h2', null, 'Reading guides, maps and data'),
+        el('ul', null,
+          el('li', null, '“How to read this story” is chosen for each article from a library of situations (for example a chokepoint attack, falling Capesize rates or a diesel tax change), matched on the headline and summary. The library is in data/insights.json.'),
+          el('li', null, 'Shipping routes follow Baltic Exchange route definitions where one exists. Oil volumes through chokepoints are from the U.S. EIA (World Oil Transit Chokepoints, 2023 data). War-risk listed areas refer to the Lloyd’s Market Association Joint War Committee.'),
+          el('li', null, 'Road traffic is from Statens vegvesen’s national road database (NVDB, Trafikkmengde), used under the Norwegian Licence for Open Government Data (NLOD). It refreshes monthly.'),
+          el('li', null, 'Coastlines: Natural Earth (public domain) via world-atlas. Map projections: d3-geo (ISC licence).')),
         el('h2', null, 'Privacy'),
         el('p', null, 'This site sets no cookies, uses no analytics or advertising, and loads nothing from other companies: fonts and chart code are stored on the site itself. The only thing saved in your browser is your light/dark choice, if you change it.'),
         el('h2', null, 'Copyright and corrections'),
@@ -585,6 +732,7 @@
         link('home', 'Today', arts.length),
         SEG_ORDER.map((sid) => link(sid, segName(sid), n(sid), true))),
       el('div', { class: 'rail-group' }, el('div', { class: 'rail-label' }, 'Learn'),
+        link('maps', 'Route maps'),
         link('analytics', 'Analytics'),
         link('glossary', 'Glossary', F.data.glossary.terms.length)),
       el('div', { class: 'rail-group' }, el('div', { class: 'rail-label' }, 'Site'),
@@ -656,11 +804,15 @@
     const main = document.getElementById('main');
     main.replaceChildren();
     const r = state.route;
+    document.body.dataset.route = r;
     if (r === 'home') pageHome(main);
     else if (F.segments.has(r)) pageSection(main, r);
     else if (r === 'analytics') {
       if (F.renderAnalytics) F.renderAnalytics(main, state.arg || 'markets');
       else main.append(el('p', { class: 'empty' }, 'The analytics tools could not load.'));
+    } else if (r === 'maps') {
+      if (F.renderMaps) F.renderMaps(main, state.arg || 'sea');
+      else main.append(el('p', { class: 'empty' }, 'The maps could not load.'));
     } else if (r === 'glossary' || r === 't') pageGlossary(main, r === 't' ? state.arg : '');
     else if (r === 'about') pageAbout(main);
     else if (r === 'search') pageSearch(main);
@@ -673,6 +825,8 @@
     const dlg = document.getElementById('reader');
     if (dlg.open) dlg.close();
     const [r, arg] = parseHash();
+    // inside the maps page, selecting a route or chokepoint only updates the map
+    if (r === 'maps' && state.route === 'maps' && F.mapsUpdate && F.mapsUpdate(arg || 'sea')) { state.arg = arg; return; }
     const changed = r !== state.route;
     state.route = r === 't' ? 't' : r;
     state.arg = arg;
@@ -680,7 +834,7 @@
     render();
     if (changed && r !== 't') window.scrollTo(0, 0);
     if (changed) document.getElementById('main').focus({ preventScroll: true });
-    document.title = r === 'home' ? 'Cargo Chronicles' : `${({ analytics: 'Analytics', glossary: 'Glossary', t: 'Glossary', about: 'About', search: 'Search' })[r] || segName(r)} · Cargo Chronicles`;
+    document.title = r === 'home' ? 'Cargo Chronicles' : `${({ analytics: 'Analytics', maps: 'Route maps', glossary: 'Glossary', t: 'Glossary', about: 'About', search: 'Search' })[r] || segName(r)} · Cargo Chronicles`;
   }
   F.render = render;
 
@@ -740,7 +894,7 @@
   }
 
   async function loadData() {
-    const names = ['articles', 'glossary', 'sources', 'segments', 'markets', 'scenarios', 'status'];
+    const names = ['articles', 'glossary', 'sources', 'segments', 'markets', 'scenarios', 'status', 'insights'];
     const out = {};
     await Promise.all(names.map(async (n) => {
       try {

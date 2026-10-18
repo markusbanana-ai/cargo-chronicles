@@ -89,7 +89,11 @@
       "auto": false,
       "about": "US freight market news, mostly trucking: rates, capacity, diesel and cross-border trade.",
       "access": "free",
-      "enabled": true
+      "enabled": true,
+      "soft": true,
+      "soft_to": [
+        "freight"
+      ]
     },
     {
       "id": "splash",

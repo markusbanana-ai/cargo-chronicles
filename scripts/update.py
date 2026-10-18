@@ -343,6 +343,14 @@ class Classifier:
 
     def classify(self, src, title, desc, cats):
         segs = list(src.get("segments", []))
+        if src.get("soft") and segs:
+            # a soft default: if the article is clearly about another section and not about the
+            # default one (e.g. a shipping story in a trucking feed), file it there instead
+            targets = src.get("soft_to") or [x["id"] for x in self.segments]
+            scores = {t: self.score(self.seg_rx[t], title, desc, cats) for t in targets if t in self.seg_rx}
+            best = max(scores, key=scores.get) if scores else None
+            if best and best not in segs and scores[best] >= 3 and self.score(self.seg_rx[segs[0]], title, desc, cats) < 2:
+                segs = [best]
         for s in self.segments:
             sid = s["id"]
             if sid in segs:
@@ -515,7 +523,10 @@ def run(offline=False):
             continue
         art["title"] = INVISIBLE.sub("", art["title"])
         segs, subs, _policy, _level = clf.classify(src, art["title"], art.get("excerpt", ""), [])
-        art["segments"] = sorted(set(art["segments"]) | set(segs), key=lambda s: order.index(s) if s in order else 99)
+        keep = set(art["segments"])
+        if src.get("soft"):
+            keep -= set(src.get("segments", []))  # the default section may have been replaced
+        art["segments"] = sorted(keep | set(segs), key=lambda s: order.index(s) if s in order else 99)
         art["subs"] = sorted(set(art.get("subs", [])) | set(subs))
         art["terms"] = list(dict.fromkeys(art.get("terms", []) + clf.terms.terms(art["title"], art.get("excerpt", ""))))[:10]
 

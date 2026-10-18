@@ -59,6 +59,10 @@ All of these can be edited directly on GitHub (open the file, click the pencil i
 | `docs/data/segments.json` | The sections, the words that sort articles into them, and the "How to read this news" tips. |
 | `docs/data/glossary.json` | All glossary terms: definition (`def`), example (`ex`), Norwegian name (`no`) and the words that trigger it (`m`). In `m`, a leading `=` means "match exact capitals" (for abbreviations like `=CMR`). |
 | `docs/data/scenarios.json` | The events in Analytics → Cause & effect. |
+| `docs/data/insights.json` | The situations behind “How to read this story” in each article and the “What is driving this section” themes. Generated from a script; small text edits are fine. |
+| `docs/data/sea.json` | Shipping routes, chokepoints and what-if detours on the shipping map. |
+| `docs/data/roadinfo.json` | Road descriptions, mountain passes, ferries, border crossings and ferry links on the road map. |
+| `docs/data/roads.json` | Traffic counts from Statens vegvesen. Written automatically once a month by the **Update road traffic data** job; do not edit by hand. |
 
 JSON is picky: keep the quotes and commas exactly as the surrounding lines. GitHub shows an error if
 something is wrong, and you can always undo from the file's **History**.
@@ -96,6 +100,7 @@ scripts/update.py              reads feeds → sorts into sections → finds glo
         │                      → translates other languages → fetches Brent & NOK rates
         ▼
 docs/data/*.json               the data the website reads
+.github/workflows/roads.yml    monthly: scripts/build_roads.py fetches road traffic (NVDB) into docs/data/roads.json
 docs/index.html + assets/      the website itself (served by GitHub Pages)
 ```
 
@@ -103,5 +108,6 @@ docs/index.html + assets/      the website itself (served by GitHub Pages)
 `python scripts/update.py` (or `python scripts/update.py --offline` to re-sort without fetching).
 
 Data: news from the listed sources; Brent crude from the U.S. EIA via FRED; exchange rates from
-Norges Bank; free translation via MyMemory. Fonts: Barlow and IBM Plex (SIL Open Font License).
+Norges Bank; free translation via MyMemory; road traffic from Statens vegvesen (NVDB, NLOD licence);
+chokepoint oil volumes from the EIA; coastlines from Natural Earth; map maths by d3-geo (ISC). Fonts: Barlow and IBM Plex (SIL Open Font License).
 Charts: Chart.js (MIT).

@@ -355,6 +355,7 @@
 
   function voyage(box) {
     if (!lab.voyage) lab.voyage = { cargo: 55000, freight: 25, dist: 9000, speed: 12.5, cons: 28, portDays: 6, portCons: 4, bunker: 600, portCost: 120000, comm: 3.75, ets: 0.5, eua: 70, eurusd: eurUsd(), opex: 6500 };
+    if (lab.voyagePreset) { Object.assign(lab.voyage, lab.voyagePreset); lab.voyagePreset = null; }
     const p = lab.voyage;
     const c = colors();
     const out = el('div', { class: 'results' });

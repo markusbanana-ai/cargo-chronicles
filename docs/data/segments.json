@@ -95,7 +95,9 @@
         "fleet management",
         "freight market*",
         "spot rate*",
-        "tender*"
+        "tender*",
+        "parcel*",
+        "trucker*"
       ],
       "hints": [
         {
@@ -445,7 +447,8 @@
         "attack*",
         "struck",
         "strike*",
-        "drone", "drones",
+        "drone",
+        "drones",
         "piracy",
         "pirate*",
         "seize*",
