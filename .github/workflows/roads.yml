@@ -1,0 +1,40 @@
+name: Update road traffic data
+
+on:
+  schedule:
+    - cron: "41 4 3 * *"     # monthly, on the 3rd at 04:41 UTC (traffic counts change yearly)
+  workflow_dispatch:          # run by hand from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-roads
+  cancel-in-progress: false
+
+jobs:
+  roads:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch traffic volumes from Statens vegvesen (NVDB)
+        run: python scripts/build_roads.py || echo "Build reported a problem; see docs/data/roads_log.txt"
+
+      - name: Save changes
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add docs/data/roads.json docs/data/roads_log.txt 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Update road traffic data $(date -u +'%Y-%m-%d')"
+            git pull --rebase
+            git push
+          fi
