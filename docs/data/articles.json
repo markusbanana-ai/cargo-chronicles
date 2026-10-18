@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T06:45:40Z",
+ "updated": "2026-10-18T09:38:28Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren til Troms og Nordland",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-til-troms-og-nordland/id3178449/",
    "source": "regjeringen",
-   "published": "2026-10-18T06:45:40Z",
+   "published": "2026-10-18T09:38:28Z",
    "seen": "2026-10-16T18:45:49Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam besøker blant annet Tromsø mandag 19. oktober og Bodø og Evenes tirsdag 20. oktober. Presse som ønsker å dekke besøket, kan ta kontakt med kommunikasjonsrådgiver i Samferdselsdepartementet Frøydis …",
@@ -20,6 +20,30 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "c01cb0b2c242",
+   "title": "CMA CGM raises BAF on France–Tunisia RoRo service",
+   "link": "https://container-news.com/cma-cgm-raises-baf-on-france-tunisia-roro-service/",
+   "source": "containernews",
+   "published": "2026-10-18T08:23:23Z",
+   "seen": "2026-10-18T09:38:28Z",
+   "lang": "en",
+   "excerpt": "CMA CGM Short Sea Lines Intra Europe will increase its Bunker Adjustment Factor (BAF) on the RoRo South service connecting France and Tunisia.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "baf",
+    "roro",
+    "bunkers"
+   ],
+   "paywall": false
   },
   {
    "id": "1d6885098349",
