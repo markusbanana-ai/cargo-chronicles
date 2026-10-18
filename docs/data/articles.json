@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T18:39:15Z",
+ "updated": "2026-10-18T21:36:40Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren til Troms og Nordland",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-til-troms-og-nordland/id3178449/",
    "source": "regjeringen",
-   "published": "2026-10-18T18:39:15Z",
+   "published": "2026-10-18T21:36:40Z",
    "seen": "2026-10-16T18:45:49Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam besøker blant annet Tromsø mandag 19. oktober og Bodø og Evenes tirsdag 20. oktober. Presse som ønsker å dekke besøket, kan ta kontakt med kommunikasjonsrådgiver i Samferdselsdepartementet Frøydis …",
@@ -20,6 +20,463 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "15b02ce90f5d",
+   "title": "The Price is Right: Secondhand Tanker Prices Soar Alongside Day Rates",
+   "link": "https://maritime-executive.com/article/the-price-is-right-secondhand-tanker-prices-soar-alongside-day-rates",
+   "source": "marex",
+   "published": "2026-10-18T21:20:34Z",
+   "seen": "2026-10-18T21:36:40Z",
+   "lang": "en",
+   "excerpt": "In the United States, there is a long-running popular television game show called \"The Price Is Right.\" Contestants compete in a variety of games to d...",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "sale-purchase",
+    "dayrate"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "6111da16e996",
+   "title": "Tankers: Is a Clean Slate Coming for 15% of the Tanker Fleet?",
+   "link": "https://www.hellenicshippingnews.com/tankers-is-a-clean-slate-coming-for-15-of-the-tanker-fleet/",
+   "source": "hsn",
+   "published": "2026-10-18T21:00:59Z",
+   "seen": "2026-10-18T21:36:40Z",
+   "lang": "en",
+   "excerpt": "A sudden boost of tanker supply could emerge, should the US proceed with a waiver of sanctioned tankers. In its latest weekly report, shipbroker Gibson said that “the US is weighing a waiver that would let tankers sanctioned for links to …",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "sanctions",
+    "shipbroker"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "9c800ac329fa",
+   "title": "VLCC Tanker Rates Retreated Last Week",
+   "link": "https://www.hellenicshippingnews.com/vlcc-tanker-rates-retreated-last-week/",
+   "source": "hsn",
+   "published": "2026-10-18T21:00:58Z",
+   "seen": "2026-10-18T21:36:40Z",
+   "lang": "en",
+   "excerpt": "Clean LR2 The TC1 75kt MEG/Japan index climbed by 47 points this week to WS986, with the corresponding Baltic round-trip TCE gaining $14,800 to $285,400/day.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "vlcc",
+    "product-tanker",
+    "worldscale",
+    "tce"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "b95edf8f36de",
+   "title": "Dry Bulk Market: Capesizes Declined Slightly Last Week",
+   "link": "https://www.hellenicshippingnews.com/dry-bulk-market-capesizes-declined-slightly-last-week/",
+   "source": "hsn",
+   "published": "2026-10-18T21:00:58Z",
+   "seen": "2026-10-18T21:36:40Z",
+   "lang": "en",
+   "excerpt": "Capesize The market endured a sustained and broad-based decline through the week, with the BCI 182 5TC falling from $37,618 at Monday’s close to $29,464 by Friday.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dry-bulk",
+    "capesize"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "f340ad49be10",
+   "title": "Faster Ballast, Slower Laden: VLCC Supply Signals Diverge",
+   "link": "https://www.hellenicshippingnews.com/faster-ballast-slower-laden-vlcc-supply-signals-diverge/",
+   "source": "hsn",
+   "published": "2026-10-18T21:00:57Z",
+   "seen": "2026-10-18T21:36:40Z",
+   "lang": "en",
+   "excerpt": "This week’s Tanker Market Monitor examines divergence in VLCC sailing speeds, regional vessel supply, and freight earnings. In the Arabian Gulf, ballast vessels are accelerating while laden ships are slowing, with no clear improvement in …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "vlcc"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "0b15e4a01b67",
+   "title": "nOn Cyber Extortion Incident Involving 38 Maritime Companies Likely traces Back to a Single Vendor",
+   "link": "https://www.hellenicshippingnews.com/non-cyber-extortion-incident-involving-38-maritime-companies-likely-traces-back-to-a-single-vendor/",
+   "source": "hsn",
+   "published": "2026-10-18T21:00:56Z",
+   "seen": "2026-10-18T21:36:40Z",
+   "lang": "en",
+   "excerpt": "On 12 October 2026, the cyber extortion group n0n listed a batch of 38 maritime organizations on its dark web leak site. The targets include shipping companies, port terminal operators, container operation companies, logistics companies …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "144f33da9d9a",
+   "title": "Asia-US container rates mixed as extended peak season demand wanes; tanker rates stable",
+   "link": "https://www.hellenicshippingnews.com/asia-us-container-rates-mixed-as-extended-peak-season-demand-wanes-tanker-rates-stable/",
+   "source": "hsn",
+   "published": "2026-10-18T21:00:54Z",
+   "seen": "2026-10-18T21:36:40Z",
+   "lang": "en",
+   "excerpt": "Rates for shipping containers from east Asia and China to the US were mixed this week while rates for liquid chemical tankers ex-US Gulf were largely stable. CONTAINER RATES Container rates were mixed this week to both US coasts.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers",
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "440cabbbeeda",
+   "title": "Japan to provide P&I, compensate cargo, hull cover for crude, oil products, LNG transport",
+   "link": "https://www.hellenicshippingnews.com/japan-to-provide-pi-compensate-cargo-hull-cover-for-crude-oil-products-lng-transport/",
+   "source": "hsn",
+   "published": "2026-10-18T21:00:52Z",
+   "seen": "2026-10-18T21:36:40Z",
+   "lang": "en",
+   "excerpt": "Japan is set to provide protection and indemnity cover and partially compensate cargo and hull insurance payments for the transportation of crude oil, oil products and LNG, as part of a bill approved by the Cabinet on Oct.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "gas",
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "pi",
+    "lng",
+    "hm"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "21541fc87b50",
+   "title": "Biofuel Bunker Snapshot: Rotterdam’s B30-VLSFO premium over VLSFO narrows",
+   "link": "https://www.hellenicshippingnews.com/biofuel-bunker-snapshot-rotterdams-b30-vlsfo-premium-over-vlsfo-narrows/",
+   "source": "hsn",
+   "published": "2026-10-18T21:00:50Z",
+   "seen": "2026-10-18T21:36:40Z",
+   "lang": "en",
+   "excerpt": "Europe Rotterdam’s B30-VLSFO (POMEME) price has gained $36/mt in the past week, while the Dutch port’s conventional VLSFO price has jumped $54/mt over the same period.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bunkers"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "974813dabdee",
+   "title": "One Singapore ship was sunk, but here’s why others are still transiting the Strait of Hormuz",
+   "link": "https://www.hellenicshippingnews.com/one-singapore-ship-was-sunk-but-heres-why-others-are-still-transiting-the-strait-of-hormuz/",
+   "source": "hsn",
+   "published": "2026-10-18T21:00:48Z",
+   "seen": "2026-10-18T21:36:40Z",
+   "lang": "en",
+   "excerpt": "Vessels transit the Hormuz Strait off the coast of Iran’s southern port city of Bandar Abbas on September 7, 2026. Commercial vessels are likely to continue navigating the perilous Strait of Hormuz despite the sinking of a …",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint",
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "1f9f42a40bde",
+   "title": "Trade Data vs. Maritime Intelligence: What Customs Agencies Actually Need",
+   "link": "https://www.hellenicshippingnews.com/trade-data-vs-maritime-intelligence-what-customs-agencies-actually-need/",
+   "source": "hsn",
+   "published": "2026-10-18T21:00:46Z",
+   "seen": "2026-10-18T21:36:40Z",
+   "lang": "en",
+   "excerpt": "Trade Data Was Built for Commercial Visibility Cargo manifests, customs declarations, shipping records, and import and export filings exist to describe commerce. They do that well. How much crude moved through Yanbu last month?",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "dry-bulk",
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "06f2eebeee7f",
+   "title": "Drewry: Intra Asia Container Index Down 3% Last Week",
+   "link": "https://www.hellenicshippingnews.com/drewry-intra-asia-container-index-down-3-last-week-2/",
+   "source": "hsn",
+   "published": "2026-10-18T21:00:44Z",
+   "seen": "2026-10-18T21:36:40Z",
+   "lang": "en",
+   "excerpt": "Drewry’s Intra-Asia Container Index (IACI) eased 3% to $1,453 per 40ft container. Freight rates declined, particularly from Shanghai to Busan, Ho Chi Minh City and Jawaharlal Nehru Port, as congestion eased at these ports.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "container-index",
+    "congestion"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "21a2cdd3952a",
+   "title": "Iran war: Saudi helicopter crash kills two as tanker attacks threaten Hormuz",
+   "link": "https://www.hellenicshippingnews.com/iran-war-saudi-helicopter-crash-kills-two-as-tanker-attacks-threaten-hormuz/",
+   "source": "hsn",
+   "published": "2026-10-18T21:00:42Z",
+   "seen": "2026-10-18T21:36:40Z",
+   "lang": "en",
+   "excerpt": "Two Saudi military personnel were killed in a helicopter crash near Yemen on Sunday, as regional fighting intensified and tanker attacks threatened shipping through the Strait of Hormuz.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "ef82732667da",
+   "title": "Singapore fuel oil stocks fall 7% despite rise in net imports",
+   "link": "https://www.hellenicshippingnews.com/singapore-fuel-oil-stocks-fall-7-despite-rise-in-net-imports/",
+   "source": "hsn",
+   "published": "2026-10-18T21:00:40Z",
+   "seen": "2026-10-18T21:36:40Z",
+   "lang": "en",
+   "excerpt": "Singapore’s residual fuel oil stocks have averaged 7% lower so far in October than across September, Enterprise Singapore’s latest data shows.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "units"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "06aaa2d07eca",
+   "title": "AI, Robotics and Nuclear Energy Lead Discussion at ABS North America Regional Committee Meeting",
+   "link": "https://www.hellenicshippingnews.com/ai-robotics-and-nuclear-energy-lead-discussion-at-abs-north-america-regional-committee-meeting/",
+   "source": "hsn",
+   "published": "2026-10-18T21:00:36Z",
+   "seen": "2026-10-18T21:36:40Z",
+   "lang": "en",
+   "excerpt": "“Rapid technology innovation and autonomous systems are transforming shipping into a highly connected, data-driven industry.” That was a key message from John McDonald, ABS Chairman and CEO, to maritime industry leaders at the ABS North …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "class-society"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "5e367e0ce9aa",
+   "title": "AMS Barging christens 9,000 m³ methanol-ready tanker Felicitas as fleet continues to grow",
+   "link": "https://www.hellenicshippingnews.com/ams-barging-christens-9000-m%c2%b3-methanol-ready-tanker-felicitas-as-fleet-continues-to-grow/",
+   "source": "hsn",
+   "published": "2026-10-18T21:00:34Z",
+   "seen": "2026-10-18T21:36:40Z",
+   "lang": "en",
+   "excerpt": "Dutch inland shipping company AMS Barging has christened its new diesel-electric tanker Felicitas at Noordereiland in Rotterdam. Liv and Julie, daughters of AMS Barging co-owner Igor Jansen, performed the naming ceremony.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "daaed076c905",
+   "title": "Singapore bio-bunker sales surged in September, while LNG sales declined",
+   "link": "https://www.hellenicshippingnews.com/singapore-bio-bunker-sales-surged-in-september-while-lng-sales-declined/",
+   "source": "hsn",
+   "published": "2026-10-18T21:00:32Z",
+   "seen": "2026-10-18T21:36:40Z",
+   "lang": "en",
+   "excerpt": "Singapore sold approximately 2,700 mt/day of bio-bunkers in September, up from around 1,800 mt/day in August, according to preliminary data from the Maritime and Port Authority of Singapore.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bunkers",
+    "lng"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "b529083e870f",
+   "title": "China state buyers purchase up to 13 US soybean cargoes",
+   "link": "https://www.hellenicshippingnews.com/china-state-buyers-purchase-up-to-13-us-soybean-cargoes/",
+   "source": "hsn",
+   "published": "2026-10-18T21:00:30Z",
+   "seen": "2026-10-18T21:36:40Z",
+   "lang": "en",
+   "excerpt": "Chinese state-owned trading firms purchased 10 to 13 Panamax cargoes of US soybeans on Wednesday, marking the second substantial round of purchases since US President Donald Trump and Chinese President Xi Jinping met in September, Reuters …",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "panamax"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "aa1052f5ec1d",
+   "title": "Oman Signs EU No-Tolls Pledge on Freedom of Navigation",
+   "link": "https://maritime-executive.com/article/oman-signs-eu-no-tolls-pledge-on-freedom-of-navigation",
+   "source": "marex",
+   "published": "2026-10-18T20:57:33Z",
+   "seen": "2026-10-18T21:36:40Z",
+   "lang": "en",
+   "excerpt": "Oman has joined all 27 EU member states and 33 other countries in signing a pledge to maintain the integrity of the United Nations Convention on the L...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "7dc5cccb850b",
+   "title": "CMA CGM and COSCO shift EPIC call to Algeciras",
+   "link": "https://container-news.com/cma-cgm-and-cosco-shift-epic-call-to-algeciras/",
+   "source": "containernews",
+   "published": "2026-10-18T20:30:52Z",
+   "seen": "2026-10-18T21:36:40Z",
+   "lang": "en",
+   "excerpt": "CMA CGM and COSCO Shipping Lines/OOCL will temporarily replace the westbound Tangier call with Algeciras on their joint EPIC/IP1 service, according to DynaLiners. The adjustment is expected to remain in place until at least December 2026.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "60dd93ad80f0",
+   "title": "As CM Ports Exits Colombo Project, US Invests $17M in Port's Digitalization",
+   "link": "https://maritime-executive.com/article/u-s-invests-17-million-in-colombo-port-s-digital-upgrades",
+   "source": "marex",
+   "published": "2026-10-18T18:59:05Z",
+   "seen": "2026-10-18T21:36:40Z",
+   "lang": "en",
+   "excerpt": "As Sri Lanka's Colombo Port continues to expand its booming transshipment business in South Asia, the U.S. government has pledged a small investment o...",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "transshipment"
+   ],
+   "paywall": false
   },
   {
    "id": "b4c9722bddcb",
