@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T09:38:28Z",
+ "updated": "2026-10-18T12:43:29Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren til Troms og Nordland",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-til-troms-og-nordland/id3178449/",
    "source": "regjeringen",
-   "published": "2026-10-18T09:38:28Z",
+   "published": "2026-10-18T12:43:29Z",
    "seen": "2026-10-16T18:45:49Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam besøker blant annet Tromsø mandag 19. oktober og Bodø og Evenes tirsdag 20. oktober. Presse som ønsker å dekke besøket, kan ta kontakt med kommunikasjonsrådgiver i Samferdselsdepartementet Frøydis …",
@@ -20,6 +20,66 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "f8b8c9bfe29e",
+   "title": "Iraq’s return to the sea runs through specific terms",
+   "link": "https://container-news.com/iraqs-return-to-the-sea-runs-through-specific-terms/",
+   "source": "containernews",
+   "published": "2026-10-18T12:20:29Z",
+   "seen": "2026-10-18T12:43:29Z",
+   "lang": "en",
+   "excerpt": "On October 15, Iraqi Line was scheduled to sail from Jebel Ali to Umm Qasr. Baghdad presents the restart as a way to raise freight volumes through Iraqi ports and widen the national carrier’s role in regional trade.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "d68c3ad84dfc",
+   "title": "Borderlands Mexico: US trucking crackdown raises concerns over freight disruptions",
+   "link": "https://www.freightwaves.com/news/borderlands-mexico-us-trucking-crackdown-raises-concerns-over-freight-disruptions",
+   "source": "freightwaves",
+   "published": "2026-10-18T11:00:00Z",
+   "seen": "2026-10-18T12:43:29Z",
+   "lang": "en",
+   "excerpt": "This week in Borderlands Mexico: US trucking crackdown raises concerns over freight disruptions; M2 Global Logistics launches in Houston; and Cutter & Buck opens new distribution center in Texas.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "7b6bd1026ab7",
+   "title": "Akkon Lines adds Iskenderun to Jeddah Express",
+   "link": "https://container-news.com/akkon-lines-adds-iskenderun-to-jeddah-express/",
+   "source": "containernews",
+   "published": "2026-10-18T10:30:44Z",
+   "seen": "2026-10-18T12:43:29Z",
+   "lang": "en",
+   "excerpt": "Akkon Lines has added Iskenderun to the rotation of its Jeddah Express Service (JXS), expanding its coverage between Türkiye and Saudi Arabia, according to DynaLiners. The service now connects five Turkish ports with Jeddah on the Red Sea.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint",
+    "liner",
+    "teu"
+   ],
+   "paywall": false
   },
   {
    "id": "c01cb0b2c242",
@@ -574,7 +634,7 @@
   },
   {
    "id": "31b60e0c5904",
-   "title": "BREAKING: Texas judge upholds nuclear verdict against C.H. Robinson",
+   "title": "Texas judge upholds nuclear verdict against C.H. Robinson",
    "link": "https://www.freightwaves.com/news/breaking-texas-judge-upholds-nuclear-verdict-against-c-h-robinson",
    "source": "freightwaves",
    "published": "2026-10-17T00:15:48Z",
