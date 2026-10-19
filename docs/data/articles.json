@@ -1,7 +1,657 @@
 {
- "updated": "2026-10-19T09:46:10Z",
+ "updated": "2026-10-19T12:51:24Z",
  "sample": false,
  "articles": [
+  {
+   "id": "fe82fbcd6e72",
+   "title": "Breeze Ship Design Secures Contract for Union Vega Offshore's PSV Series",
+   "link": "https://maritime-executive.com/article/breeze-ship-design-secures-contract-for-union-vega-offshore-s-psv-series",
+   "source": "marex",
+   "published": "2026-10-19T12:22:24Z",
+   "seen": "2026-10-19T12:51:24Z",
+   "lang": "en",
+   "excerpt": "Union Vega Offshore has placed an order for two firm 900 m² Platform Supply Vessels (PSVs), with options for an additional four vessels, based on Bree...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "psv"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "4e0d0b5b018e",
+   "title": "Fugro completes 2026 survey campaign for Ireland’s 900 MW offshore wind project",
+   "link": "https://offshore-energy.biz/2026/10/19/fugro-completes-2026-survey-campaign-for-irelands-900-mw-offshore-wind-project",
+   "source": "offshoreenergy",
+   "published": "2026-10-19T12:04:44Z",
+   "seen": "2026-10-19T12:51:24Z",
+   "lang": "en",
+   "excerpt": "Fugro has completed the 2026 marine and coastal survey campaign for the Irish transmission system operator (TSO) EirGrid and the Powering Up...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "offshore-wind"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "fbc1082fa3f8",
+   "title": "Baltic Dry Index climbs to 2546 up 35 points",
+   "link": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2546-up-35-points/",
+   "source": "hsn",
+   "published": "2026-10-19T12:00:31Z",
+   "seen": "2026-10-19T12:51:24Z",
+   "lang": "en",
+   "excerpt": "Today, Monday, October 19 2026, the Baltic Dry Index climbed 35 points, 2546 points. Baltic Dry Index is compiled by the London-based Baltic Exchange and covers prices for transported cargo such as coal, grain and iron ore.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bdi",
+    "baltic-exchange"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "0ebe4d8fd4fe",
+   "title": "Maersk expands Gemini network overhaul",
+   "link": "https://container-news.com/maersk-expands-gemini-network-overhaul/",
+   "source": "containernews",
+   "published": "2026-10-19T12:00:06Z",
+   "seen": "2026-10-19T12:51:24Z",
+   "lang": "en",
+   "excerpt": "Maersk has announced a broad series of changes across the Gemini network, including the launch of the AE18 service and revised rotations for AE2, AE11, AE12, AE19 and ME2.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "5ec188b2c1d1",
+   "title": "Box truck carrier’s pivots show new fleets must know costs",
+   "link": "https://www.freightwaves.com/news/tla-group-box-truck-business-costs",
+   "source": "freightwaves",
+   "published": "2026-10-19T12:00:00Z",
+   "seen": "2026-10-19T12:51:24Z",
+   "lang": "en",
+   "excerpt": "TLA Group’s Telly Arnold says box truck newcomers hear about revenue first, then learn about insurance deposits, freight claims and breakdowns the hard way.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ceaff72b4316",
+   "title": "EMGS lands offshore exploration survey award in Pakistan",
+   "link": "https://splash247.com/emgs-lands-offshore-exploration-survey-award-in-pakistan/",
+   "source": "splash",
+   "published": "2026-10-19T12:00:00Z",
+   "seen": "2026-10-19T12:51:24Z",
+   "lang": "en",
+   "excerpt": "Norwegian geophysical services specialist Electromagnetic Geoservices (EMGS) has secured a letter of award from Pakistan’s Mari Energies for controlled-source electromagnetic surveys across multiple offshore exploration blocks.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "seismic"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "68bdfcdefee0",
+   "title": "Petronas and Petrovietnam strengthen ties in pursuit of energy security and low-carbon growth",
+   "link": "https://offshore-energy.biz/2026/10/19/petronas-and-petrovietnam-strengthen-ties-in-pursuit-of-energy-security-and-low-carbon-growth",
+   "source": "offshoreenergy",
+   "published": "2026-10-19T11:39:56Z",
+   "seen": "2026-10-19T12:51:24Z",
+   "lang": "en",
+   "excerpt": "Petronas and Petrovietnam are expanding their 35-year partnership across LNG, upstream development, and low-carbon energy arsenal in Vietnam.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lng",
+    "ep"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "fd4df06ec843",
+   "title": "Ithaca Energy chief executive to retire",
+   "link": "https://splash247.com/ithaca-energy-chief-executive-to-retire/",
+   "source": "splash",
+   "published": "2026-10-19T11:30:00Z",
+   "seen": "2026-10-19T12:51:24Z",
+   "lang": "en",
+   "excerpt": "UK North Sea oil and gas producer Ithaca Energy has launched a search for a new chief executive after Luciano Vasques announced plans to retire by March 31, 2027.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a87ed9ca166f",
+   "title": "'World’s first' commercial ship-to-ship green ammonia bunkering performed in China",
+   "link": "https://offshore-energy.biz/2026/10/19/worlds-first-commercial-ship-to-ship-green-ammonia-bunkering-performed-in-china",
+   "source": "offshoreenergy",
+   "published": "2026-10-19T11:11:02Z",
+   "seen": "2026-10-19T12:51:24Z",
+   "lang": "en",
+   "excerpt": "The world's first commercial ship-to-ship bunkering of green ammonia fuel, as China Energy Engineering Group (Energy China) describes it, has...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dual-fuel",
+    "bunkers"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "16cc825361ef",
+   "title": "COSCO Shipping Ports throughput jumps in September",
+   "link": "https://container-news.com/cosco-shipping-ports-throughput-jumps-in-september/",
+   "source": "containernews",
+   "published": "2026-10-19T11:00:26Z",
+   "seen": "2026-10-19T12:51:24Z",
+   "lang": "en",
+   "excerpt": "COSCO Shipping Ports handled 11.04 million TEUs across its global terminal portfolio in September 2026, representing a 15.7% increase compared with the same month last year.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "b0f09dca62c6",
+   "title": "Norway ends one offshore wage row only for Reach Subsea strike to begin",
+   "link": "https://splash247.com/norway-ends-one-offshore-wage-row-only-for-reach-subsea-strike-to-begin/",
+   "source": "splash",
+   "published": "2026-10-19T11:00:00Z",
+   "seen": "2026-10-19T12:51:24Z",
+   "lang": "en",
+   "excerpt": "Norway’s protracted offshore well services wage dispute has been settled through voluntary arbitration, even as a separate labour conflict has triggered a strike at subsea contractor Reach Subsea.",
+   "segments": [
+    "insurance",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ed4325cb764d",
+   "title": "Northern Sea Route Transits Surpass 2025 Total as Arctic Shipping Gains Momentum",
+   "link": "https://gcaptain.com/northern-sea-route-transits-surpass-2025-total-as-arctic-shipping-gains-momentum/",
+   "source": "gcaptain",
+   "published": "2026-10-19T10:53:54Z",
+   "seen": "2026-10-19T12:51:24Z",
+   "lang": "en",
+   "excerpt": "The number of commercial transit voyages through Russia’s Northern Sea Route (NSR) had already surpassed the full-year 2025 total by the end of September, putting Arctic shipping on course for another record season as cargo volumes rise …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "gas",
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f636c416d1e6",
+   "title": "Jack-up changes hands as Ocean Oilfield enriches its drilling fleet with Noble’s rig",
+   "link": "https://offshore-energy.biz/2026/10/19/jack-up-changes-hands-as-ocean-oilfield-enriches-its-drilling-fleet-with-nobles-rig",
+   "source": "offshoreenergy",
+   "published": "2026-10-19T10:51:20Z",
+   "seen": "2026-10-19T12:51:24Z",
+   "lang": "en",
+   "excerpt": "Ocean Oilfield has wrapped up the acquisition of a rig, which is now docked in Malta and ready for immediate global deployment.",
+   "segments": [
+    "finance",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "rig"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "682165bf71cc",
+   "title": "Qatar LNG Cargo Makes Rare Red Sea Journey to Get Gas to Europe",
+   "link": "https://gcaptain.com/qatar-lng-cargo-makes-rare-red-sea-journey-to-get-gas-to-europe/",
+   "source": "gcaptain",
+   "published": "2026-10-19T10:50:00Z",
+   "seen": "2026-10-19T12:51:24Z",
+   "lang": "en",
+   "excerpt": "A carrier loaded with Qatari liquefied natural gas is sailing north through the Red Sea, potentially speeding up delivery to European customers with a rare transit through waters vulnerable to renewed attacks from Houthi rebels.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lng",
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "71643ca4017a",
+   "title": "MSC-backed GCC expands car carrier spree with two more newbuilds",
+   "link": "https://splash247.com/msc-backed-gcc-expands-car-carrier-spree-with-two-more-newbuilds/",
+   "source": "splash",
+   "published": "2026-10-19T10:20:00Z",
+   "seen": "2026-10-19T12:51:24Z",
+   "lang": "en",
+   "excerpt": "MSC-controlled Global Car Carriers (GCC) has added another two large LNG dual-fuel car carriers in China, taking its rapidly expanding newbuilding programme to 22 ships.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "car-carrier",
+    "newbuilding",
+    "lng",
+    "dual-fuel"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "0aefcd786be9",
+   "title": "GEOxyz conducting seabed survey at UK offshore wind site",
+   "link": "https://offshore-energy.biz/2026/10/19/geoxyz-conducting-seabed-survey-at-uk-offshore-wind-site",
+   "source": "offshoreenergy",
+   "published": "2026-10-19T10:12:22Z",
+   "seen": "2026-10-19T12:51:24Z",
+   "lang": "en",
+   "excerpt": "GEOxyz is carrying out a geophysical site survey at ScottishPower Renewables’ East Anglia Two offshore wind farm site in the UK North Sea to...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "offshore-wind"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "529464cf033e",
+   "title": "LNG, Gas Shipping Rates Under Pressure",
+   "link": "https://www.hellenicshippingnews.com/lng-gas-shipping-rates-under-pressure/",
+   "source": "hsn",
+   "published": "2026-10-19T10:00:59Z",
+   "seen": "2026-10-19T12:51:24Z",
+   "lang": "en",
+   "excerpt": "LNG The LNG market remained under pressure this week, despite a number of cross-basin requirements emerging from both the US Gulf and West Africa.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lng"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "b55d1a30bfba",
+   "title": "Shipping industry sets out blueprint for a workable UK maritime fuel standard",
+   "link": "https://www.hellenicshippingnews.com/shipping-industry-sets-out-blueprint-for-a-workable-uk-maritime-fuel-standard/",
+   "source": "hsn",
+   "published": "2026-10-19T10:00:57Z",
+   "seen": "2026-10-19T12:51:24Z",
+   "lang": "en",
+   "excerpt": "Drawing on industry experience since FuelEU Maritime came into force in January 2025, the paper offers practical recommendations to inform the Department for Transport’s development of a domestic maritime fuel standard, as proposed in the …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "fueleu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "66c159225eac",
+   "title": "Future Fuel Talks: Ammonia bunkering needs customers beyond early adopters – CMB.TECH",
+   "link": "https://www.hellenicshippingnews.com/future-fuel-talks-ammonia-bunkering-needs-customers-beyond-early-adopters-cmb-tech/",
+   "source": "hsn",
+   "published": "2026-10-19T10:00:55Z",
+   "seen": "2026-10-19T12:51:24Z",
+   "lang": "en",
+   "excerpt": "CMB.TECH’s fleet will generate initial demand for the Walvis Bay ammonia bunkering terminal, but third-party demand will underpin its commercial viability, Roy Campe told ENGINE.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bunkers",
+    "dry-bulk",
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "f5ab5b1d435f",
+   "title": "Pushing the boundaries of battery-electric ferry design",
+   "link": "https://www.hellenicshippingnews.com/pushing-the-boundaries-of-battery-electric-ferry-design/",
+   "source": "hsn",
+   "published": "2026-10-19T10:00:53Z",
+   "seen": "2026-10-19T12:51:24Z",
+   "lang": "en",
+   "excerpt": "With a 40 MWh battery system on board, Incat’s latest catamaran newbuild has made headlines as the largest purely electric ferry to date and likely pioneer of a new vessel class.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "newbuilding",
+    "class-society"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "ca48f31516cc",
+   "title": "AEMA offers specialized training to steer ammonia-fueled ships",
+   "link": "https://www.hellenicshippingnews.com/aema-offers-specialized-training-to-steer-ammonia-fueled-ships/",
+   "source": "hsn",
+   "published": "2026-10-19T10:00:51Z",
+   "seen": "2026-10-19T12:51:24Z",
+   "lang": "en",
+   "excerpt": "World’s leading shipping conglomerate based in Hong Kong and one of the largest employers of Indian seafarers, Anglo-Eastern features specialized facilities like the LNG and ammonia bunkering station skid and alternative fuel training …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dual-fuel",
+    "lng",
+    "bunkers"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "312ce87a0a9e",
+   "title": "Iron Ore Fines from India: Liquefaction Alert!",
+   "link": "https://www.hellenicshippingnews.com/iron-ore-fines-from-india-liquefaction-alert/",
+   "source": "hsn",
+   "published": "2026-10-19T10:00:49Z",
+   "seen": "2026-10-19T12:51:24Z",
+   "lang": "en",
+   "excerpt": "Following a recent fatal bulk carrier casualty in the Bay of Bengal, Members are reminded of the risks of carrying iron ore fines and other cargoes prone to liquefaction.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dry-bulk"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "ef9098f67c65",
+   "title": "MMI Daily Iron Ore Index Report October 19 2026",
+   "link": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-october-19-2026/",
+   "source": "hsn",
+   "published": "2026-10-19T10:00:48Z",
+   "seen": "2026-10-19T12:51:24Z",
+   "lang": "en",
+   "excerpt": "Today’s recovery extended across futures, port spot and seaborne markets, but better prices should still be distinguished from stronger demand.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "160ec8625228",
+   "title": "One year on, HD Hyundai chair drives mergers, US shipbuilding push",
+   "link": "https://www.hellenicshippingnews.com/one-year-on-hd-hyundai-chair-drives-mergers-us-shipbuilding-push/",
+   "source": "hsn",
+   "published": "2026-10-19T10:00:47Z",
+   "seen": "2026-10-19T12:51:24Z",
+   "lang": "en",
+   "excerpt": "HD Hyundai Chair Chung Ki-sun is set to mark his first year as the helm of the South Korean industrial conglomerate on Saturday, having overseen major mergers, expanded US shipbuilding partnerships and accelerated investment in new growth …",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "mna"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "3c137e117cbd",
+   "title": "Singapore conventional bunker sales dipped in September",
+   "link": "https://www.hellenicshippingnews.com/singapore-conventional-bunker-sales-dipped-in-september/",
+   "source": "hsn",
+   "published": "2026-10-19T10:00:45Z",
+   "seen": "2026-10-19T12:51:24Z",
+   "lang": "en",
+   "excerpt": "Lower HSFO sales dragged Singapore’s total bunker sales down by 1% in September, according to preliminary data from the Maritime and Port Authority of Singapore (MPA).",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bunkers"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "c6a8679d8442",
+   "title": "Iron Ore Port Inventory and Port Pick-up Volume",
+   "link": "https://www.hellenicshippingnews.com/iron-ore-port-inventory-and-port-pick-up-volume/",
+   "source": "hsn",
+   "published": "2026-10-19T10:00:43Z",
+   "seen": "2026-10-19T12:51:24Z",
+   "lang": "en",
+   "excerpt": "As of October 16, the latest SMM data shows that total iron ore inventory across 35 main ports in China stood at 148.3 million mt, up 2.85 million mt MoM, with overall inventory trending higher.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "acb8ffd5570a",
+   "title": "Iron Ore Rises as Steel Output Rebounds",
+   "link": "https://www.hellenicshippingnews.com/iron-ore-rises-as-steel-output-rebounds/",
+   "source": "hsn",
+   "published": "2026-10-19T10:00:39Z",
+   "seen": "2026-10-19T12:51:24Z",
+   "lang": "en",
+   "excerpt": "Iron ore futures climbed above CNY 680 per ton, recovering from four-year lows amid stronger crude steel production and better-than-expected economic growth in China.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk",
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8fdd5b309c46",
+   "title": "CMA CGM updates surcharges for China, South America and Morocco shipments",
+   "link": "https://container-news.com/cma-cgm-updates-surcharges-for-china-south-america-and-morocco-shipments/",
+   "source": "containernews",
+   "published": "2026-10-19T10:00:39Z",
+   "seen": "2026-10-19T12:51:24Z",
+   "lang": "en",
+   "excerpt": "CMA CGM has announced new Peak Season Surcharges (PSS) for container shipments from China, South America and Morocco. The charges will take effect on different dates between October 22 and November 15, 2026.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f2e333f24689",
+   "title": "Oil prices slide 2% as Trump waives Russia sanctions",
+   "link": "https://www.hellenicshippingnews.com/oil-prices-slide-2-as-trump-waives-russia-sanctions/",
+   "source": "hsn",
+   "published": "2026-10-19T10:00:29Z",
+   "seen": "2026-10-19T12:51:24Z",
+   "lang": "en",
+   "excerpt": "Oil prices fell sharply on Monday as markets positioned for improving supplies after U.S. President Donald Trump signed an order waiving most sanctions and tariffs on Russia.",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "sanctions"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "ab8e8559e5ef",
+   "title": "Trump likely to waive new Russian oil sanctions due today: analysts",
+   "link": "https://www.hellenicshippingnews.com/trump-likely-to-waive-new-russian-oil-sanctions-due-today-analysts/",
+   "source": "hsn",
+   "published": "2026-10-19T10:00:25Z",
+   "seen": "2026-10-19T12:51:24Z",
+   "lang": "en",
+   "excerpt": "US President Donald Trump’s administration is likely to defer implementation or issue waivers of new sanctions and tariffs on buyers of Russian oil that are legally due Oct.",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "sanctions"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "79676aaa2c8c",
+   "title": "Nanjing Tanker picks Dalian for LR2 quartet",
+   "link": "https://splash247.com/nanjing-tanker-picks-dalian-for-lr2-quartet/",
+   "source": "splash",
+   "published": "2026-10-19T10:00:00Z",
+   "seen": "2026-10-19T12:51:24Z",
+   "lang": "en",
+   "excerpt": "China Merchants-controlled Nanjing Tanker has selected Dalian Shipbuilding Industry Corporation (DSIC) to build four more LR2 product and crude tankers, taking its planned newbuilding programme in the segment at the Chinese yard to six …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "product-tanker",
+    "newbuilding"
+   ],
+   "paywall": false
+  },
   {
    "id": "228ddd4dba37",
    "title": "Hai An lines up $70m feeder newbuild investment",
@@ -47,6 +697,24 @@
    "terms": [
     "mna"
    ],
+   "paywall": false
+  },
+  {
+   "id": "e8294f32a52c",
+   "title": "In pursuit of Middle East expansion, US piping company sets up entity in Jordan",
+   "link": "https://offshore-energy.biz/2026/10/19/in-pursuit-of-middle-east-expansion-us-piping-company-sets-up-entity-in-jordan",
+   "source": "offshoreenergy",
+   "published": "2026-10-19T09:26:54Z",
+   "seen": "2026-10-19T12:51:24Z",
+   "lang": "en",
+   "excerpt": "Texas-headquartered engineered pipe services provider Perma-Pipe International has established a subsidiary in Jordan, a move that comes as part...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
    "paywall": false
   },
   {
