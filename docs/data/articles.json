@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T18:49:13Z",
+ "updated": "2026-10-19T21:40:16Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren - ESA-pakkemøte",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-esa-pakkemote/id3179069/",
    "source": "regjeringen",
-   "published": "2026-10-19T18:49:13Z",
+   "published": "2026-10-19T21:40:16Z",
    "seen": "2026-10-19T15:49:52Z",
    "lang": "no",
    "excerpt": "",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren - deltar på konferanse om E39",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-deltar-pa-konferanse-om-e39/id3179067/",
    "source": "regjeringen",
-   "published": "2026-10-19T18:49:13Z",
+   "published": "2026-10-19T21:40:16Z",
    "seen": "2026-10-19T15:49:52Z",
    "lang": "no",
    "excerpt": "",
@@ -39,6 +39,650 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "014dc1cd2ed4",
+   "title": "Norske Truckers – fra førerhuset til TV-stjernestatus",
+   "link": "https://lastebil.no/aktuelt/nyheter/norske-truckers-fra-foererhuset-til-tv-stjernestatus",
+   "source": "lastebil",
+   "published": "2026-10-19T21:09:55Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "no",
+   "excerpt": "Mandag 19. oktober rullet en ny sesong av Norske Truckers inn på Viaplay og TV3+.Norske Truckers er tilbake med nye episoder, gamle kjenninger - og en tidligere deltaker fra Paradise Hotel!",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "vogntog"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "e25055219e10",
+   "title": "Baltic Dry Index Breaks 10-Day Losing Run",
+   "link": "https://www.hellenicshippingnews.com/baltic-dry-index-breaks-10-day-losing-run/",
+   "source": "hsn",
+   "published": "2026-10-19T21:00:59Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, snapped its long ten-day losing sreak on Monday, rising about 1.4% to 2,546 points, mainly due to a rebound in the larger vessel …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bdi",
+    "baltic-exchange",
+    "dry-bulk",
+    "capesize"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "e198c8efe010",
+   "title": "Shipping: The El Niño Effect",
+   "link": "https://www.hellenicshippingnews.com/shipping-the-el-nino-effect/",
+   "source": "hsn",
+   "published": "2026-10-19T21:00:59Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "The El Niño impact on shipping is one to consider, when considering potential 2027 freight disruptions. In its latest weekly report, shipbroker Intermodal said that “with El Niño now established and forecasters pointing to a strong event …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "shipbroker",
+    "intermodal"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "72e5b3aaf575",
+   "title": "How Conflict in the Middle East is Impacting Maritime",
+   "link": "https://www.hellenicshippingnews.com/how-conflict-in-the-middle-east-is-impacting-maritime-3/",
+   "source": "hsn",
+   "published": "2026-10-19T21:00:58Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "Middle Eastern buyers have been far more active in the Tanker S&P market over the past quarter. Between July 1 and Oct. 5, they made 34 Tanker purchases, up from 21 in the same period last year, an increase of more than 60%.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "sale-purchase",
+    "vlcc"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "247cb2af2d06",
+   "title": "Hydrogen sulphide: The hidden danger outside enclosed spaces",
+   "link": "https://www.hellenicshippingnews.com/hydrogen-sulphide-the-hidden-danger-outside-enclosed-spaces/",
+   "source": "hsn",
+   "published": "2026-10-19T21:00:57Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "A review of fatal incidents submitted to the IMO shows that many seafarers were overcome by H₂S while carrying out routine maintenance and inspection activities outside enclosed spaces.",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "imo"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "7da2c30f6a3a",
+   "title": "How Ports Can Become Catalysts For The Blue Economy",
+   "link": "https://www.hellenicshippingnews.com/how-ports-can-become-catalysts-for-the-blue-economy/",
+   "source": "hsn",
+   "published": "2026-10-19T21:00:57Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "Valued at between $2.6 and $5.1 trillion, the ocean economy supports billions of livelihoods and carries more than 80% of global trade by volume.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "1e8c6ebf39e3",
+   "title": "InterManager Warns Enclosed Space Deaths Demand Urgent Industry Action",
+   "link": "https://www.hellenicshippingnews.com/intermanager-warns-enclosed-space-deaths-demand-urgent-industry-action/",
+   "source": "hsn",
+   "published": "2026-10-19T21:00:55Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "InterManager has called for urgent industry action on enclosed space safety after its latest research highlighted persistent failures in procedures, training, leadership and accident prevention.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dry-bulk",
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "109b404ae71d",
+   "title": "Xclusiv Shipbrokers Weekly 19th October 2026",
+   "link": "https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-19th-october-2026/",
+   "source": "hsn",
+   "published": "2026-10-19T21:00:54Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "The product tanker market has experienced an extraordinary freight rally between early August and mid-October",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "reports"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "shipbroker",
+    "product-tanker"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "743bbe76c58e",
+   "title": "Danica Urges Shipping Industry to Manage Crew Turnover, Not Just Retention",
+   "link": "https://www.hellenicshippingnews.com/danica-urges-shipping-industry-to-manage-crew-turnover-not-just-retention/",
+   "source": "hsn",
+   "published": "2026-10-19T21:00:53Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "Shipping companies need to pay as much attention to managing crew turnover as they do to retaining seafarers if they are to maintain safe and efficient vessel operations, according to Henrik Jensen, founder and CEO of Danica Crewing …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4d526499f24e",
+   "title": "Ethanol debut for WinGD as Maersk vessel makes landmark US bunkering and voyage",
+   "link": "https://www.hellenicshippingnews.com/ethanol-debut-for-wingd-as-maersk-vessel-makes-landmark-us-bunkering-and-voyage/",
+   "source": "hsn",
+   "published": "2026-10-19T21:00:51Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "WinGD has recorded the first in-service operation of its X-DF-M/E alcohol fuel engine platform on ethanol fuel, following a successful bunkering and voyage in the US.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bunkers",
+    "teu",
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "d6ae9b77e1fa",
+   "title": "Ningbo Containerized Freight Index Report, 16 October 2026",
+   "link": "https://www.hellenicshippingnews.com/ningbo-containerized-freight-index-report-16-october-2026/",
+   "source": "hsn",
+   "published": "2026-10-19T21:00:50Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "In the week ending Oct-16, Ningbo Containerized Freight Index (NCFI) issued by Ningbo Shipping Exchange (NBSE) quotes 2496.8 points, Below find the NCFI Weekly Index Data chart:",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "13a8e1b541da",
+   "title": "LNG Bunker Snapshot: JKM contract roll lifts Singapore’s LNG bunker price",
+   "link": "https://www.hellenicshippingnews.com/lng-bunker-snapshot-jkm-contract-roll-lifts-singapores-lng-bunker-price/",
+   "source": "hsn",
+   "published": "2026-10-19T21:00:49Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "ARA Rotterdam’s LNG bunker price has risen for a third consecutive week, but by less than TTF. Front-month TTF has climbed by $2.17/MMBtu ($113/mt) to $29.42/MMBtu ($1,530/mt).",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lng",
+    "bunkers"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "14e92555fabd",
+   "title": "Euroseas Ltd. Announces a New Time Charter Contract for its 2001-built 2,556 teu Feeder Containership, M/V EM Corfu, and the Sale of its Sister Vessel, M/V Evridiki G",
+   "link": "https://www.hellenicshippingnews.com/euroseas-ltd-announces-a-new-time-charter-contract-for-its-2001-built-2556-teu-feeder-containership-m-v-em-corfu-and-the-sale-of-its-sister-vessel-m-v-evridiki-g/",
+   "source": "hsn",
+   "published": "2026-10-19T21:00:47Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "Euroseas Ltd., an owner and operator of container carrier vessels and provider of seaborne transportation for containerized cargoes, announced today a new time charter contract for its 2,556 teu feeder containership, M/V EM Corfu, built in …",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "time-charter",
+    "transshipment",
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "902ba261c4a0",
+   "title": "KR Launches Pilot Service of Cyber Resilience Platform to Support IACS UR E26 Compliance",
+   "link": "https://www.hellenicshippingnews.com/kr-launches-pilot-service-of-cyber-resilience-platform-to-support-iacs-ur-e26-compliance/",
+   "source": "hsn",
+   "published": "2026-10-19T21:00:45Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "KR (Korean Register) marked the launch of the pilot service of KR Cyber Resilience Platform (KR-CRP), a cyber resilience management platform developed by KR, with an event at the Wyndham Grand Busan on October 13.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "19f6acda8e4c",
+   "title": "Golden Island delivers world’s largest ethanol bunker stem in Singapore",
+   "link": "https://www.hellenicshippingnews.com/golden-island-delivers-worlds-largest-ethanol-bunker-stem-in-singapore/",
+   "source": "hsn",
+   "published": "2026-10-19T21:00:43Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "Golden Island bunkered a Maersk ship with about 5,000 mt of ISCC-certified bio-ethanol in Singapore’s first operation of the kind. Golden Island’s IMO Type II chemical tanker Golden Centaurus supplied the dual-fuel container ship Maersk …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bunkers",
+    "imo",
+    "dual-fuel",
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "f37f67fd3631",
+   "title": "BW LPG Limited – Update on BW LPG’s Product Services Q3 2026 Segment Performance",
+   "link": "https://www.hellenicshippingnews.com/bw-lpg-limited-update-on-bw-lpgs-product-services-q3-2026-segment-performance/",
+   "source": "hsn",
+   "published": "2026-10-19T21:00:41Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "BW LPG Limited provides an update on its Product Services’ (“BW Product Services”) Q3 2026 segment performance. Q3 2026 highlights: • Gross trading result: US$164 million • This includes: o Realised trading result of US$146 million o …",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lpg"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "2bdeef34b262",
+   "title": "China: Port stocks build 2.85 million mt; Iron Ore Expected To Trade Soft",
+   "link": "https://www.hellenicshippingnews.com/china-port-stocks-build-2-85-million-mt-iron-ore-expected-to-trade-soft/",
+   "source": "hsn",
+   "published": "2026-10-19T21:00:39Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "The average imported iron ore margin widened slightly from 6.01 yuan/mt to 6.38 yuan/mt this period. Lower seaborne premiums for some brands and lower freight rates were the main drivers.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "122aae981adc",
+   "title": "AD Ports Group Reports Progress in Reducing the Emissions Intensity of Operations in 2025",
+   "link": "https://www.hellenicshippingnews.com/ad-ports-group-reports-progress-in-reducing-the-emissions-intensity-of-operations-in-2025/",
+   "source": "hsn",
+   "published": "2026-10-19T21:00:37Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "AD Ports Group, a leading global enabler of integrated trade, industry and logistics solutions, announced the release of its 2025 Sustainability Report, in which it highlights significant progress in its decarbonisation plans, including a …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5a650e98e1a4",
+   "title": "Rival ports ‘fast catching up’: SM Lee warns against complacency, says port workers must not face shift alone",
+   "link": "https://www.hellenicshippingnews.com/rival-ports-fast-catching-up-sm-lee-warns-against-complacency-says-port-workers-must-not-face-shift-alone/",
+   "source": "hsn",
+   "published": "2026-10-19T21:00:33Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "Singapore’s port risks being left behind by its rivals that are “fast catching up, and in some respects quite possibly ahead of us”, said Senior Minister Lee Hsien Loong on Saturday (Oct 17), as he called for technological transformation …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5991bf4c2f93",
+   "title": "Hambantota port delivers 167,569 vehicles across 2025 and 2026",
+   "link": "https://container-news.com/hambantota-port-delivers-167569-vehicles-across-2025-and-2026/",
+   "source": "containernews",
+   "published": "2026-10-19T20:55:21Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "Hambantota International Port has delivered 167,569 vehicles across the March to December 2025 period and through September 2026, supporting vehicle importers through periods of increased demand and supply chain disruption.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "26c83b1e15ef",
+   "title": "Ukraine to Prosecute Captain Who Transported Grain for War Crimes",
+   "link": "https://maritime-executive.com/article/ukraine-to-prosecute-captain-who-transported-grain-for-war-crimes",
+   "source": "marex",
+   "published": "2026-10-19T20:40:16Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "Ukraine’s Security Service and Prosecutor General’s Office reported they are proceeding with the case against a Russian captain accused of controlling...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "fd95ec9a9e42",
+   "title": "Tragedy Strikes After Container Ship Crew Rescued in South Atlantic",
+   "link": "https://maritime-executive.com/article/tragedy-strikes-after-container-ship-crew-rescued-in-south-atlantic",
+   "source": "marex",
+   "published": "2026-10-19T20:20:59Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "The container ship Espirito Santo Express (IMO 9793923) has been abandoned by its crew after an explosion on board caused a fire on October 16. The re...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner",
+    "imo-number"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "87a92864b2cc",
+   "title": "Tug Attacked Near Strait of Hormuz",
+   "link": "https://maritime-executive.com/article/tug-attacked-near-strait-of-hormuz",
+   "source": "marex",
+   "published": "2026-10-19T20:17:00Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "Merchant ships face serious risk of attack in and around the Strait of Hormuz, and not just tankers, bulkers and boxships. On Sunday, a tug was attack...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint",
+    "dry-bulk",
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "4e630c845ff9",
+   "title": "Port of Riga opens traffic overpass and checkpoint for Kundziņsala",
+   "link": "https://container-news.com/port-of-riga-opens-traffic-overpass-and-checkpoint-for-kundzinsala/",
+   "source": "containernews",
+   "published": "2026-10-19T20:00:20Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "A new traffic overpass connecting Tvaika Street to Kundziņsala will open on November 1, 2026, alongside a new port checkpoint at 42 Uriekstes Street, designated Delta 17, to facilitate freight traffic to and from the Port of Riga’s …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5f7df7b80bda",
+   "title": "Who owns shipping’s carbon decisions?",
+   "link": "https://splash247.com/who-owns-shippings-carbon-decisions/",
+   "source": "splash",
+   "published": "2026-10-19T20:00:00Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "In an industry where a position list is a competitive weapon, the question is no longer just how to comply—but where carbon decisions are made and who controls the data behind them, said Argyris Zafeiropoulos, principal advisor at …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "eu-ets",
+    "fueleu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "5b2915df3836",
+   "title": "Volvo folds powertrain repairs into its service contract",
+   "link": "https://www.freightwaves.com/news/volvo-silver-service-contract-powertrain",
+   "source": "freightwaves",
+   "published": "2026-10-19T19:52:46Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "Volvo Trucks North America launched the Silver Service Contract at ATA's Management Conference, adding powertrain repair coverage to its connected Blue maintenance plan.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "eta"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "bc46d551ac17",
+   "title": "New Mexico jury awards $47M in tanker truck crash lawsuit",
+   "link": "https://www.freightwaves.com/news/new-mexico-jury-awards-47m-in-tanker-truck-crash-lawsuit",
+   "source": "freightwaves",
+   "published": "2026-10-19T19:42:56Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "A New Mexico jury awarded $47 million to a pick up truck driver and his mother following a 2022 tanker truck crash near Carlsbad.",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "3e745afee5f0",
+   "title": "CBP seizes $30.4M in meth hidden in commercial salt load at Laredo World Trade Bridge",
+   "link": "https://www.freightwaves.com/news/cbp-seizes-30-4m-in-meth-hidden-in-commercial-salt-load-at-laredo-world-trade-bridge",
+   "source": "freightwaves",
+   "published": "2026-10-19T19:11:57Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "Federal officers discovered 76 bags of suspected contraband during a secondary examination. Homeland Security Investigations now faces questions about the shipment's origin, destination and those responsible.",
+   "segments": [
+    "road",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "e3c635a08699",
+   "title": "Air Canada adds freighter destinations for winter season",
+   "link": "https://www.freightwaves.com/news/air-canada-adds-freighter-destinations-for-winter-season",
+   "source": "freightwaves",
+   "published": "2026-10-19T19:08:52Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "Air Canada is expanding its freighter network to Europe and Latin America for the winter.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "0430a7c86941",
+   "title": "Rheinmetall Says Mangalia Will Become a Dual-Use Shipyard with MSC",
+   "link": "https://maritime-executive.com/article/rheinmetall-says-mangalia-will-become-a-dual-use-shipyard-with-msc",
+   "source": "marex",
+   "published": "2026-10-19T19:04:02Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "German arms manufacturer Rheinmetall confirmed that it plans to acquire the Mangalia shipyard in Romania together with MSC Mediterranean Shipping Comp...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c10949fe59eb",
+   "title": "C.H. Robinson challenges $604 million trucking liability judgment",
+   "link": "https://container-news.com/c-h-robinson-challenges-604-million-trucking-liability-judgment/",
+   "source": "containernews",
+   "published": "2026-10-19T19:00:31Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "C.H. Robinson has announced plans to appeal a US$604 million judgment in a trucking accident lawsuit, raising concerns about the legal responsibilities of freight brokers in the United States. The case, Lipe v.",
+   "segments": [
+    "road",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
   },
   {
    "id": "0648f47aab59",
@@ -279,6 +923,28 @@
    "policy": false,
    "level": "international",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "34d8008ecec0",
+   "title": "Matson christens 1st new vessel of $1B US shipyard order",
+   "link": "https://www.freightwaves.com/news/matson-christens-1st-new-vessel-of-1b-us-shipyard-order",
+   "source": "freightwaves",
+   "published": "2026-10-19T16:14:00Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "Matson christened Makua in Philadelphia, the first of three new containerships in its $1 billion fleet upgrade.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner"
+   ],
    "paywall": false
   },
   {
