@@ -1,7 +1,384 @@
 {
- "updated": "2026-10-19T03:42:19Z",
+ "updated": "2026-10-19T06:54:23Z",
  "sample": false,
  "articles": [
+  {
+   "id": "7852d13fdc7c",
+   "title": "Sikrer avisdistribusjon med ny anbudsrunde",
+   "link": "https://www.mtlogistikk.no/aktiv-norgesdistribusjon-avisdistribusjon-offentlige-anskaffelser/sikrer-avisdistribusjon-med-ny-anbudsrunde/1343595",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-19T06:54:23Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ae14ad17d665",
+   "title": "ADM is Port of Virginia's Shipper of the Year Award Recipient",
+   "link": "https://maritime-executive.com/article/adm-is-port-of-virginia-s-shipper-of-the-year-award-recipient",
+   "source": "marex",
+   "published": "2026-10-19T06:51:00Z",
+   "seen": "2026-10-19T06:54:23Z",
+   "lang": "en",
+   "excerpt": "The Archer Daniels Midland Co. (ADM), a global agricultural conglomerate that is a long-time user of The Port of Virginia®, is this year’s recipient o...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "shipper-consignee"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "7745b778198e",
+   "title": "Chemikalien Seetransport down to one LR1 tanker",
+   "link": "https://splash247.com/chemikalien-seetransport-down-to-one-lr1-tanker/",
+   "source": "splash",
+   "published": "2026-10-19T06:11:05Z",
+   "seen": "2026-10-19T06:54:23Z",
+   "lang": "en",
+   "excerpt": "German tanker owner and shipmanager Chemikalien Seetransport (CST), backed by the Krämer family, is continuing to reduce its exposure to ageing tonnage, selling its 20-year-old LR1 tanker London Star to Chinese interests.The 73,900 dwt New …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "product-tanker",
+    "dwt"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "b068cfa3259e",
+   "title": "Tanker earnings defy all historical comparisons",
+   "link": "https://splash247.com/tanker-earnings-defy-all-historical-comparisons/",
+   "source": "splash",
+   "published": "2026-10-19T06:08:36Z",
+   "seen": "2026-10-19T06:54:23Z",
+   "lang": "en",
+   "excerpt": "The tanker market has entered such extraordinary territory that independent owners could be making an additional $400m a day above their original earnings expectations, a windfall that, if sustained for a year, would almost match the …",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ba80e2e5c742",
+   "title": "Readers Speak: Joint ventures lead preferences for container terminal operations",
+   "link": "https://container-news.com/readers-speak-joint-ventures-lead-preferences-for-container-terminal-operations/",
+   "source": "containernews",
+   "published": "2026-10-19T06:00:23Z",
+   "seen": "2026-10-19T06:54:23Z",
+   "lang": "en",
+   "excerpt": "The role of foreign companies in operating major container terminals remains a subject of debate, particularly when international investment intersects with national interests and the management of strategic infrastructure.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6867802ed192",
+   "title": "Tok politikere og presse med i lastebil gjennom Dagslett-kaoset",
+   "link": "https://lastebil.no/aktuelt/nyheter/tok-politikere-og-presse-med-i-lastebil-gjennom-dagslett-kaoset",
+   "source": "lastebil",
+   "published": "2026-10-19T05:42:58Z",
+   "seen": "2026-10-19T06:54:23Z",
+   "lang": "no",
+   "excerpt": "40 år med venting: Nå må Stortinget prioritere DagslettFredag tok NLF, sammen med lokale ordførere og næringslivsaktører, politikere og journalister med i lastebil gjennom Dagslett-området ved Drammen.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "d994282fcf0b",
+   "title": "Romania shoots down two more drones off its coastline",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/romania-shoots-down-two-more-drones-off-its-coastline/",
+   "source": "imn",
+   "published": "2026-10-19T05:31:24Z",
+   "seen": "2026-10-19T06:54:23Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "455463144518",
+   "title": "Munich Re takes lead on International Group collective overspill layer: report",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/munich-re-takes-lead-on-international-group-collective-overspill-layer-report/",
+   "source": "imn",
+   "published": "2026-10-19T05:29:58Z",
+   "seen": "2026-10-19T06:54:23Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ig"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "f1fb8c33969d",
+   "title": "DF Peak detained in Réunion",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/df-peak-detained-in-reunion/",
+   "source": "imn",
+   "published": "2026-10-19T05:28:53Z",
+   "seen": "2026-10-19T06:54:23Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "psc"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "75bf622d9085",
+   "title": "International vessels seek shelter in Norwegian waters",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/international-vessels-seek-shelter-in-norwegian-waters/",
+   "source": "imn",
+   "published": "2026-10-19T05:27:25Z",
+   "seen": "2026-10-19T06:54:23Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "105873ad6c1e",
+   "title": "IMB records a 34-year piracy low",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/imb-records-a-34-year-piracy-low/",
+   "source": "imn",
+   "published": "2026-10-19T05:26:04Z",
+   "seen": "2026-10-19T06:54:23Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "7591c44a7b33",
+   "title": "NorthStandard reports further incident involving UN 3378 Sodium Carbonate Peroxyhydrate",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/northstandard-reports-further-incident-involving-un-3378-sodium-carbonate-peroxyhydrate/",
+   "source": "imn",
+   "published": "2026-10-19T05:25:14Z",
+   "seen": "2026-10-19T06:54:23Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "pi-club",
+    "un-number"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "1dfca0809d69",
+   "title": "Tallenes tale 2025: Freja omsatte for mindre og tjente mindre",
+   "link": "https://www.mtlogistikk.no/2025-arsregnskap-freja-transport-logistics-lelu/tallenes-tale-2025-freja-omsatte-for-mindre-og-tjente-mindre/1343498",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-19T05:24:23Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "26dda6bc06ef",
+   "title": "Six-month waiver in India for new salvage & marine pollution response rules",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/six-month-waiver-in-india-for-new-salvage-marine-pollution-response-rules/",
+   "source": "imn",
+   "published": "2026-10-19T05:24:17Z",
+   "seen": "2026-10-19T06:54:23Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "salvage"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "f8c7f0738f55",
+   "title": "Vessel aground near Kaliningrad",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/vessel-aground-near-kaliningrad/",
+   "source": "imn",
+   "published": "2026-10-19T05:23:15Z",
+   "seen": "2026-10-19T06:54:23Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "4c586e7e7849",
+   "title": "Tysers Group Club Summary: #12 West P&I",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/tysers-group-club-summary-12-west-pi/",
+   "source": "imn",
+   "published": "2026-10-19T05:22:13Z",
+   "seen": "2026-10-19T06:54:23Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "insurance-broker",
+    "pi"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "902faafd34b5",
+   "title": "Lockton summary of non-IG Club marine insurers: Insure Marine Underwriting",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/lockton-summary-of-non-ig-club-marine-insurers-insure-marine-underwriting/",
+   "source": "imn",
+   "published": "2026-10-19T05:20:13Z",
+   "seen": "2026-10-19T06:54:23Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "insurance-broker",
+    "ig",
+    "underwriter"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "8debf8d88131",
+   "title": "Tallenes tale 2025: JAS mistet omsetning - økte marginene",
+   "link": "https://www.mtlogistikk.no/2025-arsregnskap-jas-worldwide-services-lelu/tallenes-tale-2025-jas-mistet-omsetning-okte-marginene/1343475",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-19T05:09:23Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f74869deb6cc",
+   "title": "CEVA Logistics unifies European last-mile operations under PAACK brand",
+   "link": "https://container-news.com/ceva-logistics-unifies-european-last-mile-operations-under-paack-brand/",
+   "source": "containernews",
+   "published": "2026-10-19T05:00:37Z",
+   "seen": "2026-10-19T06:54:23Z",
+   "lang": "en",
+   "excerpt": "CEVA Logistics has announced the integration of Colis Privé and PAACK under a single brand, strengthening its last-mile delivery services across Europe.",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "last-mile"
+   ],
+   "paywall": false
+  },
   {
    "id": "d1dd58b5336b",
    "title": "Freightos reports record booking value as transactions rise in third quarter",
@@ -18,6 +395,26 @@
    "policy": false,
    "level": "international",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ec17c2bec8a4",
+   "title": "Two Protesters Arrested for Boarding Offshore Gas Platform off Australia",
+   "link": "https://maritime-executive.com/article/two-protesters-arrested-for-boarding-offshore-gas-platform-off-australia",
+   "source": "marex",
+   "published": "2026-10-19T02:45:19Z",
+   "seen": "2026-10-19T06:54:23Z",
+   "lang": "en",
+   "excerpt": "Australian authorities have arrested two Greenpeace activists who briefly boarded an offshore gas platform off the coast of Western Australia. On Satu...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lou"
+   ],
    "paywall": false
   },
   {
