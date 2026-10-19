@@ -1,7 +1,25 @@
 {
- "updated": "2026-10-19T06:54:23Z",
+ "updated": "2026-10-19T07:07:21Z",
  "sample": false,
  "articles": [
+  {
+   "id": "d331dc9fd9e1",
+   "title": "Peel Ports Group appoints David Huck as new CEO",
+   "link": "https://container-news.com/peel-ports-group-appoints-david-huck-as-new-ceo/",
+   "source": "containernews",
+   "published": "2026-10-19T07:00:44Z",
+   "seen": "2026-10-19T07:07:21Z",
+   "lang": "en",
+   "excerpt": "Peel Ports Group has appointed David Huck as its new Group Chief Executive Officer, following the departure of Claudio Veritiero earlier this month. Huck moves into the role from his previous position as Chief Operating Officer.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
   {
    "id": "7852d13fdc7c",
    "title": "Sikrer avisdistribusjon med ny anbudsrunde",
@@ -398,6 +416,24 @@
    "paywall": false
   },
   {
+   "id": "bf6c781c174a",
+   "title": "Jones Walker Legal Maritime Team Featured in Chambers and Legal 500",
+   "link": "https://maritime-executive.com/article/jones-walker-legal-maritime-team-featured-in-chambers-and-legal-500",
+   "source": "marex",
+   "published": "2026-10-19T02:57:00Z",
+   "seen": "2026-10-19T07:07:21Z",
+   "lang": "en",
+   "excerpt": "Jones Walker LLP is pleased to announce that its Maritime Practice Group received national rankings in the 2026 edition of Chambers USA by Chambers an...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
    "id": "ec17c2bec8a4",
    "title": "Two Protesters Arrested for Boarding Offshore Gas Platform off Australia",
    "link": "https://maritime-executive.com/article/two-protesters-arrested-for-boarding-offshore-gas-platform-off-australia",
@@ -757,6 +793,7 @@
    "policy": false,
    "level": "international",
    "terms": [
+    "dual-fuel",
     "bunkers"
    ],
    "paywall": false
@@ -907,7 +944,9 @@
    ],
    "policy": false,
    "level": "international",
-   "terms": [],
+   "terms": [
+    "dual-fuel"
+   ],
    "paywall": false
   },
   {
@@ -929,7 +968,8 @@
    "level": "international",
    "terms": [
     "bunkers",
-    "lng"
+    "lng",
+    "dual-fuel"
    ],
    "paywall": false
   },
@@ -1498,7 +1538,9 @@
    "subs": [],
    "policy": false,
    "level": "national",
-   "terms": [],
+   "terms": [
+    "mna"
+   ],
    "paywall": false
   },
   {
@@ -1781,7 +1823,9 @@
    ],
    "policy": false,
    "level": "international",
-   "terms": [],
+   "terms": [
+    "ipo"
+   ],
    "paywall": false
   },
   {
@@ -2021,7 +2065,8 @@
    "level": "international",
    "terms": [
     "bunkers",
-    "lng"
+    "lng",
+    "dual-fuel"
    ],
    "paywall": false
   },
@@ -3050,6 +3095,7 @@
    "policy": false,
    "level": "national",
    "terms": [
+    "dual-fuel",
     "csv"
    ],
    "paywall": false
@@ -3893,7 +3939,8 @@
    "policy": false,
    "level": "international",
    "terms": [
-    "roro"
+    "roro",
+    "restructuring"
    ],
    "paywall": false
   },
@@ -3991,6 +4038,7 @@
    "policy": false,
    "level": "national",
    "terms": [
+    "mna",
     "vlcc",
     "newbuilding"
    ],
@@ -5375,7 +5423,9 @@
    "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [],
+   "terms": [
+    "chapter-11"
+   ],
    "paywall": false
   },
   {
@@ -7615,7 +7665,8 @@
    "policy": false,
    "level": "international",
    "terms": [
-    "class-society"
+    "class-society",
+    "dual-fuel"
    ],
    "paywall": false
   },
