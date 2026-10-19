@@ -1,7 +1,258 @@
 {
- "updated": "2026-10-19T12:51:24Z",
+ "updated": "2026-10-19T15:49:52Z",
  "sample": false,
  "articles": [
+  {
+   "id": "98a4ba7ad4b3",
+   "title": "Samferdselsministeren - ESA-pakkemøte",
+   "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-esa-pakkemote/id3179069/",
+   "source": "regjeringen",
+   "published": "2026-10-19T15:49:52Z",
+   "seen": "2026-10-19T15:49:52Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false,
+   "upcoming": true
+  },
+  {
+   "id": "13c76df042d9",
+   "title": "Samferdselsministeren - deltar på konferanse om E39",
+   "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-deltar-pa-konferanse-om-e39/id3179067/",
+   "source": "regjeringen",
+   "published": "2026-10-19T15:49:52Z",
+   "seen": "2026-10-19T15:49:52Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "local",
+   "terms": [],
+   "paywall": false,
+   "upcoming": true
+  },
+  {
+   "id": "2cb283a8b077",
+   "title": "Ceva Logistics puts Paack in charge of last-mile parcel delivery",
+   "link": "https://www.freightwaves.com/news/ceva-logistics-puts-paack-in-charge-of-last-mile-parcel-delivery",
+   "source": "freightwaves",
+   "published": "2026-10-19T15:11:46Z",
+   "seen": "2026-10-19T15:49:52Z",
+   "lang": "en",
+   "excerpt": "Recently acquired Paack will be the last-mile delivery brand under Ceva Logistics, which also owns courier Colis Privé.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "last-mile"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "2e65f9674d87",
+   "title": "U.S. Sets First Deep-Sea Mining Lease Sale for November",
+   "link": "https://gcaptain.com/u-s-sets-first-deep-sea-mining-lease-sale-for-november/",
+   "source": "gcaptain",
+   "published": "2026-10-19T15:04:51Z",
+   "seen": "2026-10-19T15:49:52Z",
+   "lang": "en",
+   "excerpt": "The Trump administration has scheduled the first offshore mineral lease sale in U.S. history, opening more than 31 million acres of seabed near American Samoa to companies seeking critical minerals...",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a7e30e6403c1",
+   "title": "SITC, SIPG and Hisense sign South Africa investment framework",
+   "link": "https://container-news.com/sitc-sipg-and-hisense-sign-south-africa-investment-framework/",
+   "source": "containernews",
+   "published": "2026-10-19T15:00:43Z",
+   "seen": "2026-10-19T15:49:52Z",
+   "lang": "en",
+   "excerpt": "SITC, Shanghai International Port Group (SIPG) and Hisense have signed a tripartite framework agreement covering equity investment cooperation in South Africa. The agreement was signed on 16 October 2026 in Qingdao, China.",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f9f532865175",
+   "title": "Werner Enterprises issues Q3 profit warning",
+   "link": "https://www.freightwaves.com/news/werner-enterprises-issues-q3-profit-warning",
+   "source": "freightwaves",
+   "published": "2026-10-19T14:54:37Z",
+   "seen": "2026-10-19T15:49:52Z",
+   "lang": "en",
+   "excerpt": "Werner Enterprises issued a negative third-quarter earnings preannouncement on Monday, citing higher fuel, driver and insurance claims costs as the culprits.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "602640addac0",
+   "title": "Why control of Hormuz is not the same as security",
+   "link": "https://container-news.com/why-control-of-hormuz-is-not-the-same-as-security/",
+   "source": "containernews",
+   "published": "2026-10-19T14:00:08Z",
+   "seen": "2026-10-19T15:49:52Z",
+   "lang": "en",
+   "excerpt": "CENTCOM says the strait is under control. The attack record, the insurance market and the crowded anchorages off the UAE tell a different story.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "5b112202dfe0",
+   "title": "DHL Group boosts guidance on expectations for strong peak season",
+   "link": "https://www.freightwaves.com/news/dhl-group-boosts-guidance-on-expectations-for-strong-peak-season",
+   "source": "freightwaves",
+   "published": "2026-10-19T13:56:03Z",
+   "seen": "2026-10-19T15:49:52Z",
+   "lang": "en",
+   "excerpt": "DHL Group has raised its 2026 outlook.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ac3de2f2933b",
+   "title": "EU grant to cover 60% of investment for 10 MW tidal kite array in Ireland",
+   "link": "https://offshore-energy.biz/2026/10/19/eu-grant-to-cover-60percent-of-investment-for-10-mw-tidal-kite-array-in-ireland",
+   "source": "offshoreenergy",
+   "published": "2026-10-19T13:51:56Z",
+   "seen": "2026-10-19T15:49:52Z",
+   "lang": "en",
+   "excerpt": "The European Commission has selected Swedish ocean energy developer Minesto for a €20.2 million Innovation Fund grant for the company's planned...",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "0eddd9e920c4",
+   "title": "Amerijet to repair aging 767 freighter aircraft damaged in hard landing",
+   "link": "https://www.freightwaves.com/news/amerijet-to-repair-aging-767-freighter-aircraft-damaged-in-hard-landing",
+   "source": "freightwaves",
+   "published": "2026-10-19T13:11:52Z",
+   "seen": "2026-10-19T15:49:52Z",
+   "lang": "en",
+   "excerpt": "Amerijet says it will repair the buckled skin on a Boeing 767 freighter aircraft despite its age.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "51bc0fe64fc7",
+   "title": "Container freight rates rebound as Asia-Europe indexes diverge",
+   "link": "https://container-news.com/container-freight-rates-rebound-as-asia-europe-indexes-diverge/",
+   "source": "containernews",
+   "published": "2026-10-19T13:00:32Z",
+   "seen": "2026-10-19T15:49:52Z",
+   "lang": "en",
+   "excerpt": "Global container freight rates showed signs of recovery in the latest weekly assessments, with all four major composite benchmarks recording increases.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "container-index"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "c00b572b79d7",
+   "title": "Transocean’s drillship pair bags $550 million in new US Gulf deals",
+   "link": "https://offshore-energy.biz/2026/10/19/transoceans-drillship-pair-bags-dollar550-million-in-new-us-gulf-deals",
+   "source": "offshoreenergy",
+   "published": "2026-10-19T12:48:14Z",
+   "seen": "2026-10-19T15:49:52Z",
+   "lang": "en",
+   "excerpt": "Transocean has secured multi-well ultra-deepwater contracts for two drillships in the U.S. Gulf, extending operations through 2027.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "rig"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "a65030a03cb3",
+   "title": "Northern Lights Appoints Diesel Marine NZ as Distributor for NZ & Australia",
+   "link": "https://maritime-executive.com/article/northern-lights-appoints-diesel-marine-nz-as-distributor-for-nz-australia",
+   "source": "marex",
+   "published": "2026-10-19T12:36:50Z",
+   "seen": "2026-10-19T15:49:52Z",
+   "lang": "en",
+   "excerpt": "Northern Lights, Inc., the Seattle-based manufacturer of marine diesel generators, Lugger propulsion engines and Technicold marine air conditioning an...",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ccs"
+   ],
+   "paywall": false
+  },
   {
    "id": "fe82fbcd6e72",
    "title": "Breeze Ship Design Secures Contract for Union Vega Offshore's PSV Series",
