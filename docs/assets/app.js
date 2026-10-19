@@ -288,11 +288,13 @@
     effects: { tab: 'effects', name: 'Cause & effect', text: 'Follow one event from world markets down to Norway and Western Norway.' },
   };
   TOOLS.markets = { tab: 'markets', name: 'Market pulse', text: 'Brent oil and the krone against the dollar and euro, with what they mean for transport.' };
+  TOOLS.valuation = { tab: 'valuation', name: 'Ship valuation', text: 'Value a ship from its earnings, then see it as the bank does: break-even, covenants and what a fall in values does to the equity.' };
   function toolsFor(a) {
     const out = [];
     const s = a.segments;
     if (s.includes('road')) out.push(TOOLS.truck);
     if (s.includes('freight')) out.push(TOOLS.rates);
+    if (s.includes('finance')) out.push(TOOLS.valuation);
     if (s.includes('freight') || s.includes('finance')) out.push(TOOLS.voyage);
     if (s.includes('insurance') || s.includes('offshore') || a.policy || out.length < 2) out.push(TOOLS.effects);
     return [...new Set(out)].slice(0, 3);
@@ -386,6 +388,8 @@
     return null;
   }
 
+  // label for the course topic a reading-guide rule belongs to (rules.c)
+  const COURSE_LABEL = 'Course topic';
   function guideBlock(a, close) {
     const items = guideFor(a);
     if (!items.length) return null;
@@ -396,6 +400,7 @@
         const chips = (r.terms || []).filter((id) => F.terms.byId.get(id)).slice(0, 4).map(termChip);
         const links = (r.go || []).map((g) => goLink(g, close)).filter(Boolean);
         return el('section', { class: 'guide-item' + (dir ? ' dir-' + dir : '') + (r.generic ? ' generic' : '') },
+          r.c ? el('span', { class: 'guide-topic' }, COURSE_LABEL + ': ' + r.c) : null,
           el('h4', null, dir ? el('span', { class: 'dir', 'aria-hidden': 'true' }, dir === 'up' ? '▲' : '▼') : null, v ? v.t : r.t),
           el('p', null, v ? r.b + ' ' + v.b : r.b),
           r.w ? el('p', { class: 'watch' }, el('b', null, 'Watch next: '), r.w) : null,
@@ -693,6 +698,7 @@
           el('li', null, '“How to read this story” is chosen for each article from a library of situations (for example a chokepoint attack, falling Capesize rates or a diesel tax change), matched on the headline and summary. The library is in data/insights.json.'),
           el('li', null, 'Shipping routes follow Baltic Exchange route definitions where one exists. Oil volumes through chokepoints are from the U.S. EIA (World Oil Transit Chokepoints, 2023 data). War-risk listed areas refer to the Lloyd’s Market Association Joint War Committee.'),
           el('li', null, 'Road traffic is from Statens vegvesen’s national road database (NVDB, Trafikkmengde), used under the Norwegian Licence for Open Government Data (NLOD). It refreshes monthly.'),
+          el('li', null, 'The ship valuation tool follows the long-term asset value (LTAV) method described in Kavussanos & Visvikis (eds.), The International Handbook of Shipping Finance (Palgrave Macmillan, 2016), chapter 13. Example ships other than the textbook case are illustrative, not market quotes.'),
           el('li', null, 'Coastlines: Natural Earth (public domain) via world-atlas. Map projections: d3-geo (ISC licence).')),
         el('h2', null, 'Privacy'),
         el('p', null, 'This site sets no cookies, uses no analytics or advertising, and loads nothing from other companies: fonts and chart code are stored on the site itself. The only thing saved in your browser is your light/dark choice, if you change it.'),

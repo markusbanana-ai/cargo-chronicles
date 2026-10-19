@@ -1385,6 +1385,45 @@
    "def": "When oil today is more expensive than oil for future delivery. Encourages selling quickly from storage and usually signals a tight market."
   },
   {
+   "id": "mean-reversion",
+   "term": "Shipping cycle and mean reversion",
+   "cat": "market",
+   "ex": "After a year at USD 80,000 a day, a VLCC owner should not expect that rate for 20 years; a bank values the ship on rates closer to the long-run average.",
+   "m": [
+    "mean reversion",
+    "mean-reverting",
+    "mean reverting",
+    "shipping cycle",
+    "shipping cycles",
+    "market cycle",
+    "freight cycle",
+    "supercycle",
+    "super cycle",
+    "long-run average",
+    "long-term average",
+    "historical average"
+   ],
+   "hl": true,
+   "def": "Freight rates and ship prices swing in long cycles: high rates bring orders, new ships arrive two to three years later, and rates fall. Because supply eventually adjusts, rates tend to return towards a long-run average (mean reversion). Valuations and lenders assume this rather than today's rate lasting forever."
+  },
+  {
+   "id": "term-structure",
+   "term": "Term structure and forward curve",
+   "cat": "market",
+   "ex": "Spot Capesize earns USD 30,000 a day but the one-year time charter is USD 22,000: the curve is in backwardation.",
+   "m": [
+    "term structure",
+    "forward curve",
+    "forward curves",
+    "FFA curve",
+    "one-year time charter",
+    "1-year TC",
+    "one-year TC"
+   ],
+   "hl": true,
+   "def": "How rates vary with contract length: spot versus one-year, three-year time charter and FFA prices for future months. If period rates are below spot, the market expects rates to fall (backwardation); if above, it expects a rise (contango)."
+  },
+  {
    "id": "slow-steaming",
    "term": "Slow steaming",
    "cat": "market",
@@ -1656,17 +1695,25 @@
   },
   {
    "id": "vmc",
-   "term": "Value maintenance clause",
+   "term": "Minimum value clause (MVC)",
+   "full": "Also called value maintenance clause or security cover",
    "cat": "finance",
-   "ex": "With a USD 30 million loan and a 130% clause, the ship must be worth at least USD 39 million.",
+   "ex": "A USD 21 million loan with a 135% clause requires the ship to be worth at least USD 28.4 million. Bought at USD 35 million, the ship can lose about 19% of its value before the clause is breached.",
    "m": [
-    "value maintenance clause",
     "minimum value clause",
+    "minimum value covenant",
+    "value maintenance clause",
     "security cover",
-    "=VMC"
+    "asset cover",
+    "collateral maintenance",
+    "=VMC",
+    "=MVC"
    ],
    "hl": true,
-   "def": "Loan term requiring the ship's value to stay above a set percentage of the loan, for example 130%. If it is breached, the owner must repay part of the loan or provide more security."
+   "core": [
+    "finance"
+   ],
+   "def": "Loan covenant requiring the ship's market value to stay above a set percentage of the loan, often 125–135%. It is the mirror image of a maximum LTV: a 135% clause means the loan may be at most about 74% of the ship's value. If values fall below the level, the owner must prepay part of the loan or add security within a short deadline."
   },
   {
    "id": "covenant",
@@ -1942,6 +1989,492 @@
    "def": "Annual dividends as a percentage of the share price. Many listed shipping companies pay out most of their free cash, so yields swing with freight markets."
   },
   {
+   "id": "five-cs",
+   "term": "Five Cs of credit",
+   "cat": "finance",
+   "ex": "A bank may lend to a well-known owner with a 20-year record at a lower margin than to a new company with the same ship, because character and capital are stronger.",
+   "m": [
+    "five Cs",
+    "5 Cs",
+    "credit analysis",
+    "credit assessment",
+    "credit committee",
+    "credit approval"
+   ],
+   "hl": true,
+   "core": [
+    "finance"
+   ],
+   "def": "The checklist banks use to judge a borrower: character (track record, reputation and management), capacity (cash flow to service the debt), capital (equity in the company and the deal), collateral (the ship, assignments of charters and insurances) and covenants (the promises that let the bank act early). Some versions replace covenants with conditions (the market)."
+  },
+  {
+   "id": "ltav",
+   "term": "Long-term asset value (LTAV)",
+   "cat": "finance",
+   "ex": "A 10-year-old feeder earning USD 7,500 a day today, with rates returning to USD 13,000 and a WACC of 6.75%, has an LTAV of about USD 15.5 million (the textbook example).",
+   "m": [
+    "=LTAV",
+    "long-term asset value",
+    "long term asset value",
+    "fundamental value",
+    "fundamental values",
+    "intrinsic value",
+    "discounted cash flow",
+    "=DCF"
+   ],
+   "hl": true,
+   "core": [
+    "finance"
+   ],
+   "def": "A ship's fundamental value: the present value of its expected earnings (charter income minus OPEX) over the rest of its life, plus scrap value, discounted at the cost of capital. Rates are assumed to move from today's level towards a long-run average. Lenders use it to look through short-term swings in market prices."
+  },
+  {
+   "id": "wacc",
+   "term": "WACC",
+   "full": "Weighted average cost of capital",
+   "cat": "finance",
+   "ex": "60% debt at 6.3% and 40% equity at 7.4% give a WACC of about 6.75%.",
+   "m": [
+    "=WACC",
+    "weighted average cost of capital",
+    "cost of capital",
+    "cost of equity",
+    "cost of debt",
+    "required return"
+   ],
+   "hl": true,
+   "def": "Weighted average cost of capital: the blended return required by lenders and shareholders, weighted by how much of each is used. It is the discount rate in a ship or company valuation. Cost of equity is often estimated with CAPM."
+  },
+  {
+   "id": "dscr",
+   "term": "Debt service cover (DSCR)",
+   "full": "Debt service cover ratio",
+   "cat": "finance",
+   "ex": "A ship generating USD 5.8 million a year with USD 2.3 million of interest and repayments has a DSCR of about 2.5.",
+   "m": [
+    "=DSCR",
+    "debt service cover",
+    "debt service coverage",
+    "debt service coverage ratio",
+    "interest cover",
+    "interest coverage",
+    "interest coverage ratio"
+   ],
+   "hl": true,
+   "def": "Cash flow available for debt service divided by interest plus instalments. Banks often want at least 1.2–1.4. A related bond covenant is interest cover: (TCE income − OPEX) divided by interest only."
+  },
+  {
+   "id": "nibd-ebitda",
+   "term": "NIBD/EBITDA",
+   "cat": "finance",
+   "ex": "Net debt of USD 600 million and EBITDA of USD 150 million give NIBD/EBITDA of 4.0.",
+   "m": [
+    "=NIBD",
+    "net interest-bearing debt",
+    "net interest bearing debt",
+    "net debt to EBITDA",
+    "net debt/EBITDA",
+    "leverage ratio"
+   ],
+   "hl": true,
+   "def": "Net interest-bearing debt divided by EBITDA: how many years of cash earnings it would take to repay the debt. A common leverage covenant in bonds and loans; above about 4–5 is usually seen as high in shipping."
+  },
+  {
+   "id": "pd-lgd",
+   "term": "PD and LGD",
+   "cat": "finance",
+   "ex": "A 2% PD and 30% LGD on a USD 50 million loan give an expected loss of USD 0.3 million a year.",
+   "m": [
+    "probability of default",
+    "loss given default",
+    "=LGD",
+    "expected credit loss",
+    "expected credit losses",
+    "expected loss"
+   ],
+   "hl": true,
+   "def": "Probability of default (how likely the borrower is to fail) and loss given default (how much the lender loses if it does, after selling the ship). Expected loss = PD × LGD × exposure. Banks price loans and set capital by these numbers, so a lower LTV (lower LGD) gives a lower margin."
+  },
+  {
+   "id": "maritime-lien",
+   "term": "Maritime lien and ship arrest",
+   "cat": "finance",
+   "ex": "If an owner stops paying crew and port dues, the ship can be arrested and sold by the court, with the crew paid before the bank.",
+   "no": "Sjøpanterett",
+   "m": [
+    "maritime lien",
+    "maritime liens",
+    "sjøpanterett",
+    "vessel arrest",
+    "arrest of the ship",
+    "arrest of the vessel",
+    "arrested ship",
+    "arrested vessel",
+    "arrested vessels",
+    "judicial sale"
+   ],
+   "hl": true,
+   "def": "Some claims attach to the ship itself and rank ahead of the bank's mortgage: crew wages, salvage, port and canal dues, and personal injury or damage caused by the ship. A creditor can have the ship arrested in port until the claim is paid or secured. This is why lenders check that wages and dues are paid."
+  },
+  {
+   "id": "default",
+   "term": "Event of default",
+   "cat": "finance",
+   "ex": "Missing one instalment on a ship loan can, through cross-default, put the owner in default on its bonds as well.",
+   "m": [
+    "event of default",
+    "events of default",
+    "cross-default",
+    "cross default",
+    "payment default",
+    "defaulted",
+    "default on",
+    "in default",
+    "missed payment",
+    "missed coupon",
+    "covenant breach"
+   ],
+   "hl": true,
+   "def": "A breach listed in the loan agreement—a missed payment, a covenant breach, insolvency or a material adverse change—that lets the lender cancel the loan and demand repayment. A cross-default clause makes a default on one loan count as a default on others."
+  },
+  {
+   "id": "restructuring",
+   "term": "Restructuring",
+   "cat": "finance",
+   "ex": "Bondholders agree to postpone interest for 18 months and convert part of their claims into shares, leaving old shareholders with 10% of the company.",
+   "no": "Rekonstruksjon",
+   "m": [
+    "restructuring",
+    "debt restructuring",
+    "financial restructuring",
+    "standstill",
+    "standstill agreement",
+    "forbearance",
+    "debt-for-equity",
+    "debt for equity",
+    "debt-to-equity swap",
+    "amend and extend",
+    "amend-and-extend",
+    "haircut",
+    "rekonstruksjon"
+   ],
+   "hl": true,
+   "core": [
+    "finance"
+   ],
+   "def": "Changing a company's debt when it cannot pay as agreed. Steps range from a standstill (lenders agree not to act for a period) and forbearance (they tolerate a breach) to amend-and-extend, haircuts and a debt-for-equity swap where lenders become owners. In Norway it can be done out of court or through rekonstruksjon."
+  },
+  {
+   "id": "chapter-11",
+   "term": "Chapter 11",
+   "cat": "finance",
+   "ex": "An offshore driller files for Chapter 11 in Texas, keeps its rigs working, and exits a year later with lower debt and new owners.",
+   "m": [
+    "Chapter 11",
+    "Chapter 15",
+    "debtor-in-possession",
+    "debtor in possession",
+    "=DIP",
+    "bankruptcy protection",
+    "creditor protection"
+   ],
+   "hl": true,
+   "def": "US court-supervised reorganisation that lets a company keep operating while it restructures its debts, protected from creditors. New money is often provided as DIP (debtor-in-possession) financing, which ranks first. Seadrill went through Chapter 11 twice (2017 and 2021)."
+  },
+  {
+   "id": "loan-types",
+   "term": "Term loan, RCF and repayment profiles",
+   "cat": "finance",
+   "ex": "A 7-year loan on a 20-year profile repays 5% a year, so 65% is still outstanding when it matures.",
+   "m": [
+    "term loan",
+    "term loans",
+    "revolving credit facility",
+    "revolving credit facilities",
+    "=RCF",
+    "revolver",
+    "repayment profile",
+    "amortisation profile",
+    "tenor",
+    "moratorium"
+   ],
+   "hl": true,
+   "def": "A term loan is drawn once and repaid by instalments. A revolving credit facility (RCF) can be drawn, repaid and redrawn. Repayment can be even, front-ended, back-ended, or start after a moratorium, and the profile is often longer than the tenor, which leaves a balloon."
+  },
+  {
+   "id": "capital-structure",
+   "term": "Capital structure",
+   "cat": "finance",
+   "ex": "A shipowner that paid down debt in a strong market and kept cash is better placed to buy cheap ships in the next downturn.",
+   "m": [
+    "capital structure",
+    "pecking order",
+    "trade-off theory",
+    "Modigliani-Miller",
+    "Modigliani–Miller",
+    "deleveraging",
+    "deleverage"
+   ],
+   "hl": true,
+   "def": "The mix of debt and equity a company uses. Modigliani–Miller says it does not matter in a perfect market; trade-off theory weighs tax savings against the cost of financial distress; pecking order says firms prefer internal cash, then debt, then new shares. Volatile shipping earnings argue for moderate debt."
+  },
+  {
+   "id": "mezzanine",
+   "term": "Mezzanine finance",
+   "cat": "finance",
+   "ex": "A buyer funds a USD 40 million ship with USD 20 million senior loan, USD 8 million mezzanine at 12% and USD 12 million equity.",
+   "m": [
+    "mezzanine",
+    "junior debt",
+    "junior loan",
+    "subordinated",
+    "second lien",
+    "second-lien",
+    "preferred equity",
+    "preference shares",
+    "hybrid capital",
+    "hybrid bond"
+   ],
+   "hl": true,
+   "def": "Capital ranking between senior bank debt and equity, such as junior loans, preferred equity or second-lien bonds. It costs more than bank debt but lets the owner use less equity. A typical stack could be 40–55% senior debt, 15–25% mezzanine and the rest equity."
+  },
+  {
+   "id": "convertible",
+   "term": "Convertible bond",
+   "cat": "finance",
+   "ex": "A driller issues a USD 250 million convertible at 5.75% with a conversion price 30% above today's share price.",
+   "m": [
+    "convertible bond",
+    "convertible bonds",
+    "convertible notes",
+    "convertible loan",
+    "conversion price",
+    "convertibles"
+   ],
+   "hl": true,
+   "def": "A bond the holder can exchange for shares at a set conversion price. Investors accept a lower coupon in return for the upside if the shares rise; for the company it is cheaper debt now and possible dilution later."
+  },
+  {
+   "id": "lease",
+   "term": "Finance and operating lease",
+   "cat": "finance",
+   "ex": "After a sale-leaseback with a buy-back obligation, the seller usually keeps the ship on its balance sheet as a financing, not a sale.",
+   "m": [
+    "finance lease",
+    "financial lease",
+    "operating lease",
+    "operating leases",
+    "=IFRS 16",
+    "lease liability",
+    "lease liabilities",
+    "right-of-use",
+    "lease financing",
+    "bareboat lease"
+   ],
+   "hl": true,
+   "def": "A finance lease transfers most of the risk and reward of owning the ship to the lessee (often with a purchase obligation); an operating lease is closer to renting. Under IFRS 16 lessees put almost all leases longer than 12 months on the balance sheet as a right-of-use asset and a lease liability."
+  },
+  {
+   "id": "bond-trustee",
+   "term": "Bond trustee",
+   "cat": "finance",
+   "ex": "Nordic Trustee summons a bondholder meeting to vote on deferring the next two interest payments.",
+   "m": [
+    "bond trustee",
+    "Nordic Trustee",
+    "bondholder meeting",
+    "bondholders' meeting",
+    "written resolution",
+    "bondholders",
+    "bond terms"
+   ],
+   "hl": true,
+   "def": "Represents all bondholders: checks covenants, calls bondholder meetings and acts if the issuer defaults. Nordic Trustee fills this role in most Nordic bonds. Bondholders can vote on changes, so a restructuring needs a majority."
+  },
+  {
+   "id": "credit-rating",
+   "term": "Credit rating (investment grade vs high yield)",
+   "cat": "finance",
+   "ex": "An upgrade from BB to BBB− lets a company sell bonds to investors who may only buy investment grade, often cutting its interest cost.",
+   "m": [
+    "credit rating",
+    "credit ratings",
+    "investment grade",
+    "investment-grade",
+    "high yield",
+    "high-yield",
+    "junk bond",
+    "rating downgrade",
+    "rating upgrade",
+    "recovery rating",
+    "=Moody's",
+    "Fitch Ratings",
+    "S&P Global Ratings"
+   ],
+   "hl": true,
+   "def": "An agency's opinion of how likely an issuer is to pay. BBB− and above is investment grade; below that is high yield, with higher interest. Recovery ratings estimate how much lenders get back after a default. Most shipping bonds are unrated or high yield."
+  },
+  {
+   "id": "swap",
+   "term": "Interest rate swap",
+   "cat": "finance",
+   "ex": "An owner with a USD 100 million SOFR loan swaps it to a fixed 4%, so a rise in SOFR no longer raises its interest bill.",
+   "m": [
+    "interest rate swap",
+    "interest rate swaps",
+    "interest rate hedge",
+    "interest rate hedging",
+    "swap rate",
+    "fixed-for-floating",
+    "interest rate cap",
+    "rate cap",
+    "collar",
+    "cross-currency swap",
+    "cross currency swap",
+    "currency swap",
+    "currency swaps"
+   ],
+   "hl": true,
+   "def": "An agreement to exchange floating interest payments for fixed ones (or the reverse). Owners with SOFR loans use swaps, caps and collars to limit how much higher rates can cost them. A cross-currency swap also exchanges currencies, for example NOK bond payments into USD."
+  },
+  {
+   "id": "mna",
+   "term": "Mergers and synergies",
+   "cat": "finance",
+   "ex": "A buyer pays a 20% premium for a USD 1 billion target. The deal creates value only if synergies are worth more than USD 200 million.",
+   "m": [
+    "merger",
+    "mergers",
+    "takeover",
+    "takeovers",
+    "takeover bid",
+    "offer premium",
+    "bid premium",
+    "all-share",
+    "share-for-share",
+    "tender offer",
+    "synergies",
+    "fusjon",
+    "oppkjøp"
+   ],
+   "hl": true,
+   "def": "When two shipping companies combine, the deal makes sense if the combined value exceeds the parts: value created = synergies (lower costs, better fleet use) minus the premium paid to the target's shareholders. Many shipping deals are all-share mergers."
+  },
+  {
+   "id": "ipo",
+   "term": "IPO and listing",
+   "cat": "finance",
+   "ex": "A tanker owner lists on Euronext Growth Oslo, raising USD 150 million to pay for newbuildings.",
+   "m": [
+    "=IPO",
+    "=IPOs",
+    "initial public offering",
+    "Euronext Growth",
+    "Euronext Oslo",
+    "Oslo Børs",
+    "Oslo Stock Exchange",
+    "Euronext Expand",
+    "stock listing",
+    "dual listing",
+    "børsnotering"
+   ],
+   "hl": true,
+   "def": "An initial public offering sells shares to the public and lists the company on a stock exchange, such as Euronext Oslo (Oslo Børs), Euronext Growth or the New York exchanges. It raises equity and makes shares tradable; many shipping IPOs come when rates and valuations are high."
+  },
+  {
+   "id": "beta",
+   "term": "Beta and CAPM",
+   "cat": "finance",
+   "ex": "With a 4% risk-free rate, beta 1.2 and a 5% market premium, the cost of equity is 10%.",
+   "m": [
+    "equity beta",
+    "stock beta",
+    "=CAPM",
+    "Sharpe ratio",
+    "risk-adjusted return",
+    "risk-adjusted returns",
+    "market risk premium",
+    "systematic risk"
+   ],
+   "hl": true,
+   "def": "Beta measures how much a share moves with the overall stock market. In CAPM, cost of equity = risk-free rate + beta × market risk premium. Shipping betas are often near or above 1 and rise in bad markets. The Sharpe ratio compares return with volatility."
+  },
+  {
+   "id": "tonnage-tax",
+   "term": "Tonnage tax",
+   "cat": "finance",
+   "ex": "A Norwegian owner earning USD 100 million pays tonnage tax measured in thousands of kroner per ship, not 22% of profit.",
+   "no": "Rederiskatt / tonnasjeskatt",
+   "m": [
+    "tonnage tax",
+    "tonnage taxation",
+    "tonnasjeskatt",
+    "rederiskatt",
+    "rederiskatteordningen"
+   ],
+   "hl": true,
+   "def": "A tax regime where shipping companies pay a small tax based on fleet size (net tonnage) instead of tax on profits. Norway and most EU countries offer it. That is why ship valuations are often done before tax."
+  },
+  {
+   "id": "cirr",
+   "term": "Export credit rules (OECD, CIRR)",
+   "cat": "finance",
+   "ex": "An owner ordering an offshore vessel in Norway finances 80% with an Eksfin-guaranteed loan over 12 years and pays 20% from equity.",
+   "m": [
+    "=CIRR",
+    "OECD Arrangement",
+    "Ship Sector Understanding",
+    "commercial interest reference rate",
+    "Export Finance Norway",
+    "eksportkreditt",
+    "export credit guarantee",
+    "export credit guarantees"
+   ],
+   "hl": true,
+   "def": "Export credit agencies follow the OECD Arrangement and its Ship Sector Understanding: up to 80% of the contract price, repaid over up to 12 years, and often at a fixed CIRR rate (commercial interest reference rate). Commercial banks usually provide a share alongside. In Norway, Eksfin offers loans and guarantees for ships built at Norwegian yards or with Norwegian equipment."
+  },
+  {
+   "id": "sll",
+   "term": "Sustainability-linked loan",
+   "cat": "finance",
+   "ex": "A margin of SOFR + 1.80% falls by 0.05% if the fleet meets its CO2 target and rises by 0.05% if it does not.",
+   "m": [
+    "sustainability-linked",
+    "sustainability linked",
+    "=SLL",
+    "green loan",
+    "green loans",
+    "green bond",
+    "green bonds",
+    "green financing",
+    "green finance",
+    "blue bond",
+    "social bond",
+    "transition finance"
+   ],
+   "hl": true,
+   "def": "A loan whose margin goes up or down, often by a few basis points, depending on whether the borrower hits agreed sustainability targets, such as carbon intensity. A green loan or green bond instead restricts what the money can be used for."
+  },
+  {
+   "id": "stranded-asset",
+   "term": "Stranded asset and transition risk",
+   "cat": "finance",
+   "ex": "If fuel rules make a 15-year-old ship USD 4,000 a day more expensive to run than a dual-fuel newbuilding, charterers pay less for it and its value falls.",
+   "m": [
+    "stranded asset",
+    "stranded assets",
+    "stranding",
+    "transition risk",
+    "transition risks",
+    "climate risk",
+    "climate risks",
+    "climate-related risk",
+    "physical risk"
+   ],
+   "hl": true,
+   "def": "Transition risk is the chance that climate rules, carbon prices or charterer demands cut the value of existing ships. A ship becomes a stranded asset if it loses value or earnings long before the end of its expected life. The risk is relative: an older, less efficient ship loses against newer ones even if all ships still trade."
+  },
+  {
    "id": "hm",
    "term": "Hull & Machinery (H&M)",
    "cat": "insurance",
@@ -2115,6 +2648,23 @@
    ],
    "hl": true,
    "def": "Additional insurance that pays on a total loss, covering the gap between the hull's insured value and the owner's real loss."
+  },
+  {
+   "id": "mii",
+   "term": "Mortgagee's interest insurance (MII)",
+   "cat": "insurance",
+   "ex": "A ship sinks but the hull insurer refuses to pay because the owner broke a trading warranty. The bank's MII pays up to the outstanding loan.",
+   "m": [
+    "mortgagee's interest",
+    "mortgagees interest",
+    "mortgagee interest",
+    "=MII",
+    "=MAPI",
+    "=MAP cover",
+    "lender's insurance"
+   ],
+   "hl": true,
+   "def": "Insurance bought by (or for) the lending bank that pays if the owner's own insurance fails to pay, for example because the owner breached a warranty or concealed something. It protects the bank's loan, not the owner. MAP (additional perils) covers pollution liabilities the bank could face."
   },
   {
    "id": "fdd",
@@ -2827,6 +3377,129 @@
    ],
    "hl": true,
    "def": "Energy Efficiency Existing Ship Index: IMO technical efficiency requirement for existing ships since 2023. Many older ships complied by limiting engine power, which lowers their top speed."
+  },
+  {
+   "id": "eedi",
+   "term": "EEDI",
+   "full": "Energy Efficiency Design Index",
+   "cat": "reg",
+   "ex": "A bulk carrier ordered today must meet a stricter EEDI phase than one ordered ten years ago, often by using a smaller engine or better hull.",
+   "m": [
+    "=EEDI",
+    "Energy Efficiency Design Index"
+   ],
+   "hl": true,
+   "def": "Energy Efficiency Design Index: an IMO requirement that new ships are designed to emit less CO2 per tonne-mile than a reference line, tightened in phases. EEXI applies the same idea to existing ships."
+  },
+  {
+   "id": "aer",
+   "term": "AER and EEOI",
+   "cat": "reg",
+   "ex": "A ship sailing half the year in ballast has a reasonable AER but a poor EEOI, because it emits CO2 without carrying cargo.",
+   "m": [
+    "=AER",
+    "=EEOI",
+    "annual efficiency ratio",
+    "energy efficiency operational indicator",
+    "carbon intensity"
+   ],
+   "hl": true,
+   "def": "Two ways to measure a ship's operational carbon intensity. AER (annual efficiency ratio) divides CO2 by deadweight × distance sailed; it is the basis for most CII ratings. EEOI divides CO2 by cargo actually carried × distance, so it punishes ballast legs."
+  },
+  {
+   "id": "seemp",
+   "term": "SEEMP and DCS",
+   "cat": "reg",
+   "ex": "A ship rated D three years in a row must add a corrective action plan to its SEEMP.",
+   "m": [
+    "=SEEMP",
+    "ship energy efficiency management plan",
+    "=DCS",
+    "data collection system",
+    "=MRV",
+    "EU MRV"
+   ],
+   "hl": true,
+   "def": "The ship energy efficiency management plan every ship must keep, now including its plan to meet CII targets. Under the IMO DCS (and EU MRV), ships report fuel use, distance and hours each year, and the data feeds CII ratings and the EU ETS."
+  },
+  {
+   "id": "imo-nzf",
+   "term": "IMO Net-Zero Framework",
+   "cat": "reg",
+   "ex": "If the framework is adopted, an owner running on fossil fuel oil pays for each tonne of CO2-equivalent above the limit, which makes dual-fuel ships more valuable.",
+   "m": [
+    "Net-Zero Framework",
+    "Net Zero Framework",
+    "=NZF",
+    "global fuel standard",
+    "global carbon levy",
+    "GHG pricing",
+    "carbon levy",
+    "=MEPC",
+    "IMO net-zero",
+    "IMO net zero"
+   ],
+   "hl": true,
+   "def": "IMO's planned global system to cut shipping emissions: a fuel standard that tightens greenhouse gas intensity limits over time, with payments for ships that miss them and rewards for the cleanest. Its adoption was postponed in October 2025 after strong opposition; talks continue."
+  },
+  {
+   "id": "wtw",
+   "term": "Well-to-wake",
+   "cat": "reg",
+   "ex": "Methanol made from natural gas emits more well-to-wake than marine gas oil, even though it burns cleaner on board.",
+   "m": [
+    "well-to-wake",
+    "well to wake",
+    "tank-to-wake",
+    "tank to wake",
+    "well-to-tank",
+    "lifecycle emissions",
+    "life-cycle emissions",
+    "=WtW",
+    "=TtW"
+   ],
+   "hl": true,
+   "def": "Counting a fuel's emissions over its whole life: producing and transporting it (well-to-tank) plus burning it on board (tank-to-wake). FuelEU Maritime and the IMO framework use well-to-wake, so fossil LNG or methanol made from natural gas gets less credit than it appears."
+  },
+  {
+   "id": "dual-fuel",
+   "term": "Dual-fuel and alternative fuels",
+   "cat": "reg",
+   "ex": "A dual-fuel methanol containership runs on fuel oil today and can switch when green methanol becomes available or carbon costs rise.",
+   "m": [
+    "dual-fuel",
+    "dual fuel",
+    "methanol-fuelled",
+    "methanol-fueled",
+    "ammonia-fuelled",
+    "ammonia-fueled",
+    "LNG-fuelled",
+    "LNG-fueled",
+    "methanol-ready",
+    "ammonia-ready",
+    "alternative fuel",
+    "alternative fuels",
+    "green methanol",
+    "green ammonia",
+    "e-fuels",
+    "biofuel",
+    "biofuels"
+   ],
+   "hl": true,
+   "def": "A dual-fuel ship can burn conventional fuel oil and an alternative such as LNG, methanol or ammonia. This keeps options open while green fuel is scarce and expensive, and protects the ship's value as rules tighten."
+  },
+  {
+   "id": "jones-act",
+   "term": "Jones Act",
+   "cat": "reg",
+   "ex": "LNG cannot be shipped from Texas to New England on a foreign LNG carrier, so the region may import LNG from abroad instead.",
+   "m": [
+    "Jones Act",
+    "Merchant Marine Act",
+    "US cabotage"
+   ],
+   "hl": true,
+   "def": "US law reserving shipping between US ports for ships that are US-built, US-owned, US-flagged and US-crewed. It protects domestic yards and crews but makes US coastal shipping expensive, and it is often debated when fuel or goods are short in places like Puerto Rico."
   },
   {
    "id": "psc",

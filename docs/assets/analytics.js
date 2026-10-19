@@ -19,6 +19,7 @@
     ['markets', 'Market pulse'],
     ['rates', 'Freight rate lab'],
     ['voyage', 'Voyage economics'],
+    ['valuation', 'Ship valuation'],
     ['truck', 'Truck trip cost'],
     ['effects', 'Cause & effect'],
   ];
@@ -161,7 +162,7 @@
         onclick: () => { location.hash = 'analytics.' + id; },
       }, name))),
       body);
-    ({ markets, rates, voyage, truck, effects })[tab](body);
+    ({ markets, rates, voyage, valuation, truck, effects })[tab](body);
   };
 
   const rerender = () => { if (F.state && F.state.route === 'analytics' && F.render) F.render(); };
@@ -456,7 +457,268 @@
     draw();
   }
 
-  // ---------------------------------------------------------------- 4. truck trip cost
+  // ---------------------------------------------------------------- 4. ship valuation (FIE460: NAV / LTAV and the lender's view)
+  // Follows the long-term asset value (LTAV) method in Kavussanos & Visvikis (eds.), ch. 13:
+  // free cash flow = charter revenue on booked days, net of commission, minus OPEX; the rate moves
+  // linearly from today's level to the long-run level, then grows with inflation; a 15% old-ship
+  // discount applies from age 20; scrap value = LDT x scrap price at the end of the economic life.
+  const SHIPS = {
+    ultramax: { name: 'Ultramax, 5 years old', src: 'Built like the bank case in the course: USD 35m ship, 60% loan at 6%, OPEX USD 8,000 and G&A USD 1,000 a day.',
+      price: 35, age: 5, life: 25, tceNow: 25000, tceLong: 15500, conv: 4, opex: 9000, days: 365, dockDays: 0, util: 100, comm: 0, inf: 2, ldt: 10500, scrap: 400, oldCut: 15, wacc: 7, ltv: 60, rate: 6, tenor: 7, profile: 20, mvc: 135, dscr: 1.4, hold: 5, shock: 25 },
+    feeder: { name: '1,700 TEU feeder, 10 years old', src: 'The textbook LTAV example (ch. 13): USD 7,500/day today, USD 13,000 historical average, OPEX USD 6,400/day, WACC 6.75%. The textbook value is USD 15.5m; the price is set to match it. Move the price to see the gap between market price and fundamental value that the chapter discusses.',
+      price: 15.5, age: 10, life: 25, tceNow: 7500, tceLong: 13000, conv: 4, opex: 6400, days: 358, dockDays: 15, util: 95, comm: 6.5, inf: 2, ldt: 8000, scrap: 360, oldCut: 15, wacc: 6.75, ltv: 60, rate: 6.3, tenor: 5, profile: 10, mvc: 135, dscr: 1.4, hold: 5, shock: 25 },
+    vlcc: { name: 'VLCC, 5 years old', src: 'Illustrative numbers for a modern VLCC. Check current broker values before using them.',
+      price: 150, age: 5, life: 25, tceNow: 80000, tceLong: 45000, conv: 4, opex: 11500, days: 358, dockDays: 15, util: 97, comm: 1.25, inf: 2, ldt: 42000, scrap: 400, oldCut: 15, wacc: 7.5, ltv: 55, rate: 6.5, tenor: 6, profile: 18, mvc: 135, dscr: 1.4, hold: 5, shock: 25 },
+    capesize: { name: 'Capesize, 5 years old', src: 'Illustrative numbers for a 180,000 dwt Capesize. Check current broker values before using them.',
+      price: 55, age: 5, life: 25, tceNow: 25000, tceLong: 21000, conv: 4, opex: 8700, days: 358, dockDays: 15, util: 97, comm: 1.25, inf: 2, ldt: 24000, scrap: 400, oldCut: 15, wacc: 7.5, ltv: 55, rate: 6.5, tenor: 6, profile: 18, mvc: 135, dscr: 1.4, hold: 5, shock: 25 },
+    mr: { name: 'MR product tanker, 5 years old', src: 'Illustrative numbers for a 50,000 dwt MR tanker. Check current broker values before using them.',
+      price: 46, age: 5, life: 25, tceNow: 30000, tceLong: 19500, conv: 4, opex: 8500, days: 358, dockDays: 15, util: 97, comm: 1.25, inf: 2, ldt: 11000, scrap: 400, oldCut: 15, wacc: 7.5, ltv: 55, rate: 6.5, tenor: 6, profile: 18, mvc: 135, dscr: 1.4, hold: 5, shock: 25 },
+  };
+
+  // annual cash flows for the remaining life; t = 1 is the first year after purchase
+  function shipFlows(p, over) {
+    const q = Object.assign({}, p, over || {});
+    const n = Math.max(1, Math.round(q.life - q.age + 1));
+    const inf = q.inf / 100;
+    const target = q.tceLong * Math.pow(1 + inf, Math.max(0, q.conv - 1));
+    const rows = [];
+    for (let t = 1; t <= n; t++) {
+      const age = q.age + t - 1;
+      const dock = q.dockDays > 0 && (age - 1) % 5 === 0;
+      const running = q.days - (dock ? q.dockDays : 0);
+      const booked = running * q.util / 100;
+      let rate = t >= q.conv ? q.tceLong * Math.pow(1 + inf, t - 1) : q.tceNow + (target - q.tceNow) * (t - 1) / Math.max(1, q.conv - 1);
+      if (age >= 20) rate *= 1 - q.oldCut / 100;
+      const revenue = rate * booked * (1 - q.comm / 100);
+      const opex = q.opex * 365 * Math.pow(1 + inf, t - 1);
+      const scrap = t === n ? q.ldt * q.scrap * Math.pow(1 + inf, t) : 0;
+      rows.push({ t, age, booked, rate, revenue, opex, fcf: revenue - opex, scrap });
+    }
+    return rows;
+  }
+  // value at the end of year k of the cash flows after k (k = 0 is today)
+  function valueAt(rows, k, r) {
+    let v = 0;
+    for (const x of rows) if (x.t > k) v += (x.fcf + x.scrap) / Math.pow(1 + r, x.t - k);
+    return v;
+  }
+  function irr(flows) {
+    const npv = (r) => flows.reduce((s, cf, i) => s + cf / Math.pow(1 + r, i), 0);
+    let lo = -0.99, hi = 3, flo = npv(lo), fhi = npv(hi);
+    if (!(flo * fhi < 0)) return null;
+    for (let i = 0; i < 120; i++) {
+      const mid = (lo + hi) / 2, fm = npv(mid);
+      if (fm * flo > 0) { lo = mid; flo = fm; } else { hi = mid; }
+    }
+    return (lo + hi) / 2;
+  }
+  function shipCalc(p, over) {
+    const q = Object.assign({}, p, over || {});
+    const rows = shipFlows(q);
+    const r = q.wacc / 100;
+    const price = q.price * 1e6;
+    const value = valueAt(rows, 0, r);
+    const loan0 = price * q.ltv / 100;
+    const inst = loan0 / Math.max(1, q.profile);
+    const ir = q.rate / 100;
+    const debt = [];
+    let bal = loan0;
+    for (let t = 1; t <= rows.length; t++) {
+      const open = bal;
+      const interest = t <= q.tenor ? open * ir : 0;
+      const repay = t <= q.tenor ? Math.min(inst, open) : 0;
+      bal = open - repay;
+      const balloon = t === q.tenor ? bal : 0;
+      debt.push({ t, open, interest, repay, close: bal, balloon });
+      if (t === q.tenor) bal = 0;
+    }
+    const y1 = rows[0];
+    const ds1 = debt[0].interest + debt[0].repay;
+    const bookedDay = y1.booked * (1 - q.comm / 100);
+    const breakeven = (y1.opex + ds1) / bookedDay;
+    const opexBreakeven = y1.opex / bookedDay;
+    const dscr = ds1 > 0 ? y1.fcf / ds1 : null;
+    const maxLoan = y1.fcf / (q.dscr * (ir + 1 / Math.max(1, q.profile)));
+    // value path and covenant headroom over the loan's life
+    const path = [];
+    for (let k = 0; k <= Math.min(rows.length - 1, Math.max(q.tenor, q.hold) + 3); k++) {
+      const loanK = k === 0 ? loan0 : (k <= q.tenor ? debt[k - 1].close : 0);
+      path.push({ k, value: valueAt(rows, k, r), loan: loanK });
+    }
+    // equity: buy at the price, hold, exit at model value
+    const H = Math.min(q.hold, rows.length);
+    const eq = [-(price - loan0)], asset = [-price];
+    for (let t = 1; t <= H; t++) {
+      const d = debt[t - 1];
+      let cf = rows[t - 1].fcf + rows[t - 1].scrap - d.interest - d.repay - d.balloon;
+      let cfa = rows[t - 1].fcf + rows[t - 1].scrap;
+      if (t === H && t < rows.length) {
+        const exit = valueAt(rows, t, r);
+        cf += exit - (t < q.tenor ? d.close : 0);
+        cfa += exit;
+      }
+      eq.push(cf); asset.push(cfa);
+    }
+    // the bank case: a sudden fall in value today
+    const shocked = price * (1 - q.shock / 100);
+    const equity0 = price - loan0;
+    // trade-out rate: TCE needed to repay the balloon by age 20 (or the end of life)
+    const balloonAmt = q.tenor <= rows.length ? debt[q.tenor - 1].balloon : 0;
+    const ageAtTenor = q.age + q.tenor;
+    const yrsLeft = Math.max(1, Math.min(20, q.life) - ageAtTenor);
+    const pmt = balloonAmt > 0 ? (balloonAmt * ir) / (1 - Math.pow(1 + ir, -yrsLeft)) : 0;
+    const bookedAfter = q.days * q.util / 100 * (1 - q.comm / 100);
+    const tradeOut = (pmt + q.opex * 365 * Math.pow(1 + q.inf / 100, q.tenor)) / bookedAfter;
+    return {
+      rows, debt, value, price, loan0, inst, breakeven, opexBreakeven, dscr, maxLoan, path,
+      eqIrr: irr(eq), assetIrr: irr(asset), eqYield1: (y1.fcf - debt[0].interest) / equity0, assetYield1: y1.fcf / price,
+      shocked, shockLtv: loan0 / shocked, shockEquityLoss: (price - shocked) / equity0, mvcBreachFall: 1 - (loan0 * q.mvc / 100) / price,
+      balloonAmt, tradeOut, yrsLeft, premium: price / value - 1,
+    };
+  }
+  F.shipCalc = shipCalc;
+  F.SHIPS = SHIPS;
+
+  function valuation(box) {
+    if (!lab.ship) lab.ship = Object.assign({ preset: 'ultramax' }, SHIPS.ultramax);
+    if (lab.shipPreset && SHIPS[lab.shipPreset]) { lab.ship = Object.assign({ preset: lab.shipPreset }, SHIPS[lab.shipPreset]); lab.shipPreset = null; }
+    const p = lab.ship;
+    const c = colors();
+    const m = (v) => 'USD ' + nf1.format(v / 1e6) + 'm';
+    const out = el('div', { class: 'results' });
+    const sel = el('select', { id: 's-preset' }, Object.entries(SHIPS).map(([id, s]) => el('option', { value: id, selected: p.preset === id ? true : null }, s.name)));
+    sel.addEventListener('change', () => { lab.ship = Object.assign({ preset: sel.value }, SHIPS[sel.value]); F.render(); });
+    const k = (v) => 'USD ' + nf0.format(v) + '/day';
+    const controls = el('div', { class: 'controls' },
+      el('div', { class: 'ctl' }, el('label', { for: 's-preset', class: 'ctl-top' }, 'Ship'), sel, el('span', { class: 'help' }, SHIPS[p.preset] ? SHIPS[p.preset].src : '')),
+      slider('s-price', 'Purchase price', p.price, Math.round(p.price * 0.4), Math.round(p.price * 1.8), p.price >= 50 ? 1 : 0.5, (v) => 'USD ' + v + 'm', (v) => { p.price = v; draw(); }),
+      slider('s-now', 'Earnings today (TCE)', p.tceNow, 2000, Math.max(40000, Math.round(p.tceNow * 2 / 1000) * 1000), 500, k, (v) => { p.tceNow = v; draw(); }, 'Spot or current time-charter rate, net of voyage costs.'),
+      slider('s-long', 'Long-run earnings (TCE)', p.tceLong, 2000, Math.max(40000, Math.round(p.tceLong * 2 / 1000) * 1000), 500, k, (v) => { p.tceLong = v; draw(); }, 'The level rates revert to (mean reversion), in today’s money.'),
+      slider('s-opex', 'OPEX + G&A', p.opex, 3000, 16000, 100, k, (v) => { p.opex = v; draw(); }),
+      slider('s-wacc', 'Discount rate (WACC)', p.wacc, 3, 14, 0.25, (v) => v.toFixed(2) + '%', (v) => { p.wacc = v; draw(); }, 'Weighted cost of debt and equity. Higher risk, higher rate, lower value.'),
+      slider('s-ltv', 'Loan-to-value', p.ltv, 0, 80, 5, (v) => v + '%', (v) => { p.ltv = v; draw(); }),
+      slider('s-rate', 'Interest rate (SOFR + margin)', p.rate, 2, 12, 0.25, (v) => v.toFixed(2) + '%', (v) => { p.rate = v; draw(); }),
+      slider('s-shock', 'Stress test: fall in ship value today', p.shock, 0, 60, 5, (v) => '−' + v + '%', (v) => { p.shock = v; draw(); }),
+      el('details', null, el('summary', { class: 'small-note', style: 'cursor:pointer' }, 'More assumptions'),
+        el('div', { style: 'display:flex;flex-direction:column;gap:10px;margin-top:10px' },
+          numberField('s-age', 'Age today (years)', p.age, 1, (v) => { p.age = v; draw(); }),
+          numberField('s-life', 'Economic life (years)', p.life, 1, (v) => { p.life = v; draw(); }),
+          numberField('s-conv', 'Years until rates reach the long-run level', p.conv, 1, (v) => { p.conv = Math.max(1, v); draw(); }),
+          numberField('s-days', 'Trading days per year', p.days, 1, (v) => { p.days = v; draw(); }),
+          numberField('s-dock', 'Days lost in dry-dock years (every 5 years)', p.dockDays, 1, (v) => { p.dockDays = v; draw(); }),
+          numberField('s-util', 'Utilisation (%)', p.util, 1, (v) => { p.util = v; draw(); }),
+          numberField('s-comm', 'Commissions and fees (%)', p.comm, 0.25, (v) => { p.comm = v; draw(); }),
+          numberField('s-inf', 'Inflation (%)', p.inf, 0.25, (v) => { p.inf = v; draw(); }),
+          numberField('s-oldcut', 'Old-ship discount from age 20 (%)', p.oldCut, 1, (v) => { p.oldCut = v; draw(); }),
+          numberField('s-ldt', 'Lightweight (LDT, tonnes)', p.ldt, 100, (v) => { p.ldt = v; draw(); }),
+          numberField('s-scrap', 'Scrap price (USD per LDT)', p.scrap, 10, (v) => { p.scrap = v; draw(); }),
+          numberField('s-tenor', 'Loan tenor (years)', p.tenor, 1, (v) => { p.tenor = Math.max(1, v); draw(); }),
+          numberField('s-profile', 'Repayment profile (years to zero)', p.profile, 1, (v) => { p.profile = Math.max(1, v); draw(); }, 'Instalments as if the loan were repaid over this many years; what is left at the end of the tenor is the balloon.'),
+          numberField('s-mvc', 'Minimum value clause (%)', p.mvc, 5, (v) => { p.mvc = v; draw(); }, 'Ship value must stay above this share of the loan.'),
+          numberField('s-dscr', 'Required debt service cover', p.dscr, 0.1, (v) => { p.dscr = v; draw(); }),
+          numberField('s-hold', 'Holding period for the return (years)', p.hold, 1, (v) => { p.hold = Math.max(1, v); draw(); }))));
+    box.append(el('div', { class: 'lab' }, controls, out));
+
+    const kpis = el('div', { class: 'kpis kpis-4' });
+    const lender = el('div', { class: 'kpis kpis-4' });
+    const explain = el('div', { class: 'explain' });
+    const sens = el('div', { class: 'table-wrap' });
+    const a = chartCard('Ship value and loan over time', 'Model value of the remaining cash flows at the end of each year, against the loan outstanding and the minimum value the covenant requires.', 'normal',
+      { legend: legend([[c.c1, 'Model value'], [c.c2, 'Loan outstanding'], [c.c3, 'Minimum value (covenant)']]) });
+    const b = chartCard('Earnings against break-even', 'Assumed daily earnings each year compared with what the ship must earn to pay OPEX and the loan.', 'normal',
+      { legend: legend([[c.c1, 'Assumed TCE'], [c.c2, 'Cash break-even while the loan runs'], [c.cm, 'OPEX only']]) });
+    out.append(kpis,
+      el('h3', { class: 'section-h' }, 'The lender’s view'), lender,
+      explain, a.node, b.node,
+      el('section', { class: 'chart-card' }, el('h3', null, 'Value range'), el('p', { class: 'cap' }, 'Model value in USD million for different long-run earnings and discount rates. Lenders work with a range like this, not one number.'), sens),
+      termsRow(['nav', 'ltav', 'wacc', 'ltv', 'vmc', 'breakeven', 'dscr', 'balloon', 'five-cs', 'mean-reversion']),
+      el('p', { class: 'disclaimer' }, 'Method: long-term asset value (LTAV) as in Kavussanos & Visvikis (eds.), The International Handbook of Shipping Finance, ch. 13, with no tax (tonnage tax). Lender metrics follow common bank practice. Simplified for learning; not investment advice.'));
+
+    const chA = makeChart(a.canvas, { type: 'line', data: { labels: [], datasets: [
+      { label: 'Model value', data: [], borderColor: c.c1, backgroundColor: alpha(c.c1, 0.08), fill: true, borderWidth: 2, pointRadius: 0, pointHitRadius: 8, tension: 0.2 },
+      { label: 'Loan outstanding', data: [], borderColor: c.c2, borderWidth: 2, pointRadius: 0, pointHitRadius: 8, stepped: 'after' },
+      { label: 'Minimum value (covenant)', data: [], borderColor: c.c3, borderWidth: 2, borderDash: [5, 4], pointRadius: 0, pointHitRadius: 8, stepped: 'after' },
+    ] }, options: baseOptions(c, {
+      x: axis(c, 'Years from purchase', (v) => v),
+      y: axis(c, 'USD million', null, { beginAtZero: true, ticks: { color: c.muted, font: { size: 11 }, maxTicksLimit: 6, callback: (v) => nf0.format(v) } }),
+      tooltip: { label: (ctx) => ` ${ctx.dataset.label}: USD ${nf1.format(ctx.parsed.y)}m` },
+    }) });
+    const chB = makeChart(b.canvas, { type: 'line', data: { labels: [], datasets: [
+      { label: 'Assumed TCE', data: [], borderColor: c.c1, borderWidth: 2, pointRadius: 0, pointHitRadius: 8 },
+      { label: 'Cash break-even', data: [], borderColor: c.c2, borderWidth: 2, pointRadius: 0, pointHitRadius: 8, stepped: 'after', spanGaps: false },
+      { label: 'OPEX only', data: [], borderColor: c.cm, borderWidth: 2, borderDash: [4, 4], pointRadius: 0, pointHitRadius: 8 },
+    ] }, options: baseOptions(c, {
+      x: axis(c, 'Ship age (years)', (v) => v),
+      y: axis(c, 'USD per day', null, { beginAtZero: true, ticks: { color: c.muted, font: { size: 11 }, maxTicksLimit: 6, callback: (v) => compact(v) } }),
+      tooltip: { label: (ctx) => ` ${ctx.dataset.label}: ${usd(ctx.parsed.y)}` },
+    }) });
+
+    function draw() {
+      const r = shipCalc(p);
+      const kpi = (l, v, d) => el('div', { class: 'kpi' }, el('div', { class: 'l' }, l), el('div', { class: 'v' }, v), d ? el('div', { class: 'd' }, d) : null);
+      const prem = r.premium;
+      fill(kpis,
+        kpi('Model value (LTAV)', m(r.value), Math.round(prem * 100) === 0 ? 'price in line with value' : `price ${Math.abs(Math.round(prem * 100))}% ${prem > 0 ? 'above' : 'below'} value`),
+        kpi('Cash break-even', usd(r.breakeven) + '/day', `OPEX alone ${usd(r.opexBreakeven)}`),
+        kpi('Equity return (IRR)', r.eqIrr == null ? 'n/a' : pct(r.eqIrr * 100, 1).replace('+', ''), `${p.hold} years, exit at model value`),
+        kpi('Unlevered return', r.assetIrr == null ? 'n/a' : pct(r.assetIrr * 100, 1).replace('+', ''), 'same ship, no debt'));
+      fill(lender,
+        kpi('Loan', m(r.loan0), `${p.ltv}% LTV, balloon ${m(r.balloonAmt)}`),
+        kpi('Debt service cover', r.dscr == null ? 'no debt' : nf2.format(r.dscr) + '×', `required ${nf1.format(p.dscr)}×`),
+        kpi('MVC headroom', r.mvcBreachFall > 0 ? '−' + Math.round(r.mvcBreachFall * 100) + '%' : 'breached', 'value fall that breaches it'),
+        kpi('After a ' + p.shock + '% fall', `LTV ${Math.round(r.shockLtv * 100)}%`, p.ltv > 0 ? `equity loses ${Math.round(Math.min(1, r.shockEquityLoss) * 100)}%` : 'no debt'));
+      // charts
+      if (chA) {
+        chA.data.labels = r.path.map((x) => String(x.k));
+        chA.data.datasets[0].data = r.path.map((x) => x.value / 1e6);
+        chA.data.datasets[1].data = r.path.map((x) => x.loan / 1e6);
+        chA.data.datasets[2].data = r.path.map((x) => x.loan * p.mvc / 100 / 1e6);
+        chA.update('none');
+      }
+      if (chB) {
+        chB.data.labels = r.rows.map((x) => String(x.age));
+        chB.data.datasets[0].data = r.rows.map((x) => x.rate);
+        chB.data.datasets[1].data = r.rows.map((x, i) => { const d = r.debt[i]; if (x.t > p.tenor || !(d.interest + d.repay)) return null; const bd = x.booked * (1 - p.comm / 100); return (x.opex + d.interest + d.repay) / bd; });
+        chB.data.datasets[2].data = r.rows.map((x) => x.opex / (x.booked * (1 - p.comm / 100)));
+        chB.update('none');
+      }
+      // sensitivity grid
+      const rowsT = [-0.2, -0.1, 0, 0.1, 0.2], colsW = [-1, 0, 1];
+      fill(sens, el('table', { class: 'data' },
+        el('thead', null, el('tr', null, el('th', null, 'Long-run TCE'), colsW.map((dw) => el('th', { class: 'num' }, `WACC ${(p.wacc + dw).toFixed(2)}%`)))),
+        el('tbody', null, rowsT.map((dt) => el('tr', null,
+          el('td', null, `${usd(p.tceLong * (1 + dt))}/day` + (dt ? ` (${pct(dt * 100, 0)})` : ' (base)')),
+          colsW.map((dw) => {
+            const v = shipCalc(p, { tceLong: p.tceLong * (1 + dt), wacc: p.wacc + dw }).value;
+            return el('td', { class: 'num', style: dt === 0 && dw === 0 ? 'font-weight:700' : null }, nf1.format(v / 1e6));
+          }))))));
+      // explanation
+      const lines = [];
+      lines.push(Math.abs(prem) < 0.05
+        ? `The price is close to the model value: the market is paying roughly what these earnings assumptions justify.`
+        : prem > 0
+          ? `You would pay ${Math.round(prem * 100)}% more than the model value. Buyers do this when they expect higher long-run earnings than you assumed, or a lower required return. Asset players bet on that.`
+          : `The price is ${Math.round(-prem * 100)}% below the model value: either the market expects weaker earnings than you do, or the ship is cheap.`);
+      lines.push(r.breakeven <= p.tceLong
+        ? `The ship covers OPEX and debt service at ${usd(r.breakeven)} a day, below your long-run rate of ${usd(p.tceLong)}. In a weak year it would still need rates above ${usd(r.breakeven)} to avoid burning cash.`
+        : `The cash break-even of ${usd(r.breakeven)} a day is above your long-run rate: in an average market the owner would need fresh cash to pay the loan. Lower leverage or a longer repayment profile would help.`);
+      if (p.ltv > 0) {
+        lines.push(`Debt lifts the first-year cash return on equity to ${Math.round(r.eqYield1 * 100)}% from ${Math.round(r.assetYield1 * 100)}% without debt, but a ${p.shock}% fall in ship value would wipe out ${Math.round(Math.min(1, r.shockEquityLoss) * 100)}% of the equity and push LTV to ${Math.round(r.shockLtv * 100)}%. Equity absorbs the first loss.`);
+        lines.push(r.mvcBreachFall > 0
+          ? `With a ${p.mvc}% minimum value clause, a fall of more than ${Math.round(r.mvcBreachFall * 100)}% in value triggers a covenant breach: the owner must then add security or repay part of the loan.`
+          : `At this leverage the minimum value clause is breached from day one: no bank would lend on these terms.`);
+        if (r.dscr != null) lines.push(r.dscr >= p.dscr
+          ? `First-year cash flow covers debt service ${nf2.format(r.dscr)} times, above the ${nf1.format(p.dscr)} a lender might require. Earnings would support a loan of up to about ${m(r.maxLoan)}.`
+          : `First-year cash flow covers debt service only ${nf2.format(r.dscr)} times, below the ${nf1.format(p.dscr)} a lender might require. The earnings support a loan of about ${m(r.maxLoan)}.`);
+        if (r.balloonAmt > 0) lines.push(`After ${p.tenor} years a balloon of ${m(r.balloonAmt)} remains. To repay it by age ${Math.min(20, p.life)} the ship must earn about ${usd(r.tradeOut)} a day (the trade-out rate): compare that with weak-market rates to judge refinancing risk.`);
+      }
+      lines.push(`Earnings start at ${usd(p.tceNow)} a day and move to the long-run level over ${p.conv} years (mean reversion); from age 20 they are cut by ${p.oldCut}% for an older ship. The scrap value at the end is about ${m(p.ldt * p.scrap * Math.pow(1 + p.inf / 100, r.rows.length))}.`);
+      fill(explain, el('span', { class: 'h' }, 'What this tells you'), lines.map((t) => el('p', null, t)));
+    }
+    draw();
+  }
+
+  // ---------------------------------------------------------------- 5. truck trip cost
   const ROUTES = {
     'bgo-osl': { name: 'Bergen – Oslo', km: 465, tolls: 1200 },
     'bgo-svg': { name: 'Bergen – Stavanger (with ferries)', km: 210, tolls: 3500 },
@@ -564,7 +826,7 @@
     draw();
   }
 
-  // ---------------------------------------------------------------- 5. cause & effect
+  // ---------------------------------------------------------------- 6. cause & effect
   function effects(box) {
     const S = F.data.scenarios;
     if (!S) { box.append(el('p', { class: 'empty' }, 'Scenario data is missing.')); return; }

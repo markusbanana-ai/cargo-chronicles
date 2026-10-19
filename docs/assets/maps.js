@@ -479,9 +479,20 @@
         el('h3', { class: 'mp-h' }, 'Finance and insurance angle'), el('p', null, r.course),
         el('div', { class: 'mp-actions' },
           r.voyage ? el('button', { class: 'btn-primary', type: 'button', onclick: () => openVoyage(r) }, 'Model this voyage') : null,
+          shipPreset(r) ? el('button', { class: 'chip', type: 'button', onclick: () => { if (F.lab) F.lab.shipPreset = shipPreset(r); location.hash = 'analytics.valuation'; } }, 'Value this type of ship') : null,
           el('button', { class: 'chip', type: 'button', onclick: () => { location.hash = 'analytics.rates'; } }, 'Freight rate lab')),
         el('h3', { class: 'mp-h' }, 'In the news'), newsBlock(r.kw, 4),
       ];
+    }
+
+    // nearest example ship in the valuation tab
+    function shipPreset(r) {
+      const t = r.ship || '';
+      if (/VLCC/.test(t)) return 'vlcc';
+      if (/Capesize/.test(t)) return 'capesize';
+      if (/MR|LR2|product/i.test(t)) return 'mr';
+      if (/Supramax|Kamsarmax|Panamax|Ultramax/.test(t) && !/Neopanamax/.test(t)) return 'ultramax';
+      return null;
     }
 
     function openVoyage(r) {

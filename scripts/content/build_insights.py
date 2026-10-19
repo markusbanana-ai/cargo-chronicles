@@ -12,6 +12,7 @@ Fields per rule
   w      what to watch next
   terms  glossary ids shown as chips
   go     links: "tool:rates", "map:sea/hormuz", "map:road/E39" ...
+  c      optional course topic the situation belongs to (shown as a small label)
 """
 import json, sys
 from pathlib import Path
@@ -87,15 +88,15 @@ rule(id="snp", seg=["finance", "freight"], m=["sale and purchase", "=S&P", "seco
      req=[["ship*", "vessel*", "fleet", "tanker*", "bulker*", "vlcc*", "carrier*", "shipping", "seaways", "rederi*", "owner*"]],
      x=["insurance", "underwrit*"],
      t="Ships changing hands",
-     b="In sale and purchase (S&P) a ship is valued like any income-producing asset: expected earnings (TCE minus opex) over its remaining life, discounted, plus the scrap value at the end. Prices move with the freight market, so buying ships is also a bet on future rates. Lenders use the same values to test loan-to-value covenants.",
-     w="Compare the price with the latest broker valuation and the newbuilding price for a similar ship: a buyer paying close to newbuild price expects a long strong market.",
-     terms=["sale-purchase", "nav", "ltv", "asset-play"], go=["tool:voyage"])
+     b="There are two ways to value a ship. The market approach uses recent sales of similar ships (broker valuations). The income approach discounts expected earnings (TCE minus OPEX) over the remaining life plus the scrap value at the end, using the cost of capital; lenders call this the long-term asset value. When prices are far above that value, the buyer is betting on higher rates for longer, which is an asset play. Banks use the same values to test the minimum value clause.",
+     w="Compare the price with the latest broker valuation, a newbuilding of the same type, and what today's long-run rates justify: a buyer paying close to newbuilding price expects a long strong market.",
+     terms=["sale-purchase", "ltav", "vmc", "asset-play"], go=["tool:valuation", "tool:voyage"], c="Ship valuation and sale & purchase")
 
 rule(id="scrapping", seg=["freight", "finance"], m=["scrap*", "demolition", "recycl*", "shipbreak*", "breakers", "=LDT", "alang", "chittagong", "gadani"],
      t="Ships sent for recycling",
-     b="Old ships are sold for steel at a price per light displacement tonne (LDT). Scrapping is supply leaving the fleet: high scrapping in a weak market helps rates recover. The scrap price also sets the floor for an old ship's value, which matters when lenders value collateral.",
+     b="Old ships are sold for steel at a price per light displacement tonne (LDT). Scrapping is supply leaving the fleet: high scrapping in a weak market helps rates recover. Scrap value (LDT × steel price) is also the residual value at the end of a ship's life in a valuation and the floor for an old ship's price, which matters when lenders value collateral.",
      w="Watch how many ships are over 20 years old; low freight rates plus new emission rules usually push more of them out.",
-     terms=["recycling", "nav"], go=["tool:rates"])
+     terms=["recycling", "ltav", "nav"], go=["tool:rates", "tool:valuation"], c="Ship valuation and sale & purchase")
 
 rule(id="hormuz", seg=["freight", "insurance"], m=["hormuz", "persian gulf", "arabian gulf", "gulf of oman", "=MEG", "iran*", "fujairah", "kharg"],
      t="The Strait of Hormuz",
@@ -125,21 +126,21 @@ rule(id="sanctions", seg=["insurance", "freight", "finance"], m=["sanction*", "s
      t="Sanctions and the shadow fleet",
      b="Sanctions bar Western banks, insurers and service providers from certain trades. Ships carrying sanctioned cargo lose access to International Group P&I cover and mainstream finance, so the trade moves to an older 'shadow fleet' with opaque ownership and weaker insurance. That splits the market: compliant ships lose cargo, shadow ships earn premiums, and spill risks rise.",
      w="Watch new vessel listings by the EU, UK and US, and ship-to-ship transfers in open waters.",
-     terms=["sanctions", "shadow-fleet", "ig", "pi"], go=["tool:effects"])
+     terms=["sanctions", "shadow-fleet", "ig", "pi"], go=["tool:effects"], c="Geopolitics and shipping")
 
 rule(id="war-risk", seg=["insurance"], m=["drone*", "missile*", "attack*", "struck", "strikes", "strike on", "strike near", "strike", "seiz*", "hijack*", "pirat*", "boarded", "sea mine*", "limpet*", "explosive*"],
      x=["port strike*", "dock strike*", "workers strike", "streik*", "carrier strike group", "dronesentral"],
      t="Attacks on ships: who pays?",
      b="Ordinary hull and P&I cover excludes war, so owners buy separate war-risk cover. When an area is declared high-risk (Lloyd's Joint War Committee 'listed areas'), insurers charge an additional premium for each transit, quoted as a percentage of hull value, and can cancel cover at short notice. In July 2026, quotes for Hormuz were reported at 2–6% of hull value per transit (Insurance Business, citing Marsh): about USD 6 million for a USD 100 million tanker.",
-     w="Watch whether the area is added to the listed areas, how premiums move, and whether crews refuse to sail (seafarers can have the right to decline warlike areas).",
-     terms=["war-risk", "listed-areas", "hm", "pi"], go=["map:sea/hormuz", "tool:voyage"])
+     w="Watch whether the area is added to the listed areas, how premiums move, and whether crews refuse to sail (seafarers can have the right to decline warlike areas). Lenders also care: the loan requires the ship to be insured, and mortgagee's interest insurance protects the bank if the owner's cover fails.",
+     terms=["war-risk", "listed-areas", "hm", "mii"], go=["map:sea/hormuz", "tool:voyage"], c="Marine insurance")
 
 rule(id="casualty", seg=["insurance"], m=["fire", "fires", "ablaze", "blaze", "explosion", "grounding", "grounded", "aground", "collision*", "collided", "sank", "sinks", "sinking", "sunk", "ashore", "beached", "capsiz*", "flood*", "engine failure", "blackout", "grunnstøt*", "kollisjon*", "brann", "forlis"],
      x=["fire service"],
      t="A ship casualty",
      b="Several covers react at once. Hull and machinery (H&M) pays for damage to the ship itself; P&I covers liabilities to others, such as pollution, wreck removal, crew injury and damage to other ships or docks. If cargo and ship are saved by a deliberate sacrifice or expense, general average makes cargo owners share the cost. Salvors are paid under 'no cure, no pay', often on Lloyd's Open Form.",
      w="Watch whether general average is declared (cargo owners must then post security) and whether the ship becomes a constructive total loss.",
-     terms=["hm", "pi", "ga", "salvage", "total-loss"], go=[])
+     terms=["hm", "pi", "ga", "salvage", "total-loss"], go=[], c="Marine insurance")
 
 rule(id="salvage", seg=["insurance"], m=["salvage*", "salvor*", "wreck*", "refloat*", "towed", "towing", "lloyd's open form", "=LOF", "=SCOPIC"],
      t="Salvage and wreck removal",
@@ -209,33 +210,33 @@ rule(id="emissions", seg=["freight", "finance", "road"], m=["=ETS", "eu ets", "f
      t="Emission rules and carbon cost",
      b="Shipping to and from EU ports pays for CO2 under the EU ETS (full emissions within the EU, half on voyages in or out), and FuelEU Maritime sets a falling limit on fuel greenhouse intensity. IMO is working on a global framework. For lenders, the Poseidon Principles compare loan portfolios with climate targets, so a ship's emissions now affect its financing and resale value.",
      w="Watch the EUA carbon price and how charter parties split carbon costs between owner and charterer.",
-     terms=["eu-ets", "fueleu", "cii", "poseidon"], go=["tool:voyage"])
+     terms=["eu-ets", "fueleu", "cii", "imo-nzf"], go=["tool:voyage"], c="Sustainability and regulation")
 
 rule(id="green-tech", seg=["freight", "finance", "road"], m=["ammonia", "hydrogen*", "dual-fuel", "dual fuel", "wind-assist*", "rotor sail*", "battery*", "electric*", "zero-emission", "methanol-ready", "low-emission", "fuel cell*", "biogas", "=HVO"],
      t="New fuels and technology",
      b="A ship ordered today will sail into the 2050s, so owners hedge with dual-fuel engines or 'ready' designs. Green ships cost more up front; the payback depends on fuel prices, carbon costs and whether charterers pay a premium. Banks offer cheaper green or sustainability-linked loans, but a ship on the wrong fuel risks a lower resale value.",
      w="Watch whether charterers sign long contracts for green ships: that is what makes the extra capital cost financeable.",
-     terms=["poseidon", "eu-ets", "newbuilding"], go=["tool:voyage"])
+     terms=["dual-fuel", "wtw", "stranded-asset", "newbuilding"], go=["tool:voyage"], c="Sustainability and regulation")
 
 rule(id="ship-finance", seg=["finance"], req=[["ship*", "vessel*", "fleet", "rig", "rigs", "tanker*", "bulker*", "offshore", "shipping", "rederi*", "=FPSO", "carrier*", "container*", "newbuild*", "owner*", "maritime", "seaways", "drilling"]], m=["loan*", "financing", "finance facility", "credit facility", "refinanc*", "bond*", "lender*", "bank*", "sale-and-leaseback", "leaseback", "leasing", "=SOFR", "margin", "debt", "equity", "share issue", "private placement", "=IPO"],
      x=["central bank*", "world bank", "norges bank", "riverbank*", "bankrupt*"],
      t="How the deal is financed",
-     b="Shipping is capital-heavy, so the funding source matters. Banks lend against the ship as collateral, with covenants such as a minimum value-to-loan; bonds (often in Oslo) and Chinese leasing fill gaps when banks pull back. Lenders judge the borrower by the '3 Cs': character (track record), capacity (cash flow versus debt service) and capital or collateral.",
+     b="Shipping is capital-heavy, so the funding source matters. Banks lend against a mortgage on the ship, typically 50–65% of its value, with a minimum value clause and cash covenants; bonds (often in Oslo), leasing and export credit fill gaps when banks pull back. Lenders judge the borrower by the five Cs: character (track record), capacity (cash flow against debt service), capital (equity at risk), collateral (the ship, charters and insurances) and covenants (the right to act early).",
      w="Look for the margin over SOFR, the tenor and the balloon: a high margin or short tenor signals that lenders see more risk.",
-     terms=["syndicated-loan", "sofr", "covenant", "vmc", "sale-leaseback", "bond"], go=["tool:voyage"])
+     terms=["five-cs", "vmc", "dscr", "balloon", "sofr", "syndicated-loan"], go=["tool:valuation"], c="Bank finance and credit analysis")
 
 rule(id="sustainable-finance", seg=["finance"], m=["sustainability-linked", "green loan*", "green bond*", "poseidon principles", "=ESG", "transition finance", "=KPI-linked"],
      t="Green and sustainability-linked finance",
      b="In a sustainability-linked loan the margin steps down if the borrower hits agreed targets (for example carbon intensity) and up if it misses. Green loans and bonds can only fund qualifying assets. Banks signed up to the Poseidon Principles report how their shipping loans align with climate targets.",
      w="Check what the targets are and who verifies them; weak targets make the label cosmetic.",
-     terms=["poseidon", "cii"], go=[])
+     terms=["sll", "poseidon", "cii"], go=[], c="Sustainable finance")
 
 rule(id="results", seg=["finance", "offshore"], m=["results", "quarter*", "=Q1", "=Q2", "=Q3", "=Q4", "=EBITDA", "profit*", "revenue*", "earnings", "dividend*", "guidance", "net income", "resultat*", "kvartal*", "utbytte"],
      x=["tce", "earnings per day"],
      t="Company results",
-     b="For a shipowner, read results in three steps: average TCE earned versus cash breakeven (opex, interest and instalments per day), how much of next quarter is already fixed, and net asset value (fleet market value minus net debt). High-dividend owners pay out most free cash flow, so dividends move with the freight market.",
+     b="For a shipowner, read results in three steps: average TCE earned versus cash breakeven (OPEX, interest and instalments per day), how much of next quarter is already fixed, and net asset value (fleet market value minus net debt). Shares often trade at a discount or premium to NAV, which tells you whether the market believes current ship values. High-dividend owners pay out most free cash flow, so dividends move with the freight market.",
      w="Check contract coverage for the next quarter and whether the company buys or sells ships: that signals what management expects.",
-     terms=["ebitda", "breakeven", "nav", "dividend"], go=["tool:voyage"])
+     terms=["ebitda", "breakeven", "nav", "dividend"], go=["tool:voyage", "tool:valuation"], c="Shipping equity and company analysis")
 
 rule(id="contracts", seg=["offshore", "freight", "finance"], m=["backlog", "contract*", "award*", "charter*", "extension", "firm period", "option*", "secures", "wins", "lands", "scope of work", "keeps busy", "time charter", "kontrakt*"],
      x=["truck*", "lastebil*", "concession tender"],
@@ -533,6 +534,97 @@ rule(id="nlf", lang="no", seg=["road"], m=["=NLF", "lastebileierforbund*", "=NHO
      b="Norges Lastebileier-Forbund (NLF) represents Norwegian trucking companies, many of them small; NHO Logistikk og Transport represents larger firms. They lobby on diesel tax, tolls, cabotage enforcement and driver training, and NLF publishes a cost index for road transport that many contracts use for price adjustment.",
      w="Compare their demands with what ends up in the state budget.",
      terms=["road-tax", "cabotage"], go=["tool:truck"])
+
+# ------------------------------------------------------------------ course topics: finance, credit, sustainability
+NOT_ROAD = ["truck*", "trucking", "lastebil*", "haulier*", "hauler*", "transportør*", "=LTL", "freight broker*", "3pl", "parcel*"]
+SHIPWORDS = ["ship*", "vessel*", "rig", "rigs", "tanker*", "bulker*", "offshore", "shipping", "rederi*", "=FPSO", "carrier*", "containership*", "boxship*", "newbuild*", "shipowner*", "maritime", "seaways", "drilling", "driller*", "seadrill", "borr", "odfjell", "frontline", "hafnia", "torm", "golden ocean", "dof", "solstad"]
+
+rule(id="distress", seg=["finance", "offshore"], req=[SHIPWORDS], x=NOT_ROAD,
+     m=["restructur*", "standstill", "forbearance", "chapter 11", "debt-for-equity", "debt for equity", "bondholder*", "creditor*", "covenant breach*", "covenant waiver*", "waiver*", "default*", "missed payment*", "missed coupon*", "insolven*", "bankrupt*", "konkurs*", "rekonstruksjon*", "haircut*", "amend and extend", "liquidity crunch"],
+     t="Debt trouble: who gets paid first?",
+     b="When earnings fall below cash break-even, a loan moves from normal to watch list, then forbearance and possibly default. Banks rarely want to sell a ship into a weak market at a low price, so they often agree a standstill or amend-and-extend instead. If that fails, the order matters: maritime liens such as crew wages and salvage rank ahead of the mortgage, secured lenders come before bondholders, and shareholders come last. In a debt-for-equity swap, lenders become owners and old shareholders are diluted; US Chapter 11 lets a company keep trading while it does this.",
+     w="Check how many months of cash the company has, whether lenders or bondholders end up with shares, and whether the ships are sold or kept.",
+     terms=["default", "restructuring", "maritime-lien", "chapter-11", "pd-lgd"], go=["tool:valuation"], c="Credit risk and restructuring")
+
+rule(id="hy-bonds", seg=["finance", "offshore"], req=[SHIPWORDS],
+     m=["bond*", "nordic bond*", "high-yield", "high yield", "senior secured", "unsecured", "coupon*", "tap issue", "bond issue", "obligasjon*", "pareto", "nordic trustee", "callable", "call option", "bond trustee", "credit rating*", "investment grade", "downgrade*", "upgrade*"],
+     x=["central bank*"] + NOT_ROAD,
+     t="Shipping bonds",
+     b="The Oslo (Nordic) high-yield market lets shipping and offshore companies borrow from investors instead of banks, usually for three to five years with a coupon far above bank margins and no instalments. In return, bond terms set covenants such as minimum liquidity, maximum NIBD/EBITDA, interest cover and often a minimum value clause, and a bond trustee acts for all bondholders. A bond trading below par means investors demand a higher yield, which is the market saying the credit risk has risen.",
+     w="Compare the coupon with SOFR plus a bank margin, check whether the bond is secured on ships, and watch the price: a fall well below par often comes before a restructuring.",
+     terms=["bond", "bond-trustee", "credit-rating", "nibd-ebitda", "dscr"], go=["tool:valuation"], c="Bond finance")
+
+rule(id="leasing", seg=["finance"], req=[SHIPWORDS], x=NOT_ROAD + ["trailer*"], m=["sale-and-leaseback", "sale and leaseback", "leaseback*", "leasing", "lessor*", "lease financing", "bareboat charter*", "=IFRS 16", "finance lease", "operating lease", "=SFL", "chinese lease*", "chinese leasing"],
+     t="Sale-leaseback and leasing",
+     b="In a sale-leaseback the owner sells the ship to a lessor, often a Chinese leasing house or a company like SFL, and charters it back on bareboat terms, usually with options or an obligation to buy it back. The owner gets more money up front than a bank would lend and a longer repayment profile, but pays a higher implied interest rate and gives up ownership until the buy-back. With a buy-back obligation the deal is normally treated as debt in the accounts, not a sale. For the lessor, the charterer's credit is the real risk.",
+     w="Look at the implied cost compared with a bank loan, the purchase option prices and the length of the bareboat charter.",
+     terms=["sale-leaseback", "lease", "bareboat", "capital-structure"], go=["tool:valuation"], c="Leasing")
+
+rule(id="convertibles", seg=["finance", "offshore"], m=["convertible*", "conversion price", "mezzanine", "preferred equity", "hybrid bond*", "junior debt", "subordinated"],
+     t="Convertibles and other in-between capital",
+     b="Between senior bank debt and equity sits mezzanine capital: junior loans, preferred shares and convertible bonds. A convertible pays a low coupon because investors get the right to swap into shares if the price rises. It is cheaper than straight debt when the company is seen as risky and growing, but it can dilute shareholders later. Offshore drillers have used convertibles to raise money when banks would not lend.",
+     w="Compare the conversion price with today's share price: the further above, the less dilution existing shareholders should expect.",
+     terms=["convertible", "mezzanine", "capital-structure"], go=[], c="Capital structure and hybrid finance")
+
+rule(id="export-credit", seg=["finance"], m=["export credit*", "=ECA", "=ECAs", "eksfin", "=CIRR", "=KEXIM", "=K-SURE", "=KSURE", "=Sinosure", "=GIEK", "export finance", "eksportfinans*", "eksportkreditt*", "=OECD"],
+     req=[SHIPWORDS + ["yard*", "verft*"]],
+     t="Export credit for ships",
+     b="Export credit agencies, such as Eksfin in Norway, lend or guarantee loans to help buyers order ships or equipment from their country. Under the OECD rules for ships they can cover up to 80% of the contract price, repaid over up to 12 years, often at a fixed CIRR rate, with commercial banks taking part alongside. It makes long, cheap funding available for newbuildings that banks alone would finance on shorter terms.",
+     w="Check which country's yard or equipment qualifies, the share covered by the agency, and whether the rate is fixed (CIRR) or floating.",
+     terms=["eca", "cirr", "newbuilding", "refund-guarantee"], go=[], c="Export credit and newbuilding finance")
+
+rule(id="mna", seg=["finance"], req=[SHIPWORDS],
+     m=["merger", "merge*", "takeover*", "tender offer", "offer premium", "bid premium", "all-share", "share-for-share", "combination", "combine*", "acquir* stake", "stake in", "bid for", "synerg*", "fusjon*", "oppkjøp*", "consolidat*"],
+     x=["cargo consolidation", "less than container load"] + NOT_ROAD,
+     t="Mergers: does 1 + 1 make more than 2?",
+     b="A merger creates value only if the combined company is worth more than the two apart. Value created is the synergies (lower overhead, better fleet use, chartering power, cheaper finance) minus the premium the buyer pays the target's shareholders. In shipping the synergies are often modest, so many deals are all-share mergers priced on net asset value, and the target's shareholders usually capture most of the gain.",
+     w="Check the premium against the target's share price and NAV, how the deal is paid for (cash or shares), and what synergies management promises.",
+     terms=["mna", "nav", "ipo"], go=[], c="Shipping equity and M&A")
+
+rule(id="equity", seg=["finance"], req=[SHIPWORDS], x=["listed area*"] + NOT_ROAD,
+     m=["=IPO", "=IPOs", "listing", "listed on", "euronext*", "oslo børs", "stock exchange", "share price*", "shares", "shareholder*", "private placement*", "share issue", "emisjon*", "børsnotering", "=NYSE", "=Nasdaq", "valuation", "investors"],
+     t="Shipping shares and new listings",
+     b="A shipping share is a leveraged bet on freight rates and ship values, so prices swing much more than the wider market even if beta is not extreme. Investors compare the share price with net asset value (P/NAV) and the dividend yield. New listings and share issues cluster near cycle peaks, when valuations are high: the question for a buyer is whether the market is already pricing in the good times.",
+     w="Compare the share price with NAV per share and check what the money raised is for: buying ships at the top of the market is risky.",
+     terms=["ipo", "nav", "private-placement", "beta"], go=["tool:valuation"], c="Shipping equity and M&A")
+
+rule(id="hedging", seg=["finance", "freight"], m=["=FFA", "=FFAs", "forward freight", "freight derivative*", "freight futures", "hedg*", "swap", "swaps", "bunker swap*", "=BFA", "interest rate swap*", "fixed rate", "collar*", "=SGX", "=EEX", "paper market"],
+     req=[SHIPWORDS + ["freight", "bunker*"]], x=["crew swap*", "hedge fund*"] + NOT_ROAD,
+     t="Hedging freight, fuel and interest",
+     b="Shipping risk can be partly locked in with derivatives. Forward freight agreements (FFAs) settle against Baltic Exchange route rates, so an owner can sell forward to secure earnings and a charterer can buy to fix costs; most are cleared through exchanges such as SGX or EEX. Bunker swaps fix the fuel price, and interest rate swaps turn a floating SOFR loan into a fixed rate. The catch is basis risk: the ship's actual earnings or route may not match the index used.",
+     w="Check what is being hedged and for how long, and whether the index matches the company's real trade.",
+     terms=["ffa", "swap", "term-structure", "contango"], go=["tool:rates"], c="Risk management and derivatives")
+
+rule(id="charter-types", seg=["freight", "finance"], m=["voyage charter*", "time charter*", "timecharter*", "bareboat*", "=T/C", "=TC", "period charter*", "contract of affreightment", "=COA", "spot market", "spot exposure", "fixed-rate charter*", "index-linked"],
+     t="Which contract, which risk?",
+     b="The contract decides who pays what and who carries market risk. In a voyage charter the owner pays fuel, port costs and canal dues and earns freight per tonne; in a time charter the charterer pays those voyage costs and hires the ship per day, while the owner still pays OPEX (crew, maintenance, insurance); in a bareboat charter the charterer also pays OPEX and runs the ship, so the owner only finances it. Time-charter equivalent (TCE) converts all of them to the same daily figure.",
+     w="Check the length of the contract and the counterparty: a long time charter to a strong charterer is what banks lend against most willingly.",
+     terms=["voyage-charter", "time-charter", "bareboat", "tce"], go=["tool:voyage"], c="Chartering and cash flows")
+
+rule(id="imo-nzf", seg=["freight", "finance"], req=[["emission*", "carbon*", "climate", "greenhouse", "=GHG", "net-zero", "net zero", "levy", "fuel standard", "decarboni*", "klima*", "utslipp*"]],
+     m=["net-zero framework", "net zero framework", "=NZF", "=MEPC", "global fuel standard", "carbon levy", "carbon price", "=IMO"],
+     t="IMO's global climate framework",
+     b="The IMO Net-Zero Framework would set a global limit on the greenhouse gas intensity of ship fuel, measured well-to-wake, that tightens over time. Ships above the limit would pay for the gap and the cleanest ships would be rewarded. Adoption was planned for October 2025 but postponed by a year after opposition led by the United States. Until a global rule applies, the EU ETS and FuelEU Maritime are the carbon costs owners actually pay.",
+     w="Watch whether member states adopt the framework, and how charter parties and newbuilding orders respond: a global carbon price makes dual-fuel ships more valuable.",
+     terms=["imo-nzf", "wtw", "eu-ets", "fueleu"], go=["tool:voyage"], c="Sustainability and regulation")
+
+rule(id="cii-rating", seg=["freight", "finance"], req=[SHIPWORDS], m=["=CII", "carbon intensity", "=EEXI", "=EEDI", "=SEEMP", "=AER", "=EEOI", "energy efficiency", "efficiency rating*", "carbon rating*"],
+     t="Carbon ratings for ships",
+     b="Every ship over 5,000 GT gets an annual CII rating from A to E, based on its CO2 per deadweight-mile (AER) compared with a required level that tightens each year (11% below 2019 levels in 2026). A ship rated D three years in a row or E once must add a corrective plan to its SEEMP. Charterers and banks increasingly prefer A–C ships, so a poor rating can cut both earnings and resale value. Slower speed is the quickest fix.",
+     w="Check the ship's age and fuel type: older ships with poor ratings face a widening discount as the requirements tighten.",
+     terms=["cii", "aer", "seemp", "eexi"], go=["tool:voyage"], c="Sustainability and regulation")
+
+rule(id="stranded", seg=["finance", "freight"], req=[SHIPWORDS], x=NOT_ROAD, m=["stranded", "transition risk*", "climate risk*", "residual value*", "old tonnage", "older ships", "older vessels", "ageing fleet", "aging fleet", "obsolete", "eco ship*", "eco-design*", "two-tier market", "fuel-efficient ship*"],
+     t="Will older ships be left behind?",
+     b="A ship's value is the present value of what it will earn plus its value at the end. Tighter emission rules and carbon costs raise the running cost of older, less efficient ships, so charterers pay less for them and their values fall. That risk is relative: the old ship may still trade, but at a discount to newer ones. A dual-fuel or efficient design gives the owner an option to stay competitive whichever fuel wins.",
+     w="Compare earnings and values for eco and older ships of the same size: a widening gap is transition risk showing up in prices.",
+     terms=["stranded-asset", "dual-fuel", "ltav", "poseidon"], go=["tool:valuation"], c="Sustainability and regulation")
+
+rule(id="us-maritime", seg=["freight", "finance"], m=["jones act", "us shipbuilding", "u.s. shipbuilding", "american shipbuilding", "us-built", "u.s.-built", "american-built", "us-flag*", "u.s.-flag*", "ships act", "ships for america", "maritime action plan", "=USTR", "port fee*", "port entry fee*", "section 301", "chinese-built", "chinese-operated"],
+     t="US shipping policy",
+     b="The Jones Act reserves trade between US ports for US-built, US-owned, US-flagged and US-crewed ships, which keeps domestic shipping expensive. To rebuild US shipbuilding, the US introduced port fees on Chinese-built and Chinese-operated ships under Section 301 in October 2025; China answered with its own fees on US-linked ships. Both were suspended for one year from 10 November 2025 under a trade truce, so unless extended they would apply again from 10 November 2026.",
+     w="Watch whether the suspension is extended and which ships are exposed: carriers have been shifting Chinese-built ships away from US services.",
+     terms=["jones-act", "flag-state", "liner"], go=["map:sea"], c="Geopolitics and shipping")
 
 # generic fallbacks: used only when fewer than two specific rules match
 rule(id="g-road", generic=True, seg=["road"], m=[],

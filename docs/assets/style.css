@@ -410,6 +410,9 @@ dialog.reader::backdrop { background: rgba(6, 12, 17, 0.5); }
 .guide-item .watch { color: var(--ink); }
 .guide-item .watch b { font-weight: 600; }
 .guide-foot { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+.guide-topic { align-self: flex-start; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.01em; color: var(--seg-ink, var(--ink-2)); background: var(--surface); border: 1px solid var(--line-soft); border-radius: 999px; padding: 1px 9px; }
+.lab details > summary { list-style: revert; }
+.lab .kpis + .section-h { margin-top: 4px; }
 .go {
   display: inline-flex; align-items: baseline; gap: 6px; padding: 3px 9px; border-radius: 4px; font-size: var(--step--1);
   text-decoration: none; color: var(--ink); background: var(--surface); border: 1px solid var(--line);
@@ -456,6 +459,7 @@ table.data td.num { font-variant-numeric: tabular-nums; text-align: right; white
 .presets { display: flex; flex-wrap: wrap; gap: 6px; }
 .results { display: flex; flex-direction: column; gap: 16px; min-width: 0; }
 .kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 10px; }
+.kpis.kpis-4 { grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); }
 .kpi { background: var(--surface); border: 1px solid var(--line-soft); border-radius: var(--radius); padding: 10px 12px; min-width: 0; box-shadow: var(--lift); }
 .kpi .l { font-size: 0.78rem; color: var(--muted); }
 .kpi .v { font-family: var(--font-display); font-weight: 700; font-size: 1.4rem; line-height: 1.15; }
@@ -677,8 +681,8 @@ table.data td.num { font-variant-numeric: tabular-nums; text-align: right; white
 }
 
 /* the maps page uses the full width: no learning rail on the right */
-@media (min-width: 861px) { body[data-route="maps"] .app { grid-template-columns: var(--rail-w) minmax(0, 1fr); grid-template-areas: "mast mast" "rail main"; } }
-body[data-route="maps"] .side { display: none; }
+@media (min-width: 861px) { body[data-route="maps"] .app, body[data-route="analytics"] .app { grid-template-columns: var(--rail-w) minmax(0, 1fr); grid-template-areas: "mast mast" "rail main"; } }
+body[data-route="maps"] .side, body[data-route="analytics"] .side { display: none; }
 
 /* ---------- responsive ---------- */
 @media (max-width: 1180px) {
