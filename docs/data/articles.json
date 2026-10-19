@@ -1,13 +1,51 @@
 {
- "updated": "2026-10-19T00:52:17Z",
+ "updated": "2026-10-19T03:42:19Z",
  "sample": false,
  "articles": [
+  {
+   "id": "d1dd58b5336b",
+   "title": "Freightos reports record booking value as transactions rise in third quarter",
+   "link": "https://container-news.com/freightos-reports-record-booking-value-as-transactions-rise-in-third-quarter/",
+   "source": "containernews",
+   "published": "2026-10-19T03:30:33Z",
+   "seen": "2026-10-19T03:42:19Z",
+   "lang": "en",
+   "excerpt": "Freightos reported record booking value and higher transaction volumes in the third quarter of 2026, with both measures exceeding management expectations.",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "b640e42c5f0d",
+   "title": "Ukraine Talks with Turkey, India, Egypt Over Grain Corridor",
+   "link": "https://gcaptain.com/ukraine-talks-with-turkey-india-egypt-over-grain-corridor/",
+   "source": "gcaptain",
+   "published": "2026-10-19T02:24:26Z",
+   "seen": "2026-10-19T03:42:19Z",
+   "lang": "en",
+   "excerpt": "By Daryna Krasnolutska, Volodymyr Verbianyi and Olesia Safronova Oct 18, 2026 (Bloomberg) –Ukraine is in talks with Turkey, Egypt and India on the possibility of opening up Black Sea civil navigation,...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
   {
    "id": "33f4f0548f35",
    "title": "Samferdselsministeren til Troms og Nordland",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-til-troms-og-nordland/id3178449/",
    "source": "regjeringen",
-   "published": "2026-10-19T00:52:17Z",
+   "published": "2026-10-19T02:00:00Z",
    "seen": "2026-10-16T18:45:49Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam besøker blant annet Tromsø mandag 19. oktober og Bodø og Evenes tirsdag 20. oktober. Presse som ønsker å dekke besøket, kan ta kontakt med kommunikasjonsrådgiver i Samferdselsdepartementet Frøydis …",
@@ -18,8 +56,30 @@
    "policy": false,
    "level": "national",
    "terms": [],
-   "paywall": false,
-   "upcoming": true
+   "paywall": false
+  },
+  {
+   "id": "6265344927e2",
+   "title": "Rotterdam container throughput holds steady as transshipment drops 20%",
+   "link": "https://container-news.com/rotterdam-container-throughput-holds-steady-as-transshipment-drops-20/",
+   "source": "containernews",
+   "published": "2026-10-19T01:30:23Z",
+   "seen": "2026-10-19T03:42:19Z",
+   "lang": "en",
+   "excerpt": "The Port of Rotterdam recorded a 0.9% increase in total cargo throughput during the first nine months of 2026, reaching 323.2 million tonnes.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "transshipment",
+    "teu"
+   ],
+   "paywall": false
   },
   {
    "id": "41e6ecb21de8",
