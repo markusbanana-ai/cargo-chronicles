@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T21:36:46Z",
+ "updated": "2026-10-19T00:52:26Z",
  "series": {
   "usdnok": {
    "label": "USD/NOK",
@@ -7,10 +7,6 @@
    "source": "Norges Bank",
    "source_url": "https://www.norges-bank.no/en/topics/Statistics/exchange_rates/",
    "points": [
-    [
-     "2025-08-14",
-     10.198
-    ],
     [
      "2025-08-15",
      10.178
@@ -1204,10 +1200,6 @@
    "source_url": "https://www.norges-bank.no/en/topics/Statistics/exchange_rates/",
    "points": [
     [
-     "2025-08-14",
-     11.9215
-    ],
-    [
      "2025-08-15",
      11.896
     ],
@@ -2399,10 +2391,6 @@
    "source": "U.S. EIA via FRED",
    "source_url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
    "points": [
-    [
-     "2025-08-14",
-     68.12
-    ],
     [
      "2025-08-15",
      67.3

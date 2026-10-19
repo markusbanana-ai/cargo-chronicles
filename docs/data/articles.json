@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T21:36:40Z",
+ "updated": "2026-10-19T00:52:17Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren til Troms og Nordland",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-til-troms-og-nordland/id3178449/",
    "source": "regjeringen",
-   "published": "2026-10-18T21:36:40Z",
+   "published": "2026-10-19T00:52:17Z",
    "seen": "2026-10-16T18:45:49Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam besøker blant annet Tromsø mandag 19. oktober og Bodø og Evenes tirsdag 20. oktober. Presse som ønsker å dekke besøket, kan ta kontakt med kommunikasjonsrådgiver i Samferdselsdepartementet Frøydis …",
@@ -20,6 +20,83 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "41e6ecb21de8",
+   "title": "Romania Shoots Down Two Suspected Russian Drones in NATO Airspace",
+   "link": "https://maritime-executive.com/article/romania-shoots-down-two-suspected-russian-drones-over-its-territorial-seas",
+   "source": "marex",
+   "published": "2026-10-19T00:07:32Z",
+   "seen": "2026-10-19T00:52:17Z",
+   "lang": "en",
+   "excerpt": "On Saturday, Romania launched F-16 fighter jets to shoot down two one-way attack drones over its territorial seas, the country's defense minister said...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "3994c46228e8",
+   "title": "Maersk cuts import dry port surcharge for New Delhi",
+   "link": "https://container-news.com/maersk-cuts-import-dry-port-surcharge-for-new-delhi/",
+   "source": "containernews",
+   "published": "2026-10-18T23:30:46Z",
+   "seen": "2026-10-19T00:52:17Z",
+   "lang": "en",
+   "excerpt": "Maersk has revised its import dry port surcharge for shipments moving from worldwide origins to New Delhi, India. The new tariff levels took effect on 16 October 2026 for both regulated and non-regulated countries.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "7dce665161b1",
+   "title": "Turkey Will Get Some Diesel From US-Russia Supply Deal",
+   "link": "https://gcaptain.com/turkey-will-get-some-diesel-from-us-russia-supply-deal/",
+   "source": "gcaptain",
+   "published": "2026-10-18T22:02:51Z",
+   "seen": "2026-10-19T00:52:17Z",
+   "lang": "en",
+   "excerpt": "ANKARA, Oct 18 (Reuters) – Turkey will take some of the diesel Russia is supplying to global markets under its agreement with US President Donald Trump, Energy Minister Alparslan Bayraktar said on...",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "0f97729deb98",
+   "title": "Tanker Operator Transpetro's Fleet Expansion Creates Local Jobs in Brazil",
+   "link": "https://maritime-executive.com/article/tanker-operator-transpetro-s-fleet-expansion-creates-local-jobs-in-brazil",
+   "source": "marex",
+   "published": "2026-10-18T21:30:47Z",
+   "seen": "2026-10-19T00:52:17Z",
+   "lang": "en",
+   "excerpt": "Brazil's Estaleiro Rio Grande has formally begun construction on a 13-vessel order placed by Transpetro, the logistics arm of Petrobras. Last week, th...",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
   },
   {
    "id": "15b02ce90f5d",
