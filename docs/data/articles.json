@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T15:42:06Z",
+ "updated": "2026-10-20T18:46:00Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren - ESA-pakkemøte",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-esa-pakkemote/id3179069/",
    "source": "regjeringen",
-   "published": "2026-10-20T15:42:06Z",
+   "published": "2026-10-20T18:46:00Z",
    "seen": "2026-10-19T15:49:52Z",
    "lang": "no",
    "excerpt": "",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren - deltar på konferanse om E39",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-deltar-pa-konferanse-om-e39/id3179067/",
    "source": "regjeringen",
-   "published": "2026-10-20T15:42:06Z",
+   "published": "2026-10-20T18:46:00Z",
    "seen": "2026-10-19T15:49:52Z",
    "lang": "no",
    "excerpt": "",
@@ -41,12 +41,131 @@
    "upcoming": true
   },
   {
-   "id": "a28b26d84948",
+   "id": "440bc0b32706",
+   "title": "First Maersk Containership Arrives in India for Scheduled Maintenance",
+   "link": "https://maritime-executive.com/article/first-maersk-containership-arrives-in-india-for-scheduled-maintenance",
+   "source": "marex",
+   "published": "2026-10-20T18:27:12Z",
+   "seen": "2026-10-20T18:46:00Z",
+   "lang": "en",
+   "excerpt": "The first Maersk container vessel arrived in India for scheduled maintenance, marking another milestone in the efforts to expand India’s shipbuilding...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "ce2e16845131",
+   "title": "Shannon Foynesport reports record turnover",
+   "link": "https://container-news.com/shannon-foynesport-reports-record-turnover/",
+   "source": "containernews",
+   "published": "2026-10-20T18:00:08Z",
+   "seen": "2026-10-20T18:46:00Z",
+   "lang": "en",
+   "excerpt": "Shannon Foynes Port Company has reported a landmark financial performance for 2025, with turnover rising 12% to EUR 17.63 million and both EBITDA and operating profit reaching historic highs.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ebitda"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "6c6bff5db006",
+   "title": "Reefer Truckload Rejections Soar: 1 in 5 Loads Rejected Nationally",
+   "link": "https://www.freightwaves.com/news/reefer-truckload-rejections-soar-1-in-5-loads-rejected-nationally",
+   "source": "freightwaves",
+   "published": "2026-10-20T17:56:29Z",
+   "seen": "2026-10-20T18:46:00Z",
+   "lang": "en",
+   "excerpt": "The freight market is seeing fluctuating volumes and steady tender rejections, with a particular spotlight on the refrigerated sector.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "reefer",
+    "ftl"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "0763206c3259",
+   "title": "Bot Auto’s Secret to an Affordable Future",
+   "link": "https://www.freightwaves.com/news/bot-autos-secret-to-an-affordable-future",
+   "source": "freightwaves",
+   "published": "2026-10-20T17:55:18Z",
+   "seen": "2026-10-20T18:46:00Z",
+   "lang": "en",
+   "excerpt": "Bot Auto’s President & COO, Brett Suma, explains how their unique foundational model and advanced software, developed by an AI-first team, slashed the cost of autonomous driving systems to just $50,000 per truck.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "670af406bda0",
+   "title": "Diesel Prices: Up, Down, or Stuck?",
+   "link": "https://www.freightwaves.com/news/diesel-prices-up-down-or-stuck",
+   "source": "freightwaves",
+   "published": "2026-10-20T17:53:35Z",
+   "seen": "2026-10-20T18:46:00Z",
+   "lang": "en",
+   "excerpt": "FreightWaves editor-at-large John Kingston breaks down the latest diesel price trends and the bombshell $700M nuclear verdict against CH Robinson.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "433569016cc6",
+   "title": "After 354 Accidents, Shipping Industry Urged to Rethink Enclosed Space Safety",
+   "link": "https://gcaptain.com/after-354-accidents-shipping-industry-urged-to-rethink-enclosed-space-safety/",
+   "source": "gcaptain",
+   "published": "2026-10-20T17:27:47Z",
+   "seen": "2026-10-20T18:46:00Z",
+   "lang": "en",
+   "excerpt": "A new survey of more than 900 seafarers has exposed a persistent gap between safety procedures and the realities of working aboard ships, prompting renewed calls for action to prevent...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8493cc8566a8",
    "title": "CargoNet øker kapasiteten på tre banestrekninger",
-   "link": "https://www.mtlogistikk.no/bergensbanen-cargonet-dovrebanen/cargonet-oker-kapasiteten-pa-tre-banestrekninger/1344434",
+   "link": "https://www.mtlogistikk.no/bergensbanen-cargonet-dovrebanen/cargonet-oker-kapasiteten-pa-tre-banestrekninger/1344593",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-20T15:27:06Z",
+   "seen": "2026-10-20T17:16:00Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -55,6 +174,500 @@
    "subs": [],
    "policy": false,
    "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "d29b146374d8",
+   "title": "Bulgaria Recovers Drone Fragments from Ship Attack While Second Ship Sinks",
+   "link": "https://maritime-executive.com/article/bulgaria-recovers-drone-fragments-from-ship-attack-while-second-ship-sinks",
+   "source": "marex",
+   "published": "2026-10-20T17:07:07Z",
+   "seen": "2026-10-20T18:46:00Z",
+   "lang": "en",
+   "excerpt": "Salvage efforts are continuing after the series of vessel attacks off the coast of Bulgaria in the Black Sea. Officials are now reporting that drone f...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "salvage"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "819b3042184e",
+   "title": "Neptune Group Welcomes “NIKOS TRAVLOS”",
+   "link": "https://www.hellenicshippingnews.com/neptune-group-welcomes-nikos-travlos/",
+   "source": "hsn",
+   "published": "2026-10-20T17:00:59Z",
+   "seen": "2026-10-20T18:46:00Z",
+   "lang": "en",
+   "excerpt": "The Neptune Group took delivery of the newly built “NIKOS TRAVLOS” at the Fujian Mawei shipyard in China, the second vessel of the expanded Genesis Project.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "car-carrier"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "e965f1576da4",
+   "title": "Blue Autonomy opens an online academy for ship performance professionals",
+   "link": "https://www.hellenicshippingnews.com/blue-autonomy-opens-an-online-academy-for-ship-performance-professionals/",
+   "source": "hsn",
+   "published": "2026-10-20T17:00:57Z",
+   "seen": "2026-10-20T18:46:00Z",
+   "lang": "en",
+   "excerpt": "Blue Autonomy today opened the Blue Autonomy Academy (academy.blueautonomy.gr), an online school of 39 self-paced courses on vessel performance, maritime data and the regulations that price them.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "91f08022583f",
+   "title": "Bidding Announcement of 15783t Bulk Carrier “ZJ2026-0270”",
+   "link": "https://www.hellenicshippingnews.com/bidding-announcement-of-15783t-bulk-carrier-zj2026-0270/",
+   "source": "hsn",
+   "published": "2026-10-20T17:00:55Z",
+   "seen": "2026-10-20T18:46:00Z",
+   "lang": "en",
+   "excerpt": "Entrusted by the transferor (the Sellers), our company (the “Bidding Company”) is scheduled to hold an online public bidding (the “Bidding”) on the Shipbid website (www.shipbid.net) from 15:00 to 15:30 (Beijing Time) on November 10th, 2026 …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dry-bulk"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "6642485b3139",
+   "title": "Athenian Shipbrokers S.A. DEMOLITION QUICK UPDATE Week 42, 2026",
+   "link": "https://www.hellenicshippingnews.com/athenian-shipbrokers-s-a-demolition-quick-update-week-42-2026/",
+   "source": "hsn",
+   "published": "2026-10-20T17:00:54Z",
+   "seen": "2026-10-20T18:46:00Z",
+   "lang": "en",
+   "excerpt": "Athenian Shipbrokers SA Ship Recycling Weekly Report",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "shipbroker",
+    "recycling"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "0a677ba36188",
+   "title": "Family businesses Amer Shipping and Van de Graaf & Meeusen establish Belgian chartering office TriBarge",
+   "link": "https://www.hellenicshippingnews.com/family-businesses-amer-shipping-and-van-de-graaf-meeusen-establish-belgian-chartering-office-tribarge/",
+   "source": "hsn",
+   "published": "2026-10-20T17:00:53Z",
+   "seen": "2026-10-20T18:46:00Z",
+   "lang": "en",
+   "excerpt": "Inland shipping companies Amer Shipping BV and Van de Graaf & Meeusen BV have established an independent Belgian chartering office: TriBarge.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "1664245980dd",
+   "title": "M/V Espírito Santo Express Incident",
+   "link": "https://www.hellenicshippingnews.com/m-v-espirito-santo-express-incident/",
+   "source": "hsn",
+   "published": "2026-10-20T17:00:51Z",
+   "seen": "2026-10-20T18:46:00Z",
+   "lang": "en",
+   "excerpt": "We are writing to inform you about a severe casualty involving the container ship M/V Espírito Santo Express (IMO: 9793923), operated by Hapag-Lloyd / Seaspan.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner",
+    "imo"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "eda7eb756a05",
+   "title": "Wärtsilä Engines selected for two additional inland waterway tugs in Brazil",
+   "link": "https://www.hellenicshippingnews.com/wartsila-engines-selected-for-two-additional-inland-waterway-tugs-in-brazil/",
+   "source": "hsn",
+   "published": "2026-10-20T17:00:49Z",
+   "seen": "2026-10-20T18:46:00Z",
+   "lang": "en",
+   "excerpt": "Technology group Wärtsilä will supply the engines for two new inland waterway pusher tugs being built by Brazilian shipyard Estaleiro Rio Maguari.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6bfd208322ed",
+   "title": "South Korean Oil Tanker Takes Red Sea Detour",
+   "link": "https://www.hellenicshippingnews.com/south-korean-oil-tanker-takes-red-sea-detour/",
+   "source": "hsn",
+   "published": "2026-10-20T17:00:47Z",
+   "seen": "2026-10-20T18:46:00Z",
+   "lang": "en",
+   "excerpt": "Amid the Iran war and the closure of the Strait of Hormuz, a 19th South Korean oil tanker is transporting crude oil to South Korea via a Red Sea detour. The Ministry of Oceans and Fisheries announced that as of 10 a.m. on Oct.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "516e90573e32",
+   "title": "Typhoon Champi causes halt in bunker operations at Zhoushan’s outer anchorages",
+   "link": "https://www.hellenicshippingnews.com/typhoon-champi-causes-halt-in-bunker-operations-at-zhoushans-outer-anchorages/",
+   "source": "hsn",
+   "published": "2026-10-20T17:00:45Z",
+   "seen": "2026-10-20T18:46:00Z",
+   "lang": "en",
+   "excerpt": "Bunker operations at Zhoushan’s outer Tiaozhoumen and Xiazhimen anchorages have been suspended today because of rough weather brought by Typhoon Champi, according to a source.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bunkers"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "e3320c1b8975",
+   "title": "Pilbara Ports hosts global maritime leaders",
+   "link": "https://www.hellenicshippingnews.com/pilbara-ports-hosts-global-maritime-leaders/",
+   "source": "hsn",
+   "published": "2026-10-20T17:00:43Z",
+   "seen": "2026-10-20T18:46:00Z",
+   "lang": "en",
+   "excerpt": "Western Australia is taking centre stage in global maritime safety and collaboration, with Pilbara Ports hosting the 2026 Safe Ships Safe Ports Forum this week.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f78cccd36f56",
+   "title": "Weekly Vessel Valuations Report, October 20 2026",
+   "link": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-october-20-2026/",
+   "source": "hsn",
+   "published": "2026-10-20T17:00:27Z",
+   "seen": "2026-10-20T18:46:00Z",
+   "lang": "en",
+   "excerpt": "Bulkers Bulker values held broadly stable this week, with Capesize edging slightly lower alongside softer earnings. The Capesize Pan Advance sold at a premium, in line with firm demand for prompt tonnage.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dry-bulk",
+    "capesize",
+    "dwt"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "11cd8f268a08",
+   "title": "Breakwave Tanker Report 10.20.2026",
+   "link": "https://www.hellenicshippingnews.com/breakwave-tanker-report-10-20-2026/",
+   "source": "hsn",
+   "published": "2026-10-20T17:00:20Z",
+   "seen": "2026-10-20T18:46:00Z",
+   "lang": "en",
+   "excerpt": "VLCC Supported at Record High Amid Exceptional Geopolitical Risks – Continued attacks on shipping and energy infrastructure are",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "vlcc"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "d5917d5fb998",
+   "title": "Crowley adds new tug at Los Angeles and Long Beach",
+   "link": "https://container-news.com/crowley-adds-new-tug-at-los-angeles-and-long-beach/",
+   "source": "containernews",
+   "published": "2026-10-20T17:00:07Z",
+   "seen": "2026-10-20T18:46:00Z",
+   "lang": "en",
+   "excerpt": "Crowley has accepted delivery of Venture, a new chartered tug that will undertake ship-assist and escort operations at the ports of Los Angeles and Long Beach.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "jones-act"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "59cb7d5fc4f6",
+   "title": "Time-definite ocean delivery? Container ship completes new Arctic route trial",
+   "link": "https://www.freightwaves.com/news/time-definite-ocean-delivery-container-ship-completes-new-arctic-route-trial",
+   "source": "freightwaves",
+   "published": "2026-10-20T17:00:00Z",
+   "seen": "2026-10-20T18:46:00Z",
+   "lang": "en",
+   "excerpt": "South Korea’s Arctic shipping trial demonstrated a faster Europe route, but commercial viability remains uncertain.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "00d853ce6bed",
+   "title": "Heartland Express sees earnings turnaround in Q3",
+   "link": "https://www.freightwaves.com/news/heartland-express-sees-earnings-turnaround-in-q3",
+   "source": "freightwaves",
+   "published": "2026-10-20T16:32:00Z",
+   "seen": "2026-10-20T18:46:00Z",
+   "lang": "en",
+   "excerpt": "For the first time since 2023, truckload carrier Heartland Express achieved a net profit that was not driven by large gains from selling equipment and terminals.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ftl"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "45f979db11f5",
+   "title": "Automatisering løser tollfloken for flybåren netthandel",
+   "link": "https://www.mtlogistikk.no/descartes-flytransport-ics2/automatisering-loser-tollfloken-for-flybaren-netthandel/1344235",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-20T16:31:00Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "d730b5b76991",
+   "title": "Trump’s Plan to Revive Sanctioned Tankers Faces Tough Sell",
+   "link": "https://gcaptain.com/trumps-plan-to-revive-sanctioned-tankers-faces-tough-sell/",
+   "source": "gcaptain",
+   "published": "2026-10-20T16:27:14Z",
+   "seen": "2026-10-20T18:46:00Z",
+   "lang": "en",
+   "excerpt": "(Bloomberg) — A US plan to rehabilitate sanctioned tankers to boost oil supply may attract only a sliver of the dark fleet, as existing contracts, complex compliance checks and sky-high...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "sanctions",
+    "shadow-fleet"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "707fc768a193",
+   "title": "Iran Strikes More Ship Engine Rooms in Ramp-Up of Hormuz Attacks",
+   "link": "https://gcaptain.com/iran-strikes-more-ship-engine-rooms-in-ramp-up-of-hormuz-attacks/",
+   "source": "gcaptain",
+   "published": "2026-10-20T16:20:13Z",
+   "seen": "2026-10-20T18:46:00Z",
+   "lang": "en",
+   "excerpt": "Iranian attacks in the Persian Gulf are striking more ships and causing more severe damage than earlier in the conflict, bringing fresh risks to energy flows from the region.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "c211e629dd02",
+   "title": "Sikrer avisdistribusjon med ny anbudsrunde",
+   "link": "https://www.mtlogistikk.no/aktiv-norgesdistribusjon-avisdistribusjon-offentlige-anskaffelser/sikrer-avisdistribusjon-med-ny-anbudsrunde/1344215",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-20T16:16:00Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "77863a4fb184",
+   "title": "Kpler Expands ‘Dark Fleet’ Tracking With Airbus Satellite Deal",
+   "link": "https://gcaptain.com/kpler-expands-dark-fleet-tracking-with-airbus-satellite-deal/",
+   "source": "gcaptain",
+   "published": "2026-10-20T16:15:52Z",
+   "seen": "2026-10-20T18:46:00Z",
+   "lang": "en",
+   "excerpt": "Maritime data provider Kpler has reached an agreement with Airbus to expand its ability to track vessels that disappear from conventional ship-tracking systems, adding daily satellite imagery to help identify...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "shadow-fleet"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "247c25a682f8",
+   "title": "Benchmark diesel price up as market takes a short breather",
+   "link": "https://www.freightwaves.com/news/benchmark-diesel-price-up-as-market-takes-a-short-breather",
+   "source": "freightwaves",
+   "published": "2026-10-20T16:10:29Z",
+   "seen": "2026-10-20T18:46:00Z",
+   "lang": "en",
+   "excerpt": "After months of volatility, the diesel market going into Tuesday appeared to have calmed down, at least for now. The day also featured the release of the weekly benchmark diesel price from the Department of Energy/Energy Information …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "fuel-surcharge"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "60532d9b1703",
+   "title": "MSC Ajaccio omits Livorno call on MSE service",
+   "link": "https://container-news.com/msc-ajaccio-omits-livorno-call-on-mse-service/",
+   "source": "containernews",
+   "published": "2026-10-20T16:00:40Z",
+   "seen": "2026-10-20T18:46:00Z",
+   "lang": "en",
+   "excerpt": "Hapag-Lloyd has announced that MSC Ajaccio voyage MM642A will omit its scheduled call at Livorno, Italy. The vessel, operating on the Mediterranean–South America East Coast (MSE) service, was originally scheduled to call at Livorno on 17 …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "port-omission"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "2d27357df94e",
+   "title": "EU Puts Icebreakers, Shipping Security at Center of New Arctic Strategy",
+   "link": "https://gcaptain.com/eu-puts-icebreakers-shipping-security-at-center-of-new-arctic-strategy/",
+   "source": "gcaptain",
+   "published": "2026-10-20T15:43:34Z",
+   "seen": "2026-10-20T18:46:00Z",
+   "lang": "en",
+   "excerpt": "The European Union unveiled a new Arctic strategy Tuesday aimed at strengthening maritime security, expanding icebreaker capacity and protecting critical infrastructure as melting sea ice opens new shipping routes and...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
    "terms": [],
    "paywall": false
   },
@@ -101,24 +714,6 @@
    "terms": [
     "chokepoint"
    ],
-   "paywall": false
-  },
-  {
-   "id": "7852d13fdc7c",
-   "title": "Sikrer avisdistribusjon med ny anbudsrunde",
-   "link": "https://www.mtlogistikk.no/aktiv-norgesdistribusjon-avisdistribusjon-offentlige-anskaffelser/sikrer-avisdistribusjon-med-ny-anbudsrunde/1343595",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-20T14:57:06Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -539,24 +1134,6 @@
    "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "d5468867bfce",
-   "title": "Automatisering løser tollfloken for flybåren netthandel",
-   "link": "https://www.mtlogistikk.no/descartes-flytransport-ics2/automatisering-loser-tollfloken-for-flybaren-netthandel/1342621",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-20T10:42:06Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
