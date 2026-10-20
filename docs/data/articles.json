@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T06:49:14Z",
+ "updated": "2026-10-20T09:40:41Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren - ESA-pakkemøte",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-esa-pakkemote/id3179069/",
    "source": "regjeringen",
-   "published": "2026-10-20T06:49:14Z",
+   "published": "2026-10-20T09:40:41Z",
    "seen": "2026-10-19T15:49:52Z",
    "lang": "no",
    "excerpt": "",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren - deltar på konferanse om E39",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-deltar-pa-konferanse-om-e39/id3179067/",
    "source": "regjeringen",
-   "published": "2026-10-20T06:49:14Z",
+   "published": "2026-10-20T09:40:41Z",
    "seen": "2026-10-19T15:49:52Z",
    "lang": "no",
    "excerpt": "",
@@ -41,11 +41,131 @@
    "upcoming": true
   },
   {
+   "id": "67e487946393",
+   "title": "Norsk sensorteknologi i unik palleteringsløsning",
+   "link": "https://www.mtlogistikk.no/berobox-palletering-robotsikkerhet/norsk-sensorteknologi-skal-sikre-uavbrutt-palletering-i-krevende-industrimiljoer/1344306",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-20T09:40:41Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "3b3b333c4b30",
+   "title": "Transworld adds supramax in fresh fleet move",
+   "link": "https://splash247.com/transworld-adds-supramax-in-fresh-fleet-move/",
+   "source": "splash",
+   "published": "2026-10-20T09:40:00Z",
+   "seen": "2026-10-20T09:40:41Z",
+   "lang": "en",
+   "excerpt": "India’s Transworld Shipping Lines has returned to the secondhand dry bulk market, agreeing to acquire a supramax carrier for $16.5m as it continues reshaping its fleet.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "supramax",
+    "sale-purchase",
+    "dry-bulk",
+    "dwt"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "3b8daf2b950c",
+   "title": "PD Ports opens new marine operations base at Teesport",
+   "link": "https://splash247.com/pd-ports-opens-new-marine-operations-base-at-teesport/",
+   "source": "splash",
+   "published": "2026-10-20T09:33:16Z",
+   "seen": "2026-10-20T09:40:41Z",
+   "lang": "en",
+   "excerpt": "UK port operator PD Ports has opened a new marine operations and engineering facility on the River Tees, consolidating harbour services and vessel maintenance at a purpose-built site in Middlesbrough.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a28b26d84948",
+   "title": "CargoNet øker kapasiteten på tre banestrekninger",
+   "link": "https://www.mtlogistikk.no/bergensbanen-cargonet-dovrebanen/cargonet-oker-kapasiteten-pa-tre-banestrekninger/1344434",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-20T09:25:41Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "618c1c6d0518",
+   "title": "CMA CGM announces new congestion charges for Tema, Freetown and Monrovia",
+   "link": "https://container-news.com/cma-cgm-announces-new-congestion-charges-for-tema-freetown-and-monrovia/",
+   "source": "containernews",
+   "published": "2026-10-20T09:00:53Z",
+   "seen": "2026-10-20T09:40:41Z",
+   "lang": "en",
+   "excerpt": "CMA CGM has announced Port Congestion Surcharges (PCS) for shipments to three West African ports: Tema in Ghana, Freetown in Sierra Leone and Monrovia in Liberia. The charges will take effect on November 1, 2026, based on the loading date.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "congestion"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "7852d13fdc7c",
+   "title": "Sikrer avisdistribusjon med ny anbudsrunde",
+   "link": "https://www.mtlogistikk.no/aktiv-norgesdistribusjon-avisdistribusjon-offentlige-anskaffelser/sikrer-avisdistribusjon-med-ny-anbudsrunde/1343595",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-20T08:55:41Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
    "id": "e71e71976938",
    "title": "US moves to legitimise shadow tanker fleet",
    "link": "https://splash247.com/us-moves-to-legitimise-shadow-tanker-fleet/",
    "source": "splash",
-   "published": "2026-10-20T06:42:46Z",
+   "published": "2026-10-20T08:50:46Z",
    "seen": "2026-10-20T06:49:14Z",
    "lang": "en",
    "excerpt": "The Trump administration is authorising the sale of sanctioned oil tankers to approved investors who would refurbish the vessels and return them to legitimate crude trades, US energy secretary Chris Wright revealed yesterday, as Washington …",
@@ -60,6 +180,197 @@
    "terms": [
     "sanctions",
     "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "d62104d433d7",
+   "title": "Folegandros island joins Greece’s mainland power grid via 60-kilometer subsea cable",
+   "link": "https://offshore-energy.biz/2026/10/20/folegandros-island-joins-greeces-mainland-power-grid-via-60-kilometer-subsea-cable",
+   "source": "offshoreenergy",
+   "published": "2026-10-20T08:46:47Z",
+   "seen": "2026-10-20T09:40:41Z",
+   "lang": "en",
+   "excerpt": "The new 60-kilometer subsea high-voltage cable that connects the Greek island of Folegandros with Santorini and Naxos has been energized and is...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "53fd3fccc921",
+   "title": "MSC tipped for another 20 megamaxes in China",
+   "link": "https://splash247.com/msc-tipped-for-another-20-megamaxes-in-china/",
+   "source": "splash",
+   "published": "2026-10-20T08:31:49Z",
+   "seen": "2026-10-20T09:40:41Z",
+   "lang": "en",
+   "excerpt": "Mediterranean Shipping Co (MSC) has reportedly added another 20 megamax containerships at China’s Hengli Heavy Industries, further expanding its already massive orderbook as global newbuilding commitments climb to their highest level in …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner",
+    "orderbook",
+    "newbuilding"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "44854facc743",
+   "title": "Fire aboard Espirito Santo Express disrupts SX1 service",
+   "link": "https://container-news.com/espirito-santo-express-fire-sx1-service/",
+   "source": "containernews",
+   "published": "2026-10-20T08:00:44Z",
+   "seen": "2026-10-20T09:40:41Z",
+   "lang": "en",
+   "excerpt": "Ocean Network Express (ONE) has reported a fire aboard the vessel Espirito Santo Express while it was sailing from Singapore to Santos. The vessel is deployed on ONE’s East Coast South America Express 1 (SX1) service.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "d22c6c111e4f",
+   "title": "Northern Sea Route smashes shipping records again",
+   "link": "https://splash247.com/northern-sea-route-smashes-shipping-records-again/",
+   "source": "splash",
+   "published": "2026-10-20T08:00:01Z",
+   "seen": "2026-10-20T09:40:41Z",
+   "lang": "en",
+   "excerpt": "Shipping along Russia’s Northern Sea Route (NSR) has already broken last year’s transit record. New figures from Norway’s Centre for High North Logistics (CHNL) show 104 confirmed transits by September 30, surpassing the 103 recorded …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk",
+    "tankers"
+   ],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ca4acb7bb887",
+   "title": "UK’s first HVDC subsea cable factory opens in Scotland",
+   "link": "https://offshore-energy.biz/2026/10/20/uks-first-hvdc-subsea-cable-factory-opens-in-scotland",
+   "source": "offshoreenergy",
+   "published": "2026-10-20T07:34:44Z",
+   "seen": "2026-10-20T09:40:41Z",
+   "lang": "en",
+   "excerpt": "Japan-headquartered Sumitomo Electric Industries has held the opening ceremony for what is said to be the UK's first HVDC subsea cable factory,...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "1b02b320a123",
+   "title": "Maersk and Hapag-Lloyd reshape Asia–Europe network: Which ports gain or lose?",
+   "link": "https://container-news.com/maersk-and-hapag-lloyd-reshape-asia-europe-network-which-ports-gain-or-lose/",
+   "source": "containernews",
+   "published": "2026-10-20T07:00:56Z",
+   "seen": "2026-10-20T09:40:41Z",
+   "lang": "en",
+   "excerpt": "Maersk and Hapag-Lloyd are preparing a significant reshuffle of the Gemini network, with changes to Asia–Europe services that will alter direct port connections across Northern Europe, the Mediterranean and the Middle East.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "e1442a19bd83",
+   "title": "Navigator sets course for UK domicile",
+   "link": "https://splash247.com/navigator-sets-course-for-uk-domicile/",
+   "source": "splash",
+   "published": "2026-10-20T07:00:39Z",
+   "seen": "2026-10-20T09:40:41Z",
+   "lang": "en",
+   "excerpt": "New York-listed gas carrier owner Navigator Gas is moving to shift its corporate domicile from the Marshall Islands to Britain, putting the proposed restructuring to shareholders next month.",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "restructuring",
+    "mna"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "f64c30d03483",
+   "title": "Spodumene shipments triple as battery boom creates new dry bulk trades",
+   "link": "https://splash247.com/spodumene-shipments-triple-as-battery-boom-creates-new-dry-bulk-trades/",
+   "source": "splash",
+   "published": "2026-10-20T06:48:23Z",
+   "seen": "2026-10-20T09:40:41Z",
+   "lang": "en",
+   "excerpt": "The seaborne trade in spodumene, a lithium-bearing mineral essential for battery production, is emerging as one of dry bulk shipping’s fastest-growing niche cargoes, with volumes more than tripling over the past five years.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dry-bulk",
+    "shipbroker"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "822a8a28e9e2",
+   "title": "Bulker officer missing after rescuing 28 from burning boxship",
+   "link": "https://splash247.com/bulker-officer-missing-after-rescuing-28-from-burning-boxship/",
+   "source": "splash",
+   "published": "2026-10-20T06:20:08Z",
+   "seen": "2026-10-20T09:40:41Z",
+   "lang": "en",
+   "excerpt": "The chief officer of a Portuguese-flagged bulk carrier is missing after being swept overboard during a dramatic operation that rescued all 28 seafarers from a burning 11,800 teu containership in the South Atlantic.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers",
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dry-bulk",
+    "liner"
    ],
    "paywall": false
   },
@@ -332,24 +643,6 @@
    "paywall": true
   },
   {
-   "id": "c211e629dd02",
-   "title": "Sikrer avisdistribusjon med ny anbudsrunde",
-   "link": "https://www.mtlogistikk.no/aktiv-norgesdistribusjon-avisdistribusjon-offentlige-anskaffelser/sikrer-avisdistribusjon-med-ny-anbudsrunde/1344215",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-20T05:04:14Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "61cc08277ca7",
    "title": "Can grain-transit denial reopen the Black Sea?",
    "link": "https://container-news.com/can-grain-transit-denial-reopen-the-black-sea/",
@@ -391,6 +684,28 @@
    "paywall": false
   },
   {
+   "id": "48006753453f",
+   "title": "Wright: US Sanctions Relief for Shadow Fleet Will Involve S&P Deals",
+   "link": "https://maritime-executive.com/article/wright-us-sanctions-relief-for-shadow-fleet-tankers-will-be-for-s-p-deals",
+   "source": "marex",
+   "published": "2026-10-20T03:31:28Z",
+   "seen": "2026-10-20T09:40:41Z",
+   "lang": "en",
+   "excerpt": "To address the historically-high cost of shipping oil on long-distance routes, the White House has announced that it will ease sanctions on shadow fle...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "sanctions",
+    "shadow-fleet",
+    "sale-purchase"
+   ],
+   "paywall": false
+  },
+  {
    "id": "4d3cd3ab53bd",
    "title": "CMA CGM raises Asia–Mediterranean rates and announces new surcharges",
    "link": "https://container-news.com/cma-cgm-raises-asia-mediterranean-rates-and-announces-new-surcharges/",
@@ -405,6 +720,45 @@
    "subs": [
     "containers"
    ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5f7df7b80bda",
+   "title": "Who owns shipping’s carbon decisions?",
+   "link": "https://splash247.com/who-owns-shippings-carbon-decisions/",
+   "source": "splash",
+   "published": "2026-10-20T03:00:00Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "In an industry where a position list is a competitive weapon, the question is no longer just how to comply—but where carbon decisions are made and who controls the data behind them, argues Argyris Zafeiropoulos, principal advisor at …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "eu-ets",
+    "fueleu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "074a478c6f34",
+   "title": "In Singapore, Improper Drone Use Can Mean Fines or Prison for Seafarers",
+   "link": "https://maritime-executive.com/article/in-singapore-improper-drone-use-can-mean-fines-or-prison-for-seafarers",
+   "source": "marex",
+   "published": "2026-10-20T02:05:34Z",
+   "seen": "2026-10-20T09:40:41Z",
+   "lang": "en",
+   "excerpt": "The Port of Singapore has been at the forefront of harbor drone services since at least 2018, when it welcomed the first trials of a cargo-drone comme...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
    "policy": false,
    "level": "international",
    "terms": [],
@@ -484,27 +838,6 @@
    "policy": true,
    "level": "international",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "5f7df7b80bda",
-   "title": "Who owns shipping’s carbon decisions?",
-   "link": "https://splash247.com/who-owns-shippings-carbon-decisions/",
-   "source": "splash",
-   "published": "2026-10-20T00:00:00Z",
-   "seen": "2026-10-19T21:40:16Z",
-   "lang": "en",
-   "excerpt": "In an industry where a position list is a competitive weapon, the question is no longer just how to comply—but where carbon decisions are made and who controls the data behind them, argues Argyris Zafeiropoulos, principal advisor at …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "eu-ets",
-    "fueleu"
-   ],
    "paywall": false
   },
   {
@@ -10985,24 +11318,6 @@
    "seen": "2026-10-16T12:29:22Z",
    "lang": "no",
    "excerpt": "NLFs medlemsbedrifter kan nå selv starte flyttingen til det nye medlemssystemet. Et eget kurs guider deg gjennom prosessen steg for steg.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "c5968b895fe4",
-   "title": "SVV på dagens seminar om fiskeavrenning: Skuffet over at sjømatnæringa ikke har dette på plass",
-   "link": "https://lastebil.no/aktuelt/nyheter/svv-paa-dagens-seminar-om-fiskeavrenning-skuffet-over-at-sjoematnaeringa-ikke-har-dette-paa-plass",
-   "source": "lastebil",
-   "published": "2026-09-29T09:10:05Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "no",
-   "excerpt": "På dagens seminar arrangert av FHF var Roy Harald Holm fra SVV veldig tydelig: Jeg er skuffet over at sjømatnæringen ikke har dette på plass. I stedet må vi gjøre jobben vår å gebyrlegge sjåfører og transportselskaper fortsatte Holm.",
    "segments": [
     "road"
    ],
