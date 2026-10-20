@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T03:41:17Z",
+ "updated": "2026-10-20T06:49:14Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren - ESA-pakkemøte",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-esa-pakkemote/id3179069/",
    "source": "regjeringen",
-   "published": "2026-10-20T03:41:17Z",
+   "published": "2026-10-20T06:49:14Z",
    "seen": "2026-10-19T15:49:52Z",
    "lang": "no",
    "excerpt": "",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren - deltar på konferanse om E39",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-deltar-pa-konferanse-om-e39/id3179067/",
    "source": "regjeringen",
-   "published": "2026-10-20T03:41:17Z",
+   "published": "2026-10-20T06:49:14Z",
    "seen": "2026-10-19T15:49:52Z",
    "lang": "no",
    "excerpt": "",
@@ -41,12 +41,262 @@
    "upcoming": true
   },
   {
-   "id": "7852d13fdc7c",
-   "title": "Sikrer avisdistribusjon med ny anbudsrunde",
-   "link": "https://www.mtlogistikk.no/aktiv-norgesdistribusjon-avisdistribusjon-offentlige-anskaffelser/sikrer-avisdistribusjon-med-ny-anbudsrunde/1343595",
+   "id": "e71e71976938",
+   "title": "US moves to legitimise shadow tanker fleet",
+   "link": "https://splash247.com/us-moves-to-legitimise-shadow-tanker-fleet/",
+   "source": "splash",
+   "published": "2026-10-20T06:42:46Z",
+   "seen": "2026-10-20T06:49:14Z",
+   "lang": "en",
+   "excerpt": "The Trump administration is authorising the sale of sanctioned oil tankers to approved investors who would refurbish the vessels and return them to legitimate crude trades, US energy secretary Chris Wright revealed yesterday, as Washington …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "sanctions",
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "2e180a82e963",
+   "title": "NGM Energy back in the asset game with suezmax flip",
+   "link": "https://splash247.com/ngm-energy-back-in-the-asset-game-with-suezmax-flip/",
+   "source": "splash",
+   "published": "2026-10-20T06:17:22Z",
+   "seen": "2026-10-20T06:49:14Z",
+   "lang": "en",
+   "excerpt": "Asset plays have been the name of the game in shipping circles in recent weeks, with a string of relatively new Middle Eastern players flipping tankers to Chinese buyers at eye-catching profits.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "suezmax",
+    "asset-play"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "d9ccb54d0497",
+   "title": "Rheinmetall and MSC win bid for Mangalia shipyard",
+   "link": "https://container-news.com/rheinmetall-and-msc-win-bid-for-mangalia-shipyard/",
+   "source": "containernews",
+   "published": "2026-10-20T06:00:01Z",
+   "seen": "2026-10-20T06:49:14Z",
+   "lang": "en",
+   "excerpt": "Rheinmetall and Swiss container shipping group MSC have won the auction for the Mangalia shipyard in Romania, with the partners planning to develop the site for both civilian and military shipbuilding.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "2b61aac8c202",
+   "title": "Fire reported on bulk carrier off Indonesia",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/fire-reported-on-bulk-carrier-off-indonesia/",
+   "source": "imn",
+   "published": "2026-10-20T05:33:40Z",
+   "seen": "2026-10-20T06:49:14Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dry-bulk"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "3ad30b46a275",
+   "title": "Ukraine in talks with Türkiye, India and Egypt about possible grain corridor",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/ukraine-in-talks-with-turkiye-india-and-egypt-about-possible-grain-corridor/",
+   "source": "imn",
+   "published": "2026-10-20T05:32:39Z",
+   "seen": "2026-10-20T06:49:14Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "a5adb2fa08f4",
+   "title": "Gallagher appoints new senior broker for marine hull & war risks",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/gallagher-appoints-new-senior-broker-for-marine-hull-war-risks/",
+   "source": "imn",
+   "published": "2026-10-20T05:31:18Z",
+   "seen": "2026-10-20T06:49:14Z",
+   "lang": "en",
+   "excerpt": "Broker Gallagher has announced the appointment of Darren Rowland as executive director of hull and war risks in its global marine practice. Rowland brings more than 40 years’ experience in marine broking to the post.",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "hm",
+    "war-risk"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "98aa6fd603e3",
+   "title": "German war crime charge for Ukrainian army officer re Nord Stream attack",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/german-war-crime-charge-for-ukrainian-army-officer-re-nord-stream-attack/",
+   "source": "imn",
+   "published": "2026-10-20T05:30:01Z",
+   "seen": "2026-10-20T06:49:14Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "efe82bc56b8b",
+   "title": "EU ETS scheme comes under further pressure",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/eu-ets-scheme-comes-under-further-pressure/",
+   "source": "imn",
+   "published": "2026-10-20T05:28:27Z",
+   "seen": "2026-10-20T06:49:14Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "eu-ets"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "490d20f6edac",
+   "title": "Uncertain IMO rules impact shipping’s demand for cleaner marine fuels",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/uncertain-imo-rules-impact-shippings-demand-for-cleaner-marine-fuels/",
+   "source": "imn",
+   "published": "2026-10-20T05:27:15Z",
+   "seen": "2026-10-20T06:49:14Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "imo",
+    "bunkers"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "c3109eaccc04",
+   "title": "Two more attacks reported by UKMTO, but real numbers hard to come by",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/two-more-attacks-reported-by-ukmto-but-real-numbers-hard-to-come-by/",
+   "source": "imn",
+   "published": "2026-10-20T05:22:11Z",
+   "seen": "2026-10-20T06:49:14Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "692afaf65c04",
+   "title": "Lockton non-Group marine insurer summary: MSIG Specialty Marine NV",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/lockton-non-group-marine-insurer-summary-msig-specialty-marine-nv/",
+   "source": "imn",
+   "published": "2026-10-20T05:20:54Z",
+   "seen": "2026-10-20T06:49:14Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "finance",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "insurance-broker"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "29411ca0ab33",
+   "title": "India confirms its seafarers in Black Sea are safe after recent drone attacks",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/india-confirms-its-seafarers-in-black-sea-are-safe-after-recent-drone-attacks/",
+   "source": "imn",
+   "published": "2026-10-20T05:19:48Z",
+   "seen": "2026-10-20T06:49:14Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "45f979db11f5",
+   "title": "Automatisering løser tollfloken for flybåren netthandel",
+   "link": "https://www.mtlogistikk.no/descartes-flytransport-ics2/automatisering-loser-tollfloken-for-flybaren-netthandel/1344235",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-20T03:41:17Z",
+   "seen": "2026-10-20T05:19:14Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -55,6 +305,88 @@
    "subs": [],
    "policy": false,
    "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "bb9afb1cf195",
+   "title": "Does the BIMCO time charter sanctions clause protect against future sanctions exposure?",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/does-the-bimco-time-charter-sanctions-clause-protect-against-future-sanctions-exposure/",
+   "source": "imn",
+   "published": "2026-10-20T05:17:27Z",
+   "seen": "2026-10-20T06:49:14Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "bimco",
+    "time-charter",
+    "sanctions"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "c211e629dd02",
+   "title": "Sikrer avisdistribusjon med ny anbudsrunde",
+   "link": "https://www.mtlogistikk.no/aktiv-norgesdistribusjon-avisdistribusjon-offentlige-anskaffelser/sikrer-avisdistribusjon-med-ny-anbudsrunde/1344215",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-20T05:04:14Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "61cc08277ca7",
+   "title": "Can grain-transit denial reopen the Black Sea?",
+   "link": "https://container-news.com/can-grain-transit-denial-reopen-the-black-sea/",
+   "source": "containernews",
+   "published": "2026-10-20T05:00:06Z",
+   "seen": "2026-10-20T06:49:14Z",
+   "lang": "en",
+   "excerpt": "How an EU ban on Russian grain through Baltic ports could reshape container shipping in the Black Sea and set off rerouting from the Arctic to the Caspian.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers",
+    "drybulk"
+   ],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f3afc8a4cd70",
+   "title": "Hapag-Lloyd introduces new SE5 service in Far East–Europe network reshuffle",
+   "link": "https://container-news.com/hapag-lloyd-introduces-new-se5-service-in-far-east-europe-network-reshuffle/",
+   "source": "containernews",
+   "published": "2026-10-20T04:00:54Z",
+   "seen": "2026-10-20T06:49:14Z",
+   "lang": "en",
+   "excerpt": "Hapag-Lloyd has announced a series of changes to its Far East–Europe network under the Gemini Cooperation, including the introduction of a new Asia South Europe 5 (SE5) service.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
    "terms": [],
    "paywall": false
   },
@@ -196,24 +528,6 @@
    "terms": [
     "sanctions"
    ],
-   "paywall": false
-  },
-  {
-   "id": "d5468867bfce",
-   "title": "Automatisering løser tollfloken for flybåren netthandel",
-   "link": "https://www.mtlogistikk.no/descartes-flytransport-ics2/automatisering-loser-tollfloken-for-flybaren-netthandel/1342621",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-19T23:26:17Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
