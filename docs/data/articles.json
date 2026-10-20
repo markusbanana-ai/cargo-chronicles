@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T12:51:07Z",
+ "updated": "2026-10-20T15:42:06Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren - ESA-pakkemøte",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-esa-pakkemote/id3179069/",
    "source": "regjeringen",
-   "published": "2026-10-20T12:51:07Z",
+   "published": "2026-10-20T15:42:06Z",
    "seen": "2026-10-19T15:49:52Z",
    "lang": "no",
    "excerpt": "",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren - deltar på konferanse om E39",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-deltar-pa-konferanse-om-e39/id3179067/",
    "source": "regjeringen",
-   "published": "2026-10-20T12:51:07Z",
+   "published": "2026-10-20T15:42:06Z",
    "seen": "2026-10-19T15:49:52Z",
    "lang": "no",
    "excerpt": "",
@@ -39,6 +39,274 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "a28b26d84948",
+   "title": "CargoNet øker kapasiteten på tre banestrekninger",
+   "link": "https://www.mtlogistikk.no/bergensbanen-cargonet-dovrebanen/cargonet-oker-kapasiteten-pa-tre-banestrekninger/1344434",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-20T15:27:06Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "1140253667d8",
+   "title": "Maersk updates containerised vehicle booking requirements",
+   "link": "https://container-news.com/maersk-updates-containerised-vehicle-booking-requirements/",
+   "source": "containernews",
+   "published": "2026-10-20T15:00:42Z",
+   "seen": "2026-10-20T15:42:06Z",
+   "lang": "en",
+   "excerpt": "Maersk has issued updated booking and acceptance requirements for vehicles transported in containers, following the introduction of dedicated UN numbers for battery-powered vehicles under IMDG Code Amendment 42-24.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "un-number"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "91cbe0753eba",
+   "title": "How new capacity is raising rates in chaotic ocean market",
+   "link": "https://www.freightwaves.com/news/how-new-capacity-is-raising-rates-in-chaotic-ocean-market",
+   "source": "freightwaves",
+   "published": "2026-10-20T14:58:59Z",
+   "seen": "2026-10-20T15:42:06Z",
+   "lang": "en",
+   "excerpt": "Container rates rise as the Red Sea return threatens to worsen oversupply in 2027.",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "7852d13fdc7c",
+   "title": "Sikrer avisdistribusjon med ny anbudsrunde",
+   "link": "https://www.mtlogistikk.no/aktiv-norgesdistribusjon-avisdistribusjon-offentlige-anskaffelser/sikrer-avisdistribusjon-med-ny-anbudsrunde/1343595",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-20T14:57:06Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "88a9adf7e12c",
+   "title": "Freight broker Fura’s latest deal adds $30M in revenue",
+   "link": "https://www.freightwaves.com/news/freight-broker-furas-latest-deal-adds-30m-in-revenue",
+   "source": "freightwaves",
+   "published": "2026-10-20T14:21:03Z",
+   "seen": "2026-10-20T15:42:06Z",
+   "lang": "en",
+   "excerpt": "Freight broker Fura has acquired Road Dog Logistics, a truckload brokerage, expanding Fura's platform with an estimated $30 million in additional revenue.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ftl"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "5450f515b811",
+   "title": "Perenco brings ‘complex’ North Sea P&A and infrastructure removal campaign to an end",
+   "link": "https://offshore-energy.biz/2026/10/20/perenco-brings-complex-north-sea-panda-and-infrastructure-removal-campaign-to-an-end",
+   "source": "offshoreenergy",
+   "published": "2026-10-20T14:10:33Z",
+   "seen": "2026-10-20T15:42:06Z",
+   "lang": "en",
+   "excerpt": "Perenco has wrapped up its decommissioning campaign, executing a P&A and infrastructure removal program in the UK North Sea.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "decommissioning"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "91eb4f27c833",
+   "title": "Australia Post expands freighter fleet ahead of holiday e-commerce rush",
+   "link": "https://www.freightwaves.com/news/australia-post-expands-freighter-fleet-ahead-of-holiday-e-commerce-rush",
+   "source": "freightwaves",
+   "published": "2026-10-20T14:05:55Z",
+   "seen": "2026-10-20T15:42:06Z",
+   "lang": "en",
+   "excerpt": "Qantas Freight and Australia Post are big proponents of the Airbus A321 converted freighter, which hasn’t gained widespread popularity.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "53a1942615b0",
+   "title": "Major investments transform Gothenburg RoRo terminal",
+   "link": "https://container-news.com/major-investments-transform-gothenburg-roro-terminal/",
+   "source": "containernews",
+   "published": "2026-10-20T14:00:00Z",
+   "seen": "2026-10-20T15:42:06Z",
+   "lang": "en",
+   "excerpt": "Gothenburg RoRo Terminal has undergone extensive development over the past three years, with a series of infrastructure upgrades delivering a modernised, more efficient and sustainable operation serving frequent sailings to key freight …",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "roro"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "67ad02380df3",
+   "title": "Truck safety blitzes uncover hundreds of violations across US",
+   "link": "https://www.freightwaves.com/news/truck-safety-blitzes-uncover-hundreds-of-violations-across-us",
+   "source": "freightwaves",
+   "published": "2026-10-20T13:50:18Z",
+   "seen": "2026-10-20T15:42:06Z",
+   "lang": "en",
+   "excerpt": "State and federal authorities from California to North Dakota reported hundreds of violations and out-of-service orders in recent CDL enforcement operations.",
+   "segments": [
+    "road",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "1db2abb11876",
+   "title": "BW LPG India offloads 18-year-old VLGC for over $80m",
+   "link": "https://splash247.com/bw-lpg-india-offloads-18-year-old-vlgc-for-over-80m/",
+   "source": "splash",
+   "published": "2026-10-20T13:24:14Z",
+   "seen": "2026-10-20T15:42:06Z",
+   "lang": "en",
+   "excerpt": "New York- and Oslo-listed gas carrier giant BW LPG is cashing in again on strong secondhand values, agreeing to sell an 18-year-old VLGC for more than $80m as it presses ahead with a major fleet renewal programme.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "lpg",
+    "sale-purchase"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "91ef466ee09d",
+   "title": "LNG Canada entrusts Técnicas Reunidas with €200M+ EPCM deal",
+   "link": "https://offshore-energy.biz/2026/10/20/lng-canada-entrusts-tecnicas-reunidas-with-euro200m-epcm-deal",
+   "source": "offshoreenergy",
+   "published": "2026-10-20T13:11:12Z",
+   "seen": "2026-10-20T15:42:06Z",
+   "lang": "en",
+   "excerpt": "Técnicas Reunidas has secured work on LNG Canada's Coastal GasLink Phase 2, fueling the engineering firm's North American growth.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lng"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "072f3b5acf43",
+   "title": "Godby Shipping extends DFDS vessel charters",
+   "link": "https://container-news.com/godby-shipping-extends-dfds-vessel-charters/",
+   "source": "containernews",
+   "published": "2026-10-20T13:00:59Z",
+   "seen": "2026-10-20T15:42:06Z",
+   "lang": "en",
+   "excerpt": "Godby Shipping has extended its time charter agreements with DFDS for the vessels Lysvik Seaways, Lysbris Seaways and Transporter. All three charter agreements will now remain in effect until 31 December 2027.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "time-charter"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "d8bd1a2b35c5",
+   "title": "Maersk and Hateco Plan $3.5 Billion Vietnam Rail Freight Project",
+   "link": "https://gcaptain.com/maersk-and-hateco-plan-3-5-billion-vietnam-rail-freight-project/",
+   "source": "gcaptain",
+   "published": "2026-10-20T12:12:59Z",
+   "seen": "2026-10-20T15:42:06Z",
+   "lang": "en",
+   "excerpt": "A.P. Moller-Maersk A/S, the world’s No. 2 container carrier, signed an agreement with Vietnamese conglomerate Hateco to develop a railway freight terminal network in Vietnam during President To Lam’s official visit to Denmark.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "intermodal"
+   ],
+   "paywall": false
   },
   {
    "id": "4d45cb8a3083",
@@ -161,12 +429,12 @@
    "paywall": false
   },
   {
-   "id": "8493cc8566a8",
-   "title": "CargoNet øker kapasiteten på tre banestrekninger",
-   "link": "https://www.mtlogistikk.no/bergensbanen-cargonet-dovrebanen/cargonet-oker-kapasiteten-pa-tre-banestrekninger/1344593",
+   "id": "e86342b1a4bd",
+   "title": "Kapasitetsløft har gitt volumvekst",
+   "link": "https://www.mtlogistikk.no/cldn-gothenburg-roro-terminal-goeteborgs-hamn/kapasitetsloft-har-gitt-volumvekst/1344583",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-20T11:21:07Z",
+   "seen": "2026-10-20T11:12:06Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -275,6 +543,24 @@
    "paywall": false
   },
   {
+   "id": "d5468867bfce",
+   "title": "Automatisering løser tollfloken for flybåren netthandel",
+   "link": "https://www.mtlogistikk.no/descartes-flytransport-ics2/automatisering-loser-tollfloken-for-flybaren-netthandel/1342621",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-20T10:42:06Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
    "id": "d31f4d5152ba",
    "title": "Marinakis tanker venture locks down $930m for 11 VLCC newbuilds",
    "link": "https://splash247.com/marinakis-tanker-venture-locks-down-930m-for-11-vlcc-newbuilds/",
@@ -296,24 +582,6 @@
     "vlcc",
     "newbuilding"
    ],
-   "paywall": false
-  },
-  {
-   "id": "c211e629dd02",
-   "title": "Sikrer avisdistribusjon med ny anbudsrunde",
-   "link": "https://www.mtlogistikk.no/aktiv-norgesdistribusjon-avisdistribusjon-offentlige-anskaffelser/sikrer-avisdistribusjon-med-ny-anbudsrunde/1344215",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-20T10:21:07Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -1285,24 +1553,6 @@
    "level": "international",
    "terms": [],
    "paywall": true
-  },
-  {
-   "id": "45f979db11f5",
-   "title": "Automatisering løser tollfloken for flybåren netthandel",
-   "link": "https://www.mtlogistikk.no/descartes-flytransport-ics2/automatisering-loser-tollfloken-for-flybaren-netthandel/1344235",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-20T05:19:14Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
   },
   {
    "id": "bb9afb1cf195",
@@ -11992,24 +12242,6 @@
    "terms": [
     "modulvogntog"
    ],
-   "paywall": false
-  },
-  {
-   "id": "c41cabace631",
-   "title": "Nå kan du selv flytte til NLFs nye medlemssystem",
-   "link": "https://lastebil.no/aktuelt/nyheter/2026/naa-kan-du-selv-flytte-til-nlfs-nye-medlemssystem",
-   "source": "lastebil",
-   "published": "2026-09-29T14:54:52Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "no",
-   "excerpt": "NLFs medlemsbedrifter kan nå selv starte flyttingen til det nye medlemssystemet. Et eget kurs guider deg gjennom prosessen steg for steg.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   }
  ]
