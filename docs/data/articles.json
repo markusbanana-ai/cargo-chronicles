@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T21:40:16Z",
+ "updated": "2026-10-20T00:53:07Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren - ESA-pakkemøte",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-esa-pakkemote/id3179069/",
    "source": "regjeringen",
-   "published": "2026-10-19T21:40:16Z",
+   "published": "2026-10-20T00:53:07Z",
    "seen": "2026-10-19T15:49:52Z",
    "lang": "no",
    "excerpt": "",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren - deltar på konferanse om E39",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-deltar-pa-konferanse-om-e39/id3179067/",
    "source": "regjeringen",
-   "published": "2026-10-19T21:40:16Z",
+   "published": "2026-10-20T00:53:07Z",
    "seen": "2026-10-19T15:49:52Z",
    "lang": "no",
    "excerpt": "",
@@ -39,6 +39,234 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "f92b5b1bc75e",
+   "title": "ANNONSØRINNHOLD FOR COLOR LINE CARGO Slik sikrer de kritisk vareflyt mellom Norge og Europa",
+   "link": "https://www.mtlogistikk.no/color-fantasy-color-line-cargo-color-magic/slik-sikrer-de-kritisk-vareflyt-mellom-norge-og-europa/1344101",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-20T00:38:07Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8cc5fea2237f",
+   "title": "Trump Administration Asks Court to Remand Second Offshore Wind Approval",
+   "link": "https://maritime-executive.com/article/trump-administration-asks-court-to-remand-second-offshore-wind-approval",
+   "source": "marex",
+   "published": "2026-10-20T00:30:11Z",
+   "seen": "2026-10-20T00:53:07Z",
+   "lang": "en",
+   "excerpt": "The Department of Justice filed last week with a U.S. District Court in Maryland, asking the court to remand the approval of the Construction and Oper...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "offshore-wind"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "978083b43f2f",
+   "title": "Port of San Diego and Subic Bay Metropolitan Authority sign sister port MOU",
+   "link": "https://container-news.com/port-of-san-diego-and-subic-bay-metropolitan-authority-sign-sister-port-mou/",
+   "source": "containernews",
+   "published": "2026-10-20T00:00:58Z",
+   "seen": "2026-10-20T00:53:07Z",
+   "lang": "en",
+   "excerpt": "The Port of San Diego and the Subic Bay Metropolitan Authority of the Philippines have formalised a new sister port partnership, signing a Memorandum of Understanding on October 15 during a celebration attended by SBMA dignitaries and …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5f7df7b80bda",
+   "title": "Who owns shipping’s carbon decisions?",
+   "link": "https://splash247.com/who-owns-shippings-carbon-decisions/",
+   "source": "splash",
+   "published": "2026-10-20T00:00:00Z",
+   "seen": "2026-10-19T21:40:16Z",
+   "lang": "en",
+   "excerpt": "In an industry where a position list is a competitive weapon, the question is no longer just how to comply—but where carbon decisions are made and who controls the data behind them, said Argyris Zafeiropoulos, principal advisor at …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "eu-ets",
+    "fueleu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "5294724a1be1",
+   "title": "U.S. to Allow Dark-Fleet Tankers to Shed Sanctions, Wright Says",
+   "link": "https://gcaptain.com/u-s-to-allow-dark-fleet-tankers-to-shed-sanctions-wright-says/",
+   "source": "gcaptain",
+   "published": "2026-10-19T23:33:26Z",
+   "seen": "2026-10-20T00:53:07Z",
+   "lang": "en",
+   "excerpt": "The Trump administration is authorizing the sale of sanctioned oil tankers in an effort to allow the vessels to start legitimately shipping crude, US Energy Secretary Chris Wright said.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "sanctions"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "45f979db11f5",
+   "title": "Automatisering løser tollfloken for flybåren netthandel",
+   "link": "https://www.mtlogistikk.no/descartes-flytransport-ics2/automatisering-loser-tollfloken-for-flybaren-netthandel/1344235",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-19T23:23:07Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c211e629dd02",
+   "title": "Sikrer avisdistribusjon med ny anbudsrunde",
+   "link": "https://www.mtlogistikk.no/aktiv-norgesdistribusjon-avisdistribusjon-offentlige-anskaffelser/sikrer-avisdistribusjon-med-ny-anbudsrunde/1344215",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-19T23:08:07Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c3ecbab49812",
+   "title": "Tallenes tale 2026: Freja omsatte for mer - tjente mindre",
+   "link": "https://www.mtlogistikk.no/2025-arsregnskap-freja-transport-logistics-lelu/tallenes-tale-2026-freja-omsatte-for-mer-tjente-mindre/1343498",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-19T22:38:07Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "0e8bbf3f4fa1",
+   "title": "Explainer: What Iran is offering for a reopening?",
+   "link": "https://container-news.com/explainer-what-iran-is-offering-for-a-reopening/",
+   "source": "containernews",
+   "published": "2026-10-19T22:32:57Z",
+   "seen": "2026-10-20T00:53:07Z",
+   "lang": "en",
+   "excerpt": "Iran’s standing offer to reopen Hormuz shows how far Tehran’s leverage has slipped, and why even a deal would not bring back the strait shipping once knew.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "26e55f066f8e",
+   "title": "Freight Fraud Gets More Strategic Heading Into Peak Season",
+   "link": "https://www.freightwaves.com/news/freight-fraud-gets-more-strategic-heading-into-peak-season",
+   "source": "freightwaves",
+   "published": "2026-10-19T22:31:39Z",
+   "seen": "2026-10-20T00:53:07Z",
+   "lang": "en",
+   "excerpt": "As the freight industry heads into its highest-volume stretch of the year, the cargo theft numbers tell a deceptively reassuring story.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ce106fcb6fa6",
+   "title": "Failed CDL exams, $3,000 payments and Bluetooth cheating scheme lead to federal charges",
+   "link": "https://www.freightwaves.com/news/failed-cdl-exams-3000-payments-and-bluetooth-cheating-scheme-lead-to-federal-charges",
+   "source": "freightwaves",
+   "published": "2026-10-19T22:14:33Z",
+   "seen": "2026-10-20T00:53:07Z",
+   "lang": "en",
+   "excerpt": "A Massachusetts man faces up to 15 years in prison after investigators linked his commercial driving exams to a Bluetooth cheating operation. Phone records and an undercover investigation exposed how the $3,000 scheme worked.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ad408bbe59f7",
+   "title": "What Happens to Tribal Knowledge When Dispatchers Retire?",
+   "link": "https://www.freightwaves.com/news/what-happens-to-tribal-knowledge-when-dispatchers-retire",
+   "source": "freightwaves",
+   "published": "2026-10-19T21:28:54Z",
+   "seen": "2026-10-20T00:53:07Z",
+   "lang": "en",
+   "excerpt": "As veteran dispatchers and ops managers age out of the workforce, small and mid-size freight operators are stuck running decades-old systems that never got the AI investment enterprise carriers did.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
   },
   {
    "id": "014dc1cd2ed4",
@@ -547,27 +775,6 @@
    "paywall": false
   },
   {
-   "id": "5f7df7b80bda",
-   "title": "Who owns shipping’s carbon decisions?",
-   "link": "https://splash247.com/who-owns-shippings-carbon-decisions/",
-   "source": "splash",
-   "published": "2026-10-19T20:00:00Z",
-   "seen": "2026-10-19T21:40:16Z",
-   "lang": "en",
-   "excerpt": "In an industry where a position list is a competitive weapon, the question is no longer just how to comply—but where carbon decisions are made and who controls the data behind them, said Argyris Zafeiropoulos, principal advisor at …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "eu-ets",
-    "fueleu"
-   ],
-   "paywall": false
-  },
-  {
    "id": "5b2915df3836",
    "title": "Volvo folds powertrain repairs into its service contract",
    "link": "https://www.freightwaves.com/news/volvo-silver-service-contract-powertrain",
@@ -642,6 +849,24 @@
    "subs": [],
    "policy": false,
    "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "506de5f7c846",
+   "title": "Bodø-terminalen nærmer seg overtakelse",
+   "link": "https://www.mtlogistikk.no/bodo-bodo-havn-intermodal/bodo-terminalen-naermer-seg-overtakelse/1341807",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-19T19:08:07Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -2173,24 +2398,6 @@
    "subs": [],
    "policy": true,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "7852d13fdc7c",
-   "title": "Sikrer avisdistribusjon med ny anbudsrunde",
-   "link": "https://www.mtlogistikk.no/aktiv-norgesdistribusjon-avisdistribusjon-offentlige-anskaffelser/sikrer-avisdistribusjon-med-ny-anbudsrunde/1343595",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-19T06:54:23Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -5341,24 +5548,6 @@
    "paywall": false
   },
   {
-   "id": "b65c76ec1810",
-   "title": "Bodø-terminalen nærmer seg overtakelse",
-   "link": "https://www.mtlogistikk.no/bodo-bodo-havn-intermodal/terminal-til-99-millioner-naermer-seg-overtakelse/1341807",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-16T11:59:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "d995625c98fd",
    "title": "Equinor employs 2009-built Odfjell Drilling rig for additional wells",
    "link": "https://offshore-energy.biz/2026/10/16/equinor-employs-2009-built-odfjell-drilling-rig-for-additional-wells",
@@ -5386,24 +5575,6 @@
    "source": "mtlogistikk",
    "published": null,
    "seen": "2026-10-16T11:44:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "d5468867bfce",
-   "title": "Automatisering løser tollfloken for flybåren netthandel",
-   "link": "https://www.mtlogistikk.no/descartes-flytransport-ics2/automatisering-loser-tollfloken-for-flybaren-netthandel/1342621",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-16T11:29:22Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
