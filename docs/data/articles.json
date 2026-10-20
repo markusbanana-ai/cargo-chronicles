@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T00:53:07Z",
+ "updated": "2026-10-20T03:41:17Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren - ESA-pakkemøte",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-esa-pakkemote/id3179069/",
    "source": "regjeringen",
-   "published": "2026-10-20T00:53:07Z",
+   "published": "2026-10-20T03:41:17Z",
    "seen": "2026-10-19T15:49:52Z",
    "lang": "no",
    "excerpt": "",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren - deltar på konferanse om E39",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-deltar-pa-konferanse-om-e39/id3179067/",
    "source": "regjeringen",
-   "published": "2026-10-20T00:53:07Z",
+   "published": "2026-10-20T03:41:17Z",
    "seen": "2026-10-19T15:49:52Z",
    "lang": "no",
    "excerpt": "",
@@ -39,6 +39,64 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "7852d13fdc7c",
+   "title": "Sikrer avisdistribusjon med ny anbudsrunde",
+   "link": "https://www.mtlogistikk.no/aktiv-norgesdistribusjon-avisdistribusjon-offentlige-anskaffelser/sikrer-avisdistribusjon-med-ny-anbudsrunde/1343595",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-20T03:41:17Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4d3cd3ab53bd",
+   "title": "CMA CGM raises Asia–Mediterranean rates and announces new surcharges",
+   "link": "https://container-news.com/cma-cgm-raises-asia-mediterranean-rates-and-announces-new-surcharges/",
+   "source": "containernews",
+   "published": "2026-10-20T03:00:53Z",
+   "seen": "2026-10-20T03:41:17Z",
+   "lang": "en",
+   "excerpt": "CMA CGM has announced higher Freight All Kind (FAK) rates for shipments from Asia to the Mediterranean and North Africa, alongside new Peak Season Surcharges (PSS) on other trade routes.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5cf825253aa3",
+   "title": "GT Lines launches Khorfakkan–Berbera service",
+   "link": "https://container-news.com/gt-lines-launches-khorfakkan-berbera-service/",
+   "source": "containernews",
+   "published": "2026-10-20T02:00:29Z",
+   "seen": "2026-10-20T03:41:17Z",
+   "lang": "en",
+   "excerpt": "GT Lines will launch a new direct container shipping service connecting Khorfakkan in the United Arab Emirates with Berbera in Somaliland.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
   },
   {
    "id": "f92b5b1bc75e",
@@ -104,7 +162,7 @@
    "published": "2026-10-20T00:00:00Z",
    "seen": "2026-10-19T21:40:16Z",
    "lang": "en",
-   "excerpt": "In an industry where a position list is a competitive weapon, the question is no longer just how to comply—but where carbon decisions are made and who controls the data behind them, said Argyris Zafeiropoulos, principal advisor at …",
+   "excerpt": "In an industry where a position list is a competitive weapon, the question is no longer just how to comply—but where carbon decisions are made and who controls the data behind them, argues Argyris Zafeiropoulos, principal advisor at …",
    "segments": [
     "freight"
    ],
@@ -141,30 +199,12 @@
    "paywall": false
   },
   {
-   "id": "45f979db11f5",
+   "id": "d5468867bfce",
    "title": "Automatisering løser tollfloken for flybåren netthandel",
-   "link": "https://www.mtlogistikk.no/descartes-flytransport-ics2/automatisering-loser-tollfloken-for-flybaren-netthandel/1344235",
+   "link": "https://www.mtlogistikk.no/descartes-flytransport-ics2/automatisering-loser-tollfloken-for-flybaren-netthandel/1342621",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-19T23:23:07Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "c211e629dd02",
-   "title": "Sikrer avisdistribusjon med ny anbudsrunde",
-   "link": "https://www.mtlogistikk.no/aktiv-norgesdistribusjon-avisdistribusjon-offentlige-anskaffelser/sikrer-avisdistribusjon-med-ny-anbudsrunde/1344215",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-19T23:08:07Z",
+   "seen": "2026-10-19T23:26:17Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
