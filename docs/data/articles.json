@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T12:51:00Z",
+ "updated": "2026-10-21T15:43:59Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren - ESA-pakkemøte",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-esa-pakkemote/id3179069/",
    "source": "regjeringen",
-   "published": "2026-10-21T12:51:00Z",
+   "published": "2026-10-21T15:43:59Z",
    "seen": "2026-10-19T15:49:52Z",
    "lang": "no",
    "excerpt": "",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren - deltar på konferanse om E39",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-deltar-pa-konferanse-om-e39/id3179067/",
    "source": "regjeringen",
-   "published": "2026-10-21T12:51:00Z",
+   "published": "2026-10-21T15:43:59Z",
    "seen": "2026-10-19T15:49:52Z",
    "lang": "no",
    "excerpt": "",
@@ -39,6 +39,319 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "e86342b1a4bd",
+   "title": "Kapasitetsløft har gitt volumvekst",
+   "link": "https://www.mtlogistikk.no/cldn-gothenburg-roro-terminal-goeteborgs-hamn/kapasitetsloft-har-gitt-volumvekst/1344583",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-21T15:28:59Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "55956da4731b",
+   "title": "Two More Tankers Struck as Maritime Attacks Spread Across Persian Gulf",
+   "link": "https://gcaptain.com/two-more-tankers-struck-as-maritime-attacks-spread-across-persian-gulf/",
+   "source": "gcaptain",
+   "published": "2026-10-21T15:12:23Z",
+   "seen": "2026-10-21T15:43:59Z",
+   "lang": "en",
+   "excerpt": "Two more tankers have been struck by unidentified projectiles in separate incidents near the Strait of Hormuz and in the northern Persian Gulf, adding to a growing series of attacks...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "81ff0005b81e",
+   "title": "Maersk reports further East Asia network recovery",
+   "link": "https://container-news.com/maersk-reports-further-east-asia-network-recovery/",
+   "source": "containernews",
+   "published": "2026-10-21T15:00:27Z",
+   "seen": "2026-10-21T15:43:59Z",
+   "lang": "en",
+   "excerpt": "Maersk has reported further progress in the recovery of its East Asia network following disruption caused by the region’s typhoon season.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "congestion"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "31d6f4fc6418",
+   "title": "Why More Fleets Are Looking at Captives",
+   "link": "https://www.freightwaves.com/news/why-more-fleets-are-looking-at-captives",
+   "source": "freightwaves",
+   "published": "2026-10-21T14:58:34Z",
+   "seen": "2026-10-21T15:43:59Z",
+   "lang": "en",
+   "excerpt": "Commercial auto liability hasn’t turned a real underwriting profit in over a decade, and that math is pushing more fleets toward captives and other alternative risk structures.",
+   "segments": [
+    "road",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "underwriter"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "45f856d46696",
+   "title": "Phillips Connect moves trailer sensor alerts into the yard",
+   "link": "https://www.freightwaves.com/news/phillips-connect-insights-trailersignal-launch",
+   "source": "freightwaves",
+   "published": "2026-10-21T14:57:54Z",
+   "seen": "2026-10-21T15:43:59Z",
+   "lang": "en",
+   "excerpt": "Phillips Connect launched two smart trailer products Sunday at the American Trucking Associations’ Management Conference & Exhibition in Charlotte, North Carolina. Insights reads trailer sensor data to diagnose tire and lighting problems.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "607575c68734",
+   "title": "Fremskutte lagre styrker forsyningssikkerheten",
+   "link": "https://www.mtlogistikk.no/finnmark-forsvaret-forsvarsbygg/fremskutte-lagre-styrker-forsyningssikkerheten/1345443",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-21T14:43:59Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "2b1c67e03461",
+   "title": "Over 500 piles lay the foundation for Poland’s floating LNG terminal (Gallery)",
+   "link": "https://offshore-energy.biz/2026/10/21/over-500-piles-lay-the-foundation-for-polands-floating-lng-terminal-gallery",
+   "source": "offshoreenergy",
+   "published": "2026-10-21T14:34:01Z",
+   "seen": "2026-10-21T15:43:59Z",
+   "lang": "en",
+   "excerpt": "Poland has hit a new milestone in its energy independence journey, completing the foundational piling for the new FSRU terminal in Gdańsk.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "fsru"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "a28b26d84948",
+   "title": "CargoNet øker kapasiteten på tre banestrekninger",
+   "link": "https://www.mtlogistikk.no/bergensbanen-cargonet-dovrebanen/cargonet-oker-kapasiteten-pa-tre-banestrekninger/1344434",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-21T14:28:59Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ea05e756009a",
+   "title": "Union Pacific CFO to retire",
+   "link": "https://www.freightwaves.com/news/union-pacific-cfo-to-retire",
+   "source": "freightwaves",
+   "published": "2026-10-21T14:18:45Z",
+   "seen": "2026-10-21T15:43:59Z",
+   "lang": "en",
+   "excerpt": "Union Pacific CFO Jennifer Hamann will retire after 35 years with the railroad.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c0a620f4b859",
+   "title": "Port of Corpus Christi sets nine-month cargo record in 2026",
+   "link": "https://container-news.com/port-of-corpus-christi-sets-nine-month-cargo-record-in-2026/",
+   "source": "containernews",
+   "published": "2026-10-21T13:57:45Z",
+   "seen": "2026-10-21T15:43:59Z",
+   "lang": "en",
+   "excerpt": "The Port of Corpus Christi recorded its highest cargo throughput for the first nine months of 2026, handling 162.7 million tons of commodities through the Corpus Christi Ship Channel.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk",
+    "gas",
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "e9e514b84965",
+   "title": "How the Maritime Industry Will Unlock the Value of AI",
+   "link": "https://maritime-executive.com/article/how-the-maritime-industry-will-unlock-the-value-of-ai",
+   "source": "marex",
+   "published": "2026-10-21T13:49:58Z",
+   "seen": "2026-10-21T15:43:59Z",
+   "lang": "en",
+   "excerpt": "Every industry has spent the past few years moving Artificial Intelligence into daily operations. Mining, aviation, construction and energy companies...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "2142ed10e322",
+   "title": "CSX eliminates more than 100 management positions",
+   "link": "https://www.freightwaves.com/news/csx-eliminates-more-than-100-management-positions",
+   "source": "freightwaves",
+   "published": "2026-10-21T13:41:19Z",
+   "seen": "2026-10-21T15:43:59Z",
+   "lang": "en",
+   "excerpt": "Management layoffs mark railroad’s engineering department restructuring.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "restructuring"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "c5fc326e4c7d",
+   "title": "Autonomous railcar technology earns $16M federal grant",
+   "link": "https://www.freightwaves.com/news/autonomous-railcar-technology-earns-16m-federal-grant",
+   "source": "freightwaves",
+   "published": "2026-10-21T13:01:00Z",
+   "seen": "2026-10-21T15:43:59Z",
+   "lang": "en",
+   "excerpt": "A federal grant will support deployment of autonomous railcar technology on a Missouri short line.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "edb0fc594a36",
+   "title": "Shanghai and Melbourne advance green shipping corridor plans",
+   "link": "https://container-news.com/shanghai-and-melbourne-advance-green-shipping-corridor-plans/",
+   "source": "containernews",
+   "published": "2026-10-21T13:00:59Z",
+   "seen": "2026-10-21T15:43:59Z",
+   "lang": "en",
+   "excerpt": "The ports of Shanghai and Melbourne have launched a new implementation plan for their Green Shipping Corridor, alongside C40 Cities. Announced on October 21, 2026, the plan sets out steps to reduce emissions from container shipping between …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ed06a8a63d7f",
+   "title": "Stord acquires e-commerce competitor AMS Fulfillment in large deal",
+   "link": "https://www.freightwaves.com/news/stord-acquires-e-commerce-competitor-ams-fulfillment-in-large-deal",
+   "source": "freightwaves",
+   "published": "2026-10-21T12:59:08Z",
+   "seen": "2026-10-21T15:43:59Z",
+   "lang": "en",
+   "excerpt": "Retail fulfillment provider Stord has acquired AMS fulfillment, a large competitor.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "local",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "45f979db11f5",
+   "title": "Automatisering løser tollfloken for flybåren netthandel",
+   "link": "https://www.mtlogistikk.no/descartes-flytransport-ics2/automatisering-loser-tollfloken-for-flybaren-netthandel/1344235",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-21T12:28:59Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
   },
   {
    "id": "c935c65e3a42",
@@ -59,6 +372,47 @@
    "level": "international",
    "terms": [
     "lng"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "a13dd4552b57",
+   "title": "Russia Sees First Diesel Cargo Sailing for US on Thursday",
+   "link": "https://gcaptain.com/russia-sees-first-diesel-cargo-sailing-for-us-on-thursday/",
+   "source": "gcaptain",
+   "published": "2026-10-21T12:05:03Z",
+   "seen": "2026-10-21T15:43:59Z",
+   "lang": "en",
+   "excerpt": "A tanker loaded with Russian diesel will sail for the US on Thursday as Moscow starts to implement a fuel supply deal struck by Vladimir Putin and Donald Trump, according to Deputy Prime Minister Alexander Novak.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "804203f76bb4",
+   "title": "Baltic Dry Index climbs to 2680 up 87 points",
+   "link": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2680-up-87-points/",
+   "source": "hsn",
+   "published": "2026-10-21T12:00:22Z",
+   "seen": "2026-10-21T15:43:59Z",
+   "lang": "en",
+   "excerpt": "Today, Wednesday, October 21 2026, the Baltic Dry Index climbed 87 points, 2680 points. Baltic Dry Index is compiled by the London-based Baltic Exchange and covers prices for transported cargo such as coal, grain and iron ore.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bdi",
+    "baltic-exchange"
    ],
    "paywall": false
   },
@@ -120,12 +474,12 @@
    "paywall": false
   },
   {
-   "id": "d7a2fffbef4f",
-   "title": "Fremskutte lagre styrker forsyningssikkerheten",
-   "link": "https://www.mtlogistikk.no/finnmark-forsvaret-forsvarsbygg/fremskutte-lagre-styrker-forsyningssikkerheten/1345594",
+   "id": "7852d13fdc7c",
+   "title": "Sikrer avisdistribusjon med ny anbudsrunde",
+   "link": "https://www.mtlogistikk.no/aktiv-norgesdistribusjon-avisdistribusjon-offentlige-anskaffelser/sikrer-avisdistribusjon-med-ny-anbudsrunde/1343595",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-21T11:06:00Z",
+   "seen": "2026-10-21T11:13:59Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -180,24 +534,6 @@
    "paywall": false
   },
   {
-   "id": "fdb15547f79f",
-   "title": "Kapasitetsløft har gitt volumvekst",
-   "link": "https://www.mtlogistikk.no/cldn-gothenburg-roro-terminal-goeteborgs-hamn/kapasitetsloft-har-gitt-volumvekst/1344660",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-21T10:36:00Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "fcab27f6e9a4",
    "title": "AG Seville wins 25-year port shipyard concession with $11m investment plan",
    "link": "https://splash247.com/ag-seville-wins-25-year-port-shipyard-concession-with-11m-investment-plan/",
@@ -213,24 +549,6 @@
    "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "8493cc8566a8",
-   "title": "CargoNet øker kapasiteten på tre banestrekninger",
-   "link": "https://www.mtlogistikk.no/bergensbanen-cargonet-dovrebanen/cargonet-oker-kapasiteten-pa-tre-banestrekninger/1344593",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-21T10:21:00Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -645,24 +963,6 @@
    "paywall": false
   },
   {
-   "id": "c211e629dd02",
-   "title": "Sikrer avisdistribusjon med ny anbudsrunde",
-   "link": "https://www.mtlogistikk.no/aktiv-norgesdistribusjon-avisdistribusjon-offentlige-anskaffelser/sikrer-avisdistribusjon-med-ny-anbudsrunde/1344215",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-21T09:21:00Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "4373adbc7586",
    "title": "Tildelingsbrev, årsrapporter og instrukser – Samferdselsdepartementet",
    "link": "https://www.regjeringen.no/no/dokument/dep/sd/tildelingsbrev-arsrapporter-og-instrukser-samferdselsdepartementet/id749211/",
@@ -969,24 +1269,6 @@
     "dry-bulk",
     "panamax"
    ],
-   "paywall": false
-  },
-  {
-   "id": "d5468867bfce",
-   "title": "Automatisering løser tollfloken for flybåren netthandel",
-   "link": "https://www.mtlogistikk.no/descartes-flytransport-ics2/automatisering-loser-tollfloken-for-flybaren-netthandel/1342621",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-21T06:51:00Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -14874,26 +15156,6 @@
    "policy": true,
    "level": "national",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "8a9a89dbc90b",
-   "title": "Modulvogntog får kjøre gjennom tunnelene på E6 i Sørfold",
-   "link": "https://lastebil.no/aktuelt/nyheter/modulvogntog-faar-kjoere-gjennom-tunnelene-paa-e6-i-soerfold",
-   "source": "lastebil",
-   "published": "2026-09-30T13:43:52Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "no",
-   "excerpt": "Fra 1. oktober får modulvogntog på inntil 25,25 meter kjøre gjennom tunnelene på E6 i Sørfold i en prøveperiode på ett år.Det gir en mer sammenhengende transportkorridor mellom Nord- og Sør-Norge og reduserer behovet for omkjøringer via …",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "modulvogntog"
-   ],
    "paywall": false
   }
  ]
