@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T00:52:08Z",
+ "updated": "2026-10-21T03:41:11Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren - ESA-pakkemøte",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-esa-pakkemote/id3179069/",
    "source": "regjeringen",
-   "published": "2026-10-21T00:52:08Z",
+   "published": "2026-10-21T03:41:11Z",
    "seen": "2026-10-19T15:49:52Z",
    "lang": "no",
    "excerpt": "",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren - deltar på konferanse om E39",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-deltar-pa-konferanse-om-e39/id3179067/",
    "source": "regjeringen",
-   "published": "2026-10-21T00:52:08Z",
+   "published": "2026-10-21T03:41:11Z",
    "seen": "2026-10-19T15:49:52Z",
    "lang": "no",
    "excerpt": "",
@@ -39,6 +39,110 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "a28b26d84948",
+   "title": "CargoNet øker kapasiteten på tre banestrekninger",
+   "link": "https://www.mtlogistikk.no/bergensbanen-cargonet-dovrebanen/cargonet-oker-kapasiteten-pa-tre-banestrekninger/1344434",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-21T03:26:11Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "21a1b9e66f4e",
+   "title": "Project Cargo East of Suez: Routing Oversized Freight When the Short Way Is Not Simple",
+   "link": "https://container-news.com/project-cargo-east-of-suez-routing-oversized-freight-when-the-short-way-is-not-simple/",
+   "source": "containernews",
+   "published": "2026-10-21T03:00:54Z",
+   "seen": "2026-10-21T03:41:11Z",
+   "lang": "en",
+   "excerpt": "Since late 2023, attacks on merchant shipping around the southern Red Sea have changed how many carriers route between Asia, the Red Sea, the Gulf and East Africa.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "project-cargo",
+    "chokepoint",
+    "shipper-consignee",
+    "abnormal-load"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "7852d13fdc7c",
+   "title": "Sikrer avisdistribusjon med ny anbudsrunde",
+   "link": "https://www.mtlogistikk.no/aktiv-norgesdistribusjon-avisdistribusjon-offentlige-anskaffelser/sikrer-avisdistribusjon-med-ny-anbudsrunde/1343595",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-21T02:56:11Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "76a0f4ed8f0d",
+   "title": "Nearly $1M in Pokémon and sports cards vanish from FedEx truck, driver discovers missing lock",
+   "link": "https://www.freightwaves.com/news/nearly-1m-in-pokemon-and-sports-cards-vanish-from-fedex-truck-driver-discovers-missing-lock",
+   "source": "freightwaves",
+   "published": "2026-10-21T01:08:08Z",
+   "seen": "2026-10-21T03:41:11Z",
+   "lang": "en",
+   "excerpt": "A FedEx driver discovered a missing cargo-door lock and nearly $1 million in stolen trading cards outside a California grading facility.",
+   "segments": [
+    "road",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c8552aebb764",
+   "title": "Explainer: Why the US is trying to legitimize shadow fleet?",
+   "link": "https://container-news.com/explainer-why-the-us-is-trying-to-legitimize-shadow-fleet/",
+   "source": "containernews",
+   "published": "2026-10-21T01:00:23Z",
+   "seen": "2026-10-21T03:41:11Z",
+   "lang": "en",
+   "excerpt": "Washington wants to turn shadow-fleet tankers into legitimate ships. The capacity gain is small. The change to how sanctions work is not. The policy turn For two years Washington treated the shadow fleet as something to shrink.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "shadow-fleet",
+    "sanctions"
+   ],
+   "paywall": false
   },
   {
    "id": "6bb0c3560776",
@@ -77,12 +181,12 @@
    "paywall": false
   },
   {
-   "id": "fdb15547f79f",
+   "id": "e86342b1a4bd",
    "title": "Kapasitetsløft har gitt volumvekst",
-   "link": "https://www.mtlogistikk.no/cldn-gothenburg-roro-terminal-goeteborgs-hamn/kapasitetsloft-har-gitt-volumvekst/1344660",
+   "link": "https://www.mtlogistikk.no/cldn-gothenburg-roro-terminal-goeteborgs-hamn/kapasitetsloft-har-gitt-volumvekst/1344583",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-20T23:07:08Z",
+   "seen": "2026-10-20T23:11:11Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -115,12 +219,12 @@
    "paywall": false
   },
   {
-   "id": "8493cc8566a8",
-   "title": "CargoNet øker kapasiteten på tre banestrekninger",
-   "link": "https://www.mtlogistikk.no/bergensbanen-cargonet-dovrebanen/cargonet-oker-kapasiteten-pa-tre-banestrekninger/1344593",
+   "id": "d5468867bfce",
+   "title": "Automatisering løser tollfloken for flybåren netthandel",
+   "link": "https://www.mtlogistikk.no/descartes-flytransport-ics2/automatisering-loser-tollfloken-for-flybaren-netthandel/1342621",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-20T22:52:08Z",
+   "seen": "2026-10-20T22:41:11Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -204,42 +308,6 @@
    "subs": [],
    "policy": true,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "45f979db11f5",
-   "title": "Automatisering løser tollfloken for flybåren netthandel",
-   "link": "https://www.mtlogistikk.no/descartes-flytransport-ics2/automatisering-loser-tollfloken-for-flybaren-netthandel/1344235",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-20T22:07:08Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "c211e629dd02",
-   "title": "Sikrer avisdistribusjon med ny anbudsrunde",
-   "link": "https://www.mtlogistikk.no/aktiv-norgesdistribusjon-avisdistribusjon-offentlige-anskaffelser/sikrer-avisdistribusjon-med-ny-anbudsrunde/1344215",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-20T21:52:08Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
