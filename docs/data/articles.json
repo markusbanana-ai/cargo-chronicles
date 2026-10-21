@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T21:41:06Z",
+ "updated": "2026-10-21T00:52:08Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren - ESA-pakkemøte",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-esa-pakkemote/id3179069/",
    "source": "regjeringen",
-   "published": "2026-10-20T21:41:06Z",
+   "published": "2026-10-21T00:52:08Z",
    "seen": "2026-10-19T15:49:52Z",
    "lang": "no",
    "excerpt": "",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren - deltar på konferanse om E39",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-deltar-pa-konferanse-om-e39/id3179067/",
    "source": "regjeringen",
-   "published": "2026-10-20T21:41:06Z",
+   "published": "2026-10-21T00:52:08Z",
    "seen": "2026-10-19T15:49:52Z",
    "lang": "no",
    "excerpt": "",
@@ -41,12 +41,12 @@
    "upcoming": true
   },
   {
-   "id": "a28b26d84948",
-   "title": "CargoNet øker kapasiteten på tre banestrekninger",
-   "link": "https://www.mtlogistikk.no/bergensbanen-cargonet-dovrebanen/cargonet-oker-kapasiteten-pa-tre-banestrekninger/1344434",
+   "id": "6bb0c3560776",
+   "title": "Åtte nye transportkonkurser",
+   "link": "https://www.mtlogistikk.no/konkurs/atte-nye-transportkonkurser/1345062",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-20T21:26:06Z",
+   "seen": "2026-10-20T23:22:08Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -55,6 +55,210 @@
    "subs": [],
    "policy": false,
    "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "296e4f2ea5d0",
+   "title": "New Zealand Opens First Round for Offshore Energy Feasibility Permits",
+   "link": "https://maritime-executive.com/article/new-zealand-opens-first-round-for-offshore-energy-feasibility-permits",
+   "source": "marex",
+   "published": "2026-10-20T23:16:51Z",
+   "seen": "2026-10-21T00:52:08Z",
+   "lang": "en",
+   "excerpt": "New Zealand has moved quickly to open its first round for offshore renewable energy feasibility permit applications just weeks after it completed the...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "fdb15547f79f",
+   "title": "Kapasitetsløft har gitt volumvekst",
+   "link": "https://www.mtlogistikk.no/cldn-gothenburg-roro-terminal-goeteborgs-hamn/kapasitetsloft-har-gitt-volumvekst/1344660",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-20T23:07:08Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "1207a819dfa1",
+   "title": "Maersk schedules first India drydocking",
+   "link": "https://container-news.com/maersk-schedules-first-india-drydocking/",
+   "source": "containernews",
+   "published": "2026-10-20T23:00:01Z",
+   "seen": "2026-10-21T00:52:08Z",
+   "lang": "en",
+   "excerpt": "Maersk will undertake its first planned drydocking in India, with the container vessel Maersk Chattogram scheduled to enter L&T Shipbuilding’s Kattupalli Shipyard near Chennai.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8493cc8566a8",
+   "title": "CargoNet øker kapasiteten på tre banestrekninger",
+   "link": "https://www.mtlogistikk.no/bergensbanen-cargonet-dovrebanen/cargonet-oker-kapasiteten-pa-tre-banestrekninger/1344593",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-20T22:52:08Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "2cc3d158c558",
+   "title": "Pemex Platform Catches Fire at Abkatun Field",
+   "link": "https://maritime-executive.com/article/pemex-platform-catches-fire-at-abkatun-field",
+   "source": "marex",
+   "published": "2026-10-20T22:36:54Z",
+   "seen": "2026-10-21T00:52:08Z",
+   "lang": "en",
+   "excerpt": "On Monday, Mexican state oil company Pemex reported that it was fighting a fire on an unmanned satellite platform at a position about 60 nautical mile...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "04c36906cad2",
+   "title": "Major Investments Strengthen Gothenburg RoRo Terminal",
+   "link": "https://maritime-executive.com/article/major-investments-strengthen-gothenburg-roro-terminal",
+   "source": "marex",
+   "published": "2026-10-20T22:21:06Z",
+   "seen": "2026-10-21T00:52:08Z",
+   "lang": "en",
+   "excerpt": "Expanded terminal areas, new rail connections and modernised quays are among the investments that have strengthened Gothenburg RoRo Terminal in recent...",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "roro"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "59e0a29963eb",
+   "title": "NOAA Selects Fugro to Provide Critical Geo-Data Supporting Maritime Safety",
+   "link": "https://maritime-executive.com/article/noaa-selects-fugro-to-provide-critical-geo-data-supporting-maritime-safety",
+   "source": "marex",
+   "published": "2026-10-20T22:14:27Z",
+   "seen": "2026-10-21T00:52:08Z",
+   "lang": "en",
+   "excerpt": "Fugro has been selected by the National Oceanic and Atmospheric Administration (NOAA) to deliver critical seafloor mapping data along Florida's Atlant...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "af460e8cde68",
+   "title": "Australian Government Seizes Historic Ship and Orders Immediate Disposal",
+   "link": "https://maritime-executive.com/article/australian-government-seizes-historic-ship-and-orders-immediate-disposal",
+   "source": "marex",
+   "published": "2026-10-20T22:13:50Z",
+   "seen": "2026-10-21T00:52:08Z",
+   "lang": "en",
+   "excerpt": "The Government of New South Wales and preservationists are battling over the fate of a historic little vessel, MV Cape Don, with the local government...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "45f979db11f5",
+   "title": "Automatisering løser tollfloken for flybåren netthandel",
+   "link": "https://www.mtlogistikk.no/descartes-flytransport-ics2/automatisering-loser-tollfloken-for-flybaren-netthandel/1344235",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-20T22:07:08Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c211e629dd02",
+   "title": "Sikrer avisdistribusjon med ny anbudsrunde",
+   "link": "https://www.mtlogistikk.no/aktiv-norgesdistribusjon-avisdistribusjon-offentlige-anskaffelser/sikrer-avisdistribusjon-med-ny-anbudsrunde/1344215",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-20T21:52:08Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "79386b83d749",
+   "title": "Croatia Completes Sale of Uljanik Shipyard to Turkey’s Kuzey Star",
+   "link": "https://maritime-executive.com/article/croatia-completes-sale-of-uljanik-shipyard-to-turkey-s-kuzey-star",
+   "source": "marex",
+   "published": "2026-10-20T21:41:24Z",
+   "seen": "2026-10-21T00:52:08Z",
+   "lang": "en",
+   "excerpt": "The court-appointed government administrator reports that it signed the final documents to conclude the sale of the Pula area shipbuilding facilities...",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
    "terms": [],
    "paywall": false
   },
@@ -473,20 +677,20 @@
    "paywall": false
   },
   {
-   "id": "7852d13fdc7c",
-   "title": "Sikrer avisdistribusjon med ny anbudsrunde",
-   "link": "https://www.mtlogistikk.no/aktiv-norgesdistribusjon-avisdistribusjon-offentlige-anskaffelser/sikrer-avisdistribusjon-med-ny-anbudsrunde/1343595",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-20T20:56:06Z",
-   "lang": "no",
-   "excerpt": "",
+   "id": "3e1221366085",
+   "title": "US Coast Guard Releases New Maritime Cybersecurity Compliance Guidance",
+   "link": "https://maritime-executive.com/article/us-coast-guard-releases-new-maritime-cybersecurity-compliance-guidance",
+   "source": "marex",
+   "published": "2026-10-20T20:55:16Z",
+   "seen": "2026-10-21T00:52:08Z",
+   "lang": "en",
+   "excerpt": "The U.S. Coast Guard has published Navigation and Vessel Inspection Circular (NVIC) 02-26, Cybersecurity Regulations Implementation Guidance for Marit...",
    "segments": [
-    "road"
+    "freight"
    ],
    "subs": [],
    "policy": false,
-   "level": "national",
+   "level": "international",
    "terms": [],
    "paywall": false
   },
@@ -1127,24 +1331,6 @@
    "paywall": false
   },
   {
-   "id": "d5468867bfce",
-   "title": "Automatisering løser tollfloken for flybåren netthandel",
-   "link": "https://www.mtlogistikk.no/descartes-flytransport-ics2/automatisering-loser-tollfloken-for-flybaren-netthandel/1342621",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-20T16:41:06Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "00d853ce6bed",
    "title": "Heartland Express sees earnings turnaround in Q3",
    "link": "https://www.freightwaves.com/news/heartland-express-sees-earnings-turnaround-in-q3",
@@ -1665,24 +1851,6 @@
    "subs": [],
    "policy": true,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "e86342b1a4bd",
-   "title": "Kapasitetsløft har gitt volumvekst",
-   "link": "https://www.mtlogistikk.no/cldn-gothenburg-roro-terminal-goeteborgs-hamn/kapasitetsloft-har-gitt-volumvekst/1344583",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-20T11:12:06Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
