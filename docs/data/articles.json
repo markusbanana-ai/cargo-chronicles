@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T15:43:59Z",
+ "updated": "2026-10-21T18:47:18Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren - ESA-pakkemøte",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-esa-pakkemote/id3179069/",
    "source": "regjeringen",
-   "published": "2026-10-21T15:43:59Z",
+   "published": "2026-10-21T18:47:18Z",
    "seen": "2026-10-19T15:49:52Z",
    "lang": "no",
    "excerpt": "",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren - deltar på konferanse om E39",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-deltar-pa-konferanse-om-e39/id3179067/",
    "source": "regjeringen",
-   "published": "2026-10-21T15:43:59Z",
+   "published": "2026-10-21T18:47:18Z",
    "seen": "2026-10-19T15:49:52Z",
    "lang": "no",
    "excerpt": "",
@@ -41,12 +41,66 @@
    "upcoming": true
   },
   {
-   "id": "e86342b1a4bd",
-   "title": "Kapasitetsløft har gitt volumvekst",
-   "link": "https://www.mtlogistikk.no/cldn-gothenburg-roro-terminal-goeteborgs-hamn/kapasitetsloft-har-gitt-volumvekst/1344583",
+   "id": "c3da3598e3f6",
+   "title": "The Defensive Alliance to Deter Chinese Maritime Expansion is Strengthening",
+   "link": "https://maritime-executive.com/article/the-defensive-alliance-to-deter-chinese-maritime-expansion-is-strengthening",
+   "source": "marex",
+   "published": "2026-10-21T18:22:33Z",
+   "seen": "2026-10-21T18:47:18Z",
+   "lang": "en",
+   "excerpt": "An overview of a series of separate developments suggests that a string of Asian nations facing pressure from China across maritime borders are cooper...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f4b59cb5aecd",
+   "title": "MARPOWER Advances Key Technologies for Maritime Decarbonisation",
+   "link": "https://maritime-executive.com/article/marpower-advances-key-technologies-for-maritime-decarbonisation",
+   "source": "marex",
+   "published": "2026-10-21T18:19:49Z",
+   "seen": "2026-10-21T18:47:18Z",
+   "lang": "en",
+   "excerpt": "[By: Maritime transport remains one of the most challenging sectors to decarbonise due to its high energy requirements, reliance on fossil fuels and t...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "1eb8ebb9eb3a",
+   "title": "US Announces grant to modernise Colombo port’s digital infrastructure",
+   "link": "https://container-news.com/us-announces-grant-to-modernise-colombo-ports-digital-infrastructure/",
+   "source": "containernews",
+   "published": "2026-10-21T18:00:25Z",
+   "seen": "2026-10-21T18:47:18Z",
+   "lang": "en",
+   "excerpt": "United States Ambassador to Sri Lanka H.E. Eric Stern Meyer visited the Port of Colombo and met with senior officials of the Sri Lanka Ports Authority, including Chairman Dr Parakrama Dissanayake, to announce a US$ 17 million grant …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "559778cccd13",
+   "title": "Amazon bygger videre på logistikkoffensiven i Europa",
+   "link": "https://www.mtlogistikk.no/amazon-logistikk/amazon-bygger-videre-pa-logistikkoffensiven-i-europa/1345960",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-21T15:28:59Z",
+   "seen": "2026-10-21T17:17:18Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -55,6 +109,194 @@
    "subs": [],
    "policy": false,
    "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "50daf3f1b216",
+   "title": "New trucking bankruptcies expose mounting debt and shrinking fleets",
+   "link": "https://www.freightwaves.com/news/new-trucking-bankruptcies-expose-mounting-debt-and-shrinking-fleets",
+   "source": "freightwaves",
+   "published": "2026-10-21T17:16:15Z",
+   "seen": "2026-10-21T18:47:18Z",
+   "lang": "en",
+   "excerpt": "Sixteen recent trucking bankruptcy cases span multiple states as carriers confront mounting financial challenges.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "52172bcf8177",
+   "title": "Middle East Oil Flows Near Prewar Levels Defy Hormuz Attacks",
+   "link": "https://gcaptain.com/middle-east-oil-flows-near-prewar-levels-defy-hormuz-attacks/",
+   "source": "gcaptain",
+   "published": "2026-10-21T17:01:59Z",
+   "seen": "2026-10-21T18:47:18Z",
+   "lang": "en",
+   "excerpt": "By Julian Lee (Bloomberg) — Oil shipments from the Middle East are showing little sign of buckling in the face of Iran’s more frequent and damaging attacks on merchant ships in the...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "8e4513e8f7c9",
+   "title": "US government backs Port MacKenzie rail connection",
+   "link": "https://container-news.com/us-government-backs-port-mackenzie-rail-connection/",
+   "source": "containernews",
+   "published": "2026-10-21T17:00:05Z",
+   "seen": "2026-10-21T18:47:18Z",
+   "lang": "en",
+   "excerpt": "The US Department of Transportation has awarded nearly US$250 million to the Alaska Railroad Corporation for the construction of a new freight rail connection to Port MacKenzie.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "9c3e32fecee9",
+   "title": "UK Approves Long-delayed Jackdaw Gas Field on Energy Security Grounds",
+   "link": "https://gcaptain.com/uk-approves-long-delayed-jackdaw-gas-field-on-energy-security-grounds/",
+   "source": "gcaptain",
+   "published": "2026-10-21T16:56:06Z",
+   "seen": "2026-10-21T18:47:18Z",
+   "lang": "en",
+   "excerpt": "LONDON, Oct 21 (Reuters) – Britain on Wednesday approved the Jackdaw North Sea gas field, ending years of legal and political wrangling as the Labour government seeks to balance its climate goals...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "d7a2fffbef4f",
+   "title": "Fremskutte lagre styrker forsyningssikkerheten",
+   "link": "https://www.mtlogistikk.no/finnmark-forsvaret-forsvarsbygg/fremskutte-lagre-styrker-forsyningssikkerheten/1345594",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-21T16:47:18Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "db3f8ef0dfa6",
+   "title": "IEA: Gulf Oil Shipping Costs Top $37 Per Barrel, Five Times Pre-War Levels",
+   "link": "https://gcaptain.com/iea-gulf-oil-shipping-costs-top-37-per-barrel-five-times-pre-war-levels/",
+   "source": "gcaptain",
+   "published": "2026-10-21T16:29:04Z",
+   "seen": "2026-10-21T18:47:18Z",
+   "lang": "en",
+   "excerpt": "The cost of shipping crude oil from the Middle East Gulf to Asia has surged to more than $37 per barrel, over five times prewar levels, as an increasingly complex...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "fdb15547f79f",
+   "title": "Kapasitetsløft har gitt volumvekst",
+   "link": "https://www.mtlogistikk.no/cldn-gothenburg-roro-terminal-goeteborgs-hamn/kapasitetsloft-har-gitt-volumvekst/1344660",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-21T16:17:18Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8493cc8566a8",
+   "title": "CargoNet øker kapasiteten på tre banestrekninger",
+   "link": "https://www.mtlogistikk.no/bergensbanen-cargonet-dovrebanen/cargonet-oker-kapasiteten-pa-tre-banestrekninger/1344593",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-21T16:02:18Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "40dcd6fdeb81",
+   "title": "RCL introduces UAE advance filing surcharge",
+   "link": "https://container-news.com/rcl-introduces-uae-advance-filing-surcharge/",
+   "source": "containernews",
+   "published": "2026-10-21T16:00:34Z",
+   "seen": "2026-10-21T18:47:18Z",
+   "lang": "en",
+   "excerpt": "Regional Container Lines (RCL) will introduce an Advance Filing Surcharge as part of its compliance with the United Arab Emirates’ Maritime Preload Cargo Information (MPCI) programme.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "2ab480d0c30d",
+   "title": "New York short line wins $11.2 million federal rail grant",
+   "link": "https://www.freightwaves.com/news/new-york-short-line-wins-11-2-million-federal-rail-grant",
+   "source": "freightwaves",
+   "published": "2026-10-21T15:45:29Z",
+   "seen": "2026-10-21T18:47:18Z",
+   "lang": "en",
+   "excerpt": "Ontario Midland Railroad won an $11.2 million federal grant to upgrade track and crossings in New York state.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
    "terms": [],
    "paywall": false
   },
@@ -79,6 +321,24 @@
    "terms": [
     "chokepoint"
    ],
+   "paywall": false
+  },
+  {
+   "id": "c211e629dd02",
+   "title": "Sikrer avisdistribusjon med ny anbudsrunde",
+   "link": "https://www.mtlogistikk.no/aktiv-norgesdistribusjon-avisdistribusjon-offentlige-anskaffelser/sikrer-avisdistribusjon-med-ny-anbudsrunde/1344215",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-21T15:02:18Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
    "paywall": false
   },
   {
@@ -143,24 +403,6 @@
    "paywall": false
   },
   {
-   "id": "607575c68734",
-   "title": "Fremskutte lagre styrker forsyningssikkerheten",
-   "link": "https://www.mtlogistikk.no/finnmark-forsvaret-forsvarsbygg/fremskutte-lagre-styrker-forsyningssikkerheten/1345443",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-21T14:43:59Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "2b1c67e03461",
    "title": "Over 500 piles lay the foundation for Poland’s floating LNG terminal (Gallery)",
    "link": "https://offshore-energy.biz/2026/10/21/over-500-piles-lay-the-foundation-for-polands-floating-lng-terminal-gallery",
@@ -180,24 +422,6 @@
    "terms": [
     "fsru"
    ],
-   "paywall": false
-  },
-  {
-   "id": "a28b26d84948",
-   "title": "CargoNet øker kapasiteten på tre banestrekninger",
-   "link": "https://www.mtlogistikk.no/bergensbanen-cargonet-dovrebanen/cargonet-oker-kapasiteten-pa-tre-banestrekninger/1344434",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-21T14:28:59Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -336,12 +560,12 @@
    "paywall": false
   },
   {
-   "id": "45f979db11f5",
+   "id": "d5468867bfce",
    "title": "Automatisering løser tollfloken for flybåren netthandel",
-   "link": "https://www.mtlogistikk.no/descartes-flytransport-ics2/automatisering-loser-tollfloken-for-flybaren-netthandel/1344235",
+   "link": "https://www.mtlogistikk.no/descartes-flytransport-ics2/automatisering-loser-tollfloken-for-flybaren-netthandel/1342621",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-21T12:28:59Z",
+   "seen": "2026-10-21T12:47:18Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -466,24 +690,6 @@
    "segments": [
     "road",
     "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "7852d13fdc7c",
-   "title": "Sikrer avisdistribusjon med ny anbudsrunde",
-   "link": "https://www.mtlogistikk.no/aktiv-norgesdistribusjon-avisdistribusjon-offentlige-anskaffelser/sikrer-avisdistribusjon-med-ny-anbudsrunde/1343595",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-21T11:13:59Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
    ],
    "subs": [],
    "policy": false,
