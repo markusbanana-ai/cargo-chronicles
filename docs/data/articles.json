@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T06:50:53Z",
+ "updated": "2026-10-21T09:42:08Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren - ESA-pakkemøte",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-esa-pakkemote/id3179069/",
    "source": "regjeringen",
-   "published": "2026-10-21T06:50:53Z",
+   "published": "2026-10-21T09:42:08Z",
    "seen": "2026-10-19T15:49:52Z",
    "lang": "no",
    "excerpt": "",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren - deltar på konferanse om E39",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-deltar-pa-konferanse-om-e39/id3179067/",
    "source": "regjeringen",
-   "published": "2026-10-21T06:50:53Z",
+   "published": "2026-10-21T09:42:08Z",
    "seen": "2026-10-19T15:49:52Z",
    "lang": "no",
    "excerpt": "",
@@ -41,11 +41,244 @@
    "upcoming": true
   },
   {
+   "id": "e86342b1a4bd",
+   "title": "Kapasitetsløft har gitt volumvekst",
+   "link": "https://www.mtlogistikk.no/cldn-gothenburg-roro-terminal-goeteborgs-hamn/kapasitetsloft-har-gitt-volumvekst/1344583",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-21T09:27:08Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4373adbc7586",
+   "title": "Tildelingsbrev, årsrapporter og instrukser – Samferdselsdepartementet",
+   "link": "https://www.regjeringen.no/no/dokument/dep/sd/tildelingsbrev-arsrapporter-og-instrukser-samferdselsdepartementet/id749211/",
+   "source": "regjeringen",
+   "published": "2026-10-21T09:15:11Z",
+   "seen": "2026-10-21T09:42:08Z",
+   "lang": "no",
+   "excerpt": "Oversikt over tildelingsbrev og instrukser fra Samferdselsdepartementet til underliggende virksomheter, samt virksomhetenes årsrapporter.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5e1910b7ff0c",
+   "title": "Maersk eyes full return to Suez Canal by March 2027",
+   "link": "https://container-news.com/maersk-eyes-full-return-to-suez-canal-by-march-2027/",
+   "source": "containernews",
+   "published": "2026-10-21T09:00:58Z",
+   "seen": "2026-10-21T09:42:08Z",
+   "lang": "en",
+   "excerpt": "Maersk expects all its shipping services to return to the Suez Canal by March 2027, according to the Suez Canal Authority (SCA), as the carrier continues to adjust its sailing schedules.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "9f4cf39542f8",
+   "title": "Australian fund takes control of UK ports giant in £10bn deal",
+   "link": "https://splash247.com/australian-fund-takes-control-of-uk-ports-giant-in-10bn-deal/",
+   "source": "splash",
+   "published": "2026-10-21T08:57:49Z",
+   "seen": "2026-10-21T09:42:08Z",
+   "lang": "en",
+   "excerpt": "Australian infrastructure investor IFM Investors has agreed to acquire a controlling stake in Associated British Ports (ABP), Britain’s largest port operator, in a deal valuing the business at more than £10bn ($13.4bn).",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ea02cf9e17e5",
+   "title": "Får 175 nye Mercedes",
+   "link": "https://www.mtlogistikk.no/eactros-600-egala-flatestyring/far-175-nye-mercedes/1345482",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-21T08:57:08Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5a9cb44187ab",
+   "title": "Norway set on tapping into Arctic gas potential: New study to unlock 1988 Barents Sea discovery",
+   "link": "https://offshore-energy.biz/2026/10/21/norway-set-on-tapping-into-arctic-gas-potential-new-study-to-unlock-1988-barents-sea-discovery",
+   "source": "offshoreenergy",
+   "published": "2026-10-21T08:51:43Z",
+   "seen": "2026-10-21T09:42:08Z",
+   "lang": "en",
+   "excerpt": "Norway is targeting untapped Arctic energy by commissioning a new study to shed more light on the 1988 gas discovery in the Barents Sea.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "607575c68734",
+   "title": "Fremskutte lagre styrker forsyningssikkerheten",
+   "link": "https://www.mtlogistikk.no/finnmark-forsvaret-forsvarsbygg/fremskutte-lagre-styrker-forsyningssikkerheten/1345443",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-21T08:42:08Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "d806cd4a2a7b",
+   "title": "Shipping equities turn geopolitical risk into an advantage",
+   "link": "https://splash247.com/shipping-equities-turn-geopolitical-risk-into-an-advantage/",
+   "source": "splash",
+   "published": "2026-10-21T08:27:34Z",
+   "seen": "2026-10-21T09:42:08Z",
+   "lang": "en",
+   "excerpt": "New research from investment bank Jefferies charts how shipping shares have shifted from being negatively correlated with geopolitical risk during the first decade of this century to moving increasingly in tandem with global instability …",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers",
+    "drybulk",
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a28b26d84948",
+   "title": "CargoNet øker kapasiteten på tre banestrekninger",
+   "link": "https://www.mtlogistikk.no/bergensbanen-cargonet-dovrebanen/cargonet-oker-kapasiteten-pa-tre-banestrekninger/1344434",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-21T08:27:08Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "b946ed79066a",
+   "title": "NATO boosts Black Sea surveillance amid attacks on shipping",
+   "link": "https://splash247.com/nato-boosts-black-sea-surveillance-amid-attacks-on-shipping/",
+   "source": "splash",
+   "published": "2026-10-21T08:19:36Z",
+   "seen": "2026-10-21T09:42:08Z",
+   "lang": "en",
+   "excerpt": "NATO is deploying additional maritime patrol aircraft, drones and radar systems to the Black Sea following a series of deadly attacks on merchant shipping off Romania and Bulgaria.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "511021969d2a",
+   "title": "Freightos Weekly Update: Red Sea container traffic set for full return in Q1",
+   "link": "https://container-news.com/freightos-weekly-update-red-sea-container-traffic-set-for-full-return-in-q1/",
+   "source": "containernews",
+   "published": "2026-10-21T08:00:40Z",
+   "seen": "2026-10-21T09:42:08Z",
+   "lang": "en",
+   "excerpt": "Trends in international ocean logistics seem even more confusing than usual lately: more Iranian attacks but more Hormuz traffic; more crude exports but oil prices still around $100 per barrel; more risk of Houthi attacks on passing ships …",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers",
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "74144b50d313",
+   "title": "TechnipFMC to supply 20k subsea trees to BP in US 'oil-rich geological area'",
+   "link": "https://offshore-energy.biz/2026/10/21/technipfmc-to-supply-20k-subsea-trees-to-bp-in-us-oil-rich-geological-area",
+   "source": "offshoreenergy",
+   "published": "2026-10-21T07:49:13Z",
+   "seen": "2026-10-21T09:42:08Z",
+   "lang": "en",
+   "excerpt": "UK's BP has entered into an agreement with TechnipFMC for the supply of 20,000 psi (20K) subsea tree systems for its projects in the Gulf of...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
    "id": "834710ab60bb",
    "title": "Iraqi Line returns to Gulf container trade after 50 years",
    "link": "https://splash247.com/iraqi-line-returns-to-gulf-container-trade-after-50-years/",
    "source": "splash",
-   "published": "2026-10-21T06:41:22Z",
+   "published": "2026-10-21T07:41:22Z",
    "seen": "2026-10-21T06:50:53Z",
    "lang": "en",
    "excerpt": "Iraq’s national shipping line is returning to scheduled container services in the Gulf after more than half a century, as the country seeks to rebuild maritime connections disrupted by the Strait of Hormuz crisis.",
@@ -59,6 +292,114 @@
    "level": "international",
    "terms": [
     "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "aa12291365f1",
+   "title": "Danaos linked to $218m boxship order in China",
+   "link": "https://splash247.com/danaos-linked-to-218m-boxship-order-in-china/",
+   "source": "splash",
+   "published": "2026-10-21T07:16:30Z",
+   "seen": "2026-10-21T09:42:08Z",
+   "lang": "en",
+   "excerpt": "Greek owner Danaos has been linked to another $218m newbuilding investment in China, with brokers placing the John Coustas-led company behind a pair of 9,200 teu boxships at Shanghai Waigaoqiao Shipbuilding (SWS).",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers",
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner",
+    "newbuilding",
+    "shipbroker"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "2220ea7d705a",
+   "title": "Portugal: NKT opens expanded power cable factory, adds 150 employees",
+   "link": "https://offshore-energy.biz/2026/10/21/portugal-nkt-opens-expanded-power-cable-factory-adds-150-employees",
+   "source": "offshoreenergy",
+   "published": "2026-10-21T07:07:03Z",
+   "seen": "2026-10-21T09:42:08Z",
+   "lang": "en",
+   "excerpt": "Denmark-headquartered NKT has inaugurated its expanded power cable factory in Esposende, Portugal, founded in 1968. NKT marked the completion of...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ba89349aa833",
+   "title": "CMA CGM announces new surcharges for Mauritius and Kenya shipments",
+   "link": "https://container-news.com/cma-cgm-announces-new-surcharges-for-mauritius-and-kenya-shipments/",
+   "source": "containernews",
+   "published": "2026-10-21T07:00:18Z",
+   "seen": "2026-10-21T09:42:08Z",
+   "lang": "en",
+   "excerpt": "CMA CGM has announced two new Peak Season Surcharges (PSS) for shipments from Asia to Mauritius and Kenya, with both charges taking effect in late October 2026.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "92e648b3cf3b",
+   "title": "North Sea gas field cleared for take-off: UK greenlights Jackdaw after legal storms",
+   "link": "https://offshore-energy.biz/2026/10/21/north-sea-gas-field-cleared-for-take-off-uk-greenlights-jackdaw-after-legal-storms",
+   "source": "offshoreenergy",
+   "published": "2026-10-21T06:58:56Z",
+   "seen": "2026-10-21T09:42:08Z",
+   "lang": "en",
+   "excerpt": "The UK regulator has given Shell-backed Adura the go-ahead for a North Sea gas field following a courtroom showdown with environmental campaigners.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ee22a4e6f97a",
+   "title": "Gestion Maritime makes ultramax debut with China order",
+   "link": "https://splash247.com/gestion-maritime-makes-ultramax-debut-with-china-order/",
+   "source": "splash",
+   "published": "2026-10-21T06:55:11Z",
+   "seen": "2026-10-21T09:42:08Z",
+   "lang": "en",
+   "excerpt": "Monaco-based shipowner Gestion Maritime is moving into the ultramax segment with an order for three 64,000 dwt bulk carriers at China’s Nantong Xiangyu Shipbuilding & Offshore Engineering.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "supramax",
+    "dwt",
+    "dry-bulk",
+    "panamax"
    ],
    "paywall": false
   },
@@ -284,12 +625,12 @@
    "paywall": true
   },
   {
-   "id": "fdb15547f79f",
-   "title": "Kapasitetsløft har gitt volumvekst",
-   "link": "https://www.mtlogistikk.no/cldn-gothenburg-roro-terminal-goeteborgs-hamn/kapasitetsloft-har-gitt-volumvekst/1344660",
+   "id": "7852d13fdc7c",
+   "title": "Sikrer avisdistribusjon med ny anbudsrunde",
+   "link": "https://www.mtlogistikk.no/aktiv-norgesdistribusjon-avisdistribusjon-offentlige-anskaffelser/sikrer-avisdistribusjon-med-ny-anbudsrunde/1343595",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-21T05:05:53Z",
+   "seen": "2026-10-21T05:12:08Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -318,24 +659,6 @@
    ],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "8493cc8566a8",
-   "title": "CargoNet øker kapasiteten på tre banestrekninger",
-   "link": "https://www.mtlogistikk.no/bergensbanen-cargonet-dovrebanen/cargonet-oker-kapasiteten-pa-tre-banestrekninger/1344593",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-21T04:50:53Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -400,20 +723,20 @@
    "paywall": false
   },
   {
-   "id": "c211e629dd02",
-   "title": "Sikrer avisdistribusjon med ny anbudsrunde",
-   "link": "https://www.mtlogistikk.no/aktiv-norgesdistribusjon-avisdistribusjon-offentlige-anskaffelser/sikrer-avisdistribusjon-med-ny-anbudsrunde/1344215",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-21T03:50:53Z",
-   "lang": "no",
-   "excerpt": "",
+   "id": "3d0e3aacb62c",
+   "title": "Report: Despite Iran's Attacks, Gulf Oil Exports Exceed Prewar Levels",
+   "link": "https://maritime-executive.com/article/report-despite-iran-s-attacks-gulf-oil-exports-exceed-prewar-levels",
+   "source": "marex",
+   "published": "2026-10-21T03:22:44Z",
+   "seen": "2026-10-21T09:42:08Z",
+   "lang": "en",
+   "excerpt": "Commodity intelligence firm Kpler reports that oil flows out of the Arabian Gulf have rebounded so well that they now exceed levels seen before the st...",
    "segments": [
-    "road"
+    "insurance"
    ],
    "subs": [],
    "policy": false,
-   "level": "national",
+   "level": "international",
    "terms": [],
    "paywall": false
   },
@@ -459,6 +782,46 @@
    "level": "international",
    "terms": [
     "bunkers"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "2d46d46c0bc3",
+   "title": "Woodside resumes Scarborough work after Greenpeace protest",
+   "link": "https://splash247.com/woodside-resumes-scarborough-work-after-greenpeace-protest/",
+   "source": "splash",
+   "published": "2026-10-21T02:40:00Z",
+   "seen": "2026-10-21T09:42:08Z",
+   "lang": "en",
+   "excerpt": "Australian energy major Woodside has resumed commissioning at its Scarborough gas project offshore Western Australia after Greenpeace activists occupied the site over the weekend, forcing a temporary suspension of work.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "fpso"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "d3e9b2fc0649",
+   "title": "Aker BP and Höegh Evi secure EU funding for North Sea CO2 storage project",
+   "link": "https://splash247.com/aker-bp-and-hoegh-evi-secure-eu-funding-for-north-sea-co2-storage-project/",
+   "source": "splash",
+   "published": "2026-10-21T02:30:00Z",
+   "seen": "2026-10-21T09:42:08Z",
+   "lang": "en",
+   "excerpt": "Norwegian offshore producer Aker BP and maritime infrastructure specialist Höegh Evi have secured €223m ($260m) from the European Union Innovation Fund for their Atlas carbon transport and storage project in the North Sea.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "national",
+   "terms": [
+    "ccs"
    ],
    "paywall": false
   },
