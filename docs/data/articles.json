@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T03:41:11Z",
+ "updated": "2026-10-21T06:50:53Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren - ESA-pakkemøte",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-esa-pakkemote/id3179069/",
    "source": "regjeringen",
-   "published": "2026-10-21T03:41:11Z",
+   "published": "2026-10-21T06:50:53Z",
    "seen": "2026-10-19T15:49:52Z",
    "lang": "no",
    "excerpt": "",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren - deltar på konferanse om E39",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-deltar-pa-konferanse-om-e39/id3179067/",
    "source": "regjeringen",
-   "published": "2026-10-21T03:41:11Z",
+   "published": "2026-10-21T06:50:53Z",
    "seen": "2026-10-19T15:49:52Z",
    "lang": "no",
    "excerpt": "",
@@ -41,12 +41,371 @@
    "upcoming": true
   },
   {
-   "id": "a28b26d84948",
-   "title": "CargoNet øker kapasiteten på tre banestrekninger",
-   "link": "https://www.mtlogistikk.no/bergensbanen-cargonet-dovrebanen/cargonet-oker-kapasiteten-pa-tre-banestrekninger/1344434",
+   "id": "834710ab60bb",
+   "title": "Iraqi Line returns to Gulf container trade after 50 years",
+   "link": "https://splash247.com/iraqi-line-returns-to-gulf-container-trade-after-50-years/",
+   "source": "splash",
+   "published": "2026-10-21T06:41:22Z",
+   "seen": "2026-10-21T06:50:53Z",
+   "lang": "en",
+   "excerpt": "Iraq’s national shipping line is returning to scheduled container services in the Gulf after more than half a century, as the country seeks to rebuild maritime connections disrupted by the Strait of Hormuz crisis.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "e63b8a80af80",
+   "title": "N0n follows through on marine data publishing threat",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/n0n-follows-through-on-marine-data-publishing-threat/",
+   "source": "imn",
+   "published": "2026-10-21T06:03:16Z",
+   "seen": "2026-10-21T06:50:53Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "d3e03c0cfc13",
+   "title": "UK Chamber of Shipping warns against copying FuelEU red tape",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/uk-chamber-of-shipping-warns-against-copying-fueleu-red-tape/",
+   "source": "imn",
+   "published": "2026-10-21T06:02:29Z",
+   "seen": "2026-10-21T06:50:53Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "fueleu"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "16c0a477fd7f",
+   "title": "Near-miss off Port Said shows risks of crowded seas and shadow-fleet tankers",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/near-miss-off-port-said-shows-risks-of-crowded-seas-and-shadow-fleet-tankers/",
+   "source": "imn",
+   "published": "2026-10-21T06:01:34Z",
+   "seen": "2026-10-21T06:50:53Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "shadow-fleet"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "ce5422d3a92b",
+   "title": "US floats idea of ‘converting’ shadow tanker fleet",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/us-floats-idea-of-converting-shadow-tanker-fleet/",
+   "source": "imn",
+   "published": "2026-10-21T06:00:44Z",
+   "seen": "2026-10-21T06:50:53Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "f09ebfab8ce9",
+   "title": "The empty container problem isn’t a shortage. It’s a data problem.",
+   "link": "https://container-news.com/the-empty-container-problem-isnt-a-shortage-its-a-data-problem/",
+   "source": "containernews",
+   "published": "2026-10-21T06:00:33Z",
+   "seen": "2026-10-21T06:50:53Z",
+   "lang": "en",
+   "excerpt": "Container shipping has just lived through its third consecutive year of a peak season that arrived early and left just as fast. Shippers rushed cargo out ahead of the July 1 bunker adjustment factor reset, itself a product of fuel costs …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "shipper-consignee",
+    "baf",
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "b676a605d149",
+   "title": "Ukraine will prosecute captain who transported ‘stolen’ grain",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/ukraine-will-prosecute-captain-who-transported-stolen-grain/",
+   "source": "imn",
+   "published": "2026-10-21T05:59:53Z",
+   "seen": "2026-10-21T06:50:53Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "75e5580c4431",
+   "title": "Northern Sea Route transits beat 2025 total by end of September",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/northern-sea-route-transits-beat-2025-total-by-end-of-september/",
+   "source": "imn",
+   "published": "2026-10-21T05:58:54Z",
+   "seen": "2026-10-21T06:50:53Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "6dd13a8624ef",
+   "title": "Recorded SoH transits on the decline",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/recorded-soh-transits-on-the-decline/",
+   "source": "imn",
+   "published": "2026-10-21T05:58:03Z",
+   "seen": "2026-10-21T06:50:53Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "e612beaf0479",
+   "title": "Old Tankers, New Tactics",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/old-tankers-new-tactics/",
+   "source": "imn",
+   "published": "2026-10-21T05:57:09Z",
+   "seen": "2026-10-21T06:50:53Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "0ccd50a9bf86",
+   "title": "HFW on the case of the Lila Lisbon",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/hfw-on-the-case-of-the-lila-lisbon/",
+   "source": "imn",
+   "published": "2026-10-21T05:56:03Z",
+   "seen": "2026-10-21T06:50:53Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "a52595493ed5",
+   "title": "Marine round-up : 21st October 2026",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/marine-round-up-21st-october-2026/",
+   "source": "imn",
+   "published": "2026-10-21T05:52:44Z",
+   "seen": "2026-10-21T06:50:53Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "fdb15547f79f",
+   "title": "Kapasitetsløft har gitt volumvekst",
+   "link": "https://www.mtlogistikk.no/cldn-gothenburg-roro-terminal-goeteborgs-hamn/kapasitetsloft-har-gitt-volumvekst/1344660",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-21T03:26:11Z",
+   "seen": "2026-10-21T05:05:53Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a8f6f1a1ebcc",
+   "title": "Explainer: NSR record shows a new trend",
+   "link": "https://container-news.com/explainer-nsr-record-shows-a-new-trend/",
+   "source": "containernews",
+   "published": "2026-10-21T05:00:44Z",
+   "seen": "2026-10-21T06:50:53Z",
+   "lang": "en",
+   "excerpt": "The Northern Sea Route’s 2026 season set volume records and launched the first scheduled Arctic container service. The corridor’s structure Russian gate, Chinese operators, energy cargo did not change.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8493cc8566a8",
+   "title": "CargoNet øker kapasiteten på tre banestrekninger",
+   "link": "https://www.mtlogistikk.no/bergensbanen-cargonet-dovrebanen/cargonet-oker-kapasiteten-pa-tre-banestrekninger/1344593",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-21T04:50:53Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "1db2abb11876",
+   "title": "BW LPG India offloads 18-year-old VLGC for over $80m",
+   "link": "https://splash247.com/bw-lpg-india-offloads-18-year-old-vlgc-for-over-80m/",
+   "source": "splash",
+   "published": "2026-10-21T04:24:14Z",
+   "seen": "2026-10-20T15:42:06Z",
+   "lang": "en",
+   "excerpt": "New York- and Oslo-listed gas carrier giant BW LPG is cashing in again on strong secondhand values, agreeing to sell an 18-year-old VLGC for more than $80m as it presses ahead with a major fleet renewal programme.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "lpg",
+    "sale-purchase"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "45f979db11f5",
+   "title": "Automatisering løser tollfloken for flybåren netthandel",
+   "link": "https://www.mtlogistikk.no/descartes-flytransport-ics2/automatisering-loser-tollfloken-for-flybaren-netthandel/1344235",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-21T04:05:53Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f7053ab449a3",
+   "title": "SLPA plans new Colombo logistics hub under PPP model",
+   "link": "https://container-news.com/slpa-plans-new-colombo-logistics-hub-under-ppp-model/",
+   "source": "containernews",
+   "published": "2026-10-21T04:00:32Z",
+   "seen": "2026-10-21T06:50:53Z",
+   "lang": "en",
+   "excerpt": "The Sri Lanka Ports Authority (SLPA) has decided to develop a new logistics hub within the Port of Colombo under a Public–Private Partnership model.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c211e629dd02",
+   "title": "Sikrer avisdistribusjon med ny anbudsrunde",
+   "link": "https://www.mtlogistikk.no/aktiv-norgesdistribusjon-avisdistribusjon-offentlige-anskaffelser/sikrer-avisdistribusjon-med-ny-anbudsrunde/1344215",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-21T03:50:53Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -84,21 +443,23 @@
    "paywall": false
   },
   {
-   "id": "7852d13fdc7c",
-   "title": "Sikrer avisdistribusjon med ny anbudsrunde",
-   "link": "https://www.mtlogistikk.no/aktiv-norgesdistribusjon-avisdistribusjon-offentlige-anskaffelser/sikrer-avisdistribusjon-med-ny-anbudsrunde/1343595",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-21T02:56:11Z",
-   "lang": "no",
-   "excerpt": "",
+   "id": "554693fc3d51",
+   "title": "HarborLab: Why shipping’s husbandry bills are still stuck in Excel",
+   "link": "https://splash247.com/harborlab-why-shippings-husbandry-bills-are-still-stuck-in-excel/",
+   "source": "splash",
+   "published": "2026-10-21T03:00:00Z",
+   "seen": "2026-10-20T21:41:06Z",
+   "lang": "en",
+   "excerpt": "Shipping has spent years tightening voyage costs, bunker procurement and commercial port expenses, but one sizeable part of the bill remains comparatively untouched: husbandry.",
    "segments": [
-    "road"
+    "freight"
    ],
    "subs": [],
    "policy": false,
-   "level": "national",
-   "terms": [],
+   "level": "international",
+   "terms": [
+    "bunkers"
+   ],
    "paywall": false
   },
   {
@@ -181,24 +542,6 @@
    "paywall": false
   },
   {
-   "id": "e86342b1a4bd",
-   "title": "Kapasitetsløft har gitt volumvekst",
-   "link": "https://www.mtlogistikk.no/cldn-gothenburg-roro-terminal-goeteborgs-hamn/kapasitetsloft-har-gitt-volumvekst/1344583",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-20T23:11:11Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "1207a819dfa1",
    "title": "Maersk schedules first India drydocking",
    "link": "https://container-news.com/maersk-schedules-first-india-drydocking/",
@@ -215,24 +558,6 @@
    ],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "d5468867bfce",
-   "title": "Automatisering løser tollfloken for flybåren netthandel",
-   "link": "https://www.mtlogistikk.no/descartes-flytransport-ics2/automatisering-loser-tollfloken-for-flybaren-netthandel/1342621",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-20T22:41:11Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -861,26 +1186,6 @@
    "policy": false,
    "level": "international",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "554693fc3d51",
-   "title": "HarborLab: Why shipping’s husbandry bills are still stuck in Excel",
-   "link": "https://splash247.com/harborlab-why-shippings-husbandry-bills-are-still-stuck-in-excel/",
-   "source": "splash",
-   "published": "2026-10-20T20:00:00Z",
-   "seen": "2026-10-20T21:41:06Z",
-   "lang": "en",
-   "excerpt": "Shipping has spent years tightening voyage costs, bunker procurement and commercial port expenses, but one sizeable part of the bill remains comparatively untouched: husbandry.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bunkers"
-   ],
    "paywall": false
   },
   {
@@ -1712,30 +2017,6 @@
    "policy": false,
    "level": "international",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "1db2abb11876",
-   "title": "BW LPG India offloads 18-year-old VLGC for over $80m",
-   "link": "https://splash247.com/bw-lpg-india-offloads-18-year-old-vlgc-for-over-80m/",
-   "source": "splash",
-   "published": "2026-10-20T13:24:14Z",
-   "seen": "2026-10-20T15:42:06Z",
-   "lang": "en",
-   "excerpt": "New York- and Oslo-listed gas carrier giant BW LPG is cashing in again on strong secondhand values, agreeing to sell an 18-year-old VLGC for more than $80m as it presses ahead with a major fleet renewal programme.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "lpg",
-    "sale-purchase"
-   ],
    "paywall": false
   },
   {
