@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T03:41:17Z",
+ "updated": "2026-10-22T06:51:09Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren - ESA-pakkemøte",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-esa-pakkemote/id3179069/",
    "source": "regjeringen",
-   "published": "2026-10-22T03:41:17Z",
+   "published": "2026-10-22T06:51:09Z",
    "seen": "2026-10-19T15:49:52Z",
    "lang": "no",
    "excerpt": "",
@@ -22,12 +22,311 @@
    "upcoming": true
   },
   {
-   "id": "e86342b1a4bd",
-   "title": "Kapasitetsløft har gitt volumvekst",
-   "link": "https://www.mtlogistikk.no/cldn-gothenburg-roro-terminal-goeteborgs-hamn/kapasitetsloft-har-gitt-volumvekst/1344583",
+   "id": "846eb6e7b286",
+   "title": "COSCO Shipping Ports: What is driving its overseas terminal growth?",
+   "link": "https://container-news.com/cosco-shipping-ports-what-is-driving-its-overseas-terminal-growth/",
+   "source": "containernews",
+   "published": "2026-10-22T06:00:37Z",
+   "seen": "2026-10-22T06:51:09Z",
+   "lang": "en",
+   "excerpt": "COSCO Shipping Ports’ overseas terminal portfolio is outperforming its wider network in 2026, although the headline figures conceal significant differences between individual facilities.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "3bf76bf9e7ac",
+   "title": "New organizational structure at Skuld",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/new-organizational-structure-at-skuld/",
+   "source": "imn",
+   "published": "2026-10-22T05:59:42Z",
+   "seen": "2026-10-22T06:51:09Z",
+   "lang": "en",
+   "excerpt": "Norway-based marine insurer and Group Club Skuld has announced organizational changes which it said would position it for future growth, with the changes taking effect from November 1st.",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "pi-club"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "d242a934e9ee",
+   "title": "Bulk carrier holed in Vietnamese port dock allision",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/bulk-carrier-holed-in-vietnamese-port-dock-allision/",
+   "source": "imn",
+   "published": "2026-10-22T05:58:58Z",
+   "seen": "2026-10-22T06:51:09Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dry-bulk"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "324b193d9727",
+   "title": "Bulgaria recovers drone fragments from Chelsea 3; second ship sinks",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/bulgaria-recovers-drone-fragments-from-chelsea-3-second-ship-sinks/",
+   "source": "imn",
+   "published": "2026-10-22T05:58:08Z",
+   "seen": "2026-10-22T06:51:09Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "e9a9eb0f9158",
+   "title": "Philippines acts after June Aster’s fatal fire",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/philippines-acts-after-june-asters-fatal-fire/",
+   "source": "imn",
+   "published": "2026-10-22T05:57:16Z",
+   "seen": "2026-10-22T06:51:09Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "6e3e0ee9b25c",
+   "title": "Norway regulator wants changes to engine crew training after fatal explosion",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/norway-regulator-wants-changes-to-engine-crew-training-after-fatal-explosion/",
+   "source": "imn",
+   "published": "2026-10-22T05:56:28Z",
+   "seen": "2026-10-22T06:51:09Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "54ac62a3a686",
+   "title": "Floating offshore wind capacity continues to grow",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/floating-offshore-wind-capacity-continues-to-grow/",
+   "source": "imn",
+   "published": "2026-10-22T05:55:36Z",
+   "seen": "2026-10-22T06:51:09Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "offshore-wind"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "fb9d21d907fc",
+   "title": "Russian diesel returns to Turkey, Brazil after export ban lifted, shipping data shows",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/russian-diesel-returns-to-turkey-brazil-after-export-ban-lifted-shipping-data-shows/",
+   "source": "imn",
+   "published": "2026-10-22T05:54:37Z",
+   "seen": "2026-10-22T06:51:09Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "road",
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "c55d2a5ab747",
+   "title": "Lockton non-Group (mutual) marine insurance summary: UK P&I Fixed (formerly Thomas Miller Speciality P&I)",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/lockton-non-group-mutual-marine-insurance-summary-uk-pi-fixed-formerly-thomas-miller-speciality-pi/",
+   "source": "imn",
+   "published": "2026-10-22T05:52:00Z",
+   "seen": "2026-10-22T06:51:09Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "insurance-broker",
+    "pi-club",
+    "pi"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "802e896ccccb",
+   "title": "New routine introduced by Sweden after convictions of pilot and captain",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/new-routine-introduced-by-sweden-after-convictions-of-pilot-and-captain/",
+   "source": "imn",
+   "published": "2026-10-22T05:51:01Z",
+   "seen": "2026-10-22T06:51:09Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "94f1b57df4ed",
+   "title": "Ukraine preparing to sell seized bulk carrier",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/ukraine-preparing-to-sell-seized-bulk-carrier/",
+   "source": "imn",
+   "published": "2026-10-22T05:49:55Z",
+   "seen": "2026-10-22T06:51:09Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dry-bulk"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "44e4422c05bd",
+   "title": "NWSA records decreased container volume September",
+   "link": "https://container-news.com/nwsa-records-decreased-container-volume-september/",
+   "source": "containernews",
+   "published": "2026-10-22T05:00:39Z",
+   "seen": "2026-10-22T06:51:09Z",
+   "lang": "en",
+   "excerpt": "The Northwest Seaport Alliance recorded September 2026 total container volume of 265,692 TEUs, down 8.1% compared to September 2025, with full imports down 4.4% and full exports declining 9.6% year-on-year.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "d7a2fffbef4f",
+   "title": "Fremskutte lagre styrker forsyningssikkerheten",
+   "link": "https://www.mtlogistikk.no/finnmark-forsvaret-forsvarsbygg/fremskutte-lagre-styrker-forsyningssikkerheten/1345594",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-22T03:26:17Z",
+   "seen": "2026-10-22T04:06:09Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "fdb15547f79f",
+   "title": "Kapasitetsløft har gitt volumvekst",
+   "link": "https://www.mtlogistikk.no/cldn-gothenburg-roro-terminal-goeteborgs-hamn/kapasitetsloft-har-gitt-volumvekst/1344660",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-22T03:36:09Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "9cef51dd42f1",
+   "title": "UK Approves Controversial Jackdaw Gas Project in the North Sea",
+   "link": "https://maritime-executive.com/article/uk-approves-controversial-jackdaw-gas-project-in-the-north-sea",
+   "source": "marex",
+   "published": "2026-10-22T03:31:05Z",
+   "seen": "2026-10-22T06:51:09Z",
+   "lang": "en",
+   "excerpt": "The UK government has given the green light for the Jackdaw natural gas field development in the North Sea, a major win for the UK's declining offshor...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8493cc8566a8",
+   "title": "CargoNet øker kapasiteten på tre banestrekninger",
+   "link": "https://www.mtlogistikk.no/bergensbanen-cargonet-dovrebanen/cargonet-oker-kapasiteten-pa-tre-banestrekninger/1344593",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-22T03:21:09Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -84,12 +383,12 @@
    "paywall": false
   },
   {
-   "id": "607575c68734",
-   "title": "Fremskutte lagre styrker forsyningssikkerheten",
-   "link": "https://www.mtlogistikk.no/finnmark-forsvaret-forsvarsbygg/fremskutte-lagre-styrker-forsyningssikkerheten/1345443",
+   "id": "b6075f22c6d5",
+   "title": "Åpner ubemannet pakkesentral med 400 rom i Bergen",
+   "link": "https://www.mtlogistikk.no/bergen-instabee-instabox/apner-ubemannet-pakkesentral-med-400-rom-i-bergen/1346113",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-22T02:41:17Z",
+   "seen": "2026-10-22T02:21:09Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -97,25 +396,7 @@
    ],
    "subs": [],
    "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a28b26d84948",
-   "title": "CargoNet øker kapasiteten på tre banestrekninger",
-   "link": "https://www.mtlogistikk.no/bergensbanen-cargonet-dovrebanen/cargonet-oker-kapasiteten-pa-tre-banestrekninger/1344434",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-22T02:26:17Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
+   "level": "local",
    "terms": [],
    "paywall": false
   },
@@ -984,20 +1265,22 @@
   },
   {
    "id": "f928f7ee54e0",
-   "title": "Iraq Resumes Commercial Shipping After 50 Years as Ship Departs UAE",
+   "title": "Iraqi Line Resumes Shipping After 50 Year Hiatus",
    "link": "https://maritime-executive.com/article/iraq-resumes-commercial-shipping-after-50-years-as-ship-departs-uae",
    "source": "marex",
    "published": "2026-10-21T19:44:57Z",
    "seen": "2026-10-21T21:42:09Z",
    "lang": "en",
-   "excerpt": "An Iraqi-owned cargo ship departed the port of Jebel Ali in the United Arab Emirates today, October 21, northbound in the Persian Gulf. What makes the...",
+   "excerpt": "An Iraqi-owned container ship departed the port of Jebel Ali in the United Arab Emirates today, October 21, northbound in the Persian Gulf. What makes...",
    "segments": [
     "freight"
    ],
    "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [],
+   "terms": [
+    "liner"
+   ],
    "paywall": false
   },
   {
