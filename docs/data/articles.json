@@ -1,7 +1,142 @@
 {
- "updated": "2026-10-22T00:52:03Z",
+ "updated": "2026-10-22T03:41:17Z",
  "sample": false,
  "articles": [
+  {
+   "id": "98a4ba7ad4b3",
+   "title": "Samferdselsministeren - ESA-pakkemøte",
+   "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-esa-pakkemote/id3179069/",
+   "source": "regjeringen",
+   "published": "2026-10-22T03:41:17Z",
+   "seen": "2026-10-19T15:49:52Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false,
+   "upcoming": true
+  },
+  {
+   "id": "e86342b1a4bd",
+   "title": "Kapasitetsløft har gitt volumvekst",
+   "link": "https://www.mtlogistikk.no/cldn-gothenburg-roro-terminal-goeteborgs-hamn/kapasitetsloft-har-gitt-volumvekst/1344583",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-22T03:26:17Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a98d20dc28aa",
+   "title": "Stockholm Norvik port inaugurates aggregate loading facility",
+   "link": "https://container-news.com/stockholm-norvik-port-inaugurates-aggregate-loading-facility/",
+   "source": "containernews",
+   "published": "2026-10-22T03:00:32Z",
+   "seen": "2026-10-22T03:41:17Z",
+   "lang": "en",
+   "excerpt": "Ports of Stockholm has inaugurated a new port facility at Stockholm Norvik Port designed for the efficient loading of crushed rock aggregates onto bulk carriers, enabling large volumes of material generated during the port’s original …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dry-bulk"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "3469461b3f49",
+   "title": "U.S. Treasury Sanctions Shipping Law Firm for Alleged Shadow Fleet Services",
+   "link": "https://maritime-executive.com/article/u-s-treasury-sanctions-two-lawyers-for-alleged-shadow-fleet-services",
+   "source": "marex",
+   "published": "2026-10-22T02:52:06Z",
+   "seen": "2026-10-22T03:41:17Z",
+   "lang": "en",
+   "excerpt": "On Wednesday, the U.S. Treasury announced new sanctions on a Panama-based law firm and five of its staff for allegedly helping Iranian shipping intere...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "sanctions",
+    "shadow-fleet"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "607575c68734",
+   "title": "Fremskutte lagre styrker forsyningssikkerheten",
+   "link": "https://www.mtlogistikk.no/finnmark-forsvaret-forsvarsbygg/fremskutte-lagre-styrker-forsyningssikkerheten/1345443",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-22T02:41:17Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a28b26d84948",
+   "title": "CargoNet øker kapasiteten på tre banestrekninger",
+   "link": "https://www.mtlogistikk.no/bergensbanen-cargonet-dovrebanen/cargonet-oker-kapasiteten-pa-tre-banestrekninger/1344434",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-22T02:26:17Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f8264f6909dc",
+   "title": "French Navy Reports Drone Incursion During Harbor-Protection Exercises",
+   "link": "https://maritime-executive.com/article/french-navy-reports-drone-incursion-during-harbor-protection-exercises",
+   "source": "marex",
+   "published": "2026-10-22T01:43:28Z",
+   "seen": "2026-10-22T03:41:17Z",
+   "lang": "en",
+   "excerpt": "On Wednesday, the French navy issued an alert reporting an unlawful drone incursion - this time, during a military exercise. According to the Marine N...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
   {
    "id": "13c76df042d9",
    "title": "Samferdselsministeren - deltar på konferanse om E39",
@@ -19,25 +154,6 @@
    "level": "local",
    "terms": [],
    "paywall": false
-  },
-  {
-   "id": "98a4ba7ad4b3",
-   "title": "Samferdselsministeren - ESA-pakkemøte",
-   "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-esa-pakkemote/id3179069/",
-   "source": "regjeringen",
-   "published": "2026-10-22T00:52:03Z",
-   "seen": "2026-10-19T15:49:52Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false,
-   "upcoming": true
   },
   {
    "id": "5428d72f7552",
@@ -193,24 +309,6 @@
    "paywall": false
   },
   {
-   "id": "d7a2fffbef4f",
-   "title": "Fremskutte lagre styrker forsyningssikkerheten",
-   "link": "https://www.mtlogistikk.no/finnmark-forsvaret-forsvarsbygg/fremskutte-lagre-styrker-forsyningssikkerheten/1345594",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-21T22:07:03Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "ef6c6fee9de8",
    "title": "Panama Canal Sets Record for Annual Tonnage Driven by Shifts in Trade",
    "link": "https://maritime-executive.com/article/panama-canal-sets-record-for-annual-tonnage-driven-by-shifts-in-trade",
@@ -246,42 +344,6 @@
    "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "fdb15547f79f",
-   "title": "Kapasitetsløft har gitt volumvekst",
-   "link": "https://www.mtlogistikk.no/cldn-gothenburg-roro-terminal-goeteborgs-hamn/kapasitetsloft-har-gitt-volumvekst/1344660",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-21T21:37:03Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "8493cc8566a8",
-   "title": "CargoNet øker kapasiteten på tre banestrekninger",
-   "link": "https://www.mtlogistikk.no/bergensbanen-cargonet-dovrebanen/cargonet-oker-kapasiteten-pa-tre-banestrekninger/1344593",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-21T21:22:03Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -940,7 +1002,7 @@
   },
   {
    "id": "09feb8a7b285",
-   "title": "Thanks to Swift Response, All Passengers Survive Latest SE Asian Ferry Fire",
+   "title": "Thanks to Swift Response, All Passengers Survive Indonesian Ferry Fire",
    "link": "https://maritime-executive.com/article/thanks-to-swift-response-all-passengers-survive-latest-se-asian-ferry-fire",
    "source": "marex",
    "published": "2026-10-21T19:21:17Z",
