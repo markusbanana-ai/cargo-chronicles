@@ -1,7 +1,548 @@
 {
- "updated": "2026-10-22T09:44:23Z",
+ "updated": "2026-10-22T12:50:36Z",
  "sample": false,
  "articles": [
+  {
+   "id": "60007f92afb2",
+   "title": "68 tonn utslippsfri hybrid",
+   "link": "https://www.mtlogistikk.no/batterielektrisk-elektrisk-lastebil-hybrid-lastebil/68-tonn-utslippsfri-hybrid/1346775",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-22T12:35:36Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4e928f9d825b",
+   "title": "Har startet serieproduksjonen",
+   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-tesla-semi/har-startet-serieproduksjonen/1346751",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-22T12:20:36Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "0797ee761133",
+   "title": "Baltic Dry Index climbs to 2693 up 13 points",
+   "link": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2693-up-13-points/",
+   "source": "hsn",
+   "published": "2026-10-22T12:00:20Z",
+   "seen": "2026-10-22T12:50:36Z",
+   "lang": "en",
+   "excerpt": "Today, Thursday, October 22 2026, the Baltic Dry Index climbed 13 points, 2693 points. Baltic Dry Index is compiled by the London-based Baltic Exchange and covers prices for transported cargo such as coal, grain and iron ore.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bdi",
+    "baltic-exchange"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "08533122778c",
+   "title": "CMA CGM’s first container train arrives at Hungary’s East-West Gate terminal",
+   "link": "https://container-news.com/cma-cgms-first-container-train-arrives-at-hungarys-east-west-gate-terminal/",
+   "source": "containernews",
+   "published": "2026-10-22T12:00:07Z",
+   "seen": "2026-10-22T12:50:36Z",
+   "lang": "en",
+   "excerpt": "CMA CGM’s first container train has arrived at the East-West Gate (EWG) intermodal terminal in Fényeslitke, Hungary, marking a new development in the facility’s growing role in international container logistics.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "intermodal"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "e6a802801ba1",
+   "title": "Einride’s autonomous trucks to learn from Nvidia’s Alpamayo",
+   "link": "https://www.freightwaves.com/news/einride-nvidia-alpamayo-autonomous-trucks",
+   "source": "freightwaves",
+   "published": "2026-10-22T12:00:00Z",
+   "seen": "2026-10-22T12:50:36Z",
+   "lang": "en",
+   "excerpt": "A month after agreeing to build its next Einride Driver on Nvidia Hyperion, Einride said it will adapt Alpamayo to its trucks, routes and data, with a road evaluation set for 2027.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "31a9c268dbb8",
+   "title": "Yara tier om prestisjeskipets skjebne",
+   "link": "https://www.mtlogistikk.no/containertransport-grenland-havn-larvik-havn/yara-tier-om-prestisjeskipets-skjebne/1346562",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-22T11:20:36Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "445433071f63",
+   "title": "US announces nationwide rail infrastructure investment",
+   "link": "https://container-news.com/us-announces-nationwide-rail-infrastructure-investment/",
+   "source": "containernews",
+   "published": "2026-10-22T11:00:30Z",
+   "seen": "2026-10-22T12:50:36Z",
+   "lang": "en",
+   "excerpt": "The US Department of Transportation has announced a US$2.3 billion investment covering freight and passenger rail projects across 45 states and the District of Columbia.",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "1fd97f2c2688",
+   "title": "Motive launches AI Agents as fleets weigh how to prevent problems",
+   "link": "https://www.freightwaves.com/news/motive-launches-ai-agents-fleets",
+   "source": "freightwaves",
+   "published": "2026-10-22T11:00:00Z",
+   "seen": "2026-10-22T12:50:36Z",
+   "lang": "en",
+   "excerpt": "Motive, an AI platform for physical operations, launched Agents on Monday at the American Trucking Associations’ Management Conference & Exhibition (MCE) in Charlotte, North Carolina.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "abfa9c52b225",
+   "title": "Late, short deliveries cost food and CPG makers $100 billion",
+   "link": "https://www.freightwaves.com/news/cleo-otif-failures-cost-cpg-100-billion",
+   "source": "freightwaves",
+   "published": "2026-10-22T11:00:00Z",
+   "seen": "2026-10-22T12:50:36Z",
+   "lang": "en",
+   "excerpt": "Cleo's OTIF report models $10 billion to $11 billion in direct costs and $85 billion to $90 billion in indirect losses for North American CPG and food manufacturers.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "7ff8ad51f1c5",
+   "title": "EnerMech takes on ‘major’ UK CCS gig but keeps project details under wraps",
+   "link": "https://offshore-energy.biz/2026/10/22/enermech-takes-on-major-uk-ccs-gig-but-keeps-project-details-under-wraps",
+   "source": "offshoreenergy",
+   "published": "2026-10-22T10:30:00Z",
+   "seen": "2026-10-22T12:50:36Z",
+   "lang": "en",
+   "excerpt": "EnerMech has revealed a new carbon capture and storage (CCS) job in the UK, though project details and the operator remain undisclosed.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ccs"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "aa06e2a2b0a2",
+   "title": "NLF på Oslo Motor Show",
+   "link": "https://lastebil.no/aktuelt/nyheter/nlf-paa-oslo-motor-show",
+   "source": "lastebil",
+   "published": "2026-10-22T10:20:23Z",
+   "seen": "2026-10-22T12:50:36Z",
+   "lang": "no",
+   "excerpt": "Oslo Motor Show fyller Nova Spektrum med kjøretøy, lys og lyd fra fredag 23. til søndag 25. oktober. For lastebilinteresserte er hall E stedet å være – med Scandinavian Truck Trophy, bransjeutstillere, kjettinglegging og mulighet til å …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4fd2e9912407",
+   "title": "Shipowners warn fuel transition could slip beyond 2030 as methanol demand remains uncertain",
+   "link": "https://www.hellenicshippingnews.com/shipowners-warn-fuel-transition-could-slip-beyond-2030-as-methanol-demand-remains-uncertain/",
+   "source": "hsn",
+   "published": "2026-10-22T10:00:59Z",
+   "seen": "2026-10-22T12:50:36Z",
+   "lang": "en",
+   "excerpt": "Regulatory uncertainty and limited shipbuilding capacity could delay the wider adoption of alternative marine fuels beyond 2030, shipping executives said, while orders for methanol-capable vessels may not translate directly into demand for …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "bunkers",
+    "dry-bulk"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "eb997279bf1c",
+   "title": "Drewry: Suez Traffic Showing Strong Momentum",
+   "link": "https://www.hellenicshippingnews.com/drewry-suez-traffic-showing-strong-momentum/",
+   "source": "hsn",
+   "published": "2026-10-22T10:00:57Z",
+   "seen": "2026-10-22T12:50:36Z",
+   "lang": "en",
+   "excerpt": "With regional security changing rapidly, Drewry’s Red Sea Diversion Tracker delivers timely intelligence to shippers, carriers, ports and other stakeholders on the evolving structure of carrier networks.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint",
+    "shipper-consignee",
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "bcec981e35e8",
+   "title": "Goldman Sachs sees crude freight rates surge to $20 per barrel",
+   "link": "https://www.hellenicshippingnews.com/goldman-sachs-sees-crude-freight-rates-surge-to-20-per-barrel/",
+   "source": "hsn",
+   "published": "2026-10-22T10:00:55Z",
+   "seen": "2026-10-22T12:50:36Z",
+   "lang": "en",
+   "excerpt": "Global average crude freight rates have climbed above $20 per barrel from $3 per barrel a year ago, according to Goldman Sachs analysis released Wednesday.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "vlcc"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "3c95ba3d3a6a",
+   "title": "MMI Daily Iron Ore Index Report October 22 2026",
+   "link": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-october-22-2026/",
+   "source": "hsn",
+   "published": "2026-10-22T10:00:51Z",
+   "seen": "2026-10-22T12:50:36Z",
+   "lang": "en",
+   "excerpt": "Today’s decline extended across domestic futures, port spot and seaborne markets, testing the earlier recovery again. DCE most-traded closed at 669.0 yuan/mt, down 1.83%, and all eight Qingdao products fell 9 yuan/wmt.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "1b96ef3a0d47",
+   "title": "Maersk expects full return of shipping services to Suez Canal by March 2027",
+   "link": "https://www.hellenicshippingnews.com/maersk-expects-full-return-of-shipping-services-to-suez-canal-by-march-2027/",
+   "source": "hsn",
+   "published": "2026-10-22T10:00:51Z",
+   "seen": "2026-10-22T12:50:36Z",
+   "lang": "en",
+   "excerpt": "Denmark-based shipping group A.P. Moller-Maersk expects all its shipping services to return to the Suez Canal by March 2027, according to a statement from the Suez Canal Authority (SCA).",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "b648cca62451",
+   "title": "Verde Marine expands bunker fleet",
+   "link": "https://www.hellenicshippingnews.com/verde-marine-expands-bunker-fleet/",
+   "source": "hsn",
+   "published": "2026-10-22T10:00:49Z",
+   "seen": "2026-10-22T12:50:36Z",
+   "lang": "en",
+   "excerpt": "Dutch bunker supplier Verde Marine Energy has added more bunker barges to its fleet, expanding its physical bunker operations in the ARA region. The company has added barges to serve customers in Flushing, Ternuezen and Ghent, it said.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bunkers"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "1ec31ace8f62",
+   "title": "Panama Canal Reports Growth in Transits and Tonnage in Fiscal Year 2026",
+   "link": "https://www.hellenicshippingnews.com/panama-canal-reports-growth-in-transits-and-tonnage-in-fiscal-year-2026/",
+   "source": "hsn",
+   "published": "2026-10-22T10:00:47Z",
+   "seen": "2026-10-22T12:50:36Z",
+   "lang": "en",
+   "excerpt": "The Panama Canal recorded growth in both vessel transits and tonnage in Fiscal Year 2026, which ran from October 2025 through September 2026.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "93d7717ee452",
+   "title": "KONGSBERG secures contract with Pilbara Ports in Australia",
+   "link": "https://www.hellenicshippingnews.com/kongsberg-secures-contract-with-pilbara-ports-in-australia/",
+   "source": "hsn",
+   "published": "2026-10-22T10:00:45Z",
+   "seen": "2026-10-22T12:50:36Z",
+   "lang": "en",
+   "excerpt": "KONGSBERG will deliver a complete Vessel Traffic Service (VTS) system including radar, electro-optical sensors, Automatic Identification System (AIS) technology and VHF communications.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "ais"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "1cd2d5e497f4",
+   "title": "Gibraltar sees busiest September for bunker calls since 2021",
+   "link": "https://www.hellenicshippingnews.com/gibraltar-sees-busiest-september-for-bunker-calls-since-2021/",
+   "source": "hsn",
+   "published": "2026-10-22T10:00:43Z",
+   "seen": "2026-10-22T12:50:36Z",
+   "lang": "en",
+   "excerpt": "Gibraltar recorded 477 bunker calls in September, up 11% from 431 in the same month last year, according to data from the Gibraltar Port Authority.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bunkers"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "d589a6504570",
+   "title": "Valenciaport presents its Sandbox at PEIC’26 as a tool to bridge the gap between innovation and implementation",
+   "link": "https://www.hellenicshippingnews.com/valenciaport-presents-its-sandbox-at-peic26-as-a-tool-to-bridge-the-gap-between-innovation-and-implementation/",
+   "source": "hsn",
+   "published": "2026-10-22T10:00:41Z",
+   "seen": "2026-10-22T12:50:36Z",
+   "lang": "en",
+   "excerpt": "The 2026 International Port Entrepreneurship Congress (PEIC’26) has kicked off its latest edition, highlighting the growing international interest in port entrepreneurship.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "db6a2200f973",
+   "title": "China’s Russian LNG imports surge 44.3pc in January-September",
+   "link": "https://www.hellenicshippingnews.com/chinas-russian-lng-imports-surge-44-3pc-in-january-september/",
+   "source": "hsn",
+   "published": "2026-10-22T10:00:39Z",
+   "seen": "2026-10-22T12:50:36Z",
+   "lang": "en",
+   "excerpt": "China increased imports of Russian liquefied natural gas (LNG) by 44.3 per cent year on year to 7.19 million metric tonnes in January-September, with supplies valued at $3.92 billion, up 38.5 per cent, according to Chinese customs data …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lng"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "79098de69907",
+   "title": "Iron Ore Hits Fresh 4-Year Low",
+   "link": "https://www.hellenicshippingnews.com/iron-ore-hits-fresh-4-year-low/",
+   "source": "hsn",
+   "published": "2026-10-22T10:00:35Z",
+   "seen": "2026-10-22T12:50:36Z",
+   "lang": "en",
+   "excerpt": "Iron ore futures declined toward CNY 670 per ton, reaching their lowest level in four years after China’s state-backed iron ore buyer secured a new supply agreement with Rio Tinto, easing concerns over supply availability.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "0b9012dba42c",
+   "title": "The Commodities Feed: Attacks on Saudi Arabia fan oil supply worries",
+   "link": "https://www.hellenicshippingnews.com/the-commodities-feed-attacks-on-saudi-arabia-fan-oil-supply-worries/",
+   "source": "hsn",
+   "published": "2026-10-22T10:00:31Z",
+   "seen": "2026-10-22T12:50:36Z",
+   "lang": "en",
+   "excerpt": "Energy – Kuwait pumping more than 2m b/d Oil prices remain well bid, with ICE Brent back above $110/bbl this morning following additional deadly attacks on Saudi Arabia.",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "units"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "a2509b638804",
+   "title": "Gulf producers stand to gain as China replaces Iranian loss",
+   "link": "https://www.hellenicshippingnews.com/gulf-producers-stand-to-gain-as-china-replaces-iranian-loss/",
+   "source": "hsn",
+   "published": "2026-10-22T10:00:29Z",
+   "seen": "2026-10-22T12:50:36Z",
+   "lang": "en",
+   "excerpt": "China’s non-Iranian Middle Eastern crude arrivals are set to reach their highest level since the war began, despite VLCC tightness and Hormuz ship-to-ship (STS) bottlenecks delaying cargo deliveries.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "vlcc",
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "a9b037333afc",
+   "title": "US crude oil inventories drop 3.06 million barrels",
+   "link": "https://www.hellenicshippingnews.com/us-crude-oil-inventories-drop-3-06-million-barrels/",
+   "source": "hsn",
+   "published": "2026-10-22T10:00:27Z",
+   "seen": "2026-10-22T12:50:36Z",
+   "lang": "en",
+   "excerpt": "US crude oil inventories decreased by 3.06 million barrels to 412.5 million barrels during the week ended October 16, the US Energy Information Administration reported Wednesday. The decline exceeded market expectations.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "dd55c9a791ba",
+   "title": "India could deepen energy ties with Venezuela beyond crude imports: Rubio",
+   "link": "https://www.hellenicshippingnews.com/india-could-deepen-energy-ties-with-venezuela-beyond-crude-imports-rubio/",
+   "source": "hsn",
+   "published": "2026-10-22T10:00:25Z",
+   "seen": "2026-10-22T12:50:36Z",
+   "lang": "en",
+   "excerpt": "Indian companies could play a larger role in Venezuela’s energy sector as the country’s oil production increases, importing more of its heavy crude for processing while exploring new opportunities to invest in upstream projects, US …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ep"
+   ],
+   "paywall": false
+  },
   {
    "id": "98a4ba7ad4b3",
    "title": "Samferdselsministeren - ESA-pakkemøte",
@@ -18,6 +559,26 @@
    "policy": false,
    "level": "national",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f90fe7879dc4",
+   "title": "Viridien sharpens exploration picture beyond Guyana’s Stabroek block",
+   "link": "https://splash247.com/viridien-sharpens-exploration-picture-beyond-guyanas-stabroek-block/",
+   "source": "splash",
+   "published": "2026-10-22T09:59:00Z",
+   "seen": "2026-10-22T12:50:36Z",
+   "lang": "en",
+   "excerpt": "French geophysical company Viridien has launched the first phase of a major seismic reimaging programme offshore Guyana, targeting more than 10,000 sq km of existing 3D data in and around the country’s emerging shallow-water exploration …",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "seismic"
+   ],
    "paywall": false
   },
   {
@@ -40,6 +601,24 @@
     "time-charter",
     "lng"
    ],
+   "paywall": false
+  },
+  {
+   "id": "d7a2fffbef4f",
+   "title": "Fremskutte lagre styrker forsyningssikkerheten",
+   "link": "https://www.mtlogistikk.no/finnmark-forsvaret-forsvarsbygg/fremskutte-lagre-styrker-forsyningssikkerheten/1345594",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-22T09:35:36Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
    "paywall": false
   },
   {
@@ -86,6 +665,24 @@
    "paywall": false
   },
   {
+   "id": "2f55d5be40de",
+   "title": "DOF cements its spot on Africa’s subsea stage with multimillion-dollar vessel job",
+   "link": "https://offshore-energy.biz/2026/10/22/dof-cements-its-spot-on-africas-subsea-stage-with-multimillion-dollar-vessel-job",
+   "source": "offshoreenergy",
+   "published": "2026-10-22T09:13:49Z",
+   "seen": "2026-10-22T12:50:36Z",
+   "lang": "en",
+   "excerpt": "DOF Group has won a new subsea installation contract in Africa, locking in 100 days of work for its 2008-built vessel in early 2027.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
    "id": "8cde6248fbc2",
    "title": "Philippines Exploring Deeper Cooperation with Taiwan to Protect Undersea Cables",
    "link": "https://gcaptain.com/philippines-exploring-deeper-cooperation-with-taiwan-to-protect-undersea-cables/",
@@ -111,9 +708,10 @@
    "published": "2026-10-22T09:00:53Z",
    "seen": "2026-10-22T09:44:23Z",
    "lang": "en",
-   "excerpt": "A US$3.5bn rail terminal plan with Hateco completes a three-year march from the quay to the hinterland. When APM Terminals and Vietnamese conglomerate Hateco signed a memorandum of understanding in Copenhagen on 20 October, the headline …",
+   "excerpt": "A rail terminal plan between APM Terminals and Hateco completes a three-year march from the quay to the hinterland. The deal is best understood not as a new venture but as the latest rung on a ladder the two partners have been climbing for …",
    "segments": [
-    "freight"
+    "freight",
+    "finance"
    ],
    "subs": [
     "containers"
@@ -140,24 +738,6 @@
    "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "607575c68734",
-   "title": "Fremskutte lagre styrker forsyningssikkerheten",
-   "link": "https://www.mtlogistikk.no/finnmark-forsvaret-forsvarsbygg/fremskutte-lagre-styrker-forsyningssikkerheten/1345443",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-22T08:44:23Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
