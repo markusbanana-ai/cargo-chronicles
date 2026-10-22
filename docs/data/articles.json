@@ -1,7 +1,415 @@
 {
- "updated": "2026-10-22T15:43:04Z",
+ "updated": "2026-10-22T18:46:49Z",
  "sample": false,
  "articles": [
+  {
+   "id": "39e51716c2f0",
+   "title": "Hapag-Lloyd expects more services to return to Suez Canal",
+   "link": "https://container-news.com/hapag-lloyd-expects-more-services-to-return-to-suez-canal/",
+   "source": "containernews",
+   "published": "2026-10-22T18:00:32Z",
+   "seen": "2026-10-22T18:46:49Z",
+   "lang": "en",
+   "excerpt": "Hapag-Lloyd expects additional shipping services to return to the Suez Canal as maritime conditions in the Red Sea gradually improve, according to the Suez Canal Authority (SCA).",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "e009a114a8fa",
+   "title": "Cass Q3 Earnings Soar: 19% EPS Growth & Freight Market Boom",
+   "link": "https://www.freightwaves.com/news/cass-q3-earnings-soar-19-eps-growth-freight-market-boom",
+   "source": "freightwaves",
+   "published": "2026-10-22T17:59:36Z",
+   "seen": "2026-10-22T18:46:49Z",
+   "lang": "en",
+   "excerpt": "Cass Information Systems CFO Mike Normile reveals how rising freight rates, fuel surcharges, and higher interest rates fueled a 19% increase in earnings per share for Q3.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "fuel-surcharge"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "ec4d44a39e13",
+   "title": "How Triumph Financial’s CEO Beat the Longest Freight Recession",
+   "link": "https://www.freightwaves.com/news/how-triumph-financials-ceo-beat-the-longest-freight-recession",
+   "source": "freightwaves",
+   "published": "2026-10-22T17:58:42Z",
+   "seen": "2026-10-22T18:46:49Z",
+   "lang": "en",
+   "excerpt": "Triumph Financial CEO Aaron Graft joins FreightWaves to discuss how his company achieved a remarkable 38% transportation revenue growth during one of the longest freight recessions in history.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "9e93e79cab51",
+   "title": "Maritime Procurement: Where the Cost is Really Set",
+   "link": "https://maritime-executive.com/article/maritime-procurement-where-the-cost-is-really-set",
+   "source": "marex",
+   "published": "2026-10-22T17:45:00Z",
+   "seen": "2026-10-22T18:46:49Z",
+   "lang": "en",
+   "excerpt": "When a vessel needs a spare part, someone ashore owns the problem.They have to find a supplier, compare quotes, check lead time, make sure the documen...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c4ab44433cce",
+   "title": "Safety Should Be Provable, Not Just Compliant",
+   "link": "https://www.freightwaves.com/news/safety-should-be-provable-not-just-compliant",
+   "source": "freightwaves",
+   "published": "2026-10-22T17:21:10Z",
+   "seen": "2026-10-22T18:46:49Z",
+   "lang": "en",
+   "excerpt": "A unanimous Supreme Court ruling means freight brokers can face state liability claims for their selection of carriers. For carriers, that shift turns a documented safety program from a compliance nicety into a competitive credential.",
+   "segments": [
+    "road",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "244914f18b49",
+   "title": "Greece Says It is Implementing Sanctions Linked to Iran",
+   "link": "https://gcaptain.com/greece-says-it-is-implementing-sanctions-linked-to-iran/",
+   "source": "gcaptain",
+   "published": "2026-10-22T17:12:23Z",
+   "seen": "2026-10-22T18:46:49Z",
+   "lang": "en",
+   "excerpt": "The Greek finance ministry said on Thursday it was implementing sanctions in place linked to Iran and that it backed efforts to effectively combat money laundering and the financing of terrorism.",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "sanctions"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "c09364043f12",
+   "title": "Bidding Announcement of PSV “Bourbon Explorer 506”",
+   "link": "https://www.hellenicshippingnews.com/bidding-announcement-of-psv-bourbon-explorer-506/",
+   "source": "hsn",
+   "published": "2026-10-22T17:00:59Z",
+   "seen": "2026-10-22T18:46:49Z",
+   "lang": "en",
+   "excerpt": "Entrusted by the Seller, our company (the “Bidding Company “) is scheduled to conduct an online public auction on the Shipbid website (www.shipbid.net) from 16:00 to 16:30 on November 24th, 2026 (“Auction Day”), which is hereby announced …",
+   "segments": [
+    "freight",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "psv",
+    "bareboat"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "a3a32f0ad616",
+   "title": "Nor-Shipping brings new Focus to AI, Ports and Marketing in 2027",
+   "link": "https://www.hellenicshippingnews.com/nor-shipping-brings-new-focus-to-ai-ports-and-marketing-in-2027/",
+   "source": "hsn",
+   "published": "2026-10-22T17:00:57Z",
+   "seen": "2026-10-22T18:46:49Z",
+   "lang": "en",
+   "excerpt": "Nor-Shipping is revamping its knowledge-sharing offer with a brand new stage created for day-long ‘deep dives’ into fast-moving and strategically important subjects.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "3ca68d60401f",
+   "title": "Lloyd’s Register and NSML launch plans for global maritime forum in Nigeria",
+   "link": "https://www.hellenicshippingnews.com/lloyds-register-and-nsml-launch-plans-for-global-maritime-forum-in-nigeria/",
+   "source": "hsn",
+   "published": "2026-10-22T17:00:55Z",
+   "seen": "2026-10-22T18:46:49Z",
+   "lang": "en",
+   "excerpt": "Lloyd’s Register (LR), and NLNG Shipping and Marine Services Limited (NSML) have announced plans to establish a new global maritime forum in Nigeria, creating a new platform for industry leaders to address the challenges and opportunities …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "3496b0163025",
+   "title": "BW LPG Limited announces sale of BW Loyalty",
+   "link": "https://www.hellenicshippingnews.com/bw-lpg-limited-announces-sale-of-bw-loyalty/",
+   "source": "hsn",
+   "published": "2026-10-22T17:00:53Z",
+   "seen": "2026-10-22T18:46:49Z",
+   "lang": "en",
+   "excerpt": "BW LPG Limited is pleased to announce that its 52%-owned subsidiary, BW LPG India, has entered into an agreement to sell the 2008-built BW Loyalty for continued trading.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lpg"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "82e919e94fa0",
+   "title": "Sulnox enters Japanese market with Exeno Yamamizu",
+   "link": "https://www.hellenicshippingnews.com/sulnox-enters-japanese-market-with-exeno-yamamizu/",
+   "source": "hsn",
+   "published": "2026-10-22T17:00:51Z",
+   "seen": "2026-10-22T18:46:49Z",
+   "lang": "en",
+   "excerpt": "Sulnox, the greentech company delivering lower fuel costs and emissions with zero capex, is pleased to announce that it has appointed Exeno Yamamizu Corporation (“Exeno Yamamizu”) as its first Japan-based distributor.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "9f43d0efbc05",
+   "title": "New Fire Drill Guidelines for Vehicle Carrying Vessels",
+   "link": "https://www.hellenicshippingnews.com/new-fire-drill-guidelines-for-vehicle-carrying-vessels/",
+   "source": "hsn",
+   "published": "2026-10-22T17:00:49Z",
+   "seen": "2026-10-22T18:46:49Z",
+   "lang": "en",
+   "excerpt": "The guidelines focus on operational readiness, decision-making and coordination. They place particular emphasis on rapid fire confirmation, fast muster, safe crew deployment and the early and correct use of fixed firefighting systems to …",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "fed3f9927819",
+   "title": "GTT opens an office in Tokyo to deepen ties with Japan’s maritime community",
+   "link": "https://www.hellenicshippingnews.com/gtt-opens-an-office-in-tokyo-to-deepen-ties-with-japans-maritime-community/",
+   "source": "hsn",
+   "published": "2026-10-22T17:00:47Z",
+   "seen": "2026-10-22T18:46:49Z",
+   "lang": "en",
+   "excerpt": "GTT Marine, a business unit of the GTT Group and a leading provider of advanced technologies and digital solutions for vessel performance, today announced the opening of its office in Tokyo.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "2615470f0bd7",
+   "title": "Super Typhoon Champi raises China port congestion concerns",
+   "link": "https://www.hellenicshippingnews.com/super-typhoon-champi-raises-china-port-congestion-concerns/",
+   "source": "hsn",
+   "published": "2026-10-22T17:00:45Z",
+   "seen": "2026-10-22T18:46:49Z",
+   "lang": "en",
+   "excerpt": "Super Typhoon Champi strengthened into a Category 5-equivalent system over the western Pacific, with maximum sustained winds near its center reaching 240 kilometers/hour on Oct.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "congestion"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "07b568da2244",
+   "title": "ID Logistics revenue jumps 25.6% in Q3 as North America drives growth",
+   "link": "https://container-news.com/id-logistics-revenue-jumps-25-6-in-q3-as-north-america-drives-growth/",
+   "source": "containernews",
+   "published": "2026-10-22T17:00:37Z",
+   "seen": "2026-10-22T18:46:49Z",
+   "lang": "en",
+   "excerpt": "ID Logistics reported a 25.6% increase in revenue during the third quarter of 2026, supported by strong growth in North America and continued expansion across its international operations.",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "3pl"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "dfb15d4f0694",
+   "title": "Iran Claims More Ships Struck Near Hormuz as Trump Accuses Tehran of ‘Faking Hits’",
+   "link": "https://gcaptain.com/iran-claims-more-ships-struck-near-hormuz-as-trump-accuses-tehran-of-faking-hits/",
+   "source": "gcaptain",
+   "published": "2026-10-22T16:46:26Z",
+   "seen": "2026-10-22T18:46:49Z",
+   "lang": "en",
+   "excerpt": "Iran’s Revolutionary Guards claimed Thursday that seven commercial vessels were struck overnight in the Persian Gulf and Strait of Hormuz, including four ships conducting oil transfers, prompting President Donald Trump...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "0bf62a696f3c",
+   "title": "CBP seizes $2.5M in meth hidden in tomatillo truck at Otay Mesa; driver’s visa canceled",
+   "link": "https://www.freightwaves.com/news/cbp-seizes-2-5m-in-meth-hidden-in-tomatillo-truck-at-otay-mesa-drivers-visa-canceled",
+   "source": "freightwaves",
+   "published": "2026-10-22T16:24:13Z",
+   "seen": "2026-10-22T18:46:49Z",
+   "lang": "en",
+   "excerpt": "Nearly 1,600 pounds of narcotics, a federal investigation and an unexpected development involving the trucker. New details obtained by FreightWaves reveal what happened after the seizure.",
+   "segments": [
+    "road",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "53527cfd57bb",
+   "title": "MSC launches Jasmine service linking China and Indonesia",
+   "link": "https://container-news.com/msc-launches-jasmine-service-linking-china-and-indonesia/",
+   "source": "containernews",
+   "published": "2026-10-22T16:00:57Z",
+   "seen": "2026-10-22T18:46:49Z",
+   "lang": "en",
+   "excerpt": "MSC has announced the launch of Jasmine, a new standalone service connecting ports in China with Singapore and Indonesia. The service will provide direct connections between Shanghai, Ningbo, Shekou, Singapore, Surabaya and Semarang.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "515b6b7f5e98",
+   "title": "US trailer orders soar 385% as Class 8 truck market sends mixed signals",
+   "link": "https://www.freightwaves.com/news/us-trailer-orders-soar-385-as-class-8-truck-market-sends-mixed-signals",
+   "source": "freightwaves",
+   "published": "2026-10-22T15:42:56Z",
+   "seen": "2026-10-22T18:46:49Z",
+   "lang": "en",
+   "excerpt": "Trailer orders jumped sharply in September as carriers moved to secure equipment ahead of potential price increases, while heavy-duty truck purchases showed mixed signals.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "49dce99d3aaa",
+   "title": "UPS automates 4 additional facilities ahead of peak shipping season",
+   "link": "https://www.freightwaves.com/news/ups-automates-4-additional-facilities-ahead-of-peak-shipping-season",
+   "source": "freightwaves",
+   "published": "2026-10-22T15:38:17Z",
+   "seen": "2026-10-22T18:46:49Z",
+   "lang": "en",
+   "excerpt": "UPS has completed several facility upgrades, increasing their capacity and productivity heading into peak shipping season.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "d7a2fffbef4f",
+   "title": "Fremskutte lagre styrker forsyningssikkerheten",
+   "link": "https://www.mtlogistikk.no/finnmark-forsvaret-forsvarsbygg/fremskutte-lagre-styrker-forsyningssikkerheten/1345594",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-22T15:31:49Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
   {
    "id": "be174d2cc22d",
    "title": "CSSC Offshore & Marine Engineering secures RMB35.8 billion in new orders",
@@ -20,24 +428,6 @@
    ],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "607575c68734",
-   "title": "Fremskutte lagre styrker forsyningssikkerheten",
-   "link": "https://www.mtlogistikk.no/finnmark-forsvaret-forsvarsbygg/fremskutte-lagre-styrker-forsyningssikkerheten/1345443",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-22T14:58:04Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -101,6 +491,24 @@
    "paywall": false
   },
   {
+   "id": "e86342b1a4bd",
+   "title": "Kapasitetsløft har gitt volumvekst",
+   "link": "https://www.mtlogistikk.no/cldn-gothenburg-roro-terminal-goeteborgs-hamn/kapasitetsloft-har-gitt-volumvekst/1344583",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-22T14:16:49Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
    "id": "b9e0811805f3",
    "title": "Yara uklare om prestisjeskipets skjebne",
    "link": "https://www.mtlogistikk.no/containertransport-grenland-havn-larvik-havn/yara-uklare-om-prestisjeskipets-skjebne/1346562",
@@ -136,6 +544,26 @@
    "level": "international",
    "terms": [
     "fuel-surcharge"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "d4e1eceeb50c",
+   "title": "Commodity markets whip up railfreight gains",
+   "link": "https://www.freightwaves.com/news/commodity-markets-whip-up-railfreight-gains",
+   "source": "freightwaves",
+   "published": "2026-10-22T14:00:00Z",
+   "seen": "2026-10-22T18:46:49Z",
+   "lang": "en",
+   "excerpt": "Intermodal and commodity traffic helped U.S. freight railroads to strong volume gains in the latest week data.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "intermodal"
    ],
    "paywall": false
   },
@@ -373,24 +801,6 @@
    "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "fdb15547f79f",
-   "title": "Kapasitetsløft har gitt volumvekst",
-   "link": "https://www.mtlogistikk.no/cldn-gothenburg-roro-terminal-goeteborgs-hamn/kapasitetsloft-har-gitt-volumvekst/1344660",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-22T11:58:04Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -17803,119 +18213,6 @@
    "terms": [
     "supply-chain"
    ],
-   "paywall": false
-  },
-  {
-   "id": "6de3f7ce81b1",
-   "title": "NLF: Regjeringen overser transportnæringens største utfordringer",
-   "link": "https://lastebil.no/aktuelt/nyheter/2026/nlf-regjeringen-overser-transportnaeringens-stoerste-utfordringer",
-   "source": "lastebil",
-   "published": "2026-10-07T12:05:41Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "no",
-   "excerpt": "Regjeringens forslag til statsbudsjett inneholder ingen tiltak som kan avhjelpe den akutte likviditetsbelastningen de høye energikostnadene har påført transportnæringen.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "8b9da06b7021",
-   "title": "Transportlærlinger blant landets best betalte",
-   "link": "https://lastebil.no/aktuelt/nyheter/2026/transportlaerlinger-blant-landets-best-betalte",
-   "source": "lastebil",
-   "published": "2026-10-06T05:02:10Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "no",
-   "excerpt": "Transportlærlinger er blant de best betalte lærlingene i Norge. NLF mener de nye tallene viser at transportfaget byr på både attraktive karrieremuligheter og et stort behov for nye fagarbeidere i årene som kommer.Lærlinger innen …",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "29390b9e1c02",
-   "title": "NLF tar med dieselregningen til Støre",
-   "link": "https://lastebil.no/aktuelt/nyheter/2026/nlf-tar-med-dieselregningen-til-stoere",
-   "source": "lastebil",
-   "published": "2026-10-05T12:41:59Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "no",
-   "excerpt": "Tirsdag møter Norges Lastebileier-Forbund (NLF) statsminister Jonas Gahr Støre hvor de vil advare om at vareforsyning, vinterberedskap og trafikksikkerhet vil rammes dersom transportnæringen svekkes.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "road-tax",
-    "pro-diesel"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "512670cf5872",
-   "title": "NLF har ikke snudd om Dieselbrølet",
-   "link": "https://lastebil.no/aktuelt/nyheter/nlf-krever-vintergrep-i-statsbudsjettet-norge-har-ikke-raad-til-en-doedsvinter-paa-veiene/nlf-har-ikke-snudd-om-dieselbroelet",
-   "source": "lastebil",
-   "published": "2026-10-02T11:02:24Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "no",
-   "excerpt": "Det har de siste dagene oppstått spørsmål om Norges Lastebileier-Forbund støtter det såkalte Dieselbrølet. NLF har ikke sluttet seg til Dieselbrølet eller aksjonsformene deres.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "b5efaaf8f205",
-   "title": "Hvorfor velger noen el-lastebil og andre ikke?",
-   "link": "https://lastebil.no/aktuelt/nyheter/2026/hvorfor-velger-noen-el-lastebil-og-andre-ikke",
-   "source": "lastebil",
-   "published": "2026-10-02T06:27:26Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "no",
-   "excerpt": "Det er nettopp dette Nord universitet ønsker å finne ut av i en pågående undersøkelse om elektriske lastebiler. Mange har allerede svart, men universitetet trenger fortsatt flere deltakere for å få et enda bedre bilde av hva som påvirker …",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "electric-truck"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "a86984f0e7bc",
-   "title": "NLF krever vintergrep i statsbudsjettet: – Norge har ikke råd til en dødsvinter på veiene",
-   "link": "https://lastebil.no/aktuelt/nyheter/nlf-krever-vintergrep-i-statsbudsjettet-norge-har-ikke-raad-til-en-doedsvinter-paa-veiene",
-   "source": "lastebil",
-   "published": "2026-10-02T05:36:46Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "no",
-   "excerpt": "Regjeringen må bruke statsbudsjettet til å sikre økonomi til vinterdrift, og sørge for at pengene faktisk når dem som gjør jobben ute på veien.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "national",
-   "terms": [],
    "paywall": false
   }
  ]
