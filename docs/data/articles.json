@@ -1,13 +1,31 @@
 {
- "updated": "2026-10-21T21:42:09Z",
+ "updated": "2026-10-22T00:52:03Z",
  "sample": false,
  "articles": [
+  {
+   "id": "13c76df042d9",
+   "title": "Samferdselsministeren - deltar på konferanse om E39",
+   "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-deltar-pa-konferanse-om-e39/id3179067/",
+   "source": "regjeringen",
+   "published": "2026-10-22T01:00:00Z",
+   "seen": "2026-10-19T15:49:52Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "local",
+   "terms": [],
+   "paywall": false
+  },
   {
    "id": "98a4ba7ad4b3",
    "title": "Samferdselsministeren - ESA-pakkemøte",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-esa-pakkemote/id3179069/",
    "source": "regjeringen",
-   "published": "2026-10-21T21:42:09Z",
+   "published": "2026-10-22T00:52:03Z",
    "seen": "2026-10-19T15:49:52Z",
    "lang": "no",
    "excerpt": "",
@@ -22,12 +40,68 @@
    "upcoming": true
   },
   {
-   "id": "13c76df042d9",
-   "title": "Samferdselsministeren - deltar på konferanse om E39",
-   "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-deltar-pa-konferanse-om-e39/id3179067/",
-   "source": "regjeringen",
-   "published": "2026-10-21T21:42:09Z",
-   "seen": "2026-10-19T15:49:52Z",
+   "id": "5428d72f7552",
+   "title": "Tesla Semi enters volume production as 2027 rollout approaches",
+   "link": "https://www.freightwaves.com/news/tesla-semi-enters-volume-production-as-2027-rollout-approaches",
+   "source": "freightwaves",
+   "published": "2026-10-22T00:16:11Z",
+   "seen": "2026-10-22T00:52:03Z",
+   "lang": "en",
+   "excerpt": "Automaker Tesla says it began volume production of its Class 8 electric Semi truck in the third quarter, marking a major milestone ahead of its planned 2027 commercial expansion.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "cb28e9d7fb9c",
+   "title": "Port of San Diego welcomes ocean ecostructures",
+   "link": "https://container-news.com/port-of-san-diego-welcomes-ocean-ecostructures/",
+   "source": "containernews",
+   "published": "2026-10-22T00:00:46Z",
+   "seen": "2026-10-22T00:52:03Z",
+   "lang": "en",
+   "excerpt": "The Port of San Diego Board of Port Commissioners has approved a new Blue Economy Incubator pilot project with Ocean Ecostructures, a startup that has developed biodiversity regeneration technology designed to enhance marine life on …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "45297746c738",
+   "title": "CEO’s letter boasts of lots of arrows pointing up at Triumph Financial",
+   "link": "https://www.freightwaves.com/news/ceos-letter-boasts-of-lots-of-arrows-pointing-up-at-triumph-financial",
+   "source": "freightwaves",
+   "published": "2026-10-21T23:29:46Z",
+   "seen": "2026-10-22T00:52:03Z",
+   "lang": "en",
+   "excerpt": "It was hard not to read the quarterly letter to shareholders by Aaron Graft, the CEO of Triumph Financial, and not get a sense that he was taking the first few steps into a victory lap.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "3d8be4be4b10",
+   "title": "140 logistikkselskaper – slik gikk det i 2025",
+   "link": "https://www.mtlogistikk.no/oversikt-arsregnskapene-2025-okonomi/140-logistikkselskaper-slik-gikk-det-i-2025/1346063",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-21T23:22:03Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -35,18 +109,171 @@
    ],
    "subs": [],
    "policy": false,
-   "level": "local",
+   "level": "national",
    "terms": [],
-   "paywall": false,
-   "upcoming": true
+   "paywall": false
   },
   {
-   "id": "e86342b1a4bd",
-   "title": "Kapasitetsløft har gitt volumvekst",
-   "link": "https://www.mtlogistikk.no/cldn-gothenburg-roro-terminal-goeteborgs-hamn/kapasitetsloft-har-gitt-volumvekst/1344583",
+   "id": "d77a11ced474",
+   "title": "The Data Your Truck Sends Home Is Becoming Your New Credit Score, And Your Insurance Rate Too",
+   "link": "https://www.freightwaves.com/news/the-data-your-truck-sends-home-is-becoming-your-new-credit-score-and-your-insurance-rate-too",
+   "source": "freightwaves",
+   "published": "2026-10-21T23:11:33Z",
+   "seen": "2026-10-22T00:52:03Z",
+   "lang": "en",
+   "excerpt": "Somewhere in your truck right now, a connected system is quietly recording how it is driven, how hard it works, where it goes, and how healthy its engine is, and that stream of data is no longer just a maintenance convenience, it is …",
+   "segments": [
+    "road",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "76ed47b01124",
+   "title": "Trump Administration Targets Fourth Offshore Wind Project for Remand",
+   "link": "https://maritime-executive.com/article/trump-administration-targets-fourth-offshore-wind-project-for-remand",
+   "source": "marex",
+   "published": "2026-10-21T23:09:11Z",
+   "seen": "2026-10-22T00:52:03Z",
+   "lang": "en",
+   "excerpt": "In what is clearly emerging as a new tactic to derail the offshore wind energy sector, the Department of Justice filed for the fourth time in just a m...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "offshore-wind"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "30b9b91fc072",
+   "title": "DOT Awards $200M Rail Grant to Support Port of Coos Bay's Terminal Project",
+   "link": "https://maritime-executive.com/article/dot-awards-200m-rail-grant-to-support-port-of-coos-bay-s-terminal-project",
+   "source": "marex",
+   "published": "2026-10-21T22:39:03Z",
+   "seen": "2026-10-22T00:52:03Z",
+   "lang": "en",
+   "excerpt": "The Port of Coos Bay, Oregon has received a federal Department of Transportation grant for $205 million to upgrade the Coos Bay Rail Line, the short-l...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "59002aceadff",
+   "title": "MPA Singapore and China Classification Society advance decarbonisation and digitalisation",
+   "link": "https://container-news.com/mpa-singapore-and-china-classification-society-advance-decarbonisation-and-digitalisation/",
+   "source": "containernews",
+   "published": "2026-10-21T22:27:44Z",
+   "seen": "2026-10-22T00:52:03Z",
+   "lang": "en",
+   "excerpt": "The Maritime and Port Authority of Singapore and the China Classification Society have renewed their Memorandum of Understanding to strengthen collaboration in maritime decarbonisation, digitalisation and talent development.",
+   "segments": [
+    "freight",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "class-society",
+    "ccs"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "d7a2fffbef4f",
+   "title": "Fremskutte lagre styrker forsyningssikkerheten",
+   "link": "https://www.mtlogistikk.no/finnmark-forsvaret-forsvarsbygg/fremskutte-lagre-styrker-forsyningssikkerheten/1345594",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-21T21:27:09Z",
+   "seen": "2026-10-21T22:07:03Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ef6c6fee9de8",
+   "title": "Panama Canal Sets Record for Annual Tonnage Driven by Shifts in Trade",
+   "link": "https://maritime-executive.com/article/panama-canal-sets-record-for-annual-tonnage-driven-by-shifts-in-trade",
+   "source": "marex",
+   "published": "2026-10-21T21:57:30Z",
+   "seen": "2026-10-22T00:52:03Z",
+   "lang": "en",
+   "excerpt": "Despite the challenges the Panama Canal has faced due to the drought and effects of El Niño, it completed a strong fiscal year, emphasizing its role i...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "a103c1db1178",
+   "title": "First look: Knight-Swift’s Q3 beats expectations",
+   "link": "https://www.freightwaves.com/news/first-look-knight-swifts-q3-beats-expectations",
+   "source": "freightwaves",
+   "published": "2026-10-21T21:39:32Z",
+   "seen": "2026-10-22T00:52:03Z",
+   "lang": "en",
+   "excerpt": "Knight-Swift Transportation beat third-quarter expectations and issued a fourth-quarter outlook that was in line with the consensus estimate.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "fdb15547f79f",
+   "title": "Kapasitetsløft har gitt volumvekst",
+   "link": "https://www.mtlogistikk.no/cldn-gothenburg-roro-terminal-goeteborgs-hamn/kapasitetsloft-har-gitt-volumvekst/1344660",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-21T21:37:03Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8493cc8566a8",
+   "title": "CargoNet øker kapasiteten på tre banestrekninger",
+   "link": "https://www.mtlogistikk.no/bergensbanen-cargonet-dovrebanen/cargonet-oker-kapasiteten-pa-tre-banestrekninger/1344593",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-21T21:22:03Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -70,6 +297,103 @@
    "segments": [
     "freight",
     "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "2ba98e0bdf7e",
+   "title": "Rail Traffic SURGE: Why Intermodal Volume is Climbing",
+   "link": "https://www.freightwaves.com/news/rail-traffic-surge-why-intermodal-volume-is-climbing",
+   "source": "freightwaves",
+   "published": "2026-10-21T21:17:27Z",
+   "seen": "2026-10-22T00:52:03Z",
+   "lang": "en",
+   "excerpt": "The latest weekly rail traffic numbers show a significant intermodal volume surge, propelled by high diesel fuel prices and tight truck capacity, causing shippers to divert freight to rail.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "intermodal",
+    "shipper-consignee"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "87fe09da392f",
+   "title": "Vertical Aerospace eVTOL: The Future of Urgent Air Cargo",
+   "link": "https://www.freightwaves.com/news/vertical-aerospace-evtol-the-future-of-urgent-air-cargo",
+   "source": "freightwaves",
+   "published": "2026-10-21T21:15:43Z",
+   "seen": "2026-10-22T00:52:03Z",
+   "lang": "en",
+   "excerpt": "Vertical Aerospace’s Michael Cervenka explains how their Velocopter eVTOL aircraft is set to transform urgent freight and remote logistics.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "d5b4088eef27",
+   "title": "DSV expands US-Mexico freight network with $90M Laredo facility",
+   "link": "https://www.freightwaves.com/news/dsv-expands-us-mexico-freight-network-with-90m-laredo-facility",
+   "source": "freightwaves",
+   "published": "2026-10-21T21:12:45Z",
+   "seen": "2026-10-22T00:52:03Z",
+   "lang": "en",
+   "excerpt": "DSV has opened a $90 million logistics facility in Laredo, consolidating cross-border transportation, warehousing and customs services along the Texas-Mexico border.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c3a768e7f65b",
+   "title": "Truckload Pricing Power? Diesel Is Eating It Up",
+   "link": "https://www.freightwaves.com/news/truckload-pricing-power-diesel-is-eating-it-up",
+   "source": "freightwaves",
+   "published": "2026-10-21T21:12:39Z",
+   "seen": "2026-10-22T00:52:03Z",
+   "lang": "en",
+   "excerpt": "Truckload rates are up, but carrier profits still aren’t following. JB Hunt, Werner and Heartland earnings all point to the same freight market story: pricing power is back, but diesel, driver and insurance costs are eating the gains.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ftl",
+    "intermodal"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "5118252fa65b",
+   "title": "Nearly $1M in Pokémon Cards STOLEN from FedEx",
+   "link": "https://www.freightwaves.com/news/nearly-1m-in-pokemon-cards-stolen-from-fedex",
+   "source": "freightwaves",
+   "published": "2026-10-21T21:11:21Z",
+   "seen": "2026-10-22T00:52:03Z",
+   "lang": "en",
+   "excerpt": "A FedEx truck carrying nearly $1 million in Pokémon and sports cards was robbed in California. FreightWaves’ Phil Brink and Highway’s Brennan Bailey break down how this audacious cargo theft happened and what it means for supply chain …",
+   "segments": [
+    "road"
    ],
    "subs": [],
    "policy": false,
@@ -484,7 +808,7 @@
   },
   {
    "id": "1b5dc91a7c9f",
-   "title": "US Deep-Sea Mining Claim Areas Now Rival ISA Licenses in Size",
+   "title": "US Deep-Sea Mining Claim Areas Rival ISA Licenses in Size",
    "link": "https://maritime-executive.com/article/us-deep-sea-mining-claims-in-the-pacific-now-rival-isa-licenses-in-size",
    "source": "marex",
    "published": "2026-10-21T20:51:49Z",
@@ -497,24 +821,6 @@
    "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "607575c68734",
-   "title": "Fremskutte lagre styrker forsyningssikkerheten",
-   "link": "https://www.mtlogistikk.no/finnmark-forsvaret-forsvarsbygg/fremskutte-lagre-styrker-forsyningssikkerheten/1345443",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-21T20:42:09Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -537,24 +843,6 @@
     "chokepoint",
     "liner"
    ],
-   "paywall": false
-  },
-  {
-   "id": "a28b26d84948",
-   "title": "CargoNet øker kapasiteten på tre banestrekninger",
-   "link": "https://www.mtlogistikk.no/bergensbanen-cargonet-dovrebanen/cargonet-oker-kapasiteten-pa-tre-banestrekninger/1344434",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-21T20:27:09Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
