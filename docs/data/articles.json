@@ -1,7 +1,260 @@
 {
- "updated": "2026-10-22T12:50:36Z",
+ "updated": "2026-10-22T15:43:04Z",
  "sample": false,
  "articles": [
+  {
+   "id": "be174d2cc22d",
+   "title": "CSSC Offshore & Marine Engineering secures RMB35.8 billion in new orders",
+   "link": "https://container-news.com/cssc-offshore-marine-engineering-secures-rmb35-8-billion-in-new-orders/",
+   "source": "containernews",
+   "published": "2026-10-22T15:00:05Z",
+   "seen": "2026-10-22T15:43:04Z",
+   "lang": "en",
+   "excerpt": "CSSC Offshore & Marine Engineering (Group) Company Limited (COMEC) secured RMB35.799 billion in new orders during the first nine months of 2026, exceeding its full-year contract target by a substantial margin.",
+   "segments": [
+    "freight",
+    "offshore"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "607575c68734",
+   "title": "Fremskutte lagre styrker forsyningssikkerheten",
+   "link": "https://www.mtlogistikk.no/finnmark-forsvaret-forsvarsbygg/fremskutte-lagre-styrker-forsyningssikkerheten/1345443",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-22T14:58:04Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "10ba2432ac49",
+   "title": "QatarEnergy Signs Long-Term Deal to Buy U.S. LNG as Iran War Disrupts Exports",
+   "link": "https://gcaptain.com/qatarenergy-signs-long-term-deal-to-buy-u-s-lng-as-iran-war-disrupts-exports/",
+   "source": "gcaptain",
+   "published": "2026-10-22T14:48:26Z",
+   "seen": "2026-10-22T15:43:04Z",
+   "lang": "en",
+   "excerpt": "QatarEnergy has signed two long-term agreements to purchase up to 4 million tonnes of U.S. liquefied natural gas annually from Cheniere Energy through 2054, as the Gulf producer continues to...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lng"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "1ab190a3df5b",
+   "title": "First look: Union Pacific earnings",
+   "link": "https://www.freightwaves.com/news/first-look-union-pacific-earnings-4",
+   "source": "freightwaves",
+   "published": "2026-10-22T14:46:03Z",
+   "seen": "2026-10-22T15:43:04Z",
+   "lang": "en",
+   "excerpt": "Union Pacific’s third-quarter profit rose 16% as higher freight volumes and pricing gains boosted revenue.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "99f276538519",
+   "title": "Saipem and Egypt’s MDC seal pact to target MENA offshore drilling market",
+   "link": "https://offshore-energy.biz/2026/10/22/saipem-and-egypts-mdc-seal-pact-to-target-mena-offshore-drilling-market",
+   "source": "offshoreenergy",
+   "published": "2026-10-22T14:22:43Z",
+   "seen": "2026-10-22T15:43:04Z",
+   "lang": "en",
+   "excerpt": "Saipem and Modern Drilling Company (MDC) are joining forces to pursue strategic offshore drilling opportunities across Egypt and the MENA region.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "b9e0811805f3",
+   "title": "Yara uklare om prestisjeskipets skjebne",
+   "link": "https://www.mtlogistikk.no/containertransport-grenland-havn-larvik-havn/yara-uklare-om-prestisjeskipets-skjebne/1346562",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-22T14:13:04Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "631c3327b487",
+   "title": "First look: Norfolk Southern earnings",
+   "link": "https://www.freightwaves.com/news/first-look-norfolk-southern-earnings-4",
+   "source": "freightwaves",
+   "published": "2026-10-22T14:09:01Z",
+   "seen": "2026-10-22T15:43:04Z",
+   "lang": "en",
+   "excerpt": "Norfolk Southern’s third-quarter earnings rose as higher freight volume and fuel surcharges drove record revenue.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "fuel-surcharge"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "b734ed669f6c",
+   "title": "SC Ports handles first Isuzu container shipment through Inland Port Greer",
+   "link": "https://container-news.com/sc-ports-handles-first-isuzu-container-shipment-through-inland-port-greer/",
+   "source": "containernews",
+   "published": "2026-10-22T13:53:13Z",
+   "seen": "2026-10-22T15:43:04Z",
+   "lang": "en",
+   "excerpt": "South Carolina Ports (SC Ports) has handled the first container carrying production equipment for Isuzu North America Corporation’s new manufacturing facility in South Carolina.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c61e680fcb74",
+   "title": "First look: almost all strong numbers in Ryder’s third quarter earnings",
+   "link": "https://www.freightwaves.com/news/first-look-almost-all-strong-numbers-in-ryders-third-quarter-earnings",
+   "source": "freightwaves",
+   "published": "2026-10-22T13:42:38Z",
+   "seen": "2026-10-22T15:43:04Z",
+   "lang": "en",
+   "excerpt": "It was a solid third quarter for Ryder, with improvement in just about every metric compared to the third quarter of 2025. The numbers have been good enough that Ryder (NYSE: R) raised its full-year outlook for 2026.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "610a4f234dc1",
+   "title": "Marco Polo Marine expands Korean offshore push with new JV",
+   "link": "https://splash247.com/marco-polo-marine-expands-korean-offshore-push-with-new-jv/",
+   "source": "splash",
+   "published": "2026-10-22T13:36:25Z",
+   "seen": "2026-10-22T15:43:04Z",
+   "lang": "en",
+   "excerpt": "Singapore-listed offshore vessel owner and shipyard group Marco Polo Marine has established a joint venture in South Korea with local partner NSEL, strengthening its presence in the country’s offshore vessel market.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "da0d7ffe87a7",
+   "title": "Knight-Swift again eyes big rate increases as new bid season nears",
+   "link": "https://www.freightwaves.com/news/knight-swift-again-eyes-big-rate-increases-as-new-bid-season-nears",
+   "source": "freightwaves",
+   "published": "2026-10-22T13:31:37Z",
+   "seen": "2026-10-22T15:43:04Z",
+   "lang": "en",
+   "excerpt": "Knight-Swift Transportation’s large exposure to the one-way truckload market has it in position to capture double-digit rate increases as its new bid season kicks off next month.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ftl"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "967823ada4e7",
+   "title": "FEED job for Barents Sea FPSO topsides goes to Aibel",
+   "link": "https://offshore-energy.biz/2026/10/22/feed-job-for-barents-sea-fpso-topsides-goes-to-aibel",
+   "source": "offshoreenergy",
+   "published": "2026-10-22T13:30:00Z",
+   "seen": "2026-10-22T15:43:04Z",
+   "lang": "en",
+   "excerpt": "Equinor has booked Aibel for its oil project's topsides engineering study as partners eye a concept selection by late 2026.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "fpso"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "999b8d52c862",
+   "title": "Rhenus introduces smart picking technology at Merck logistics hub in France",
+   "link": "https://container-news.com/rhenus-introduces-smart-picking-technology-at-merck-logistics-hub-in-france/",
+   "source": "containernews",
+   "published": "2026-10-22T13:00:40Z",
+   "seen": "2026-10-22T15:43:04Z",
+   "lang": "en",
+   "excerpt": "Rhenus has introduced a smart order-picking system at its logistics hub in Strasbourg, France, to improve warehouse operations for science and technology company Merck.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
   {
    "id": "60007f92afb2",
    "title": "68 tonn utslippsfri hybrid",
@@ -18,6 +271,28 @@
    "policy": false,
    "level": "national",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c4f9436d59b9",
+   "title": "Cook Inlet LNG steps up Alaska energy push with TDI-Brooks survey",
+   "link": "https://offshore-energy.biz/2026/10/22/cook-inlet-lng-steps-up-alaska-energy-push-with-tdi-brooks-survey",
+   "source": "offshoreenergy",
+   "published": "2026-10-22T12:30:00Z",
+   "seen": "2026-10-22T15:43:04Z",
+   "lang": "en",
+   "excerpt": "TDI-Brooks has completed a geotechnical mission, bolstering Cook Inlet LNG’s efforts to shore up Southcentral Alaska’s energy supplies.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lng"
+   ],
    "paywall": false
   },
   {
@@ -98,6 +373,24 @@
    "subs": [],
    "policy": false,
    "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "fdb15547f79f",
+   "title": "Kapasitetsløft har gitt volumvekst",
+   "link": "https://www.mtlogistikk.no/cldn-gothenburg-roro-terminal-goeteborgs-hamn/kapasitetsloft-har-gitt-volumvekst/1344660",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-22T11:58:04Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -562,6 +855,27 @@
    "paywall": false
   },
   {
+   "id": "4d14fae3b59f",
+   "title": "CSX profit jumps on volume and revenue growth",
+   "link": "https://www.freightwaves.com/news/csx-profit-jumps-on-volume-and-revenue-growth",
+   "source": "freightwaves",
+   "published": "2026-10-22T10:00:00Z",
+   "seen": "2026-10-22T15:43:04Z",
+   "lang": "en",
+   "excerpt": "Increased freight boosted CSX Q3 profits, along with higher fuel surcharge revenue and more efficient operations.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "fuel-surcharge"
+   ],
+   "paywall": false
+  },
+  {
    "id": "f90fe7879dc4",
    "title": "Viridien sharpens exploration picture beyond Guyana’s Stabroek block",
    "link": "https://splash247.com/viridien-sharpens-exploration-picture-beyond-guyanas-stabroek-block/",
@@ -604,24 +918,6 @@
    "paywall": false
   },
   {
-   "id": "d7a2fffbef4f",
-   "title": "Fremskutte lagre styrker forsyningssikkerheten",
-   "link": "https://www.mtlogistikk.no/finnmark-forsvaret-forsvarsbygg/fremskutte-lagre-styrker-forsyningssikkerheten/1345594",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-22T09:35:36Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "cb5d88d46485",
    "title": "Maersk Tankers lines up EU backing for four VLAC ammonia conversions",
    "link": "https://splash247.com/maersk-tankers-lines-up-eu-backing-for-four-vlac-ammonia-conversions/",
@@ -644,24 +940,6 @@
     "lpg",
     "dual-fuel"
    ],
-   "paywall": false
-  },
-  {
-   "id": "e86342b1a4bd",
-   "title": "Kapasitetsløft har gitt volumvekst",
-   "link": "https://www.mtlogistikk.no/cldn-gothenburg-roro-terminal-goeteborgs-hamn/kapasitetsloft-har-gitt-volumvekst/1344583",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-22T09:29:23Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
