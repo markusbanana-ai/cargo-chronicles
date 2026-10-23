@@ -1,14 +1,139 @@
 {
- "updated": "2026-10-23T15:45:18Z",
+ "updated": "2026-10-23T18:47:21Z",
  "sample": false,
  "articles": [
   {
-   "id": "5af9ba5a1038",
-   "title": "Flytter lageret - kutter 80 ansatte",
-   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347196",
+   "id": "942d9b728b5a",
+   "title": "Roadrunner announces Canada outbound service",
+   "link": "https://www.freightwaves.com/news/roadrunner-announces-canada-outbound-service",
+   "source": "freightwaves",
+   "published": "2026-10-23T18:31:28Z",
+   "seen": "2026-10-23T18:47:21Z",
+   "lang": "en",
+   "excerpt": "Less-than-truckload carrier Roadrunner announced a new outbound Canada-to-U.S. service on Friday, alongside a 5.9% general rate increase taking effect on Nov. 2.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ltl"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "399ab40c82c2",
+   "title": "Wabtec earnings rise on higher freight and transit sales",
+   "link": "https://www.freightwaves.com/news/wabtec-earnings-rise-on-higher-freight-and-transit-sales",
+   "source": "freightwaves",
+   "published": "2026-10-23T18:06:23Z",
+   "seen": "2026-10-23T18:47:21Z",
+   "lang": "en",
+   "excerpt": "Rail equipment supplier Wabtec raised its outlook on higher third-quarter revenue and earnings.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "b4f7e72d60fd",
+   "title": "RCL restructures Far East–India service",
+   "link": "https://container-news.com/rcl-restructures-far-east-india-service/",
+   "source": "containernews",
+   "published": "2026-10-23T18:00:21Z",
+   "seen": "2026-10-23T18:47:21Z",
+   "lang": "en",
+   "excerpt": "Regional Container Lines (RCL) is restructuring its Far East–India RCH9 service by adding calls at Qinzhou, Hai Phong and Tuticorin. As part of the changes, Singapore and Kolkata will be removed from the rotation.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner",
+    "restructuring",
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "7de8e35bf1eb",
+   "title": "Trucking’s “Ruthless” vs. “Conservative:” Who’s Winning?",
+   "link": "https://www.freightwaves.com/news/truckings-ruthless-vs-conservative-whos-winning",
+   "source": "freightwaves",
+   "published": "2026-10-23T17:44:41Z",
+   "seen": "2026-10-23T18:47:21Z",
+   "lang": "en",
+   "excerpt": "In a lukewarm freight market, not all carriers are feeling the same heat. Craig Fuller and Paul Tonsager dive deep into why Knight-Swift’s ‘ruthless’ approach might be outperforming JB Hunt’s ‘conservative’ strategy, and what this means …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "intermodal"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "ad82c2f00640",
+   "title": "How Much Do Rejected Loads REALLY Cost Shippers?",
+   "link": "https://www.freightwaves.com/news/how-much-do-rejected-loads-really-cost-shippers",
+   "source": "freightwaves",
+   "published": "2026-10-23T17:37:11Z",
+   "seen": "2026-10-23T18:47:21Z",
+   "lang": "en",
+   "excerpt": "Discover how new Sonar indices are revolutionizing freight cost transparency. Shippers can now accurately track the real premiums paid for rejected loads and understand escalating contract rates.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "shipper-consignee",
+    "ftl"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "1d21e51e19b5",
+   "title": "Greek Tanker Sails for the U.S. with First Russian Diesel Cargo",
+   "link": "https://maritime-executive.com/article/greek-tanker-sails-for-the-u-s-with-first-russian-diesel-cargo",
+   "source": "marex",
+   "published": "2026-10-23T17:27:56Z",
+   "seen": "2026-10-23T18:47:21Z",
+   "lang": "en",
+   "excerpt": "The first Russian cargo of diesel fuel exported to the United States got underway on Friday, October 23, according to the Kremlin and independent sour...",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "cc4f05c48c54",
+   "title": "Mer kapasitet – likevel stiger fraktratene",
+   "link": "https://www.mtlogistikk.no/peter-sand-sjofrakt-xeneta/mer-kapasitet-likevel-stiger-fraktratene/1347738",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-23T15:45:18Z",
+   "seen": "2026-10-23T17:17:21Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -18,6 +143,237 @@
    "policy": false,
    "level": "national",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "91a69e324c99",
+   "title": "Rare Russian Diesel Shipment Expected in Norfolk November 2, Ahead of Tanker Bound for New York",
+   "link": "https://gcaptain.com/rare-russian-diesel-shipment-expected-to-arrive-in-norfolk-on-november-2/",
+   "source": "gcaptain",
+   "published": "2026-10-23T17:08:24Z",
+   "seen": "2026-10-23T18:47:21Z",
+   "lang": "en",
+   "excerpt": "A tanker carrying Russian diesel is expected to arrive in Norfolk, Virginia, on November 2, potentially becoming the first such shipment to reach the United States in more than three...",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "19c880fd29e4",
+   "title": "Hynion konkurs etter flere redningsforsøk",
+   "link": "https://www.mtlogistikk.no/hydrogen-konkurs/hynion-konkurs-etter-flere-redningsforsok/1347689",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-23T17:02:21Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "1802db9c5c07",
+   "title": "DynaLiners Shares Index retreats after record high",
+   "link": "https://container-news.com/dynaliners-shares-index-retreats-after-record-high/",
+   "source": "containernews",
+   "published": "2026-10-23T17:00:49Z",
+   "seen": "2026-10-23T18:47:21Z",
+   "lang": "en",
+   "excerpt": "The DynaLiners Shares Index (DLSI) fell sharply after reaching an all-time high during the previous week. The overall index declined by 74 points, or 2.6%, bringing it back towards more typical levels after its record-setting performance.",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "10e407683f65",
+   "title": "HD Hyundai–Kiewit Shipyard Plan Signals New Phase in South Korea’s U.S. Shipbuilding Push",
+   "link": "https://gcaptain.com/hd-hyundai-kiewit-shipyard-plan-signals-new-phase-in-south-koreas-u-s-shipbuilding-push/",
+   "source": "gcaptain",
+   "published": "2026-10-23T16:52:28Z",
+   "seen": "2026-10-23T18:47:21Z",
+   "lang": "en",
+   "excerpt": "South Korea’s push to help rebuild the American shipbuilding industry is moving beyond investments in existing shipyards and toward the development of entirely new production capacity. The latest example comes...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5c4ac6059ce2",
+   "title": "Sikret seg 280 mål til logistikk, industri og havn i Lyngdal",
+   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347673",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-23T16:47:21Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a7a7f679fc8b",
+   "title": "First Russian Diesel From Putin-Trump Deal Heading for US",
+   "link": "https://gcaptain.com/first-russian-diesel-from-putin-trump-deal-heading-for-us/",
+   "source": "gcaptain",
+   "published": "2026-10-23T16:34:11Z",
+   "seen": "2026-10-23T18:47:21Z",
+   "lang": "en",
+   "excerpt": "The first Russian diesel bound for the US following a surprise agreement reached between Moscow and US President Donald Trump is aboard a tanker heading for New York, ship-tracking data showed on Friday.",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f8a52da4ea5d",
+   "title": "Surfer på sky- og AI-bølgen",
+   "link": "https://www.mtlogistikk.no/kuehnenagel-kvartalsrapport-okonomi/surfer-pa-sky-og-ai-bolgen/1347521",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-23T16:32:21Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "862a8ed9c1a5",
+   "title": "Cost pressures sink Marten Transport’s Q3",
+   "link": "https://www.freightwaves.com/news/cost-pressures-sink-marten-transports-q3",
+   "source": "freightwaves",
+   "published": "2026-10-23T16:28:25Z",
+   "seen": "2026-10-23T18:47:21Z",
+   "lang": "en",
+   "excerpt": "Shares of refrigerated carrier Marten Transport dropped 7% in midday trading on Friday after a disappointing third-quarter report, which noted that rising fuel and health insurance costs dragged down performance despite improving …",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "reefer"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "17121da36c89",
+   "title": "Romania Blames Russia for Ship Attack Leaving 1 Dead and 3 Missing",
+   "link": "https://maritime-executive.com/article/romania-blames-russia-for-ship-attack-leaving-1-dead-and-3-missing",
+   "source": "marex",
+   "published": "2026-10-23T16:09:07Z",
+   "seen": "2026-10-23T18:47:21Z",
+   "lang": "en",
+   "excerpt": "Romania is conducting a search and rescue mission after another small cargo ship was attacked in the Black Sea. At the same time, Romania officials re...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "90685b5b5666",
+   "title": "5 US manufacturing projects bring more than $1.6B in investments",
+   "link": "https://www.freightwaves.com/news/5-us-manufacturing-projects-bring-more-than-1-6b-in-investments",
+   "source": "freightwaves",
+   "published": "2026-10-23T16:03:04Z",
+   "seen": "2026-10-23T18:47:21Z",
+   "lang": "en",
+   "excerpt": "Five shippers are investing more than $1.6 billion in new or expanded U.S. facilities, adding production capacity for commercial trailers, school buses, cooling systems and bottled beverages.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "shipper-consignee"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "4790514eb6e1",
+   "title": "Flytter lageret - kutter 80 ansatte",
+   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347159",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-23T16:02:21Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "48548d89fb09",
+   "title": "Yang Ming joins Evergreen’s Levant Express",
+   "link": "https://container-news.com/yang-ming-joins-evergreens-levant-express/",
+   "source": "containernews",
+   "published": "2026-10-23T16:00:44Z",
+   "seen": "2026-10-23T18:47:21Z",
+   "lang": "en",
+   "excerpt": "Yang Ming has begun chartering slots on Evergreen’s Levant Express (LEV), which connects the Greek transshipment hub of Piraeus with ports in Turkey and Israel.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "transshipment"
+   ],
    "paywall": false
   },
   {
@@ -101,6 +457,24 @@
    "paywall": false
   },
   {
+   "id": "3bd8e8562e9a",
+   "title": "Posten Bring åpner sin største pakketerminal",
+   "link": "https://www.mtlogistikk.no/moss-netthandel-posten-bring/posten-bring-apner-sin-storste-pakketerminal/1347775",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-23T14:02:21Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
    "id": "0d5e8b2b4a7d",
    "title": "China’s green shipping leverage lies upstream",
    "link": "https://container-news.com/chinas-green-shipping-leverage-lies-upstream/",
@@ -118,6 +492,26 @@
    "terms": [
     "ep"
    ],
+   "paywall": false
+  },
+  {
+   "id": "da8fac9a80cf",
+   "title": "A new PNW container port? $205M for Oregon rail project",
+   "link": "https://www.freightwaves.com/news/a-new-pnw-container-port-205m-for-oregon-rail-project",
+   "source": "freightwaves",
+   "published": "2026-10-23T13:37:00Z",
+   "seen": "2026-10-23T18:47:21Z",
+   "lang": "en",
+   "excerpt": "Oregon port wins $205 million in federal funding to upgrade its rail line and boost a proposed container terminal project.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
    "paywall": false
   },
   {
@@ -743,25 +1137,6 @@
    "excerpt": "",
    "segments": [
     "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "c393e39f1b28",
-   "title": "Sikret seg 280 mål til logistikk, industri og havn i Lyngdal",
-   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347107",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-23T09:11:40Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road",
-    "freight"
    ],
    "subs": [],
    "policy": false,
@@ -17892,375 +18267,6 @@
    "policy": false,
    "level": "national",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "0ffdc7991abe",
-   "title": "Prologis tops Q3 estimates, raises development starts forecast again",
-   "link": "https://www.freightwaves.com/news/prologis-tops-q3-estimates-raises-development-starts-forecast-again",
-   "source": "freightwaves",
-   "published": "2026-10-15T14:20:04Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Logistics warehouse operator Prologis beat third-quarter expectations and significantly raised its 2026 forecast for new development projects.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "9193cb2bff63",
-   "title": "Opinion: How politics and policy are rewriting the rules of parcel delivery",
-   "link": "https://www.freightwaves.com/news/opinion-how-politics-and-policy-are-rewriting-the-rules-of-parcel-delivery",
-   "source": "freightwaves",
-   "published": "2026-10-15T13:59:56Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Shifting trade policies, national security policies and labor regulations are having a major impact on e-commerce logistics.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "9558b9903c3d",
-   "title": "Seven Sailors Missing as Drones Strike Tankers Near Romania",
-   "link": "https://gcaptain.com/two-ships-ablaze-off-romanian-black-sea-coast-7-sailors-missing/",
-   "source": "gcaptain",
-   "published": "2026-10-15T13:31:19Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Rescuers were searching for seven missing crew on Thursday from one of two chemical tankers that caught fire overnight just outside Romanian territorial waters in the Black Sea, after Russian drones strayed into national airspace, Romanian …",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "3a9e249e81ab",
-   "title": "The Heavy-Duty Oil Standard Is Changing In January, What It Means For Your Fleet, Your Costs, And Your Equipment",
-   "link": "https://www.freightwaves.com/news/the-heavy-duty-oil-standard-is-changing-in-january-what-it-means-for-your-fleet-your-costs-and-your-equipment",
-   "source": "freightwaves",
-   "published": "2026-10-15T13:28:30Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "If your trucks have been running the same heavy-duty diesel engine oil since roughly 2017, whether you manage a hundred-truck fleet, run a small operation of a few units, or own the one truck you drive yourself, that oil is about to be …",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "d06c547dd6f0",
-   "title": "FedEx digitizes booking process for European cold-chain pharma shipments",
-   "link": "https://www.freightwaves.com/news/fedex-digitizes-booking-process-for-european-cold-chain-pharma-shipments",
-   "source": "freightwaves",
-   "published": "2026-10-15T12:47:29Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "A new FedEx system for booking temperature-controlled shipments is making life easier for pharmaceutical customers in Europe.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "241251f84e1e",
-   "title": "Rig provider and other contractors revealed for Timor-Leste's oil field",
-   "link": "https://offshore-energy.biz/2026/10/15/rig-provider-and-other-contractors-revealed-for-timor-lestes-oil-field",
-   "source": "offshoreenergy",
-   "published": "2026-10-15T12:32:59Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Oil & gas exploration player Finder Energy has awarded Japanese ENEOS Drilling a contract to provide a semi-submersible drilling rig for the...",
-   "segments": [
-    "road",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "rig"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "ffcc50f3ce9b",
-   "title": "Volvo’s 15% share goal runs through vocational trucks",
-   "link": "https://www.freightwaves.com/news/volvo-vocational-market-share-voorhoeve",
-   "source": "freightwaves",
-   "published": "2026-10-15T12:00:00Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Peter Voorhoeve says infrastructure work and the data center boom will keep vocational demand strong, and Volvo built the VNX to stop sitting out a quarter of the market",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "0b2a41396aea",
-   "title": "Subsea7 contracts Worley for Northern Lights' key subsea structures",
-   "link": "https://offshore-energy.biz/2026/10/15/subsea7-contracts-worley-for-northern-lights-key-subsea-structures",
-   "source": "offshoreenergy",
-   "published": "2026-10-15T11:37:05Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Subsea7 has awarded Worley Rosenberg a contract for the fabrication of key subsea structures and spools supporting the second phase of the...",
-   "segments": [
-    "road",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "ccs"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "1fa2cca4cc0b",
-   "title": "NLF til Stortinget: – Transportbedriftene kan ikke være bank for staten",
-   "link": "https://lastebil.no/aktuelt/nyheter/2026/nlf-til-stortinget-transportbedriftene-kan-ikke-vaere-bank-for-staten",
-   "source": "lastebil",
-   "published": "2026-10-15T11:34:46Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "no",
-   "excerpt": "Lastebileierne krever kortere saksbehandlingstid hos NAV for arbeidsgivernes sykepengerefusjon, og at bedriftene får beskjed når NAV innvilger eller avslår sykepenger.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "national",
-   "terms": [
-    "nav"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "444b61883086",
-   "title": "Ofgem to launch record tender looking for owner of Hornsea 3 offshore transmission assets",
-   "link": "https://offshore-energy.biz/2026/10/15/ofgem-to-launch-record-tender-looking-for-owner-of-hornsea-3-offshore-transmission-assets",
-   "source": "offshoreenergy",
-   "published": "2026-10-15T10:50:34Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "The UK energy regulator Ofgem will launch a tender round covering the transmission infrastructure for Ørsted’s 2.9 GW Hornsea 3 offshore wind...",
-   "segments": [
-    "road",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "offshore-wind"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "78ae69e72d57",
-   "title": "Westport becomes Aetherion, bets on CNG for US long-haul",
-   "link": "https://www.freightwaves.com/news/westport-aetherion-name-change-cng-hpdi",
-   "source": "freightwaves",
-   "published": "2026-10-15T10:30:00Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Westport Fuel Systems is now Aetherion Technologies. CEO Dan Sceli said the rename follows a narrower strategy built on HPDI and the Cespira joint venture with Volvo.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "744ea2dfd988",
-   "title": "Seascape Energy gets 45% more offshore acreage in Malaysia",
-   "link": "https://offshore-energy.biz/2026/10/15/seascape-energy-gets-45percent-more-offshore-acreage-in-malaysia",
-   "source": "offshoreenergy",
-   "published": "2026-10-15T09:33:21Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Malaysia’s state-owned oil & gas company Petronas has granted Seascape Energy, an E&P company focused on Southeast Asia, a 45% extension of its...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "ep"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "dd071feef37f",
-   "title": "TMC Compressors returns 20 years later to equip FPSO for new life in Brazil",
-   "link": "https://offshore-energy.biz/2026/10/15/tmc-compressors-returns-20-years-later-to-equip-fpso-for-new-life-in-brazil",
-   "source": "offshoreenergy",
-   "published": "2026-10-15T08:11:32Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Norway's TMC Compressors has been selected for the delivery of a compressed air system for a floating production, storage and offloading vessel...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "fpso"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "b24bc8ef1fb4",
-   "title": "Fiskeri- og havministeren deltar på DNVs presentasjon av årets Maritime Forecast",
-   "link": "https://www.regjeringen.no/no/aktuelt/fiskeri-og-havministeren-deltar-pa-dnvs-presentasjon-av-arets-maritime-forecast/id3177333/",
-   "source": "regjeringen",
-   "published": "2026-10-15T08:00:00Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "no",
-   "excerpt": "Fiskeri- og havminister Marianne Sivertsen Næss deltar på DNV (Det norske Veritas) sin presentasjon av årets Maritime Forecast.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "class-society"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "1df8e0252cbe",
-   "title": "Houston-based subsea services provider finds local partner in Brazil",
-   "link": "https://offshore-energy.biz/2026/10/15/houston-based-subsea-services-provider-finds-local-partner-in-brazil",
-   "source": "offshoreenergy",
-   "published": "2026-10-15T07:09:18Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Houston-based Zupt, part of Swiss technology group Rosenxt Group, has signed a framework agreement with Brazil's Mitang Brasil - Soluções...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "73b9e70e47aa",
-   "title": "Bli sett i høstmørket – bruk refleks!",
-   "link": "https://lastebil.no/aktuelt/nyheter/2026/bli-sett-i-hoestmoerket-bruk-refleks",
-   "source": "lastebil",
-   "published": "2026-10-15T06:37:21Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "no",
-   "excerpt": "I dag markeres Refleksdagen. Når høstmørket senker seg, blir det vanskeligere for sjåførene å oppdage fotgjengere langs veien. NLF oppfordrer alle til å bruke refleks, et enkelt tiltak som kan redde liv.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "d83039e4d1b4",
-   "title": "US Coast Guard Cutter Offloads 29,000 Pounds of Cocaine in Port Everglades",
-   "link": "https://maritime-executive.com/article/us-coast-guard-cutter-offloads-29-000-pounds-of-cocaine-in-port-everglades",
-   "source": "marex",
-   "published": "2026-10-15T03:12:01Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "On Wednesday, the U.S. Coast Guard cutter Tampa delivered nearly 30,000 pounds of cocaine to a pier in Port Everglades Florida. The crew of the 42-yea...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "f78ad1f95b78",
-   "title": "Samferdselsministeren - innleder på konferanse for tillitsvalgte i anleggsbransjen",
-   "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-innleder-pa-konferanse-for-tillitsvalgte-i-anleggsbransjen/id3177101/",
-   "source": "regjeringen",
-   "published": "2026-10-15T02:00:00Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "no",
-   "excerpt": "Samferdselsministeren innleder på konferanse for tillitsvalgte i anleggsbransjen i regi av Norsk Arbeidsmandsforbund.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a8a20b07b90b",
-   "title": "Taiwan Plans to Invest $4.4B in Alaska LNG, Subject to Negotiations",
-   "link": "https://maritime-executive.com/article/taiwan-plans-to-invest-4-4b-in-alaska-lng-subject-to-negotiations",
-   "source": "marex",
-   "published": "2026-10-15T00:15:36Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "On Wednesday, Taiwan's government confirmed that it currently plans to buy six million tonnes per annum of LNG from the Alaska LNG megaproject, and it...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng"
-   ],
    "paywall": false
   }
  ]
