@@ -1,7 +1,144 @@
 {
- "updated": "2026-10-23T00:54:39Z",
+ "updated": "2026-10-23T03:41:23Z",
  "sample": false,
  "articles": [
+  {
+   "id": "b6075f22c6d5",
+   "title": "Åpner ubemannet pakkesentral med 400 rom i Bergen",
+   "link": "https://www.mtlogistikk.no/bergen-instabee-instabox/apner-ubemannet-pakkesentral-med-400-rom-i-bergen/1346113",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-23T03:41:23Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "local",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "60007f92afb2",
+   "title": "68 tonn utslippsfri hybrid",
+   "link": "https://www.mtlogistikk.no/batterielektrisk-elektrisk-lastebil-hybrid-lastebil/68-tonn-utslippsfri-hybrid/1346775",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-23T03:26:23Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "9997cc16cc16",
+   "title": "WEC Lines adds Pakistan–Northwest Europe connection",
+   "link": "https://container-news.com/wec-lines-adds-pakistan-northwest-europe-connection/",
+   "source": "containernews",
+   "published": "2026-10-23T03:21:59Z",
+   "seen": "2026-10-23T03:41:23Z",
+   "lang": "en",
+   "excerpt": "WEC Lines will introduce a new northbound connection for export cargo moving from Karachi, Pakistan, to major ports in Northwest Europe.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "transshipment"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "ae8503031c1a",
+   "title": "A Year of Offshore Oil Spills Prompts Growing Concern in Mexico",
+   "link": "https://maritime-executive.com/article/a-year-of-offshore-oil-spills-prompts-growing-concern-in-mexico",
+   "source": "marex",
+   "published": "2026-10-23T03:17:05Z",
+   "seen": "2026-10-23T03:41:23Z",
+   "lang": "en",
+   "excerpt": "In early March, Andrés Palma was watching his children build a sandcastle on the beach in El Bosque, south-east Mexico. The fisher soon noticed that s...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4e928f9d825b",
+   "title": "Har startet serieproduksjonen",
+   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-tesla-semi/har-startet-serieproduksjonen/1346751",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-23T03:11:23Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "64af9974f5fc",
+   "title": "Hapag-Lloyd revises Italy inland fuel surcharge",
+   "link": "https://container-news.com/hapag-lloyd-revises-italy-inland-fuel-surcharge/",
+   "source": "containernews",
+   "published": "2026-10-23T02:30:57Z",
+   "seen": "2026-10-23T03:41:23Z",
+   "lang": "en",
+   "excerpt": "Hapag-Lloyd will revise its Inland Fuel Floater for applicable inland transportation services in Italy. The carrier attributed the adjustment to continued volatility in international energy markets and fluctuations in diesel prices.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "fuel-surcharge"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "27213dfc91c2",
+   "title": "Bureau Veritas grants type approval to WinGD’s variable compression technology",
+   "link": "https://container-news.com/bureau-veritas-grants-type-approval-to-wingds-variable-compression-technology/",
+   "source": "containernews",
+   "published": "2026-10-23T01:30:54Z",
+   "seen": "2026-10-23T03:41:23Z",
+   "lang": "en",
+   "excerpt": "Bureau Veritas Marine & Offshore has granted Type Approval to WinGD’s Variable Compression Ratio (VCR) technology, marking an important step in the development of more efficient marine dual-fuel engines.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "class-society",
+    "dual-fuel"
+   ],
+   "paywall": false
+  },
   {
    "id": "b3f10b07424f",
    "title": "Kuehne+Nagel Q3 profit jumps 53% as sea freight volumes return to growth",
@@ -111,60 +248,6 @@
    "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "bfd113db69e7",
-   "title": "68 tonn utslippsfri hybrid",
-   "link": "https://www.mtlogistikk.no/batterielektrisk-elektrisk-lastebil-hybrid-lastebil/68-tonn-utslippsfri-hybrid/1346950",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-22T22:39:39Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "719009bae324",
-   "title": "Har startet serieproduksjonen",
-   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-tesla-semi/har-startet-serieproduksjonen/1346933",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-22T22:24:39Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "7dcae7352e4c",
-   "title": "Åpner ubemannet pakkesentral med 400 rom i Bergen",
-   "link": "https://www.mtlogistikk.no/bergen-instabee-instabox/apner-ubemannet-pakkesentral-med-400-rom-i-bergen/1346917",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-22T22:09:39Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "local",
    "terms": [],
    "paywall": false
   },
@@ -18132,87 +18215,6 @@
    "policy": false,
    "level": "international",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "5f73cd9191de",
-   "title": "2002-built jack-up comes to Asian yard for MOPU conversion ahead of gas field deployment",
-   "link": "https://offshore-energy.biz/2026/10/13/2002-built-jack-up-comes-to-asian-yard-for-mopu-conversion-ahead-of-gas-field-deployment",
-   "source": "offshoreenergy",
-   "published": "2026-10-13T07:52:48Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "A 24-year-old jack-up will undergo a rig-to-MOPU conversion before it embarks on its upcoming job at a gas development in Southeast Asia.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "rig",
-    "mopu"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "b45c9284ea21",
-   "title": "North Sea operator appoints DOF for subsea decommissioning",
-   "link": "https://offshore-energy.biz/2026/10/13/north-sea-operator-appoints-dof-for-subsea-decommissioning",
-   "source": "offshoreenergy",
-   "published": "2026-10-13T07:35:14Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Norway's DOF Group has been awarded a contract it describes as significant to deliver a subsea decommissioning campaign for a North Sea operator....",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "decommissioning"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "c000391552f7",
-   "title": "Seadrill scores big with new rig awards in Asia, Africa, and US Gulf",
-   "link": "https://offshore-energy.biz/2026/10/13/seadrill-scores-big-with-new-rig-awards-in-asia-africa-and-us-gulf",
-   "source": "offshoreenergy",
-   "published": "2026-10-13T06:47:23Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Seadrill has secured a sweeping slate of rig deals and extensions, pushing its contracted 2027 drillship capacity past the 85% mark.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "rig"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "853116f5ed41",
-   "title": "EU Sanctions Russian Shipbuilding Sector, From Top Yards to Small Suppliers",
-   "link": "https://maritime-executive.com/article/eu-sanctions-russian-shipbuilding-sector-from-top-yards-to-small-supplier",
-   "source": "marex",
-   "published": "2026-10-13T03:34:35Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "The European Union has released its largest-ever sanctions package on Russian defense-industry companies, a counterpoint to the Trump administration's...",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "sanctions"
-   ],
    "paywall": false
   }
  ]
