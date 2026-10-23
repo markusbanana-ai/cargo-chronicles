@@ -1,7 +1,183 @@
 {
- "updated": "2026-10-23T12:49:18Z",
+ "updated": "2026-10-23T15:45:18Z",
  "sample": false,
  "articles": [
+  {
+   "id": "5af9ba5a1038",
+   "title": "Flytter lageret - kutter 80 ansatte",
+   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347196",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-23T15:45:18Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "bae56650cb4b",
+   "title": "COSCO expands Qinzhou–Thailand service",
+   "link": "https://container-news.com/cosco-expands-qinzhou-thailand-service/",
+   "source": "containernews",
+   "published": "2026-10-23T15:00:22Z",
+   "seen": "2026-10-23T15:45:18Z",
+   "lang": "en",
+   "excerpt": "COSCO Shipping Lines has expanded its weekly Qinzhou–Thailand Service (QTS), which connects South China with Vietnam and Thailand. According to DynaLiners, Hong Kong has been added to the service, together with a second call at Qinzhou …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner",
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "6243e5c4aab6",
+   "title": "Airbus sees 46% freighter increase by 2045 amid stable air cargo growth",
+   "link": "https://www.freightwaves.com/news/airbus-sees-46-freighter-increase-by-2045-amid-stable-air-cargo-growth",
+   "source": "freightwaves",
+   "published": "2026-10-23T14:54:15Z",
+   "seen": "2026-10-23T15:45:18Z",
+   "lang": "en",
+   "excerpt": "The Airbus 20-year outlook for freighter demand is little changed from last year, showing a global fleet nearly 50% larger than today.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "30bce7eace94",
+   "title": "Russian diesel tanker heads for U.S. following Trump-Putin deal",
+   "link": "https://www.freightwaves.com/news/russian-diesel-tanker-heads-for-u-s-following-trump-putin-deal",
+   "source": "freightwaves",
+   "published": "2026-10-23T14:37:51Z",
+   "seen": "2026-10-23T15:45:18Z",
+   "lang": "en",
+   "excerpt": "The first shipment of Russian diesel fuel heads for the U.S. as Trump looks for boost ahead of midterm elections.",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a0e6e5c54025",
+   "title": "NLRB ordered Amazon to bargain with Staten Island workers; it’s now in federal court",
+   "link": "https://www.freightwaves.com/news/nlrb-ordered-amazon-to-bargain-with-staten-island-workers-its-now-in-federal-court",
+   "source": "freightwaves",
+   "published": "2026-10-23T14:28:07Z",
+   "seen": "2026-10-23T15:45:18Z",
+   "lang": "en",
+   "excerpt": "Four and a half years after a grassroots union was voted in by workers at an Amazon warehouse in Staten Island, New York, the battles in court over Amazon’s pushback against the vote continues.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "0d5e8b2b4a7d",
+   "title": "China’s green shipping leverage lies upstream",
+   "link": "https://container-news.com/chinas-green-shipping-leverage-lies-upstream/",
+   "source": "containernews",
+   "published": "2026-10-23T14:00:30Z",
+   "seen": "2026-10-23T15:45:18Z",
+   "lang": "en",
+   "excerpt": "Most of Beijing’s green corridors are still on paper. Its control of the fuels they will need is not.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ep"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "12c69a82ffd7",
+   "title": "Yinson Production, PTSC cheer FSO’s first oil at Southeast Asian project",
+   "link": "https://offshore-energy.biz/2026/10/23/yinson-production-ptsc-cheer-fsos-first-oil-at-southeast-asian-project",
+   "source": "offshoreenergy",
+   "published": "2026-10-23T13:08:37Z",
+   "seen": "2026-10-23T15:45:18Z",
+   "lang": "en",
+   "excerpt": "Yinson Production and PTSC have achieved first oil ahead of schedule at a floating storage and offloading (FSO) vessel deployed offshore Vietnam.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "contango"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "e21e49dec9c2",
+   "title": "DOF opts to sell 2018-built subsea vessel as attractive offer emerges",
+   "link": "https://offshore-energy.biz/2026/10/23/dof-opts-to-sell-2018-built-subsea-vessel-as-attractive-offer-emerges",
+   "source": "offshoreenergy",
+   "published": "2026-10-23T12:54:06Z",
+   "seen": "2026-10-23T15:45:18Z",
+   "lang": "en",
+   "excerpt": "Norway's DOF Group is selling its 2018-built subsea construction vessel (CSV) Skandi Implementer to an undisclosed buyer. Mons S. Aase , CEO of...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "csv"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "8368069dab5e",
+   "title": "Natural gas discovery springs up in India’s shallow waters",
+   "link": "https://offshore-energy.biz/2026/10/23/natural-gas-discovery-springs-up-in-indias-shallow-waters",
+   "source": "offshoreenergy",
+   "published": "2026-10-23T12:21:22Z",
+   "seen": "2026-10-23T15:45:18Z",
+   "lang": "en",
+   "excerpt": "Oil India has found natural gas in the Krishna-Godavari Basin's shallow waters, augmenting India’s hydrocarbon arsenal.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
   {
    "id": "dfeae54977f7",
    "title": "Port of Riga to test resilient maritime communications under new partnership",
@@ -108,24 +284,6 @@
    "seen": "2026-10-23T12:49:18Z",
    "lang": "no",
    "excerpt": "Etter kritikken mot vinterdriften på riksveg 3 sammenligner Mesta sjåførenes forventninger med barns forventninger til julegaver. Norges Lastebileier-Forbund (NLF) reagerer kraftig: Trygg og framkommelig vinterveg er ingen gave, men en …",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "4790514eb6e1",
-   "title": "Flytter lageret - kutter 80 ansatte",
-   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347159",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-23T11:04:18Z",
-   "lang": "no",
-   "excerpt": "",
    "segments": [
     "road"
    ],
@@ -18102,153 +18260,6 @@
    "level": "international",
    "terms": [
     "lng"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "ffcb4a46675d",
-   "title": "Fincantieri Modernizes Wisconsin Yards with Investment by US Navy and MARAD",
-   "link": "https://maritime-executive.com/article/fincantieri-modernizes-wisconsin-yards-with-investment-by-us-navy-and-marad",
-   "source": "marex",
-   "published": "2026-10-14T23:09:17Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "The U.S.-based division of Fincantieri reports it is moving forward with $10 million in new U.S. Navy and U.S. Maritime Administration (MARAD) fundin...",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "62fd2bcb63cc",
-   "title": "US Plans Fees Citing Evidence of Spain’s Restrictive Port Practices",
-   "link": "https://maritime-executive.com/article/us-plans-fees-citing-evidence-of-spain-s-restrictive-port-practices",
-   "source": "marex",
-   "published": "2026-10-14T22:10:18Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "After a nearly two-year investigation, the Federal Maritime Commission says it found “conclusive evidence” of restrictive port practices by Spain that...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "cbff9c68a490",
-   "title": "UK’s Only Polar Icebreaker is Towed to Port to Investigate “Defect”",
-   "link": "https://maritime-executive.com/article/uk-s-only-polar-icebreaker-is-towed-to-port-to-investigate-defect",
-   "source": "marex",
-   "published": "2026-10-14T21:47:41Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "UK media is speculating that the Royal Navy may be facing a significant problem after its only polar icebreaker, HMS Protector, appears to have suffer...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "deca053cb938",
-   "title": "Austal Continues Efforts for Possible Sale of US Shipbuilding Operations",
-   "link": "https://maritime-executive.com/article/austal-continues-efforts-for-possible-sale-of-us-shipbuilding-operations",
-   "source": "marex",
-   "published": "2026-10-14T20:19:08Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Austal confirmed in a stock exchange filing on Wednesday, October 14, that it has commenced commercial negotiations with Hanwha Defense USA while also...",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "7efc6f3c0e65",
-   "title": "English language rule’s comments bring criticism from Sikh organization",
-   "link": "https://www.freightwaves.com/news/english-language-rules-comments-bring-criticism-from-sikh-organization",
-   "source": "freightwaves",
-   "published": "2026-10-14T20:13:47Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "The Sikh Coalition was one of the louder voices in opposition to FMCSA’s English language proposed rule.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "90a2753a845e",
-   "title": "U.S. Forces Destroy Iranian-Linked Dhow Accused of Targeting Navy Ships",
-   "link": "https://gcaptain.com/u-s-forces-destroy-iranian-linked-dhow-accused-of-targeting-navy-ships/",
-   "source": "gcaptain",
-   "published": "2026-10-14T20:01:31Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "U.S. forces destroyed an Iranian-affiliated dhow in the Gulf of Oman on October 6 after determining that the vessel was conducting surveillance and helping target American warships, U.S. Central Command...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "196829764daf",
-   "title": "Waabi signs Warrior Logistics for Dallas-Houston freight",
-   "link": "https://www.freightwaves.com/news/waabi-warrior-logistics-autonomous-freight-dallas-houston",
-   "source": "freightwaves",
-   "published": "2026-10-14T19:25:48Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Waabi says its Dallas-Houston commercial load volume is up more than 80% this year, and Warrior Logistics is now running routine customer freight on the corridor",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "cd78eaa404e9",
-   "title": "Intermodal: Freight’s MUST-HAVE in Volatile Markets",
-   "link": "https://www.freightwaves.com/news/intermodal-freights-must-have-in-volatile-markets",
-   "source": "freightwaves",
-   "published": "2026-10-14T19:00:08Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Intermodal conversion is no longer an option but a necessity for shippers, driven by past supply chain chaos and persistent fuel costs. FreightWaves Finance Editor Todd Maiden breaks down J.B.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "intermodal",
-    "shipper-consignee"
    ],
    "paywall": false
   }
