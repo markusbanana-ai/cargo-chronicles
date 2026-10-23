@@ -1,71 +1,71 @@
 {
- "updated": "2026-10-23T06:50:01Z",
+ "updated": "2026-10-23T09:41:40Z",
  "sources": {
   "lastebil": {
    "state": "ok",
    "items": 20,
    "kept": 20,
-   "checked": "2026-10-23T06:50:01Z"
+   "checked": "2026-10-23T09:41:40Z"
   },
   "mtlogistikk": {
    "state": "ok",
    "items": 40,
    "kept": 40,
-   "checked": "2026-10-23T06:50:01Z"
+   "checked": "2026-10-23T09:41:40Z"
   },
   "regjeringen": {
    "state": "ok",
-   "items": 99,
+   "items": 100,
    "kept": 3,
-   "checked": "2026-10-23T06:50:01Z"
+   "checked": "2026-10-23T09:41:40Z"
   },
   "freightwaves": {
    "state": "ok",
    "items": 56,
    "kept": 56,
-   "checked": "2026-10-23T06:50:01Z"
+   "checked": "2026-10-23T09:41:40Z"
   },
   "splash": {
    "state": "ok",
    "items": 10,
-   "kept": 9,
-   "checked": "2026-10-23T06:50:01Z"
+   "kept": 10,
+   "checked": "2026-10-23T09:41:40Z"
   },
   "hsn": {
    "state": "ok",
    "items": 20,
    "kept": 19,
-   "checked": "2026-10-23T06:50:01Z"
+   "checked": "2026-10-23T09:41:40Z"
   },
   "gcaptain": {
    "state": "ok",
    "items": 12,
-   "kept": 10,
-   "checked": "2026-10-23T06:50:01Z"
+   "kept": 11,
+   "checked": "2026-10-23T09:41:40Z"
   },
   "marex": {
    "state": "ok",
-   "items": 81,
-   "kept": 51,
-   "checked": "2026-10-23T06:50:01Z"
+   "items": 84,
+   "kept": 53,
+   "checked": "2026-10-23T09:41:40Z"
   },
   "containernews": {
    "state": "ok",
    "items": 10,
    "kept": 10,
-   "checked": "2026-10-23T06:50:01Z"
+   "checked": "2026-10-23T09:41:40Z"
   },
   "offshoreenergy": {
    "state": "ok",
    "items": 50,
    "kept": 44,
-   "checked": "2026-10-23T06:50:01Z"
+   "checked": "2026-10-23T09:41:40Z"
   },
   "imn": {
    "state": "ok",
    "items": 10,
    "kept": 10,
-   "checked": "2026-10-23T06:50:01Z"
+   "checked": "2026-10-23T09:41:40Z"
   },
   "transinfo": {
    "state": "paused"

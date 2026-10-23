@@ -1,13 +1,217 @@
 {
- "updated": "2026-10-23T06:50:01Z",
+ "updated": "2026-10-23T09:41:40Z",
  "sample": false,
  "articles": [
+  {
+   "id": "5af9ba5a1038",
+   "title": "Flytter lageret - kutter 80 ansatte",
+   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347196",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-23T09:41:40Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "53078efd5d31",
+   "title": "Seville backs $3.4m power upgrade for port expansion",
+   "link": "https://splash247.com/seville-backs-3-4m-power-upgrade-for-port-expansion/",
+   "source": "splash",
+   "published": "2026-10-23T09:35:22Z",
+   "seen": "2026-10-23T09:41:40Z",
+   "lang": "en",
+   "excerpt": "Spain’s Port of Seville is joining forces with energy company Endesa on an electricity network upgrade worth more than €3m ($3.4m) to support new logistics and industrial developments within the port.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "cb9e8466aab4",
+   "title": "Rio Tinto targets larger capesizes in $1.9bn Australian bauxite push",
+   "link": "https://splash247.com/rio-tinto-targets-larger-capesizes-in-1-9bn-australian-bauxite-push/",
+   "source": "splash",
+   "published": "2026-10-23T09:28:00Z",
+   "seen": "2026-10-23T09:41:40Z",
+   "lang": "en",
+   "excerpt": "Mining giant Rio Tinto has approved a $1.9bn investment in a major bauxite expansion in Australia’s Queensland state, including an upgrade of its export facilities to accommodate larger capesize bulk carriers.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "capesize",
+    "dry-bulk"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "61e9e47d7694",
+   "title": "ANNONSØRINNHOLD FOR AREOL Lur lagerløsning ga gründer full kontroll",
+   "link": "https://www.mtlogistikk.no/areol-areol-innredninger-as-lager/lur-lagerlosning-ga-gruender-full-kontroll/1347151",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-23T09:26:40Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c393e39f1b28",
+   "title": "Sikret seg 280 mål til logistikk, industri og havn i Lyngdal",
+   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347107",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-23T09:11:40Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "b9c1cdd1b001",
+   "title": "Essar Ports secures award for new multipurpose cargo terminal at Kandla",
+   "link": "https://container-news.com/essar-ports-secures-award-for-new-multipurpose-cargo-terminal-at-kandla/",
+   "source": "containernews",
+   "published": "2026-10-23T09:00:33Z",
+   "seen": "2026-10-23T09:41:40Z",
+   "lang": "en",
+   "excerpt": "Essar Ports has received a Letter of Award (LoA) from India’s Deendayal Port Authority to develop a new multipurpose cargo terminal at Tuna Tekra, Kandla. The project represents an investment of approximately INR 22.76 billion.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6a43d54432f2",
+   "title": "HD Hyundai to Build US Shipyard with Kiewit, Create 3,000 Jobs",
+   "link": "https://gcaptain.com/hd-hyundai-to-build-us-shipyard-with-kiewit-create-3000-jobs/",
+   "source": "gcaptain",
+   "published": "2026-10-23T08:58:05Z",
+   "seen": "2026-10-23T09:41:40Z",
+   "lang": "en",
+   "excerpt": "HD Hyundai Co 267250.KS said on Friday it has signed a deal with Kiewit Corp to start building an advanced US shipyard next year, with operations expected to begin in 2029 and create about 3,000 domestic jobs.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "b6075f22c6d5",
+   "title": "Åpner ubemannet pakkesentral med 400 rom i Bergen",
+   "link": "https://www.mtlogistikk.no/bergen-instabee-instabox/apner-ubemannet-pakkesentral-med-400-rom-i-bergen/1346113",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-23T08:56:40Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "local",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "bf351202f175",
+   "title": "Eni, PTTEP forge JV to consolidate stakes in ADNOC’s giant offshore sour gas asset",
+   "link": "https://offshore-energy.biz/2026/10/23/eni-pttep-forge-jv-to-consolidate-stakes-in-adnocs-giant-offshore-sour-gas-asset",
+   "source": "offshoreenergy",
+   "published": "2026-10-23T08:41:43Z",
+   "seen": "2026-10-23T09:41:40Z",
+   "lang": "en",
+   "excerpt": "PTTEP and Eni have created Seela Energies to streamline operations and combine their stakes in an ADNOC-operated concession off the coast of the UAE.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "60007f92afb2",
+   "title": "68 tonn utslippsfri hybrid",
+   "link": "https://www.mtlogistikk.no/batterielektrisk-elektrisk-lastebil-hybrid-lastebil/68-tonn-utslippsfri-hybrid/1346775",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-23T08:41:40Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4e928f9d825b",
+   "title": "Har startet serieproduksjonen",
+   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-tesla-semi/har-startet-serieproduksjonen/1346751",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-23T08:26:40Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
   {
    "id": "ddb4502d85a7",
    "title": "Fatigue, fear and the flaws in shipping’s safety data",
    "link": "https://splash247.com/fatigue-fear-and-the-flaws-in-shippings-safety-data/",
    "source": "splash",
-   "published": "2026-10-23T06:22:54Z",
+   "published": "2026-10-23T08:15:54Z",
    "seen": "2026-10-23T06:50:01Z",
    "lang": "en",
    "excerpt": "Seafarer fatigue, mental health and reluctance to report mistakes should become key considerations for marine insurers, banks and investors, according to new research warning that shipping is overlooking significant commercial risks hidden …",
@@ -19,6 +223,293 @@
    "subs": [],
    "policy": false,
    "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "d703810905b8",
+   "title": "Lønn tok en større del av inntektene hos 30 av 50",
+   "link": "https://www.mtlogistikk.no/godstransport-pa-vei-veifrakt-arsregnskapene-2025/lonn-tok-en-storre-del-av-inntektene-hos-30-av-50/1336891",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-23T08:11:40Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "50be748e3981",
+   "title": "How Maersk is building port power",
+   "link": "https://container-news.com/how-maersk-is-building-port-power/",
+   "source": "containernews",
+   "published": "2026-10-23T08:07:19Z",
+   "seen": "2026-10-23T09:41:40Z",
+   "lang": "en",
+   "excerpt": "One arm operates container terminals on contested corridors, the other buys the bulk ports that feed European industry. Together they form a single strategy of corridor control.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "09fcc04937bb",
+   "title": "Sierra Leone launches Chinese-backed national shipping company",
+   "link": "https://splash247.com/sierra-leone-launches-chinese-backed-national-shipping-company/",
+   "source": "splash",
+   "published": "2026-10-23T08:00:58Z",
+   "seen": "2026-10-23T09:41:40Z",
+   "lang": "en",
+   "excerpt": "Sierra Leone has launched a new national shipping company backed by China’s Zhejiang Xiehai Group, with ambitions to develop a fleet of 50 vessels and capture a greater share of the country’s international cargo trade.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk",
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8020cdc641dd",
+   "title": "Splash Wrap: Sanctions, spreadsheets and shipyards",
+   "link": "https://splash247.com/splash-wrap-sanctions-spreadsheets-and-shipyards/",
+   "source": "splash",
+   "published": "2026-10-23T07:45:35Z",
+   "seen": "2026-10-23T09:41:40Z",
+   "lang": "en",
+   "excerpt": "The Trump administration has begun authorising the sale of sanctioned oil tankers to approved investors who must then refurbish the vessels before returning them to legitimate crude trades, US energy secretary Chris Wright revealed on …",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers",
+    "drybulk",
+    "tankers"
+   ],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "sanctions",
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "9ff2ddc3e155",
+   "title": "Malaysian survey services firm enters collaboration in Indonesia and Timor-Leste",
+   "link": "https://offshore-energy.biz/2026/10/23/malaysian-survey-services-firm-enters-collaboration-in-indonesia-and-timor-leste",
+   "source": "offshoreenergy",
+   "published": "2026-10-23T07:44:29Z",
+   "seen": "2026-10-23T09:41:40Z",
+   "lang": "en",
+   "excerpt": "Malaysian offshore soil investigation and geotechnical engineering services company Helms Geomarine has signed a memorandum of understanding...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "50b8dac42583",
+   "title": "Små marginer for veitransportørene",
+   "link": "https://www.mtlogistikk.no/godstransport-pa-vei-oversikt-veifrakt/sma-marginer-for-veitransportorene/1337287",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-23T07:41:40Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4c79d33962b3",
+   "title": "Icon Energy faces shareholder revolt over dilution",
+   "link": "https://splash247.com/icon-energy-faces-shareholder-revolt-over-dilution/",
+   "source": "splash",
+   "published": "2026-10-23T07:30:14Z",
+   "seen": "2026-10-23T09:41:40Z",
+   "lang": "en",
+   "excerpt": "Nasdaq-listed Greek dry bulk owner Icon Energy is facing pressure from a significant shareholder to overhaul its capital structure and board, following accusations that repeated equity issuances have heavily diluted ordinary investors.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers",
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dry-bulk",
+    "capital-structure"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "9c40224ede81",
+   "title": "2677 veitransportører rangert: Hvor havner din?",
+   "link": "https://www.mtlogistikk.no/godstransport-pa-vei-oversikt-veifrakt/2677-veitransportorer-rangert-hvor-havner-din/1336829",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-23T07:26:40Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f963afb81042",
+   "title": "2600 veitransportører rangert:Disse veitransportørene satt igjen med mest",
+   "link": "https://www.mtlogistikk.no/godstransport-pa-vei-oversikt-veifrakt/2600-veitransportorer-rangertdisse-veitransportorene-satt-igjen-med-mest/1336866",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-23T07:11:40Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6aeb0fa989c7",
+   "title": "Framework agreement for planned AI giga campus at Oxagon",
+   "link": "https://container-news.com/framework-agreement-for-planned-ai-giga-campus-at-oxagon/",
+   "source": "containernews",
+   "published": "2026-10-23T07:03:31Z",
+   "seen": "2026-10-23T09:41:40Z",
+   "lang": "en",
+   "excerpt": "HUMAIN, the PIF company delivering full-stack artificial intelligence capabilities globally, and DataVolt, a developer and operator of sustainable digital infrastructure, have announced a preliminary framework agreement with Nebius, a …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "7b491a174992",
+   "title": "Laskaridis linked to $312m newcastlemax order in China",
+   "link": "https://splash247.com/laskaridis-linked-to-312m-newcastlemax-order-in-china/",
+   "source": "splash",
+   "published": "2026-10-23T07:00:35Z",
+   "seen": "2026-10-23T09:41:40Z",
+   "lang": "en",
+   "excerpt": "Greek shipowner Panos Laskaridis is making a return to the newcastlemax newbuilding market, with his Lavinia Bulkers linked to an order for four vessels worth around $312m in China.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "capesize",
+    "newbuilding",
+    "dry-bulk",
+    "shipbroker",
+    "dwt"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "2e9490056b56",
+   "title": "2567 veitransportører rangert:Driftsmarginer på nesten 100 prosent skjuler virkeligheten på veien",
+   "link": "https://www.mtlogistikk.no/driftsmargin-godstransport-pa-vei-oversikt/2567-veitransportorer-rangertdriftsmarginer-pa-nesten-100-prosent-skjuler-virkeligheten-pa-veien/1336853",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-23T06:56:40Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5fcf6cabdc09",
+   "title": "Cheniere to fuel QatarEnergy with US Gulf Coast LNG through 2054",
+   "link": "https://offshore-energy.biz/2026/10/23/cheniere-to-fuel-qatarenergy-with-us-gulf-coast-lng-through-2054",
+   "source": "offshoreenergy",
+   "published": "2026-10-23T06:54:28Z",
+   "seen": "2026-10-23T09:41:40Z",
+   "lang": "en",
+   "excerpt": "The multi-decade deal enables Cheniere to supply QatarEnergy with 4 million tonnes a year from its Gulf Coast facilities, starting in the early 2030s.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lng"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "0c375c767d1e",
+   "title": "2600 veitransportører rangert: Hvordan så deres driftsresultat ut i forhold til konkurrenten?",
+   "link": "https://www.mtlogistikk.no/godstransport-pa-vei-oversikt-veifrakt/2600-veitransportorer-rangert-hvordan-sa-deres-driftsresultat-ut-i-forhold-til-konkurrenten/1336841",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-23T06:41:40Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -45,24 +536,6 @@
    "paywall": false
   },
   {
-   "id": "1c282ab6305e",
-   "title": "New index tracks how much the world cares about shipping",
-   "link": "https://splash247.com/new-index-tracks-how-much-the-world-cares-about-shipping/",
-   "source": "splash",
-   "published": "2026-10-23T06:11:07Z",
-   "seen": "2026-10-23T06:50:01Z",
-   "lang": "en",
-   "excerpt": "A new online index – much trailed on Splash – measuring how much attention the global shipping industry receives has gone live, offering maritime companies a way to assess public interest in shipping news and major incidents.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "c1c80bb49433",
    "title": "Lastebilprodusentene ber om to års utsettelse av Euro 7",
    "link": "https://lastebil.no/aktuelt/nyheter/2026/lastebilprodusentene-ber-om-to-aars-utsettelse-av-euro-7",
@@ -78,6 +551,29 @@
    "policy": false,
    "level": "national",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6ab5d91359d6",
+   "title": "Taylor Maritime agrees final owned bulker sale ahead of London exit",
+   "link": "https://splash247.com/taylor-maritime-agrees-final-owned-bulker-sale-ahead-of-london-exit/",
+   "source": "splash",
+   "published": "2026-10-23T06:00:35Z",
+   "seen": "2026-10-23T09:41:40Z",
+   "lang": "en",
+   "excerpt": "London-listed Taylor Maritime has agreed to sell its last owned bulk carrier for $15.1m, taking its fleet disposal programme to 56 vessels and putting total proceeds on course to reach almost $933m.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dry-bulk"
+   ],
    "paywall": false
   },
   {
@@ -181,6 +677,24 @@
    "level": "international",
    "terms": [],
    "paywall": true
+  },
+  {
+   "id": "c7d9dff9b7c2",
+   "title": "HD Hyundai and Kiewit to build new US shipyard",
+   "link": "https://splash247.com/hd-hyundai-and-kiewit-to-build-new-us-shipyard/",
+   "source": "splash",
+   "published": "2026-10-23T05:53:38Z",
+   "seen": "2026-10-23T09:41:40Z",
+   "lang": "en",
+   "excerpt": "South Korea’s HD Hyundai has agreed to establish a joint venture with US engineering and construction giant Kiewit to build a new American shipyard, targeting operations from 2029.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
   },
   {
    "id": "8af7ca3cd1d7",
@@ -302,24 +816,6 @@
    "paywall": false
   },
   {
-   "id": "bfd113db69e7",
-   "title": "68 tonn utslippsfri hybrid",
-   "link": "https://www.mtlogistikk.no/batterielektrisk-elektrisk-lastebil-hybrid-lastebil/68-tonn-utslippsfri-hybrid/1346950",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-23T04:35:01Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "bda31031787e",
    "title": "Direct air capture competence Centre opened at Hamburg Blue Hub",
    "link": "https://container-news.com/direct-air-capture-competence-centre-opened-at-hamburg-blue-hub/",
@@ -337,42 +833,6 @@
    "terms": [
     "ccs"
    ],
-   "paywall": false
-  },
-  {
-   "id": "719009bae324",
-   "title": "Har startet serieproduksjonen",
-   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-tesla-semi/har-startet-serieproduksjonen/1346933",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-23T04:20:01Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "7dcae7352e4c",
-   "title": "Åpner ubemannet pakkesentral med 400 rom i Bergen",
-   "link": "https://www.mtlogistikk.no/bergen-instabee-instabox/apner-ubemannet-pakkesentral-med-400-rom-i-bergen/1346917",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-23T04:05:01Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "local",
-   "terms": [],
    "paywall": false
   },
   {
@@ -408,6 +868,47 @@
    "excerpt": "In early March, Andrés Palma was watching his children build a sandcastle on the beach in El Bosque, south-east Mexico. The fisher soon noticed that s...",
    "segments": [
     "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ea557e46b8bc",
+   "title": "BIMCO: Container Ship Orders are Driving China's Shipyard Surge",
+   "link": "https://maritime-executive.com/article/bimco-container-ship-orders-are-driving-china-s-shipyard-surge",
+   "source": "marex",
+   "published": "2026-10-23T03:06:39Z",
+   "seen": "2026-10-23T09:41:40Z",
+   "lang": "en",
+   "excerpt": "More than any other sector, ocean freight has driven the surge in shipyard activity over the past year, according to BIMCO, and it has boosted the for...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bimco",
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "1c282ab6305e",
+   "title": "New index tracks how much the world cares about shipping",
+   "link": "https://splash247.com/new-index-tracks-how-much-the-world-cares-about-shipping/",
+   "source": "splash",
+   "published": "2026-10-23T03:00:07Z",
+   "seen": "2026-10-23T06:50:01Z",
+   "lang": "en",
+   "excerpt": "A new online index – much trailed on Splash – measuring how much attention the global shipping industry receives has gone live, offering maritime companies a way to assess public interest in shipping news and major incidents.",
+   "segments": [
+    "freight"
    ],
    "subs": [],
    "policy": false,
@@ -1646,6 +2147,26 @@
    "level": "international",
    "terms": [
     "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "c050b2e26146",
+   "title": "Skuld Positions Organisation for Future Growth",
+   "link": "https://maritime-executive.com/article/skuld-positions-organisation-for-future-growth",
+   "source": "marex",
+   "published": "2026-10-22T16:33:00Z",
+   "seen": "2026-10-23T09:41:40Z",
+   "lang": "en",
+   "excerpt": "Skuld, a world-leading marine insurer, today announces organisational changes to further strengthen the value delivered to members, clients and broker...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "pi-club"
    ],
    "paywall": false
   },
@@ -3889,26 +4410,6 @@
    "terms": [
     "lpg",
     "units"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "562e99354666",
-   "title": "Skuld positions organisation for future growth",
-   "link": "https://www.hellenicshippingnews.com/skuld-positions-organisation-for-future-growth/",
-   "source": "hsn",
-   "published": "2026-10-21T21:00:41Z",
-   "seen": "2026-10-21T21:42:09Z",
-   "lang": "en",
-   "excerpt": "Skuld today announces organisational changes to further strengthen the value delivered to members, clients and brokers. Following several years of strong and sustained growth across products, markets and geographies, Skuld is evolving its …",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "pi-club"
    ],
    "paywall": false
   },
@@ -8355,24 +8856,6 @@
    "terms": [
     "rig"
    ],
-   "paywall": false
-  },
-  {
-   "id": "67e487946393",
-   "title": "Norsk sensorteknologi i unik palleteringsløsning",
-   "link": "https://www.mtlogistikk.no/berobox-palletering-robotsikkerhet/norsk-sensorteknologi-skal-sikre-uavbrutt-palletering-i-krevende-industrimiljoer/1344306",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-20T09:40:41Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -17754,471 +18237,6 @@
    "subs": [
     "containers"
    ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "4a65cdb65814",
-   "title": "Petrobras lands $859 million payout from oil fields deal with Shell, TotalEnergies, and Petrogal",
-   "link": "https://offshore-energy.biz/2026/10/14/petrobras-lands-dollar859-million-payout-from-oil-fields-deal-with-shell-totalenergies-and-petrogal",
-   "source": "offshoreenergy",
-   "published": "2026-10-14T10:05:43Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "This deal enables Petrobras to reconcile historical costs and production revenues for two deepwater assets in the Santos Basin offshore Brazil.",
-   "segments": [
-    "finance",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "99fba12640fc",
-   "title": "Philadelphia ports sets $837 million expansion, first new berth in 50 years",
-   "link": "https://www.freightwaves.com/news/philadelphia-ports-sets-837-million-expansion-first-new-berth-in-50-years",
-   "source": "freightwaves",
-   "published": "2026-10-14T10:05:00Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Public-private investment of nearly $1 billion will support PhilaPort’s largest-ever expansion.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "291910dae350",
-   "title": "EIB backs Fugro's USV technology development with €150 million",
-   "link": "https://offshore-energy.biz/2026/10/14/eib-backs-fugros-usv-technology-development-with-euro150-million",
-   "source": "offshoreenergy",
-   "published": "2026-10-14T08:26:26Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Dutch Fugro has secured long-term funding with a new facility from the European Investment Bank (EIB) to support the phased expansion of its...",
-   "segments": [
-    "finance",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "0ffad505acf3",
-   "title": "New oil & gas discovery set to join North Sea fast-track plays fuelling Europe’s energy security",
-   "link": "https://offshore-energy.biz/2026/10/14/new-oil-and-gas-discovery-set-to-join-north-sea-fast-track-plays-fuelling-europes-energy-security",
-   "source": "offshoreenergy",
-   "published": "2026-10-14T07:52:17Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Equinor, Petoro, and TotalEnergies have found up to 50 million barrels in the North Sea and are eyeing first production in under three years.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "51dcd93b9e07",
-   "title": "Pacifico Energy launches survey campaign for 1.8 GW offshore wind projects in Vietnam",
-   "link": "https://offshore-energy.biz/2026/10/14/pacifico-energy-launches-survey-campaign-for-18-gw-offshore-wind-projects-in-vietnam",
-   "source": "offshoreenergy",
-   "published": "2026-10-14T07:03:19Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Pacifico Energy Vietnam has launched an offshore technical survey campaign for two projects with a combined capacity of 1.8 GW, following the...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "offshore-wind"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "354d0b1a1c74",
-   "title": "Kistos strengthens its presence in North Sea oil & gas hub with Vår Energi deal",
-   "link": "https://offshore-energy.biz/2026/10/14/kistos-strengthens-its-presence-in-north-sea-oil-and-gas-hub-with-var-energi-deal",
-   "source": "offshoreenergy",
-   "published": "2026-10-14T06:34:56Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Kistos is expanding its North Sea footprint through a multimillion-dollar acquisition with Vår Energi, boosting its hydrocarbon portfolio.",
-   "segments": [
-    "finance",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "df173d99ba97",
-   "title": "Two More Ship Strikes Reported in the Strait of Hormuz",
-   "link": "https://maritime-executive.com/article/two-more-ship-strikes-reported-in-the-strait-of-hormuz",
-   "source": "marex",
-   "published": "2026-10-14T03:45:24Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "On Tuesday, strikes on merchant shipping in the Strait of Hormuz continued with two reported attacks, according to UK Maritime Trade Operations. UKMTO...",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "ab6b32babf24",
-   "title": "American Nuclear Power Barge Startup Buys its First Uranium Fuel",
-   "link": "https://maritime-executive.com/article/american-nuclear-power-barge-startup-buys-its-first-uranium-fuel",
-   "source": "marex",
-   "published": "2026-10-14T02:36:15Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "American ambitions to bring nuclear power back to the waterfront are gathering steam: Bluecore Energy, the Long Beach-based floating nuclear power sta...",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "4f81118af8fd",
-   "title": "Panama Moves to Revoke Registry from Three Tankers Sanctioned by U.S.",
-   "link": "https://maritime-executive.com/article/panama-moves-to-revoke-registry-from-three-tankers-sanctioned-by-u-s",
-   "source": "marex",
-   "published": "2026-10-14T01:44:54Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "The Panama Maritime Authority is highlighting that it is moving quickly to expel three tankers that were sanctioned days ago by the United States in t...",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "sanctions"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "6c7934f64337",
-   "title": "Suez Canal Highlights Continued Return of Containerships",
-   "link": "https://maritime-executive.com/article/suez-canal-highlights-continued-return-of-containerships",
-   "source": "marex",
-   "published": "2026-10-14T00:25:49Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "The Suez Canal Authority reports it hit a new milestone in rebuilding volumes following the disruptions due to Red Sea security concerns. Despite the...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint",
-    "liner"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "8800d5c3f5c6",
-   "title": "South Korea Renews Commitment to Arctic Service as Boxship Ends NSR Trip",
-   "link": "https://maritime-executive.com/article/south-korean-containership-completes-demonstration-arctic-voyage",
-   "source": "marex",
-   "published": "2026-10-13T23:17:37Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "South Korea celebrated the completion of its first Arctic round trip using a containership. Government officials said it demonstrated the potential of...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "liner"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "c527ffcf28cb",
-   "title": "Charterparty Details are Key in an Era of Constrained Chokepoints",
-   "link": "https://maritime-executive.com/article/charterparty-details-are-key-in-an-era-of-constrained-chokepoints",
-   "source": "marex",
-   "published": "2026-10-13T22:32:46Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Since the February 2026 commencement of the military operations in Iran, the issue of maritime shipping chokepoints has dominated headlines, with the...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "charter-party",
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "ba94e4e61ab6",
-   "title": "Taiwan Makes \"Landmark\" Purchase of American-Made Unmanned Surface Vessels",
-   "link": "https://maritime-executive.com/article/taiwan-makes-landmark-purchase-of-american-made-unmanned-surface-vessels",
-   "source": "marex",
-   "published": "2026-10-13T21:24:30Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Taiwan's Coast Guard Administration has agreed to buy autonomous surface vessels from the American boatbuilder Maritime Tactical Systems (MARTAC), mak...",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "840008e2c7e0",
-   "title": "U.S. Navy Seeks Contractors for $15 Billion Puget Sound Shipyard Upgrade",
-   "link": "https://maritime-executive.com/article/u-s-navy-seeks-contractors-for-15-billion-puget-sound-shipyard-upgrade",
-   "source": "marex",
-   "published": "2026-10-13T20:56:27Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "The U.S. Navy is moving towards the selection of a contractor for its massive Bremerton naval shipyard overhaul, one of the largest maritime infrastr...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "4183e63533f1",
-   "title": "Samsara makes AI agent platform generally available, reports 7x adoption growth",
-   "link": "https://www.freightwaves.com/news/samsara-makes-ai-agent-platform-generally-available-reports-7x-adoption-growth",
-   "source": "freightwaves",
-   "published": "2026-10-13T19:30:38Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Samsara has made its no-code Agent Studio platform generally available, allowing customers to build AI agents for tasks such as driver compliance monitoring, operational reporting and driver communication.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "29571c92374e",
-   "title": "Despite new record, Port of LA chief warns of tariff-driven planning risk",
-   "link": "https://www.freightwaves.com/news/despite-new-record-port-of-la-chief-warns-of-tariff-driven-planning-risk",
-   "source": "freightwaves",
-   "published": "2026-10-13T19:30:00Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "After the busiest month in its 118-year history, tariffs and sourcing shifts roil the trans-Pacific trade lane.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "e65010724a6d",
-   "title": "25,000 Drivers Lost: US-Mexico Border Crisis Explained",
-   "link": "https://www.freightwaves.com/news/25000-drivers-lost-us-mexico-border-crisis-explained",
-   "source": "freightwaves",
-   "published": "2026-10-13T18:42:23Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Cross-border freight capacity is facing unprecedented challenges. With 25,000 Mexican driver visas revoked, and significant tender rejections at both the US-Mexico and US-Canada borders, rates are skyrocketing.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "e247d69e558a",
-   "title": "Canada Tariffs Are Changing Freight Strategy Fast",
-   "link": "https://www.freightwaves.com/news/canada-tariffs-are-changing-freight-strategy-fast",
-   "source": "freightwaves",
-   "published": "2026-10-13T18:41:13Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Canada-US trade tension is forcing fast changes in cross-border logistics. James Edge breaks down how importers, exporters and retailers are handling tariffs, shifting demand and new data requirements.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "5d45f26f2219",
-   "title": "Diesel Prices Surge 20 Cents: Why the Fuel Market is in Crisis",
-   "link": "https://www.freightwaves.com/news/diesel-prices-surge-20-cents-why-the-fuel-market-is-in-crisis",
-   "source": "freightwaves",
-   "published": "2026-10-13T18:40:22Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Diesel prices just jumped 20 cents in a few hours, and experts warn we’re “running out of bullets” as inventories dwindle. We dive into the latest fuel market data, the impact of red-dyed diesel policies, and how geopolitical events are …",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "85f6a6283108",
-   "title": "Mexico truck exports soar 145% as US demand accelerates",
-   "link": "https://www.freightwaves.com/news/mexico-truck-exports-soar-145-as-us-demand-accelerates",
-   "source": "freightwaves",
-   "published": "2026-10-13T17:49:57Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Mexico's heavy-duty vehicle exports surged 144.6% in September, driven in part by U.S. demand ahead of new emissions requirements.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "453ed297fefd",
-   "title": "How National Debt Affects Freight Costs and Financing",
-   "link": "https://www.freightwaves.com/news/how-national-debt-affects-freight-costs-and-financing",
-   "source": "freightwaves",
-   "published": "2026-10-13T17:46:25Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "U.S. debt topped $40 trillion and interest now exceeds $1 trillion a year. Here’s how rising borrowing costs hit truck financing, carriers and warehouses.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a357725948b8",
-   "title": "SONAR Pricing Power Index Slips to 70 as Intermodal Contract Rates Fall",
-   "link": "https://www.freightwaves.com/news/sonar-pricing-power-index-slips-to-70-as-intermodal-contract-rates-fall",
-   "source": "freightwaves",
-   "published": "2026-10-13T17:34:52Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "The SONAR Pricing Power Index fell to 70 this week as intermodal contract rates and ocean bookings softened. Truckload rejections held near 13.9%.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "intermodal",
-    "ftl"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "2b5e1f7d1840",
-   "title": "CCT Auto Trans expands car haul coverage map in Livingston VTS deal",
-   "link": "https://www.freightwaves.com/news/cct-auto-trans-expands-car-haul-coverage-map-in-livingston-vts-deal",
-   "source": "freightwaves",
-   "published": "2026-10-13T16:50:49Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Car hauler CCT Auto Trans announced it has acquired industry peer Livingston Vehicle Transportation Services.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "e2ac97865131",
-   "title": "UPDATE: Benchmark diesel falls as futures rise",
-   "link": "https://www.freightwaves.com/news/russian-diesel-deal-having-limited-impact-if-any-on-prices",
-   "source": "freightwaves",
-   "published": "2026-10-13T15:48:50Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "The diesel market is going through its typical recent volatility, and there doesn’t seem to be much impact from the Trump deal with Russia.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
    "policy": false,
    "level": "international",
    "terms": [],
