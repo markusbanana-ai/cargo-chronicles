@@ -1,32 +1,313 @@
 {
- "updated": "2026-10-23T03:41:23Z",
+ "updated": "2026-10-23T06:50:01Z",
  "sample": false,
  "articles": [
   {
-   "id": "b6075f22c6d5",
-   "title": "Åpner ubemannet pakkesentral med 400 rom i Bergen",
-   "link": "https://www.mtlogistikk.no/bergen-instabee-instabox/apner-ubemannet-pakkesentral-med-400-rom-i-bergen/1346113",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-23T03:41:23Z",
+   "id": "ddb4502d85a7",
+   "title": "Fatigue, fear and the flaws in shipping’s safety data",
+   "link": "https://splash247.com/fatigue-fear-and-the-flaws-in-shippings-safety-data/",
+   "source": "splash",
+   "published": "2026-10-23T06:22:54Z",
+   "seen": "2026-10-23T06:50:01Z",
+   "lang": "en",
+   "excerpt": "Seafarer fatigue, mental health and reluctance to report mistakes should become key considerations for marine insurers, banks and investors, according to new research warning that shipping is overlooking significant commercial risks hidden …",
+   "segments": [
+    "freight",
+    "finance",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8cdfeda66fc7",
+   "title": "Iraq is building a fleet on a temporary advantage",
+   "link": "https://container-news.com/iraq-is-building-a-fleet-on-a-temporary-advantage/",
+   "source": "containernews",
+   "published": "2026-10-23T06:11:46Z",
+   "seen": "2026-10-23T06:50:01Z",
+   "lang": "en",
+   "excerpt": "Baghdad is converting Iran’s Hormuz exemption into shipping capacity across crude, containers and passengers. The value of that footprint rises with the crisis it depends on.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "1c282ab6305e",
+   "title": "New index tracks how much the world cares about shipping",
+   "link": "https://splash247.com/new-index-tracks-how-much-the-world-cares-about-shipping/",
+   "source": "splash",
+   "published": "2026-10-23T06:11:07Z",
+   "seen": "2026-10-23T06:50:01Z",
+   "lang": "en",
+   "excerpt": "A new online index – much trailed on Splash – measuring how much attention the global shipping industry receives has gone live, offering maritime companies a way to assess public interest in shipping news and major incidents.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c1c80bb49433",
+   "title": "Lastebilprodusentene ber om to års utsettelse av Euro 7",
+   "link": "https://lastebil.no/aktuelt/nyheter/2026/lastebilprodusentene-ber-om-to-aars-utsettelse-av-euro-7",
+   "source": "lastebil",
+   "published": "2026-10-23T06:10:37Z",
+   "seen": "2026-10-23T06:50:01Z",
    "lang": "no",
-   "excerpt": "",
+   "excerpt": "Det har vært mange spørsmål rundt innføringen av Euro 7. Europeiske lastebilprodusenter mener sentrale testmetoder fortsatt ikke er klare, og ber om å skyve innføringen av Euro 7 for tunge kjøretøy to år fram i tid.",
    "segments": [
     "road"
    ],
    "subs": [],
    "policy": false,
-   "level": "local",
+   "level": "national",
    "terms": [],
    "paywall": false
   },
   {
-   "id": "60007f92afb2",
+   "id": "638de5008ba8",
+   "title": "Russian diesel cargoes return to traditional destinations after US sanctions suspension",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/russian-diesel-cargoes-return-to-traditional-destinations-after-us-sanctions-suspension/",
+   "source": "imn",
+   "published": "2026-10-23T05:57:41Z",
+   "seen": "2026-10-23T06:50:01Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "road",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "sanctions"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "035b314a15b7",
+   "title": "OFAC sanctions law firm, two shipping agencies, nine more vessels",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/ofac-sanctions-law-firm-two-shipping-agencies-nine-more-vessels/",
+   "source": "imn",
+   "published": "2026-10-23T05:56:47Z",
+   "seen": "2026-10-23T06:50:01Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "sanctions"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "2c3dc1f160ec",
+   "title": "All crewmembers safe after attack in Strait of Hormuz",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/all-crewmembers-safe-after-attack-in-strait-of-hormuz/",
+   "source": "imn",
+   "published": "2026-10-23T05:56:03Z",
+   "seen": "2026-10-23T06:50:01Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "d26ec0acc965",
+   "title": "UK P&I Club and TT Club complete joint acquisition of Thomas Miller Holdings",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/uk-pi-club-and-tt-club-complete-joint-acquisition-of-thomas-miller-holdings/",
+   "source": "imn",
+   "published": "2026-10-23T05:55:15Z",
+   "seen": "2026-10-23T06:50:01Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "finance",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "pi-club"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "724c48a775b6",
+   "title": "Price Forbes appoints Anthony Burnell-Nugent CEO of Marine; Paul Kearns becomes Chairman",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/price-forbes-appoints-anthony-burnell-nugent-ceo-of-marine-paul-kearns-becomes-chairman/",
+   "source": "imn",
+   "published": "2026-10-23T05:54:17Z",
+   "seen": "2026-10-23T06:50:01Z",
+   "lang": "en",
+   "excerpt": "Independent specialty broker Price Forbes has named Paul Kearns as Chairman of Marine, with Anthony Burnell-Nugent being promoted to Chief Executive Officer, Marine. Kearns has been at Price Forbes for more than 20 years.",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "8af7ca3cd1d7",
+   "title": "Egypt rejects Libya/Türkiye maritime boundary agreement",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/egypt-rejects-libya-turkiye-maritime-boundary-agreement/",
+   "source": "imn",
+   "published": "2026-10-23T05:53:31Z",
+   "seen": "2026-10-23T06:50:01Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "9c4d735d7896",
+   "title": "Lockton non-Group insurer summary: Türk P&I",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/lockton-non-group-insurer-summary-turk-pi/",
+   "source": "imn",
+   "published": "2026-10-23T05:52:30Z",
+   "seen": "2026-10-23T06:50:01Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "insurance-broker",
+    "pi"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "80a3007ef0ec",
+   "title": "Salvage operation clears more than two-thirds of MSC Baltic III",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/salvage-operation-clears-more-than-two-thirds-of-msc-baltic-iii/",
+   "source": "imn",
+   "published": "2026-10-23T05:51:24Z",
+   "seen": "2026-10-23T06:50:01Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "salvage"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "44b8acfcf04f",
+   "title": "Investigation into Filo Jet disaster continues",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/investigation-into-filo-jet-disaster-continues/",
+   "source": "imn",
+   "published": "2026-10-23T05:50:29Z",
+   "seen": "2026-10-23T06:50:01Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "d18563650874",
+   "title": "Interferry expresses concern at EU Emission regulation delays",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/interferry-expresses-concern-at-eu-emission-regulation-delays/",
+   "source": "imn",
+   "published": "2026-10-23T05:49:40Z",
+   "seen": "2026-10-23T06:50:01Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "f1fd2c0d6a1f",
+   "title": "Maersk updates customs multi-stop rates in Honduras",
+   "link": "https://container-news.com/maersk-updates-customs-multi-stop-rates-in-honduras/",
+   "source": "containernews",
+   "published": "2026-10-23T05:21:44Z",
+   "seen": "2026-10-23T06:50:01Z",
+   "lang": "en",
+   "excerpt": "Maersk has revised the rates for its customs multi-stop service in Honduras with immediate effect. The carrier attributed the adjustment to higher fuel costs recently announced by the Honduran Institute of Land Transportation, which have …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "bfd113db69e7",
    "title": "68 tonn utslippsfri hybrid",
-   "link": "https://www.mtlogistikk.no/batterielektrisk-elektrisk-lastebil-hybrid-lastebil/68-tonn-utslippsfri-hybrid/1346775",
+   "link": "https://www.mtlogistikk.no/batterielektrisk-elektrisk-lastebil-hybrid-lastebil/68-tonn-utslippsfri-hybrid/1346950",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-23T03:26:23Z",
+   "seen": "2026-10-23T04:35:01Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -35,6 +316,62 @@
    "subs": [],
    "policy": false,
    "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "bda31031787e",
+   "title": "Direct air capture competence Centre opened at Hamburg Blue Hub",
+   "link": "https://container-news.com/direct-air-capture-competence-centre-opened-at-hamburg-blue-hub/",
+   "source": "containernews",
+   "published": "2026-10-23T04:32:22Z",
+   "seen": "2026-10-23T06:50:01Z",
+   "lang": "en",
+   "excerpt": "eFUEL GROUP and DACMA GmbH have opened the DACMA Competence Center at Hamburg Blue Hub, combining the testing of modular CO2 capture technologies with preparations for international applications.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ccs"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "719009bae324",
+   "title": "Har startet serieproduksjonen",
+   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-tesla-semi/har-startet-serieproduksjonen/1346933",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-23T04:20:01Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "7dcae7352e4c",
+   "title": "Åpner ubemannet pakkesentral med 400 rom i Bergen",
+   "link": "https://www.mtlogistikk.no/bergen-instabee-instabox/apner-ubemannet-pakkesentral-med-400-rom-i-bergen/1346917",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-23T04:05:01Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "local",
    "terms": [],
    "paywall": false
   },
@@ -79,24 +416,6 @@
    "paywall": false
   },
   {
-   "id": "4e928f9d825b",
-   "title": "Har startet serieproduksjonen",
-   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-tesla-semi/har-startet-serieproduksjonen/1346751",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-23T03:11:23Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "64af9974f5fc",
    "title": "Hapag-Lloyd revises Italy inland fuel surcharge",
    "link": "https://container-news.com/hapag-lloyd-revises-italy-inland-fuel-surcharge/",
@@ -136,6 +455,26 @@
    "terms": [
     "class-society",
     "dual-fuel"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "cf8bddaef3cc",
+   "title": "LR: Ports Will Benefit From Early Planning for Nuclear Power Systems",
+   "link": "https://maritime-executive.com/article/lr-ports-will-benefit-from-early-planning-for-nuclear-power-systems",
+   "source": "marex",
+   "published": "2026-10-23T01:23:34Z",
+   "seen": "2026-10-23T06:50:01Z",
+   "lang": "en",
+   "excerpt": "In a new white paper, Lloyd's Register and the British Ports Association (BPA) are encouraging port operators to get ready for the arrival of nuclear-...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "class-society"
    ],
    "paywall": false
   },
@@ -17878,338 +18217,6 @@
    "excerpt": "The diesel market is going through its typical recent volatility, and there doesn’t seem to be much impact from the Trump deal with Russia.",
    "segments": [
     "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "5bcb1dff4c01",
-   "title": "TL linehaul rates up 10% in September, shipment counts remain positive",
-   "link": "https://www.freightwaves.com/news/cass-tl-linehaul-rates-up-10-in-september-shipment-counts-remain-positive",
-   "source": "freightwaves",
-   "published": "2026-10-13T15:03:35Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "September data from Cass showed truckload linehaul rates rose 10% and freight shipments grew for the second consecutive month following a 42-month downturn.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "ftl"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "fa931ad91bc6",
-   "title": "Diesel Prices & Freight Trends: What’s Driving the Market in Q4?",
-   "link": "https://www.freightwaves.com/news/diesel-prices-freight-trends-whats-driving-the-market-in-q4",
-   "source": "freightwaves",
-   "published": "2026-10-13T14:38:15Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Craig Fuller dives deep into the latest SONAR data, revealing how contract rates are climbing past recession highs, spot rates are trending up towards peak, and why demand isn’t the primary driver of current market volume.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "spot-market"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "fb62ed737e2d",
-   "title": "The AI Boom: Why It’s Replacing E-commerce in Global Freight",
-   "link": "https://www.freightwaves.com/news/the-ai-boom-why-its-replacing-e-commerce-in-global-freight",
-   "source": "freightwaves",
-   "published": "2026-10-13T14:36:54Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "AI has officially taken over e-commerce as the main driver of air freight out of Asia. This massive shift is fueled by semiconductor and data center equipment demands.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "bd7027feebc2",
-   "title": "Truck driver, 74, killed in Interstate 84 rollover in Idaho",
-   "link": "https://www.freightwaves.com/news/truck-driver-74-killed-in-interstate-84-rollover-in-idaho",
-   "source": "freightwaves",
-   "published": "2026-10-13T14:36:08Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "A 74-year-old Nevada truck driver died after his tractor-trailer overturned along Interstate 84 near Boise early Monday.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "854e9c580d5e",
-   "title": "Electric Trucks: The REALITY for Tesla Semi & Volvo Fleets",
-   "link": "https://www.freightwaves.com/news/electric-trucks-the-reality-for-tesla-semi-volvo-fleets",
-   "source": "freightwaves",
-   "published": "2026-10-13T14:35:52Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Electric trucks are here, but what’s the real-world experience like? Hight Logistics CEO Rudy Diaz, who operates 2,500 electric trucks including Tesla Semis and Volvo EVs, breaks down the challenges and successes of transitioning to an …",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "electric-truck"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "2cb769a17bf7",
-   "title": "Why Freight Tech Will BOOM After The ‘Apocalypse’",
-   "link": "https://www.freightwaves.com/news/why-freight-tech-will-boom-after-the-apocalypse",
-   "source": "freightwaves",
-   "published": "2026-10-13T14:33:57Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Felipe Capella, CEO of Loadsmart, shares his unique journey from lawyer to freight tech innovator and discusses how his company navigated the ‘Freight Apocalypse’ by pivoting to a blended service and SaaS model.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "5a56a758402c",
-   "title": "Shell, GTT, and Lloyd’s Register eye hybrid-electric LNG carrier design",
-   "link": "https://offshore-energy.biz/2026/10/13/shell-gtt-and-lloyds-register-eye-hybrid-electric-lng-carrier-design",
-   "source": "offshoreenergy",
-   "published": "2026-10-13T14:14:12Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "The trio has teamed up on a conceptual hybrid-electric tech 200,000-cubic-meter (cbm) LNG carrier to cut emissions without sacrificing cargo space.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng-carrier",
-    "units"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "d776458e64ac",
-   "title": "Shippers waiting an extra week for US-bound containers",
-   "link": "https://www.freightwaves.com/news/shippers-waiting-an-extra-week-for-us-bound-containers",
-   "source": "freightwaves",
-   "published": "2026-10-13T14:01:30Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Global container schedule reliability fell for a fourth straight month as the average vessel delay neared one week, according to Xeneta.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "shipper-consignee"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "75232eca3d31",
-   "title": "CSX operations chief to retire",
-   "link": "https://www.freightwaves.com/news/csx-operations-chief-to-retire",
-   "source": "freightwaves",
-   "published": "2026-10-13T13:24:00Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "CSX EVP and COO Cory is retiring after leading the railroad’s operations since 2023.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a95a372c347c",
-   "title": "Equinor to feed Dutch grid with low-emission Norwegian gas through 2031",
-   "link": "https://offshore-energy.biz/2026/10/13/equinor-to-feed-dutch-grid-with-low-emission-norwegian-gas-through-2031",
-   "source": "offshoreenergy",
-   "published": "2026-10-13T12:52:01Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Equinor has secured a multi-year deal to supply Eneco with roughly 0.9 billion cubic meters of Norwegian natural gas annually.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "2f7b7b7d3442",
-   "title": "Statsbudsjettet under lupen på NLFs digitale medlemsmøte",
-   "link": "https://lastebil.no/aktuelt/nyheter/2026/statsbudsjettet-under-lupen-paa-nlfs-digitale-medlemsmoete",
-   "source": "lastebil",
-   "published": "2026-10-13T12:50:43Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "no",
-   "excerpt": "Onsdag 14. oktober kl. 18.00 får NLFs medlemmer svar fra lederen og nestlederen i Samferdselskomiteen om hva statsbudsjettet betyr for transportnæringen.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "b5b13ccadbab",
-   "title": "China Merchants Energy Shipping & RINA to Explore AI-Driven Ship Operations",
-   "link": "https://maritime-executive.com/article/china-merchants-energy-shipping-rina-to-explore-ai-driven-ship-operations",
-   "source": "marex",
-   "published": "2026-10-13T12:41:23Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "China Merchants Energy Shipping (CMES), one of the world's leading shipping and maritime transportation companies, and RINA, the multinational inspect...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "class-society"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "56bb61aed169",
-   "title": "Kongsberg Maritime Secures Contract for Four Offshore Wind CSOVs",
-   "link": "https://maritime-executive.com/article/kongsberg-maritime-secures-contract-for-four-offshore-wind-csovs",
-   "source": "marex",
-   "published": "2026-10-13T12:27:23Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Kongsberg Maritime has secured a contract with IWS Fleet AS, a subsidiary of Integrated Wind Solutions (IWS), to provide vessel design and integrated...",
-   "segments": [
-    "freight",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "offshore-wind",
-    "csov"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "28a9f1ef7993",
-   "title": "BW Energy locks down multimillion-dollar financing for offshore platform and production growth",
-   "link": "https://offshore-energy.biz/2026/10/13/bw-energy-locks-down-multimillion-dollar-financing-for-offshore-platform-and-production-growth",
-   "source": "offshoreenergy",
-   "published": "2026-10-13T11:58:27Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "The path from discovery to first oil is moving at a fast pace for BW Energy, which is laying the groundwork for its expansion offshore Gabon.",
-   "segments": [
-    "finance",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "562780008c4d",
-   "title": "Murphy Oil notches dual exploration wins in West Africa and Asia alongside Vietnam and US Gulf start-ups",
-   "link": "https://offshore-energy.biz/2026/10/13/murphy-oil-notches-dual-exploration-wins-in-west-africa-and-asia-alongside-vietnam-and-us-gulf-start-ups",
-   "source": "offshoreenergy",
-   "published": "2026-10-13T10:41:10Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Murphy Oil has paired exploration and appraisal successes with new projects being put into production mode.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "3fcaff615fce",
-   "title": "Inter-array cable installation about to start at 2.9 GW UK offshore wind farm",
-   "link": "https://offshore-energy.biz/2026/10/13/inter-array-cable-installation-about-to-start-at-29-gw-uk-offshore-wind-farm",
-   "source": "offshoreenergy",
-   "published": "2026-10-13T10:20:47Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Seaway7 is expected to start installing inter-array cables at the Hornsea 3 offshore wind farm site in the UK in the coming days. According to a...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "inter-array",
-    "offshore-wind"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "8a120a804b91",
-   "title": "TotalEnergies orders French tubular solutions for gas field in Azerbaijan",
-   "link": "https://offshore-energy.biz/2026/10/13/totalenergies-orders-french-tubular-solutions-for-gas-field-in-azerbaijan",
-   "source": "offshoreenergy",
-   "published": "2026-10-13T08:22:26Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "France’s energy giant TotalEnergies has awarded compatriot Vallourec a contract to deliver over 16,000 tons of tubular products for a gas field...",
-   "segments": [
-    "offshore"
    ],
    "subs": [],
    "policy": false,
