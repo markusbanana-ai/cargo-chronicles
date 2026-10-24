@@ -1,7 +1,66 @@
 {
- "updated": "2026-10-24T12:46:20Z",
+ "updated": "2026-10-24T15:39:16Z",
  "sample": false,
  "articles": [
+  {
+   "id": "5af9ba5a1038",
+   "title": "Flytter lageret - kutter 80 ansatte",
+   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347196",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-24T15:09:16Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "1564ea21722a",
+   "title": "Hiab reports stronger Q3 profitability following EVS acquisition",
+   "link": "https://container-news.com/hiab-reports-stronger-q3-profitability-following-evs-acquisition/",
+   "source": "containernews",
+   "published": "2026-10-24T14:35:27Z",
+   "seen": "2026-10-24T15:39:16Z",
+   "lang": "en",
+   "excerpt": "Hiab reported a sharp increase in comparable operating profit in the third quarter of 2026, supported by higher sales, cost savings and the acquisition of Environmental Vehicle Solutions (EVS).",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8bf89ad120e6",
+   "title": "Evergreen’s HTW service returns to Tacoma",
+   "link": "https://container-news.com/evergreens-htw-service-returns-to-tacoma/",
+   "source": "containernews",
+   "published": "2026-10-24T13:00:46Z",
+   "seen": "2026-10-24T15:39:16Z",
+   "lang": "en",
+   "excerpt": "The Northwest Seaport Alliance has welcomed the return of Evergreen Marine’s HTW service to Tacoma, adding ocean capacity at a critical juncture for agricultural exporters moving peak volumes of refrigerated cargo during the Pacific …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "reefer",
+    "teu"
+   ],
+   "paywall": false
+  },
   {
    "id": "2d44fab1339e",
    "title": "Canada backs Saint John Trade Corridor expansion",
@@ -23,12 +82,12 @@
    "paywall": false
   },
   {
-   "id": "5c4ac6059ce2",
+   "id": "c393e39f1b28",
    "title": "Sikret seg 280 mål til logistikk, industri og havn i Lyngdal",
-   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347673",
+   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347107",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-24T10:16:20Z",
+   "seen": "2026-10-24T10:54:16Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -63,24 +122,6 @@
     "liner",
     "teu"
    ],
-   "paywall": false
-  },
-  {
-   "id": "4790514eb6e1",
-   "title": "Flytter lageret - kutter 80 ansatte",
-   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347159",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-24T09:31:20Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -3578,7 +3619,7 @@
   },
   {
    "id": "33c8f61363d5",
-   "title": "Daimler Truck sues former fleet manager over alleged $3.8M embezzlement",
+   "title": "UPDATE: Daimler Truck sues former fleet manager over alleged $3.8M embezzlement",
    "link": "https://www.freightwaves.com/news/daimler-truck-sues-former-fleet-manager-over-alleged-3-8m-embezzlement",
    "source": "freightwaves",
    "published": "2026-10-22T20:59:41Z",
@@ -18294,42 +18335,6 @@
     "liner"
    ],
    "paywall": true
-  },
-  {
-   "id": "0cc6b4a711b9",
-   "title": "CyberSecurity company claims mass extortion attempt on 38 marine-linked companies",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/cybersecurity-company-claims-mass-extortion-attempt-on-38-marine-linked-companies/",
-   "source": "imn",
-   "published": "2026-10-16T05:54:43Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "0cabcefa5b30",
-   "title": "Coop tester hurtiglevering i nytt Wolt-samarbeid",
-   "link": "https://www.mtlogistikk.no/coop-norge-hurtiglevering-netthandel/coop-tester-hurtiglevering-i-nytt-wolt-samarbeid/1336601",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-16T05:44:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
   }
  ]
 }
