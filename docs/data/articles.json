@@ -1,7 +1,73 @@
 {
- "updated": "2026-10-24T00:57:03Z",
+ "updated": "2026-10-24T03:40:16Z",
  "sample": false,
  "articles": [
+  {
+   "id": "5af9ba5a1038",
+   "title": "Flytter lageret - kutter 80 ansatte",
+   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347196",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-24T03:10:16Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "26063be9edd3",
+   "title": "Emirates Shipping Line launches China–Red Sea service",
+   "link": "https://container-news.com/emirates-shipping-line-launches-china-red-sea-service/",
+   "source": "containernews",
+   "published": "2026-10-24T02:20:40Z",
+   "seen": "2026-10-24T03:40:16Z",
+   "lang": "en",
+   "excerpt": "Emirates Shipping Line will introduce a new service connecting China with Egypt, Jordan and Saudi Arabia in November. According to DynaLiners, the new service will be marketed as the China Red Sea Connector (CRC).",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint",
+    "liner",
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "36afc4caa89d",
+   "title": "Maersk Tankers' Ammonia Power Tanker Retrofit Project Gets EU Funding",
+   "link": "https://maritime-executive.com/article/maersk-tankers-ammonia-power-tanker-retrofit-project-gets-eu-funding",
+   "source": "marex",
+   "published": "2026-10-24T00:11:27Z",
+   "seen": "2026-10-24T03:40:16Z",
+   "lang": "en",
+   "excerpt": "Maersk Tankers’ proposal to retrofit its Very Large Ammonia Carriers (VLACs) for",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers",
+    "gas",
+    "tankers"
+   ],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "lpg"
+   ],
+   "paywall": false
+  },
   {
    "id": "ea2b31d1bb67",
    "title": "Carriers reinstate Busan call on South America service",
@@ -59,12 +125,12 @@
    "paywall": false
   },
   {
-   "id": "5c4ac6059ce2",
+   "id": "c393e39f1b28",
    "title": "Sikret seg 280 mål til logistikk, industri og havn i Lyngdal",
-   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347673",
+   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347107",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-23T22:27:03Z",
+   "seen": "2026-10-23T22:55:16Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -92,24 +158,6 @@
    "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "4790514eb6e1",
-   "title": "Flytter lageret - kutter 80 ansatte",
-   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347159",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-23T21:42:03Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18281,42 +18329,6 @@
    "level": "national",
    "terms": [],
    "paywall": false
-  },
-  {
-   "id": "902412f4a0b7",
-   "title": "Explainer: How a port ban became a strategic realignment",
-   "link": "https://container-news.com/explainer-how-a-port-ban-became-a-strategic-realignment/",
-   "source": "containernews",
-   "published": "2026-10-16T04:30:19Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Washington’s proposed fees on Spanish shipping are less about punishing Madrid than about formalizing a shift toward Morocco that is already well advanced.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "19968c01ab97",
-   "title": "Lyreco gjør hovedlageret til kraftverk",
-   "link": "https://www.mtlogistikk.no/gronn-omstilling-lyreco-solcelle/lyreco-gjor-hovedlageret-til-kraftverk/1333809",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-16T04:29:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": true
   }
  ]
 }
