@@ -1,14 +1,75 @@
 {
- "updated": "2026-10-24T03:40:16Z",
+ "updated": "2026-10-24T06:47:22Z",
  "sample": false,
  "articles": [
   {
-   "id": "5af9ba5a1038",
-   "title": "Flytter lageret - kutter 80 ansatte",
-   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347196",
+   "id": "f08ccc3d31ec",
+   "title": "Hapag-Lloyd and Wan Hai reduce Shanghai coverage on AA7 service",
+   "link": "https://container-news.com/hapag-lloyd-and-wan-hai-reduce-shanghai-coverage-on-aa7-service/",
+   "source": "containernews",
+   "published": "2026-10-24T05:21:44Z",
+   "seen": "2026-10-24T06:47:22Z",
+   "lang": "en",
+   "excerpt": "Hapag-Lloyd and Wan Hai have reduced Shanghai coverage on their joint Far East–US East Coast AA7 service. Shanghai will now be served fortnightly, alternating with Ningbo, instead of receiving a weekly call.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "5c4ac6059ce2",
+   "title": "Sikret seg 280 mål til logistikk, industri og havn i Lyngdal",
+   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347673",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-24T03:10:16Z",
+   "seen": "2026-10-24T04:17:22Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "e4ebd908d6e2",
+   "title": "CMA CGM adds seasonal Pisco call to PAD service",
+   "link": "https://container-news.com/cma-cgm-adds-seasonal-pisco-call-to-pad-service/",
+   "source": "containernews",
+   "published": "2026-10-24T04:00:43Z",
+   "seen": "2026-10-24T06:47:22Z",
+   "lang": "en",
+   "excerpt": "CMA CGM will introduce a seasonal call at Pisco, Peru, on its Panama Direct (PAD) service in December. The service connects Australia and New Zealand with the US East Coast and North Europe.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4790514eb6e1",
+   "title": "Flytter lageret - kutter 80 ansatte",
+   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347159",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-24T03:32:22Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -117,25 +178,6 @@
    "excerpt": "",
    "segments": [
     "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "c393e39f1b28",
-   "title": "Sikret seg 280 mål til logistikk, industri og havn i Lyngdal",
-   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347107",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-23T22:55:16Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road",
-    "freight"
    ],
    "subs": [],
    "policy": false,
@@ -18281,44 +18323,6 @@
    "source": "mtlogistikk",
    "published": null,
    "seen": "2026-10-16T04:59:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "b9fe0735d9a4",
-   "title": "GSI taps bridge builder to ease ship block bottleneck",
-   "link": "https://splash247.com/gsi-taps-bridge-builder-to-ease-ship-block-bottleneck/",
-   "source": "splash",
-   "published": "2026-10-16T04:49:00Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Guangzhou Shipyard International (GSI) has turned to one of China’s oldest bridge builders for outsourced hull block construction, joining a growing number of shipyards tapping manufacturers outside the traditional maritime supply chain to …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "orderbook"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "b59412e710df",
-   "title": "Sikrer avisdistribusjon frem til 2030",
-   "link": "https://www.mtlogistikk.no/avisdistribusjon-helthjem-papiraviser/sikrer-avisdistribusjon-frem-til-2030/1333879",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-16T04:44:22Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
