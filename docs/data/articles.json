@@ -1,14 +1,75 @@
 {
- "updated": "2026-10-24T15:39:16Z",
+ "updated": "2026-10-24T18:40:56Z",
  "sample": false,
  "articles": [
   {
-   "id": "5af9ba5a1038",
-   "title": "Flytter lageret - kutter 80 ansatte",
-   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347196",
+   "id": "6f794bba3573",
+   "title": "Port of Los Angeles records lowest emissions per container",
+   "link": "https://container-news.com/port-of-los-angeles-records-lowest-emissions-per-container/",
+   "source": "containernews",
+   "published": "2026-10-24T17:30:35Z",
+   "seen": "2026-10-24T18:40:56Z",
+   "lang": "en",
+   "excerpt": "The Port of Los Angeles has released its 2025 Inventory of Air Emissions, recording its lowest emissions per container on record and continuing a two-decade trend of significant reductions alongside growing cargo volumes.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "5c4ac6059ce2",
+   "title": "Sikret seg 280 mål til logistikk, industri og havn i Lyngdal",
+   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347673",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-24T15:09:16Z",
+   "seen": "2026-10-24T16:10:56Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "dc9908287945",
+   "title": "ABP makes two appointments at Humber container terminals",
+   "link": "https://container-news.com/abp-makes-two-appointments-at-humber-container-terminals/",
+   "source": "containernews",
+   "published": "2026-10-24T16:00:08Z",
+   "seen": "2026-10-24T18:40:56Z",
+   "lang": "en",
+   "excerpt": "Associated British Ports has made two significant appointments at its Humber container terminals, strengthening strategic and operational leadership across the ports of Immingham and Hull as the terminals continue to grow.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4790514eb6e1",
+   "title": "Flytter lageret - kutter 80 ansatte",
+   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347159",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-24T15:25:56Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -78,25 +139,6 @@
    ],
    "policy": true,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "c393e39f1b28",
-   "title": "Sikret seg 280 mål til logistikk, industri og havn i Lyngdal",
-   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347107",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-24T10:54:16Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road",
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18293,47 +18335,6 @@
    "policy": false,
    "level": "international",
    "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "f25dd8a1c981",
-   "title": "UK’s MCA urges ships to prepare for life without reliable GPS",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/uks-mca-urges-ships-to-prepare-for-life-without-reliable-gps/",
-   "source": "imn",
-   "published": "2026-10-16T05:57:05Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "426168d337c7",
-   "title": "MSC containership locates overboard cruise passenger after 20 hours",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/msc-containership-locates-overboard-cruise-passenger-after-20-hours/",
-   "source": "imn",
-   "published": "2026-10-16T05:55:59Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "liner"
-   ],
    "paywall": true
   }
  ]
