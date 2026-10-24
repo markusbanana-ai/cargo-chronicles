@@ -1,7 +1,67 @@
 {
- "updated": "2026-10-24T06:47:22Z",
+ "updated": "2026-10-24T09:38:50Z",
  "sample": false,
  "articles": [
+  {
+   "id": "5af9ba5a1038",
+   "title": "Flytter lageret - kutter 80 ansatte",
+   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347196",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-24T09:08:50Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "1e65fac00fb5",
+   "title": "Port of Vigo clears strategic space for container operations",
+   "link": "https://container-news.com/port-of-vigo-clears-strategic-space-for-container-operations/",
+   "source": "containernews",
+   "published": "2026-10-24T08:30:06Z",
+   "seen": "2026-10-24T09:38:50Z",
+   "lang": "en",
+   "excerpt": "The Port Authority of Vigo has awarded a contract for the demolition of eight former cement silos located within the port’s container terminal.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "recycling"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "1c03215659ac",
+   "title": "Latakia container terminal receives six new cranes under CMA CGM partnership",
+   "link": "https://container-news.com/latakia-container-terminal-receives-six-new-cranes-under-cma-cgm-partnership/",
+   "source": "containernews",
+   "published": "2026-10-24T07:00:12Z",
+   "seen": "2026-10-24T09:38:50Z",
+   "lang": "en",
+   "excerpt": "Latakia International Container Terminal (LICT) in Syria has received six fifth-generation rubber-tyred gantry (RTG) cranes as part of its ongoing modernisation programme under its partnership with French shipping group CMA CGM.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
   {
    "id": "f08ccc3d31ec",
    "title": "Hapag-Lloyd and Wan Hai reduce Shanghai coverage on AA7 service",
@@ -25,12 +85,12 @@
    "paywall": false
   },
   {
-   "id": "5c4ac6059ce2",
+   "id": "c393e39f1b28",
    "title": "Sikret seg 280 mål til logistikk, industri og havn i Lyngdal",
-   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347673",
+   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347107",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-24T04:17:22Z",
+   "seen": "2026-10-24T04:53:50Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -60,24 +120,6 @@
    ],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "4790514eb6e1",
-   "title": "Flytter lageret - kutter 80 ansatte",
-   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347159",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-24T03:32:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -2827,6 +2869,24 @@
    "terms": [
     "fuel-surcharge"
    ],
+   "paywall": false
+  },
+  {
+   "id": "55776d388ce3",
+   "title": "Samferdselsministeren besøker Oslo Motorshow og Oslo lufthavn",
+   "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-besoker-oslo-motorshow-og-oslo-lufthavn/id3182348/",
+   "source": "regjeringen",
+   "published": "2026-10-23T02:00:00Z",
+   "seen": "2026-10-24T09:38:50Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
    "paywall": false
   },
   {
@@ -18259,70 +18319,6 @@
    "source": "mtlogistikk",
    "published": null,
    "seen": "2026-10-16T05:29:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "2a2a84c30237",
-   "title": "Åpnet: Tungbillading og døgnhvile på Sande",
-   "link": "https://www.mtlogistikk.no/dognhvileplasser-e39-elektrisk-lastebil/apnet-tungbillading-og-dognhvile-pa-sande/1335745",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-16T05:14:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "rest-area"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "88aeff213e18",
-   "title": "Chemnav steps up suezmax bet with Jinglu pair",
-   "link": "https://splash247.com/chemnav-steps-up-suezmax-bet-with-jinglu-pair/",
-   "source": "splash",
-   "published": "2026-10-16T05:07:00Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Greek tanker owner Chemnav Shipmanagement has expanded its suezmax newbuilding programme with two more vessels in China, taking its orderbook in the segment to four ships.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "suezmax",
-    "newbuilding",
-    "orderbook",
-    "shipbroker",
-    "dwt"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "39a966fa78f1",
-   "title": "Caddy mister viktig fortrinn",
-   "link": "https://www.mtlogistikk.no/caddy-iaa-iaa-2026/caddy-mister-viktig-fortrinn/1335574",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-16T04:59:22Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
