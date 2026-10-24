@@ -1,14 +1,52 @@
 {
- "updated": "2026-10-23T21:40:28Z",
+ "updated": "2026-10-24T00:57:03Z",
  "sample": false,
  "articles": [
   {
-   "id": "5af9ba5a1038",
-   "title": "Flytter lageret - kutter 80 ansatte",
-   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347196",
+   "id": "ea2b31d1bb67",
+   "title": "Carriers reinstate Busan call on South America service",
+   "link": "https://container-news.com/carriers-reinstate-busan-call-on-south-america-service/",
+   "source": "containernews",
+   "published": "2026-10-24T00:01:09Z",
+   "seen": "2026-10-24T00:57:03Z",
+   "lang": "en",
+   "excerpt": "Cosco Shipping Lines, Evergreen, PIL and Wan Hai plan to reinstate Busan on their joint Far East–West Coast South America service by the end of 2026, as reported by DynaLiners.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c38c3bc700f1",
+   "title": "Defense Arm of US Investment Manager Buys Fraser Industries",
+   "link": "https://maritime-executive.com/article/defense-arm-of-us-investment-manager-buys-fraser-industries",
+   "source": "marex",
+   "published": "2026-10-23T23:58:49Z",
+   "seen": "2026-10-24T00:57:03Z",
+   "lang": "en",
+   "excerpt": "A group focused on investments in the U.S. defense sector, recently launched by a Florida-based investment manager, has agreed to acquire the Wisconsi...",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "aa660699915f",
+   "title": "Helgebrief uke 43: Vi har sjekket konkurrenten din",
+   "link": "https://www.mtlogistikk.no/helgebrief-kronikk-ukerapport/helgebrief-uke-43-vi-har-sjekket-konkurrenten-din/1347835",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-23T21:40:28Z",
+   "seen": "2026-10-23T23:27:03Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -21,17 +59,53 @@
    "paywall": false
   },
   {
-   "id": "c393e39f1b28",
+   "id": "5c4ac6059ce2",
    "title": "Sikret seg 280 mål til logistikk, industri og havn i Lyngdal",
-   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347107",
+   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347673",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-23T21:10:28Z",
+   "seen": "2026-10-23T22:27:03Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
     "road",
     "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "1fcfb372cb76",
+   "title": "HD Hyundai and Kiewit Plan to Develop New Gulf Coast Shipyard",
+   "link": "https://maritime-executive.com/article/hd-hyundai-and-kiewit-plan-to-develop-new-gulf-coast-shipyard",
+   "source": "marex",
+   "published": "2026-10-23T21:45:22Z",
+   "seen": "2026-10-24T00:57:03Z",
+   "lang": "en",
+   "excerpt": "South Korea’s largest shipbuilder, HD Hyundai, is continuing its efforts to expand in the U.S. market, announcing a new joint venture with Texas-based...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4790514eb6e1",
+   "title": "Flytter lageret - kutter 80 ansatte",
+   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347159",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-23T21:42:03Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
    ],
    "subs": [],
    "policy": false,
@@ -531,6 +605,24 @@
    "excerpt": "The UAE confirmed earlier reports of a large and spreading oil spill along the Persian Gulf side of the Khor Al Beidah peninsula while Iran continues...",
    "segments": [
     "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "0ea2ae042486",
+   "title": "MARAD’s Training Ship Success Offers a Blueprint for U.S. Shipbuilding",
+   "link": "https://gcaptain.com/marads-training-ship-success-offers-a-blueprint-for-u-s-shipbuilding/",
+   "source": "gcaptain",
+   "published": "2026-10-23T20:22:20Z",
+   "seen": "2026-10-24T00:57:03Z",
+   "lang": "en",
+   "excerpt": "The Maritime Administration (MARAD) recently embraced VCM when procuring a new generation of training ships for five of the six state maritime academies. To date, MARAD contractor TOTE Services has delivered four of the five vessels.",
+   "segments": [
+    "freight"
    ],
    "subs": [],
    "policy": false,
@@ -18225,102 +18317,6 @@
    "level": "national",
    "terms": [],
    "paywall": true
-  },
-  {
-   "id": "e20d6a2c511f",
-   "title": "Døgnhvileplass med fire ladestasjoner",
-   "link": "https://www.mtlogistikk.no/dognhvileplasser-e134-ladestasjoner/dognhvileplass-med-fire-ladestasjoner/1333382",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-16T04:14:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "rest-area"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "dc3920bc7ea9",
-   "title": "Norsk robotselskap leverer internlogistikk til Volvos milliardfabrikk",
-   "link": "https://www.mtlogistikk.no/automatisering-autonom-vareflyt-internlogistikk/norsk-robotselskap-leverer-internlogistikk-til-volvos-milliardfabrikk/1333355",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-16T03:59:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "ce1bd297d3fc",
-   "title": "Lanserer logistikk-trente AI-agenter",
-   "link": "https://www.mtlogistikk.no/descartes-dokumenthandtering-kunstig-intelligens/lanserer-logistikk-trente-ai-agenter/1332412",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-16T03:44:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "82ebb9670be8",
-   "title": "Unmanned Vessel Deploys With Carrier Strike Group for the First Time",
-   "link": "https://maritime-executive.com/article/unmanned-vessel-deploys-with-carrier-strike-group-for-the-first-time",
-   "source": "marex",
-   "published": "2026-10-16T03:43:39Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "The U.S. Navy has confirmed that a midsize unmanned surface vessel has sailed with the USS Theodore Roosevelt Carrier Strike Group, currently under wa...",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "42b4a5ab27dd",
-   "title": "DHL Freight deploys electric truck on Netherlands–Belgium routes",
-   "link": "https://container-news.com/dhl-freight-deploys-electric-truck-on-netherlands-belgium-routes/",
-   "source": "containernews",
-   "published": "2026-10-16T03:30:00Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "DHL Freight has introduced the SuperPanther eTopas 600 electric truck into regular commercial operations in the Netherlands. The vehicle also serves cross-border routes to Belgium, marking its move from testing to daily freight transport.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "electric-truck"
-   ],
-   "paywall": false
   }
  ]
 }
