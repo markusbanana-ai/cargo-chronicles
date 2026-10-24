@@ -1,7 +1,99 @@
 {
- "updated": "2026-10-24T18:40:56Z",
+ "updated": "2026-10-24T21:37:45Z",
  "sample": false,
  "articles": [
+  {
+   "id": "5af9ba5a1038",
+   "title": "Flytter lageret - kutter 80 ansatte",
+   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347196",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-24T21:07:45Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c4f6a2287aa0",
+   "title": "Port of Lázaro Cárdenas handles 21% of Mexico’s commercial cargo",
+   "link": "https://container-news.com/port-of-lazaro-cardenas-handles-21-of-mexicos-commercial-cargo/",
+   "source": "containernews",
+   "published": "2026-10-24T19:21:16Z",
+   "seen": "2026-10-24T21:37:45Z",
+   "lang": "en",
+   "excerpt": "The Port of Lázaro Cárdenas handled 21,517,529 tonnes of commercial cargo from January to September 2026, representing 21% of national goods movement and confirming its position as Mexico’s second most important port.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "b1c43d6de0f8",
+   "title": "Port of Galveston Strengthening Security with $1.18M in Federal Grants",
+   "link": "https://maritime-executive.com/article/port-of-galveston-strengthening-security-with-1-18m-in-federal-grants",
+   "source": "marex",
+   "published": "2026-10-24T19:15:05Z",
+   "seen": "2026-10-24T21:37:45Z",
+   "lang": "en",
+   "excerpt": "The Galveston Wharves will strengthen security systems around the port with federal grants totaling $1,180,524 and port funds. The Federal Emergency M...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "695a976720a8",
+   "title": "UAE Shuts All Beaches As Neighbors Grapple With Oil Spill",
+   "link": "https://gcaptain.com/uae-shuts-all-beaches-as-neighbors-grapple-with-oil-spill/",
+   "source": "gcaptain",
+   "published": "2026-10-24T19:07:31Z",
+   "seen": "2026-10-24T21:37:45Z",
+   "lang": "en",
+   "excerpt": "Oct 24 (Reuters) – Ras Al Khaimah authorities said on Saturday that all beaches in the emirate would be closed until further notice, a day after anoffshore oil leak prompted beach closures in...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "1e88f91581d6",
+   "title": "Two Wealthy Americans Face Off In Bitter Feud Over Panama Port",
+   "link": "https://gcaptain.com/two-wealthy-americans-face-off-in-bitter-feud-over-panama-port/",
+   "source": "gcaptain",
+   "published": "2026-10-24T18:47:58Z",
+   "seen": "2026-10-24T21:37:45Z",
+   "lang": "en",
+   "excerpt": "By Devon Pendleton and Fabiano Maisonnave Oct 22, 2026 (Bloomberg) –To hedge-fund billionaire Louis Bacon, the crystalline waters and densely forested riverways of the Gulf of Chiriqui in western Panama are an...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
   {
    "id": "6f794bba3573",
    "title": "Port of Los Angeles records lowest emissions per container",
@@ -25,12 +117,12 @@
    "paywall": false
   },
   {
-   "id": "5c4ac6059ce2",
+   "id": "c393e39f1b28",
    "title": "Sikret seg 280 mål til logistikk, industri og havn i Lyngdal",
-   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347673",
+   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347107",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-24T16:10:56Z",
+   "seen": "2026-10-24T16:52:45Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -41,6 +133,27 @@
    "policy": false,
    "level": "national",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "25dda5c91b63",
+   "title": "ClassNK Releases Handbook Supporting Consideration of Onboard Carbon Capture",
+   "link": "https://maritime-executive.com/article/classnk-releases-handbook-supporting-consideration-of-onboard-carbon-capture",
+   "source": "marex",
+   "published": "2026-10-24T16:41:03Z",
+   "seen": "2026-10-24T21:37:45Z",
+   "lang": "en",
+   "excerpt": "ClassNK has released a new handbook entitled ‘Onboard Carbon Capture Systems Implementation Framework’ as part of its Handbook on Ship GHG Emissions E...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "class-society",
+    "ccs"
+   ],
    "paywall": false
   },
   {
@@ -60,24 +173,6 @@
    ],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "4790514eb6e1",
-   "title": "Flytter lageret - kutter 80 ansatte",
-   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347159",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-24T15:25:56Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18237,104 +18332,6 @@
    "terms": [
     "product-tanker"
    ],
-   "paywall": true
-  },
-  {
-   "id": "57f3a8e72327",
-   "title": "Clearwater Underwriting names MacHale as CEO",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/clearwater-underwriting-names-machale-as-ceo/",
-   "source": "imn",
-   "published": "2026-10-16T06:00:32Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "MGA Clearwater Underwriting has announced the appointment of Henry MacHale to the role of Chief Executive Officer, a newly created role. MacHale is expected to take up the role in the second quarter of 2027.",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "underwriter"
-   ],
-   "paywall": true
-  },
-  {
-   "id": "c390c9ab3327",
-   "title": "Upgrading of long-running US / Spain dispute on port access",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/upgrading-of-long-running-us-spain-dispute-on-port-access/",
-   "source": "imn",
-   "published": "2026-10-16T05:59:44Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "49dc6d3f3b1d",
-   "title": "Savner sikkerhetsnett når godstogene stopper",
-   "link": "https://www.mtlogistikk.no/jernbanefrakt-nho-logistikk-og-transport-nholt/savner-sikkerhetsnett-nar-godstogene-stopper/1336639",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-16T05:59:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "intermodal"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "590376f7f9ac",
-   "title": "Markel Insurance names two senior marine & energy executives",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/markel-insurance-names-two-senior-marine-energy-executives/",
-   "source": "imn",
-   "published": "2026-10-16T05:58:57Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Markel Insurance, the insurance operation within Markel Group Inc, has appointed Josephine Stroud as Head of Energy Liability and Jenny McFarlane as Senior Underwriter for Marine & Energy Liability.",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "underwriter"
-   ],
-   "paywall": true
-  },
-  {
-   "id": "f2b6c34764c7",
-   "title": "Suez toughens transit terms for older ships",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/suez-toughens-transit-terms-for-older-ships/",
-   "source": "imn",
-   "published": "2026-10-16T05:58:06Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
    "paywall": true
   }
  ]
