@@ -1,7 +1,88 @@
 {
- "updated": "2026-10-25T06:47:43Z",
+ "updated": "2026-10-25T09:39:26Z",
  "sample": false,
  "articles": [
+  {
+   "id": "0157d0a48bcb",
+   "title": "MSC Meline to omit Genoa call on MSE service",
+   "link": "https://container-news.com/msc-meline-to-omit-genoa-call-on-mse-service/",
+   "source": "containernews",
+   "published": "2026-10-25T09:10:42Z",
+   "seen": "2026-10-25T09:39:26Z",
+   "lang": "en",
+   "excerpt": "Hapag-Lloyd has announced that MSC Meline, voyage MM643A, will omit its scheduled call at Genoa, Italy. The vessel operates on the Mediterranean–South America East Coast (MSE) service.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "port-omission"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "5af9ba5a1038",
+   "title": "Flytter lageret - kutter 80 ansatte",
+   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347196",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-25T09:09:26Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "925762698a72",
+   "title": "Rig incident: 110 rescued, 5 still missing after Borr Drilling’s jack-up sinks off Gabon coast",
+   "link": "https://offshore-energy.biz/2026/10/25/rig-incident-110-rescued-5-still-missing-after-borr-drillings-jack-up-sinks-off-gabon-coast",
+   "source": "offshoreenergy",
+   "published": "2026-10-25T07:49:04Z",
+   "seen": "2026-10-25T09:39:26Z",
+   "lang": "en",
+   "excerpt": "The search is ongoing for offshore workers, who remain unaccounted for following a punch-through incident at a 2014-built rig offshore Gabon.",
+   "segments": [
+    "insurance",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "rig"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "e4dfdbd4adeb",
+   "title": "Maersk ends Walvis Bay export coverage to Europe and North America",
+   "link": "https://container-news.com/maersk-ends-walvis-bay-export-coverage-to-europe-and-north-america/",
+   "source": "containernews",
+   "published": "2026-10-25T07:43:11Z",
+   "seen": "2026-10-25T09:39:26Z",
+   "lang": "en",
+   "excerpt": "Maersk will stop accepting export cargo from Walvis Bay to Europe and North America as it adjusts capacity across its West Africa network. Week 42 will mark the end of cargo acceptance for these trades.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
   {
    "id": "de65a5d6dd1f",
    "title": "MSC introduces emergency surcharge on East Mediterranean–North Europe trade",
@@ -25,12 +106,12 @@
    "paywall": false
   },
   {
-   "id": "5c4ac6059ce2",
+   "id": "c393e39f1b28",
    "title": "Sikret seg 280 mål til logistikk, industri og havn i Lyngdal",
-   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347673",
+   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347107",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-25T04:17:43Z",
+   "seen": "2026-10-25T04:54:26Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -58,24 +139,6 @@
    "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "4790514eb6e1",
-   "title": "Flytter lageret - kutter 80 ansatte",
-   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347159",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-25T03:32:43Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -138,6 +201,24 @@
    "paywall": false
   },
   {
+   "id": "134b0dede02d",
+   "title": "Nye anlegg sikrer lading gjennom hele Østerdalen",
+   "link": "https://www.mtlogistikk.no/dognhvileplasser-elektrisk-tungtransport-ladeinfrastruktur/nye-anlegg-sikrer-lading-gjennom-hele-osterdalen/1340413",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-25T00:54:26Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
    "id": "5edbd32a4421",
    "title": "Truckload contract rate increases riding steady above 10%",
    "link": "https://www.freightwaves.com/news/truckload-contract-rate-increases-riding-steady-above-10",
@@ -155,6 +236,24 @@
    "terms": [
     "ftl"
    ],
+   "paywall": false
+  },
+  {
+   "id": "d2fb00288601",
+   "title": "Klar til å levere sin nye AMR",
+   "link": "https://www.mtlogistikk.no/autonome-mobile-roboter-eac-212a-jungheinrich/klar-til-a-levere-sin-nye-amr/1338055",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-25T00:24:26Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
    "paywall": false
   },
   {
@@ -18231,105 +18330,6 @@
    "policy": true,
    "level": "national",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "466e7747464b",
-   "title": "Splash Wrap: A missile from Riyadh",
-   "link": "https://splash247.com/splash-wrap-a-missile-from-riyadh/",
-   "source": "splash",
-   "published": "2026-10-16T07:45:26Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Ongoing attacks in Hormuz and the Black Sea dominated Splash coverage once again this week – both maritime theatres of war expanding worryingly.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers",
-    "drybulk",
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint",
-    "sanctions"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "af2d2db3cf53",
-   "title": "Homeco utvider OmniMod: Dobler kapasiteten",
-   "link": "https://www.mtlogistikk.no/autostore-bryne-homeco/homeco-utvider-omnimod-dobler-kapasiteten/1340502",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-16T07:44:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "5ff70a28f29f",
-   "title": "Kinesisk lastebil får norsk importør",
-   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-holtan-holtan-bil/kinesisk-lastebil-far-norsk-importor/1239948",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-16T07:29:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "125d4be3d38d",
-   "title": "Investerer i 18 Scania for lønnsomhet over fjellet",
-   "link": "https://www.mtlogistikk.no/haugesund-scania-tnr-spedisjon/investerer-i-18-scania-for-lonnsomhet-over-fjellet/1339547",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-16T07:14:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "0a6f3a474798",
-   "title": "ScottishPower Renewables completes ‘record-breaking’ cable landfall operation",
-   "link": "https://offshore-energy.biz/2026/10/16/scottishpower-renewables-completes-record-breaking-cable-landfall-operation",
-   "source": "offshoreenergy",
-   "published": "2026-10-16T07:07:34Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "ScottishPower Renewables has completed what it says was a record-breaking cable landfall operation for its 960 MW East Anglia Two offshore wind...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "offshore-wind"
-   ],
    "paywall": false
   }
  ]
