@@ -1,14 +1,73 @@
 {
- "updated": "2026-10-25T03:40:45Z",
+ "updated": "2026-10-25T06:47:43Z",
  "sample": false,
  "articles": [
   {
-   "id": "5af9ba5a1038",
-   "title": "Flytter lageret - kutter 80 ansatte",
-   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347196",
+   "id": "de65a5d6dd1f",
+   "title": "MSC introduces emergency surcharge on East Mediterranean–North Europe trade",
+   "link": "https://container-news.com/msc-introduces-emergency-surcharge-on-east-mediterranean-north-europe-trade/",
+   "source": "containernews",
+   "published": "2026-10-25T06:00:09Z",
+   "seen": "2026-10-25T06:47:43Z",
+   "lang": "en",
+   "excerpt": "MSC will introduce an Emergency Operations Surcharge (EOS) on shipments from Greece, Türkiye, the Black Sea and non-Italian Adriatic ports.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bol"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "5c4ac6059ce2",
+   "title": "Sikret seg 280 mål til logistikk, industri og havn i Lyngdal",
+   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347673",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-25T03:10:45Z",
+   "seen": "2026-10-25T04:17:43Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "82ad118e4dd8",
+   "title": "Valenciaport presents Sandbox innovation platform",
+   "link": "https://container-news.com/valenciaport-presents-sandbox-innovation-platform/",
+   "source": "containernews",
+   "published": "2026-10-25T04:17:34Z",
+   "seen": "2026-10-25T06:47:43Z",
+   "lang": "en",
+   "excerpt": "The 2026 International Port Entrepreneurship Congress has opened its latest edition in Valencia, bringing together representatives of ports, startups, corporate logistics operators and investors from around the world in what has become an …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4790514eb6e1",
+   "title": "Flytter lageret - kutter 80 ansatte",
+   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347159",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-25T03:32:43Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -38,6 +97,24 @@
    "terms": [
     "congestion"
    ],
+   "paywall": false
+  },
+  {
+   "id": "c6d0e4790973",
+   "title": "Romania Blames Russia For Drone That Sinks Cargo Ship; 1 Killed, 3 Missing",
+   "link": "https://gcaptain.com/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing/",
+   "source": "gcaptain",
+   "published": "2026-10-25T01:52:30Z",
+   "seen": "2026-10-25T06:47:43Z",
+   "lang": "en",
+   "excerpt": "BUCHAREST, Oct 23 (Reuters) – Romanian President Nicusor Dan accused Russia of escalating its attacks on NATO’s eastern flank on Friday, after a drone strike sank a cargo ship off the Romanian Black Sea...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
    "paywall": false
   },
   {
@@ -99,17 +176,16 @@
    "paywall": false
   },
   {
-   "id": "c393e39f1b28",
-   "title": "Sikret seg 280 mål til logistikk, industri og havn i Lyngdal",
-   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347107",
+   "id": "84d2651d1313",
+   "title": "Her går det unna!",
+   "link": "https://www.mtlogistikk.no/asko-bama-logistikk-elektrisk-lastebil/her-lader-man-med-over-700-kw/1337924",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-24T22:55:45Z",
+   "seen": "2026-10-24T21:17:43Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
-    "road",
-    "freight"
+    "road"
    ],
    "subs": [],
    "policy": false,
@@ -18254,78 +18330,6 @@
    "terms": [
     "offshore-wind"
    ],
-   "paywall": false
-  },
-  {
-   "id": "fcbae4c533f1",
-   "title": "ESPO and EFIP introduce green innovation platform for European ports",
-   "link": "https://container-news.com/espo-and-efip-introduce-green-innovation-platform-for-european-ports/",
-   "source": "containernews",
-   "published": "2026-10-16T07:00:02Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "The European Sea Ports Organisation (ESPO) and the European Federation of Inland Ports (EFIP) have made the Green Innovation Compass available on their websites.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "8995406cfaf2",
-   "title": "Teknologisprang og ladeinfrastruktur gjør elektrisk betongtransport lønnsom",
-   "link": "https://www.mtlogistikk.no/elektriske-betongbiler-heidelberg-materials-oslo-havn/teknologisprang-og-ladeinfrastruktur-gjor-elektrisk-betongtransport-lonnsom-1/1327157",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-16T06:59:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "134b0dede02d",
-   "title": "Nye anlegg sikrer lading gjennom hele Østerdalen",
-   "link": "https://www.mtlogistikk.no/dognhvileplasser-elektrisk-tungtransport-ladeinfrastruktur/nye-anlegg-sikrer-lading-gjennom-hele-osterdalen/1340413",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-16T06:44:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "d2fb00288601",
-   "title": "Klar til å levere sin nye AMR",
-   "link": "https://www.mtlogistikk.no/autonome-mobile-roboter-eac-212a-jungheinrich/klar-til-a-levere-sin-nye-amr/1338055",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-16T06:29:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   }
  ]
