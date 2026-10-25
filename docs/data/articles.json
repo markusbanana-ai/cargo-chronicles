@@ -1,7 +1,82 @@
 {
- "updated": "2026-10-25T09:39:26Z",
+ "updated": "2026-10-25T12:45:34Z",
  "sample": false,
  "articles": [
+  {
+   "id": "69dd140ff7b2",
+   "title": "Maersk revises North America PSS from Indian Subcontinent and Middle East",
+   "link": "https://container-news.com/maersk-revises-north-america-pss-from-indian-subcontinent-and-middle-east/",
+   "source": "containernews",
+   "published": "2026-10-25T11:04:02Z",
+   "seen": "2026-10-25T12:45:34Z",
+   "lang": "en",
+   "excerpt": "Maersk has revised its Peak Season Surcharge (PSS) for shipments from the Indian Subcontinent and Middle East to the United States and Canada. The new surcharge levels apply from 23 October 2026.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "2da8df014a05",
+   "title": "Borderlands Mexico: Avocado imports generate $641M for US trucking, warehousing",
+   "link": "https://www.freightwaves.com/news/borderlands-mexico-avocado-imports-generate-641m-for-us-trucking-warehousing",
+   "source": "freightwaves",
+   "published": "2026-10-25T11:00:00Z",
+   "seen": "2026-10-25T12:45:34Z",
+   "lang": "en",
+   "excerpt": "This week in Borderlands Mexico: Avocado imports generate $641M for cross-border logistics; GLS US expands parcel delivery network to Texas border; and Jetco expands heavy-haul operations to serve Gulf Coast.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5c4ac6059ce2",
+   "title": "Sikret seg 280 mål til logistikk, industri og havn i Lyngdal",
+   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347673",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-25T10:15:34Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4790514eb6e1",
+   "title": "Flytter lageret - kutter 80 ansatte",
+   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347159",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-25T09:30:34Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
   {
    "id": "0157d0a48bcb",
    "title": "MSC Meline to omit Genoa call on MSE service",
@@ -22,24 +97,6 @@
    "terms": [
     "port-omission"
    ],
-   "paywall": false
-  },
-  {
-   "id": "5af9ba5a1038",
-   "title": "Flytter lageret - kutter 80 ansatte",
-   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347196",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-25T09:09:26Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -106,25 +163,6 @@
    "paywall": false
   },
   {
-   "id": "c393e39f1b28",
-   "title": "Sikret seg 280 mål til logistikk, industri og havn i Lyngdal",
-   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347107",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-25T04:54:26Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road",
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "82ad118e4dd8",
    "title": "Valenciaport presents Sandbox innovation platform",
    "link": "https://container-news.com/valenciaport-presents-sandbox-innovation-platform/",
@@ -139,6 +177,42 @@
    "subs": [],
    "policy": false,
    "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "af2d2db3cf53",
+   "title": "Homeco utvider OmniMod: Dobler kapasiteten",
+   "link": "https://www.mtlogistikk.no/autostore-bryne-homeco/homeco-utvider-omnimod-dobler-kapasiteten/1340502",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-25T04:15:34Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "125d4be3d38d",
+   "title": "Investerer i 18 Scania for lønnsomhet over fjellet",
+   "link": "https://www.mtlogistikk.no/haugesund-scania-tnr-spedisjon/investerer-i-18-scania-for-lonnsomhet-over-fjellet/1339547",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-25T03:45:34Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18247,89 +18321,6 @@
     "vlcc",
     "newbuilding"
    ],
-   "paywall": false
-  },
-  {
-   "id": "d6c4324b9a22",
-   "title": "Bygger logistikksenter for økt forsyningssikkerhet",
-   "link": "https://www.mtlogistikk.no/bauta-group-fiskumparken-forsyningssikkerhet/bygger-logistikksenter-for-okt-forsyningssikkerhet/1340854",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-16T08:14:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "supply-chain"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "5a39f101f823",
-   "title": "Lower emissions do not always signal a more efficient container voyage",
-   "link": "https://container-news.com/lower-emissions-do-not-always-signal-a-more-efficient-container-voyage/",
-   "source": "containernews",
-   "published": "2026-10-16T08:00:30Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Lower total emissions do not necessarily mean that a container ship voyage operated more efficiently, according to a new VesselBot case study examining the relationship between emissions and transported cargo.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "liner"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "491df20f802f",
-   "title": "West Africa’s ore boom meets China’s growing VLOC armada",
-   "link": "https://splash247.com/west-africas-ore-boom-meets-chinas-growing-vloc-armada/",
-   "source": "splash",
-   "published": "2026-10-16T08:00:10Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "West Africa is fast becoming dry bulk shipping’s biggest growth engine, with its mineral export boom poised to absorb the equivalent of another 120 capesizes by 2030.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "capesize",
-    "dry-bulk"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "899bd7da668f",
-   "title": "Diesel holder stand i EU",
-   "link": "https://www.mtlogistikk.no/acea-elektrisk-lastebil-lastebil/diesel-holder-stand-i-eu/1340821",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-16T07:59:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "national",
-   "terms": [],
    "paywall": false
   }
  ]
