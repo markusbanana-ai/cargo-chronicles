@@ -1,14 +1,108 @@
 {
- "updated": "2026-10-25T15:39:29Z",
+ "updated": "2026-10-25T18:41:29Z",
  "sample": false,
  "articles": [
   {
-   "id": "5af9ba5a1038",
-   "title": "Flytter lageret - kutter 80 ansatte",
-   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347196",
+   "id": "4a8fa8a785c5",
+   "title": "ID Logistics inaugurates automated logistics hub for PUMA in France",
+   "link": "https://container-news.com/id-logistics-inaugurates-automated-logistics-hub-for-puma-in-france/",
+   "source": "containernews",
+   "published": "2026-10-25T17:30:16Z",
+   "seen": "2026-10-25T18:41:29Z",
+   "lang": "en",
+   "excerpt": "ID Logistics and sportswear company PUMA have officially inaugurated an automated logistics facility in Vendenheim, France, marking a new milestone in their ten-year partnership and strengthening PUMA’s distribution operations in the …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5c4ac6059ce2",
+   "title": "Sikret seg 280 mål til logistikk, industri og havn i Lyngdal",
+   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347673",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-25T15:09:29Z",
+   "seen": "2026-10-25T16:11:29Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "b449bea99e49",
+   "title": "China tightens export oversight with new technology and drone controls",
+   "link": "https://container-news.com/china-tightens-export-oversight-with-new-technology-and-drone-controls/",
+   "source": "containernews",
+   "published": "2026-10-25T16:00:22Z",
+   "seen": "2026-10-25T18:41:29Z",
+   "lang": "en",
+   "excerpt": "China has announced new export control measures covering selected advanced technologies and unmanned aerial vehicles (UAVs), introducing additional compliance requirements for exporters and international logistics providers.",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4790514eb6e1",
+   "title": "Flytter lageret - kutter 80 ansatte",
+   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347159",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-25T15:26:29Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "556fa1b440e6",
+   "title": "Borr Drilling Rig Sinks Off Gabon, One Person Dead And Four Missing",
+   "link": "https://gcaptain.com/borr-drilling-rig-sinks-off-gabon-one-person-dead-and-four-missing/",
+   "source": "gcaptain",
+   "published": "2026-10-25T15:07:34Z",
+   "seen": "2026-10-25T18:41:29Z",
+   "lang": "en",
+   "excerpt": "By Gnaneshwar Rajan and Colleen Goko Oct 25 (Reuters) – Borr Drilling’s BORR.N Prospector 5 drilling rig sank late on Saturday off the coast of Mayumba, Gabon, killing one worker and leaving four others...",
+   "segments": [
+    "insurance",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "rig"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "2c3f643c6ad3",
+   "title": "Vareeierundersøkelsen 2026 er nå tilgjengelig - last ned rapporten her",
+   "link": "https://www.mtlogistikk.no/forsyningskjeder-logistikk-norske-vareeiere/vareeierundersokelsen-2026-er-na-tilgjengelig/1271402",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-25T14:41:29Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -36,6 +130,24 @@
    "subs": [],
    "policy": false,
    "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "0a2d94bb7c4f",
+   "title": "Få oversikt over alle logistikk-arrangement: Eventkalender logistikk 2026",
+   "link": "https://www.mtlogistikk.no/arangementer-konferanse-logistikk-25/eventkalender-logistikk-2025/1013111",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-25T14:26:29Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -95,25 +207,6 @@
    "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "c393e39f1b28",
-   "title": "Sikret seg 280 mål til logistikk, industri og havn i Lyngdal",
-   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347107",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-25T10:54:29Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road",
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18209,105 +18302,6 @@
    "source": "mtlogistikk",
    "published": null,
    "seen": "2026-10-16T09:44:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "f0bdb02e8368",
-   "title": "UK ports hit back at Brussels over ETS diversion claims",
-   "link": "https://splash247.com/uk-ports-hit-back-at-brussels-over-ets-diversion-claims/",
-   "source": "splash",
-   "published": "2026-10-16T09:30:00Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "British ports have challenged European Union claims that shipping lines are diverting container traffic to the UK to escape carbon charges, warning that proposed anti-evasion measures risk penalising billions of pounds of investment in …",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "eu-ets"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "79eabe7bf9ff",
-   "title": "Regjeringen snur – åpner for næringspark på 1800 dekar",
-   "link": "https://www.mtlogistikk.no/bygg-fredrikstad-lager/regjeringen-snur-apner-for-naeringspark-pa-1800-dekar/1342390",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-16T09:29:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "90b465840414",
-   "title": "Hackere truer med å lekke sensitive logistikkdata",
-   "link": "https://www.mtlogistikk.no/cyberkriminalitet-cybersikkerhet/hackere-truer-med-a-lekke-sensitive-logistikkdata/1342089",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-16T09:14:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "1880ff94ad22",
-   "title": "Stena Line agrees to acquire Somerset in network reshuffle",
-   "link": "https://container-news.com/stena-line-agrees-to-acquire-somerset-in-network-reshuffle/",
-   "source": "containernews",
-   "published": "2026-10-16T09:00:17Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Stena Line has reached an agreement to acquire the RoRo vessel Somerset from CLdN as part of a broader restructuring of its freight network.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "roro",
-    "restructuring"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "036736f0cc89",
-   "title": "Varene er levert: Men når kommer pengene?",
-   "link": "https://www.mtlogistikk.no/coface-eksport-kreditt/varene-er-levert-men-nar-kommer-pengene/1340311",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-16T08:59:22Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
