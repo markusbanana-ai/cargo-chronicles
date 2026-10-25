@@ -1,7 +1,65 @@
 {
- "updated": "2026-10-25T12:45:34Z",
+ "updated": "2026-10-25T15:39:29Z",
  "sample": false,
  "articles": [
+  {
+   "id": "5af9ba5a1038",
+   "title": "Flytter lageret - kutter 80 ansatte",
+   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347196",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-25T15:09:29Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8609be51543b",
+   "title": "Ryder raises full-year outlook as freight market conditions improve",
+   "link": "https://container-news.com/ryder-raises-full-year-outlook-as-freight-market-conditions-improve/",
+   "source": "containernews",
+   "published": "2026-10-25T14:30:20Z",
+   "seen": "2026-10-25T15:39:29Z",
+   "lang": "en",
+   "excerpt": "Ryder System reported stronger third-quarter earnings and raised its full-year 2026 profit outlook, supported by improving freight market conditions, higher contractual revenue and continued execution of its strategic initiatives.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "3297255ed133",
+   "title": "Why the global shipbuilding boom is redrawing the maritime balance of power",
+   "link": "https://container-news.com/why-the-global-shipbuilding-boom-is-redrawing-the-maritime-balance-of-power/",
+   "source": "containernews",
+   "published": "2026-10-25T13:00:48Z",
+   "seen": "2026-10-25T15:39:29Z",
+   "lang": "en",
+   "excerpt": "According to BIMCO data, the global orderbook stood at 203.2 million compensated gross tonnes at the start of September up 13% year-on-year and past the previous record set just before the 2008 financial crisis.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bimco",
+    "orderbook"
+   ],
+   "paywall": false
+  },
   {
    "id": "69dd140ff7b2",
    "title": "Maersk revises North America PSS from Indian Subcontinent and Middle East",
@@ -41,35 +99,17 @@
    "paywall": false
   },
   {
-   "id": "5c4ac6059ce2",
+   "id": "c393e39f1b28",
    "title": "Sikret seg 280 mål til logistikk, industri og havn i Lyngdal",
-   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347673",
+   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347107",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-25T10:15:34Z",
+   "seen": "2026-10-25T10:54:29Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
     "road",
     "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "4790514eb6e1",
-   "title": "Flytter lageret - kutter 80 ansatte",
-   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347159",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-25T09:30:34Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
    ],
    "subs": [],
    "policy": false,
@@ -137,6 +177,44 @@
    ],
    "policy": false,
    "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "d6c4324b9a22",
+   "title": "Bygger logistikksenter for økt forsyningssikkerhet",
+   "link": "https://www.mtlogistikk.no/bauta-group-fiskumparken-forsyningssikkerhet/bygger-logistikksenter-for-okt-forsyningssikkerhet/1340854",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-25T07:39:29Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "supply-chain"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "899bd7da668f",
+   "title": "Diesel holder stand i EU",
+   "link": "https://www.mtlogistikk.no/acea-elektrisk-lastebil-lastebil/diesel-holder-stand-i-eu/1340821",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-25T07:24:29Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18239,88 +18317,6 @@
    "policy": false,
    "level": "national",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "2c3f643c6ad3",
-   "title": "Vareeierundersøkelsen 2026 er nå tilgjengelig - last ned rapporten her",
-   "link": "https://www.mtlogistikk.no/forsyningskjeder-logistikk-norske-vareeiere/vareeierundersokelsen-2026-er-na-tilgjengelig/1271402",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-16T08:44:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "0a2d94bb7c4f",
-   "title": "Få oversikt over alle logistikk-arrangement: Eventkalender logistikk 2026",
-   "link": "https://www.mtlogistikk.no/arangementer-konferanse-logistikk-25/eventkalender-logistikk-2025/1013111",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-16T08:29:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "46052250164c",
-   "title": "Pakistani upstream petroleum player picks Norwegian firm for data acquisition",
-   "link": "https://offshore-energy.biz/2026/10/16/pakistani-upstream-petroleum-player-picks-norwegian-firm-for-data-acquisition",
-   "source": "offshoreenergy",
-   "published": "2026-10-16T08:25:59Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Norwegian geophysical services company Electromagnetic Geoservices (EMGS) has been selected by a Pakistani upstream petroleum company for...",
-   "segments": [
-    "finance",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "ep"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "ec53bfe93e0c",
-   "title": "International Seaways seals $370m Bruton takeover deal",
-   "link": "https://splash247.com/international-seaways-seals-370m-bruton-takeover-deal/",
-   "source": "splash",
-   "published": "2026-10-16T08:15:57Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "New York-listed tanker owner International Seaways has struck a deal to take over Tor Olav Trøim-backed Bruton in a transaction valuing the Oslo-listed VLCC company at around $370m.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "mna",
-    "vlcc",
-    "newbuilding"
-   ],
    "paywall": false
   }
  ]
