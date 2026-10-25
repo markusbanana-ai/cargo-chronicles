@@ -1,7 +1,92 @@
 {
- "updated": "2026-10-25T18:41:29Z",
+ "updated": "2026-10-25T21:37:56Z",
  "sample": false,
  "articles": [
+  {
+   "id": "5af9ba5a1038",
+   "title": "Flytter lageret - kutter 80 ansatte",
+   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347196",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-25T21:07:56Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "0f328c99365f",
+   "title": "HHLA cuts earnings outlook as Hamburg terminal disruptions weigh on throughput",
+   "link": "https://container-news.com/hhla-cuts-earnings-outlook-as-hamburg-terminal-disruptions-weigh-on-throughput/",
+   "source": "containernews",
+   "published": "2026-10-25T21:00:17Z",
+   "seen": "2026-10-25T21:37:56Z",
+   "lang": "en",
+   "excerpt": "Hamburger Hafen und Logistik AG (HHLA) has lowered its earnings forecast for the 2026 financial year, citing strike-related disruptions, challenges associated with the ramp-up of terminal automation in Hamburg and a non-cash impairment …",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "impairment"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "9888e9dfc888",
+   "title": "CENTCOM's Commander Conducts an Inspection Flight in Strait of Hormuz",
+   "link": "https://maritime-executive.com/article/centcom-s-commander-conducts-an-inspection-flight-in-strait-of-hormuz",
+   "source": "marex",
+   "published": "2026-10-25T20:33:41Z",
+   "seen": "2026-10-25T21:37:56Z",
+   "lang": "en",
+   "excerpt": "In a demonstration of confidence in the control Central Command exercises over the Strait of Hormuz, Commander CENTCOM Admiral Brad Cooper has made a...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "8688d2ef7b05",
+   "title": "How shipping’s stalled climate deal is being absorbed by geopolitics",
+   "link": "https://container-news.com/how-shippings-stalled-climate-deal-is-being-absorbed-by-geopolitics/",
+   "source": "containernews",
+   "published": "2026-10-25T19:00:20Z",
+   "seen": "2026-10-25T21:37:56Z",
+   "lang": "en",
+   "excerpt": "The World Shipping Council reports that the dual-fuel fleet of containerships and vehicle carriers passed 500 vessels in September 2026, a 41% rise in a year, with another 849 on order and more than $200 billion committed.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dual-fuel",
+    "liner",
+    "car-carrier"
+   ],
+   "paywall": false
+  },
   {
    "id": "4a8fa8a785c5",
    "title": "ID Logistics inaugurates automated logistics hub for PUMA in France",
@@ -21,12 +106,12 @@
    "paywall": false
   },
   {
-   "id": "5c4ac6059ce2",
+   "id": "c393e39f1b28",
    "title": "Sikret seg 280 mål til logistikk, industri og havn i Lyngdal",
-   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347673",
+   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347107",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-25T16:11:29Z",
+   "seen": "2026-10-25T16:52:56Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -54,24 +139,6 @@
    "subs": [],
    "policy": true,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "4790514eb6e1",
-   "title": "Flytter lageret - kutter 80 ansatte",
-   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347159",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-25T15:26:29Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18255,62 +18322,6 @@
    "terms": [
     "lng"
    ],
-   "paywall": false
-  },
-  {
-   "id": "5ce91d0f8070",
-   "title": "Equinor keeps Odfjell Drilling semisub busy into late 2027",
-   "link": "https://splash247.com/equinor-keeps-odfjell-drilling-semisub-busy-into-late-2027/",
-   "source": "splash",
-   "published": "2026-10-16T10:00:00Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Norway’s Odfjell Drilling has secured more work for its Deepsea Atlantic semisubmersible drilling rig after compatriot energy major Equinor exercised options for two additional wells.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "rig"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "1760c85ff9ea",
-   "title": "Tre drivlinjer i samme modellserie",
-   "link": "https://www.mtlogistikk.no/hedin-hedin-nordic-truck-iveco/tre-drivlinjer-i-samme-modellserie/1342437",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-16T09:59:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "1b1ccab99839",
-   "title": "Vetrhus starter opp igjen",
-   "link": "https://www.mtlogistikk.no/so-vetrhus-sorum-transport/vetrhus-starter-opp-igjen/1342409",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-16T09:44:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   }
  ]
