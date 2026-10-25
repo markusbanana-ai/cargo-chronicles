@@ -1,7 +1,65 @@
 {
- "updated": "2026-10-25T00:48:12Z",
+ "updated": "2026-10-25T03:40:45Z",
  "sample": false,
  "articles": [
+  {
+   "id": "5af9ba5a1038",
+   "title": "Flytter lageret - kutter 80 ansatte",
+   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347196",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-25T03:10:45Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "24eccd650956",
+   "title": "Peel Ports CEO makes case for port-to-project approach",
+   "link": "https://container-news.com/peel-ports-ceo-makes-case-for-port-to-project-approach/",
+   "source": "containernews",
+   "published": "2026-10-25T02:30:50Z",
+   "seen": "2026-10-25T03:40:45Z",
+   "lang": "en",
+   "excerpt": "Peel Ports Group Chief Executive Officer David Huck has articulated a strategic vision for ports as central enablers of the UK construction sector, arguing that port-centric supply chains offer a demonstrably smarter path through the cost …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "congestion"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "13c173da8972",
+   "title": "Latvia Emerges As Top-Five Country Used To Ship Russian Grain",
+   "link": "https://gcaptain.com/latvia-emerges-as-top-five-country-used-to-ship-russian-grain/",
+   "source": "gcaptain",
+   "published": "2026-10-25T01:34:43Z",
+   "seen": "2026-10-25T03:40:45Z",
+   "lang": "en",
+   "excerpt": "MOSCOW, Oct 23 (Reuters) – Latvia, a member of the European Union and NATO, has emerged as one of the top five countries used to ship Russian grain this marketing season despite strained political...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
   {
    "id": "5edbd32a4421",
    "title": "Truckload contract rate increases riding steady above 10%",
@@ -41,35 +99,17 @@
    "paywall": false
   },
   {
-   "id": "5c4ac6059ce2",
+   "id": "c393e39f1b28",
    "title": "Sikret seg 280 mål til logistikk, industri og havn i Lyngdal",
-   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347673",
+   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347107",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-24T22:18:12Z",
+   "seen": "2026-10-24T22:55:45Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
     "road",
     "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "4790514eb6e1",
-   "title": "Flytter lageret - kutter 80 ansatte",
-   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347159",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-24T21:33:12Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
    ],
    "subs": [],
    "policy": false,
@@ -18277,48 +18317,6 @@
    "source": "mtlogistikk",
    "published": null,
    "seen": "2026-10-16T06:29:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "bbbebfc7bea7",
-   "title": "HMM commits $1.6bn to 12 more containerships",
-   "link": "https://splash247.com/hmm-commits-1-6bn-to-12-more-containerships/",
-   "source": "splash",
-   "published": "2026-10-16T06:25:42Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "South Korea’s HMM is pressing ahead with its fleet expansion programme, approving a $1.62bn investment in 12 containerships comprising eight 13,000 teu newbuildings and four smaller vessels.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "liner",
-    "newbuilding"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "84d2651d1313",
-   "title": "Her går det unna!",
-   "link": "https://www.mtlogistikk.no/asko-bama-logistikk-elektrisk-lastebil/her-lader-man-med-over-700-kw/1337924",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-16T06:14:22Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
