@@ -1,14 +1,71 @@
 {
- "updated": "2026-10-24T21:37:45Z",
+ "updated": "2026-10-25T00:48:12Z",
  "sample": false,
  "articles": [
   {
-   "id": "5af9ba5a1038",
-   "title": "Flytter lageret - kutter 80 ansatte",
-   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347196",
+   "id": "5edbd32a4421",
+   "title": "Truckload contract rate increases riding steady above 10%",
+   "link": "https://www.freightwaves.com/news/truckload-contract-rate-increases-riding-steady-above-10",
+   "source": "freightwaves",
+   "published": "2026-10-25T00:30:00Z",
+   "seen": "2026-10-25T00:48:12Z",
+   "lang": "en",
+   "excerpt": "The new index from SONAR shows that carriers have been trying to get rate increases since before the market turned, now they are getting what would have been the equivalent of a few years worth in one.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ftl"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "02d94ad53455",
+   "title": "Alexandria Port explores enhanced maritime cooperation with port of Barcelona",
+   "link": "https://container-news.com/alexandria-port-explores-enhanced-maritime-cooperation-with-port-of-barcelona/",
+   "source": "containernews",
+   "published": "2026-10-24T23:30:35Z",
+   "seen": "2026-10-25T00:48:12Z",
+   "lang": "en",
+   "excerpt": "The Alexandria Port Authority has received a Spanish delegation comprising representatives from the Port of Barcelona, the Barcelona Chamber of Commerce and the Mercabarna market, in a meeting aimed at strengthening Egyptian-Spanish …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5c4ac6059ce2",
+   "title": "Sikret seg 280 mål til logistikk, industri og havn i Lyngdal",
+   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347673",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-24T21:07:45Z",
+   "seen": "2026-10-24T22:18:12Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4790514eb6e1",
+   "title": "Flytter lageret - kutter 80 ansatte",
+   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347159",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-24T21:33:12Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -117,25 +174,6 @@
    "paywall": false
   },
   {
-   "id": "c393e39f1b28",
-   "title": "Sikret seg 280 mål til logistikk, industri og havn i Lyngdal",
-   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347107",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-24T16:52:45Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road",
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "25dda5c91b63",
    "title": "ClassNK Releases Handbook Supporting Consideration of Onboard Carbon Capture",
    "link": "https://maritime-executive.com/article/classnk-releases-handbook-supporting-consideration-of-onboard-carbon-capture",
@@ -174,6 +212,26 @@
    "policy": false,
    "level": "international",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "49dc6d3f3b1d",
+   "title": "Savner sikkerhetsnett når godstogene stopper",
+   "link": "https://www.mtlogistikk.no/jernbanefrakt-nho-logistikk-og-transport-nholt/savner-sikkerhetsnett-nar-godstogene-stopper/1336639",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-24T15:03:12Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "intermodal"
+   ],
    "paywall": false
   },
   {
@@ -18271,68 +18329,6 @@
    "level": "national",
    "terms": [],
    "paywall": false
-  },
-  {
-   "id": "979750ea9f3a",
-   "title": "Two ships sink near Hormuz after being hit by projectiles: surge in attacks",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/two-ships-sink-near-hormuz-after-being-hit-by-projectiles-surge-in-attacks/",
-   "source": "imn",
-   "published": "2026-10-16T06:03:10Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": true
-  },
-  {
-   "id": "c0e4058e32a1",
-   "title": "Two vessels ablaze off Romania after suspected drone attacks",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/two-vessels-ablaze-off-romania-after-suspected-drone-attacks/",
-   "source": "imn",
-   "published": "2026-10-16T06:02:20Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "0686d1cc8486",
-   "title": "Products tanker runs aground on Turkish Black Sea coast",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/products-tanker-runs-aground-on-turkish-black-sea-coast/",
-   "source": "imn",
-   "published": "2026-10-16T06:01:32Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "product-tanker"
-   ],
-   "paywall": true
   }
  ]
 }
