@@ -1,14 +1,440 @@
 {
- "updated": "2026-10-25T21:37:56Z",
+ "updated": "2026-10-26T01:02:41Z",
  "sample": false,
  "articles": [
   {
-   "id": "5af9ba5a1038",
-   "title": "Flytter lageret - kutter 80 ansatte",
-   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347196",
+   "id": "1b5dc91a7c9f",
+   "title": "US Deep-Sea Mining Claim Areas Rival ISA Licenses in Size",
+   "link": "https://maritime-executive.com/article/us-deep-sea-mining-claims-in-the-pacific-now-rival-isa-licenses-in-size",
+   "source": "marex",
+   "published": "2026-10-26T00:22:00Z",
+   "seen": "2026-10-21T21:42:09Z",
+   "lang": "en",
+   "excerpt": "U.S. ambitions to mine the deep sea are rapidly expanding across the ocean, not only in the country’s own waters, but also on the high seas — the vast...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "074a478c6f34",
+   "title": "In Singapore, Improper Drone Use Can Mean Fines or Prison for Seafarers",
+   "link": "https://maritime-executive.com/article/in-singapore-improper-drone-use-can-mean-fines-or-prison-for-seafarers",
+   "source": "marex",
+   "published": "2026-10-26T00:21:00Z",
+   "seen": "2026-10-20T09:40:41Z",
+   "lang": "en",
+   "excerpt": "The Port of Singapore has been at the forefront of harbor drone services since at least 2018, when it welcomed the first trials of a cargo-drone comme...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "12ea634d83b9",
+   "title": "Rhenus launches major automated warehouse system in Poland",
+   "link": "https://container-news.com/rhenus-launches-major-automated-warehouse-system-in-poland/",
+   "source": "containernews",
+   "published": "2026-10-25T23:17:57Z",
+   "seen": "2026-10-26T01:02:41Z",
+   "lang": "en",
+   "excerpt": "Rhenus Warehousing Solutions has officially launched one of Poland’s largest AutoStore installations at its logistics centre in Bolesławiec, strengthening its automated warehousing capabilities and expanding support for e-commerce …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "90d46d2ea06d",
+   "title": "Borr Drilling Jackup Loses Stability and Sinks off Gabon",
+   "link": "https://maritime-executive.com/article/borr-drilling-jackup-loses-stability-and-sinks-off-gabon",
+   "source": "marex",
+   "published": "2026-10-25T23:04:02Z",
+   "seen": "2026-10-26T01:02:41Z",
+   "lang": "en",
+   "excerpt": "On Saturday night, a jackup rig operated by Borr Drilling sank off the coast of Gabon, leaving one dead and four people missing. According to Borr, t...",
+   "segments": [
+    "insurance",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "rig"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "5c4ac6059ce2",
+   "title": "Sikret seg 280 mål til logistikk, industri og havn i Lyngdal",
+   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347673",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-25T21:07:56Z",
+   "seen": "2026-10-25T22:32:41Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "d9cf6ee1e323",
+   "title": "Tankers: More Complications Ahead for Diesel Cargoes?",
+   "link": "https://www.hellenicshippingnews.com/tankers-more-complications-ahead-for-diesel-cargoes/",
+   "source": "hsn",
+   "published": "2026-10-25T22:00:59Z",
+   "seen": "2026-10-26T01:02:41Z",
+   "lang": "en",
+   "excerpt": "The diesel trade seems to be somewhat reopening, with Russian volumes starting to make their way across the Atlantic, but complications remain, with availability more than limited.",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "shipbroker",
+    "sanctions"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "56fa346aa5df",
+   "title": "XENETA: Far East to Europe spot rates rise despite Red Sea return as demand overrides supply",
+   "link": "https://www.hellenicshippingnews.com/xeneta-far-east-to-europe-spot-rates-rise-despite-red-sea-return-as-demand-overrides-supply/",
+   "source": "hsn",
+   "published": "2026-10-25T22:00:58Z",
+   "seen": "2026-10-26T01:02:41Z",
+   "lang": "en",
+   "excerpt": "The Xeneta Weekly Ocean Container Shipping Market Update provides data and intelligence including the latest freight rate and capacity movements across global trades with supporting insight from Peter Sand, Xeneta Chief Analyst.",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "spot-market",
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "e0ed9a3cd7a5",
+   "title": "Dry Bulk Market: Capesize Market Recovering Steadily",
+   "link": "https://www.hellenicshippingnews.com/dry-bulk-market-capesize-market-recovering-steadily/",
+   "source": "hsn",
+   "published": "2026-10-25T22:00:58Z",
+   "seen": "2026-10-26T01:02:41Z",
+   "lang": "en",
+   "excerpt": "Capesize The Capesize market recovered steadily through the week, with improving sentiment across both basins lifting the BCI 182 5TC from $30,518 on Monday to $34,380 by Friday.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dry-bulk",
+    "capesize"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "853b8a932bc4",
+   "title": "Star Asia Shipbroking Weekly Market Report – WEEK 43",
+   "link": "https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-43-5/",
+   "source": "hsn",
+   "published": "2026-10-25T22:00:57Z",
+   "seen": "2026-10-26T01:02:41Z",
+   "lang": "en",
+   "excerpt": "Russian seaborne crude loadings experienced a noticeable lull heading into mid-October, largely driven",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "reports"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "shipbroker"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "f9b3b06c45e8",
+   "title": "Testing fleet strategies against an uncertain energy transition",
+   "link": "https://www.hellenicshippingnews.com/testing-fleet-strategies-against-an-uncertain-energy-transition/",
+   "source": "hsn",
+   "published": "2026-10-25T22:00:57Z",
+   "seen": "2026-10-26T01:02:41Z",
+   "lang": "en",
+   "excerpt": "Balancing transition risk and cost is central to developing robust fuel and technology strategies for the journey towards 2050. This year’s Maritime Forecast to 2050 outlines DNV’s framework for evaluating these trade-offs across both …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "stranded-asset",
+    "class-society"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "0cbf0c23dcde",
+   "title": "Russian diesel tanker heads to New York as Kremlin claims regular shipments",
+   "link": "https://www.hellenicshippingnews.com/russian-diesel-tanker-heads-to-new-york-as-kremlin-claims-regular-shipments/",
+   "source": "hsn",
+   "published": "2026-10-25T22:00:56Z",
+   "seen": "2026-10-26T01:02:41Z",
+   "lang": "en",
+   "excerpt": "The Malta-flagged medium-sized tanker Agioi Fanendes is heading to New York carrying Russian diesel, according to S&P Global Energy Commodities at Sea data, with the Kremlin expecting deliveries to continue “on a regular basis.” The …",
+   "segments": [
+    "road",
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "sale-purchase"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "405574d07ee1",
+   "title": "VLCC Tanker Market Giving Up Past Gains",
+   "link": "https://www.hellenicshippingnews.com/vlcc-tanker-market-giving-up-past-gains/",
+   "source": "hsn",
+   "published": "2026-10-25T22:00:54Z",
+   "seen": "2026-10-26T01:02:41Z",
+   "lang": "en",
+   "excerpt": "Clean LR2 The TC1 75kt MEG/Japan index climbed by 92 points this week to WS1075, with the corresponding Baltic round-trip TCE rising by $28,600 to $313,200/day.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "vlcc",
+    "product-tanker",
+    "tce"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "629c7d41bb67",
+   "title": "Biofuel Bunker Snapshot: Lower feedstock costs limit Rotterdam B30-VLSFO price gain",
+   "link": "https://www.hellenicshippingnews.com/biofuel-bunker-snapshot-lower-feedstock-costs-limit-rotterdam-b30-vlsfo-price-gain/",
+   "source": "hsn",
+   "published": "2026-10-25T22:00:52Z",
+   "seen": "2026-10-26T01:02:41Z",
+   "lang": "en",
+   "excerpt": "Europe Rotterdam’s B30-VLSFO (POMEME) price has gained $11/mt in the past week, while the Dutch port’s conventional VLSFO price has jumped $30/mt over the same period.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dual-fuel",
+    "bunkers"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "4e3f0e4466a9",
+   "title": "EU Proposed SMAP subsidy favors e-fuels and bioLNG",
+   "link": "https://www.hellenicshippingnews.com/eu-proposed-smap-subsidy-favors-e-fuels-and-biolng/",
+   "source": "hsn",
+   "published": "2026-10-25T22:00:50Z",
+   "seen": "2026-10-26T01:02:41Z",
+   "lang": "en",
+   "excerpt": "Europe’s carbon market could soon start paying shipowners to switch fuels, but the support on offer is far from equal. In July, the European Commission proposed a revision of the European Union’s Emissions Trading System (EU ETS) that …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "dual-fuel",
+    "eu-ets"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "e95a3ff3d3b5",
+   "title": "Drewry: Intra Asia Container Index Moving Higher",
+   "link": "https://www.hellenicshippingnews.com/drewry-intra-asia-container-index-moving-higher/",
+   "source": "hsn",
+   "published": "2026-10-25T22:00:48Z",
+   "seen": "2026-10-26T01:02:41Z",
+   "lang": "en",
+   "excerpt": "Drewry’s Intra-Asia Container Index (IACI) inched up $6 to $1,459 per 40ft container. This relative stability is reflected on most lanes, indicating that, with few exceptions, carriers extended rates for the first fortnight into the …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "container-index",
+    "congestion"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "0714a3c582a9",
+   "title": "Rotterdam’s bio-bunker sales drop 38% from last quarter",
+   "link": "https://www.hellenicshippingnews.com/rotterdams-bio-bunker-sales-drop-38-from-last-quarter/",
+   "source": "hsn",
+   "published": "2026-10-25T22:00:46Z",
+   "seen": "2026-10-26T01:02:41Z",
+   "lang": "en",
+   "excerpt": "Changes between the second quarter and the third quarter of 2026: • Bio-VLSFO sales down by 81,000 mt to 63,000 mt • Bio-HSFO sales down by 17,000 mt to 13,000 mt • Total bio-MGO sales down by 2,000 mt to 41,000 mt • Bio-ULSFO sales …",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bunkers"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "004318f8d500",
+   "title": "Korean shipbuilders eye FSRU conversions as aging LNG carriers spur demand",
+   "link": "https://www.hellenicshippingnews.com/korean-shipbuilders-eye-fsru-conversions-as-aging-lng-carriers-spur-demand/",
+   "source": "hsn",
+   "published": "2026-10-25T22:00:44Z",
+   "seen": "2026-10-26T01:02:41Z",
+   "lang": "en",
+   "excerpt": "A project to convert aging liquefied natural gas (LNG) carriers into floating storage and regasification units (FSRUs) is drawing attention as a new market in the shipbuilding industry.",
+   "segments": [
+    "freight",
+    "offshore"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "fsru",
+    "lng-carrier",
+    "lng",
+    "contango"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "f1068dee1373",
+   "title": "Loss of bridge control: Human failure is normal – context is key",
+   "link": "https://www.hellenicshippingnews.com/loss-of-bridge-control-human-failure-is-normal-context-is-key/",
+   "source": "hsn",
+   "published": "2026-10-25T22:00:42Z",
+   "seen": "2026-10-26T01:02:41Z",
+   "lang": "en",
+   "excerpt": "When bridge control is lost in a functioning system, it can be easy to blame human error. But accidents rarely happen because of one mistake alone.",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f4eea16b669a",
+   "title": "Valenciaport boosts exports in September and sees a 5.48% increase in container traffic",
+   "link": "https://www.hellenicshippingnews.com/valenciaport-boosts-exports-in-september-and-sees-a-5-48-increase-in-container-traffic/",
+   "source": "hsn",
+   "published": "2026-10-25T22:00:30Z",
+   "seen": "2026-10-26T01:02:41Z",
+   "lang": "en",
+   "excerpt": "Exports from Valenciaport grew by 5.68% in September, while imports increased by 11.68%. These figures were driven by a 5.48% increase in container traffic, reaching 498,837 TEUs, while tonnage grew by 2.05% to 6.6 million metric tons last …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "c9ce801713d0",
+   "title": "Port Of Los Angeles Reports Lowest Emissions Per Container On Record",
+   "link": "https://www.hellenicshippingnews.com/port-of-los-angeles-reports-lowest-emissions-per-container-on-record/",
+   "source": "hsn",
+   "published": "2026-10-25T22:00:28Z",
+   "seen": "2026-10-26T01:02:41Z",
+   "lang": "en",
+   "excerpt": "The Port of Los Angeles continued to make clean air gains in 2025, recording its lowest emissions per container on record, according to the Port’s newly released Inventory of Air Emissions.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4790514eb6e1",
+   "title": "Flytter lageret - kutter 80 ansatte",
+   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347159",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-25T21:47:41Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -64,6 +490,24 @@
    "paywall": false
   },
   {
+   "id": "e17a47e5e4c6",
+   "title": "Russia Says It Hit Two Cargo Vessels And Ukrainian Logistics Hubs",
+   "link": "https://gcaptain.com/russia-says-it-hit-two-cargo-vessels-and-ukrainian-logistics-hubs/",
+   "source": "gcaptain",
+   "published": "2026-10-25T20:21:48Z",
+   "seen": "2026-10-26T01:02:41Z",
+   "lang": "en",
+   "excerpt": "MOSCOW, Oct 25 (Reuters) – The Russian Defence Ministry said on Sunday that its drones had struck a cargo vessel bound for the Black Sea port of Chornomorsk in an overnight attack and another...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
    "id": "8688d2ef7b05",
    "title": "How shipping’s stalled climate deal is being absorbed by geopolitics",
    "link": "https://container-news.com/how-shippings-stalled-climate-deal-is-being-absorbed-by-geopolitics/",
@@ -102,25 +546,6 @@
    "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "c393e39f1b28",
-   "title": "Sikret seg 280 mål til logistikk, industri og havn i Lyngdal",
-   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347107",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-25T16:52:56Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road",
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -7288,24 +7713,6 @@
    "paywall": false
   },
   {
-   "id": "1b5dc91a7c9f",
-   "title": "US Deep-Sea Mining Claim Areas Rival ISA Licenses in Size",
-   "link": "https://maritime-executive.com/article/us-deep-sea-mining-claims-in-the-pacific-now-rival-isa-licenses-in-size",
-   "source": "marex",
-   "published": "2026-10-21T20:51:49Z",
-   "seen": "2026-10-21T21:42:09Z",
-   "lang": "en",
-   "excerpt": "U.S. ambitions to mine the deep sea are rapidly expanding across the ocean, not only in the country’s own waters, but also on the high seas — the vast...",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "fe61925f1404",
    "title": "Panama Canal Traffic and Tonnage Rise Despite El Niño Challenges",
    "link": "https://gcaptain.com/panama-canal-traffic-and-tonnage-rise-despite-el-nino-challenges/",
@@ -12248,24 +12655,6 @@
     "eu-ets",
     "fueleu"
    ],
-   "paywall": false
-  },
-  {
-   "id": "074a478c6f34",
-   "title": "In Singapore, Improper Drone Use Can Mean Fines or Prison for Seafarers",
-   "link": "https://maritime-executive.com/article/in-singapore-improper-drone-use-can-mean-fines-or-prison-for-seafarers",
-   "source": "marex",
-   "published": "2026-10-20T02:05:34Z",
-   "seen": "2026-10-20T09:40:41Z",
-   "lang": "en",
-   "excerpt": "The Port of Singapore has been at the forefront of harbor drone services since at least 2018, when it welcomed the first trials of a cargo-drone comme...",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
    "paywall": false
   },
   {
@@ -17953,375 +18342,6 @@
    "policy": false,
    "level": "national",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "595918b7e05d",
-   "title": "Uke 42: Containerprisene snur opp etter 13 uker med fall",
-   "link": "https://www.mtlogistikk.no/drewry-sjofrakt-spotpris/uke-42-containerprisene-snur-opp-etter-13-uker-med-fall/1342498",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-16T10:29:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road",
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "6710ef6bfdc2",
-   "title": "Uten lastebilen stopper Norge",
-   "link": "https://lastebil.no/aktuelt/nyheter/2026/uten-lastebilen-stopper-norge",
-   "source": "lastebil",
-   "published": "2026-10-16T10:15:55Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "no",
-   "excerpt": "NLF ber Finanskomiteen utrede en refusjonsordning for diesel til næringsbruk, og vil fjerne formuesskatten på arbeidende kapital.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "f4da461f4919",
-   "title": "Kögel fant en løsning på el-lastebilens utfordring",
-   "link": "https://www.mtlogistikk.no/iaa-iaa-2026-koegel/koegel-fant-en-losning-pa-el-lastebilens-utfordring/1342456",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-16T10:14:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "84ed4139be34",
-   "title": "More oil found at permit offshore Gabon",
-   "link": "https://offshore-energy.biz/2026/10/16/more-oil-found-at-permit-offshore-gabon",
-   "source": "offshoreenergy",
-   "published": "2026-10-16T10:07:39Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "UK-headquartered Panoro Energy and Oslo-listed BW Energy have encountered more oil at a permit offshore Gabon by drilling two open-water wells....",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "2a01e654afa8",
-   "title": "Reinforcing the ETS SMAP to guarantee long-term shipping decarbonisation",
-   "link": "https://www.hellenicshippingnews.com/reinforcing-the-ets-smap-to-guarantee-long-term-shipping-decarbonisation/",
-   "source": "hsn",
-   "published": "2026-10-16T10:00:59Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "The SMAP mechanism introduced under the ETS represents an opportunity to help the maritime sector to transition towards clean fuels and propulsion technologies, and strengthen Europe’s industrial leadership.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "eu-ets"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "67cc73aa5c95",
-   "title": "Dry bulk safety: scrap metal fires, fumigation and enclosed spaces",
-   "link": "https://www.hellenicshippingnews.com/dry-bulk-safety-scrap-metal-fires-fumigation-and-enclosed-spaces/",
-   "source": "hsn",
-   "published": "2026-10-16T10:00:57Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "BIMCO’s Dry Bulk Cargo Network discussed three persistent safety challenges at its latest meeting: fire risks from contaminated scrap metal cargoes, the shift of fumigation duties from specialists to ships’ crews, and continuing fatalities …",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "dry-bulk",
-    "bimco",
-    "charter-party"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "9e786d187c5f",
-   "title": "Hong Kong Cements Its Position as a Resilient Global Maritime Hub Ahead of 10th Maritime Week",
-   "link": "https://www.hellenicshippingnews.com/hong-kong-cements-its-position-as-a-resilient-global-maritime-hub-ahead-of-10th-maritime-week/",
-   "source": "hsn",
-   "published": "2026-10-16T10:00:55Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Hong Kong is preparing to host the 10th-anniversary edition of Hong Kong Maritime Week (HKMW 2026), taking place from November 15 to 21.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "30df8e4868b0",
-   "title": "Vitol to launch Asian LNG bunkering in late 2026",
-   "link": "https://www.hellenicshippingnews.com/vitol-to-launch-asian-lng-bunkering-in-late-2026/",
-   "source": "hsn",
-   "published": "2026-10-16T10:00:53Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Marine fuel supplier Vitol Bunkers plans to start physical LNG bunker deliveries in Singapore and other Asian markets later this year.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng",
-    "bunkers",
-    "units"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "749f17c9165c",
-   "title": "DP World completes £13 million training hub at London Gateway",
-   "link": "https://container-news.com/dp-world-completes-13-million-training-hub-at-london-gateway/",
-   "source": "containernews",
-   "published": "2026-10-16T10:00:53Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "DP World and Thames Freeport have completed a new £13 million training and innovation centre at London Gateway in the United Kingdom. The facility, known as The Hive, is located within London Gateway Logistics Park.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "73b998ae97b7",
-   "title": "GT Wings expands product range with launch of new lightweight AirWing™S to reduce emissions for smaller vessels",
-   "link": "https://www.hellenicshippingnews.com/gt-wings-expands-product-range-with-launch-of-new-lightweight-airwings-to-reduce-emissions-for-smaller-vessels/",
-   "source": "hsn",
-   "published": "2026-10-16T10:00:51Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "GT Wings has announced the latest addition to its windassisted propulsion product range, AirWing™S, a new compact and lightweight Jet Sail developed to address the operational requirements of smaller commercial vessels.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "37bf6f70e1dc",
-   "title": "India: Shipping ministry unveils 2 specialised credit risk insurance products",
-   "link": "https://www.hellenicshippingnews.com/india-shipping-ministry-unveils-2-specialised-credit-risk-insurance-products/",
-   "source": "hsn",
-   "published": "2026-10-16T10:00:47Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "The Shipping Ministry announced two specialised credit risk insurance products to support India’s shipbuilding industry under the National Shipbuilding Mission.",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "5bbbb8a1d379",
-   "title": "New Bunkering Standards Enhance Fuel Quality Assurance",
-   "link": "https://www.hellenicshippingnews.com/new-bunkering-standards-enhance-fuel-quality-assurance/",
-   "source": "hsn",
-   "published": "2026-10-16T10:00:45Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "The Maritime and Port Authority of Singapore (MPA) and Enterprise Singapore, through the Singapore Standards Council (SSC), launched a new Singapore Standard (SS) and two Technical References (TRs) today covering ammonia bunkering, bunker …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bunkers"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "3f3f399655d4",
-   "title": "LNG, methanol and B24 bunkered at Ningbo-Zhoushan on same day",
-   "link": "https://www.hellenicshippingnews.com/lng-methanol-and-b24-bunkered-at-ningbo-zhoushan-on-same-day/",
-   "source": "hsn",
-   "published": "2026-10-16T10:00:43Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "This was the first time three different marine fuels had been supplied on the same day to different vessels berthed at the same port in China, according to the Ningbo Maritime Safety Administration (MSA).",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng",
-    "bunkers",
-    "units"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "5a31b20f32b7",
-   "title": "China: Coal use reaching peak plateau amid green goals",
-   "link": "https://www.hellenicshippingnews.com/china-coal-use-reaching-peak-plateau-amid-green-goals/",
-   "source": "hsn",
-   "published": "2026-10-16T10:00:41Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "China’s coal consumption is expected to enter a peak plateau transition during the 15th Five-Year Plan period (2026-30), following a steady deceleration in growth as the country’s green energy transformation reshapes its economic …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "e1c7f5d6030f",
-   "title": "Indonesia thermal coal policy uncertainty reshapes 2027 term contract protections",
-   "link": "https://www.hellenicshippingnews.com/indonesia-thermal-coal-policy-uncertainty-reshapes-2027-term-contract-protections/",
-   "source": "hsn",
-   "published": "2026-10-16T10:00:39Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Indonesian coal miners and Asian buyers are holding back on signing 2027 term supply contracts as uncertainty over government-approved production quotas and changes to export rules clouds the supply outlook, with some miners adding …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "68ec616f4aba",
-   "title": "Guyana’s Uaru Gold crude to debut as fourth medium-sweet grade",
-   "link": "https://www.hellenicshippingnews.com/guyanas-uaru-gold-crude-to-debut-as-fourth-medium-sweet-grade/",
-   "source": "hsn",
-   "published": "2026-10-16T10:00:29Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Guyana’s Uaru Gold crude, expected to hit the market in December, will be another medium-sweet grade with a quality most similar to that of Guyana’s flagship Liza crude.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "sale-purchase"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "8efdfada5ef2",
-   "title": "Asian refiners face margin squeeze from record tanker costs",
-   "link": "https://www.hellenicshippingnews.com/asian-refiners-face-margin-squeeze-from-record-tanker-costs/",
-   "source": "hsn",
-   "published": "2026-10-16T10:00:27Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "The cost of shipping oil in supertankers has reached record highs, putting pressure on profit margins for Asian oil refiners who rely heavily on Middle Eastern crude, the International Energy Agency said in a monthly report.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "vlcc",
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "9c4b53c01530",
-   "title": "US Gulf Coast gas infrastructure may struggle to keep pace with LNG, power growth",
-   "link": "https://www.hellenicshippingnews.com/us-gulf-coast-gas-infrastructure-may-struggle-to-keep-pace-with-lng-power-growth/",
-   "source": "hsn",
-   "published": "2026-10-16T10:00:23Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "en",
-   "excerpt": "Midstream companies are advancing new storage and pipeline projects along the Gulf Coast as a wave of LNG and power developments drives expectations for sharply higher natural gas demand over the coming decade, speakers said Oct.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng"
-   ],
    "paywall": false
   }
  ]
