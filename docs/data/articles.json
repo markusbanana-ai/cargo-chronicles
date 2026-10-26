@@ -1,7 +1,82 @@
 {
- "updated": "2026-10-26T01:02:41Z",
+ "updated": "2026-10-26T03:42:50Z",
  "sample": false,
  "articles": [
+  {
+   "id": "5af9ba5a1038",
+   "title": "Flytter lageret - kutter 80 ansatte",
+   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347196",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-26T03:12:50Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "02a572ccedf5",
+   "title": "Konecranes reports strong port equipment deliveries despite order slowdown",
+   "link": "https://container-news.com/konecranes-reports-strong-port-equipment-deliveries-despite-order-slowdown/",
+   "source": "containernews",
+   "published": "2026-10-26T03:00:52Z",
+   "seen": "2026-10-26T03:42:50Z",
+   "lang": "en",
+   "excerpt": "Finnish lifting equipment manufacturer Konecranes reported a strong recovery in port equipment deliveries during the third quarter of 2026, although new orders in its Port Solutions business declined significantly compared with the …",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "52a56ba89705",
+   "title": "Aging Freighter Banned From European Ports for Skipping Yard Date",
+   "link": "https://maritime-executive.com/article/aging-freighter-banned-from-european-ports-for-skipping-yard-date",
+   "source": "marex",
+   "published": "2026-10-26T02:54:14Z",
+   "seen": "2026-10-26T03:42:50Z",
+   "lang": "en",
+   "excerpt": "A 42-year-old general cargo ship characterized as high-risk has been banned from European ports for failing to call at a repair yard as agreed.The Par...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f222e2328063",
+   "title": "CEVA Logistics and Zalando advance AI-powered warehouse robotics",
+   "link": "https://container-news.com/ceva-logistics-and-zalando-advance-ai-powered-warehouse-robotics/",
+   "source": "containernews",
+   "published": "2026-10-26T01:30:49Z",
+   "seen": "2026-10-26T03:42:50Z",
+   "lang": "en",
+   "excerpt": "CEVA Logistics and Zalando are collaborating with Sereact, NVIDIA and Nebius on an artificial intelligence training system designed to improve robotic handling of e-commerce returns and accelerate the development of automated warehouse …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
   {
    "id": "1b5dc91a7c9f",
    "title": "US Deep-Sea Mining Claim Areas Rival ISA Licenses in Size",
@@ -78,12 +153,12 @@
    "paywall": false
   },
   {
-   "id": "5c4ac6059ce2",
+   "id": "c393e39f1b28",
    "title": "Sikret seg 280 mål til logistikk, industri og havn i Lyngdal",
-   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347673",
+   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347107",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-25T22:32:41Z",
+   "seen": "2026-10-25T22:57:50Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -425,24 +500,6 @@
    ],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "4790514eb6e1",
-   "title": "Flytter lageret - kutter 80 ansatte",
-   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347159",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-25T21:47:41Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18284,63 +18341,6 @@
    "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "0dc453cbeb8b",
-   "title": "Hormuz-stengning rammet norsk vannprodusent brutalt",
-   "link": "https://www.mtlogistikk.no/containerlogistikk-eirawater-flaskevann/hormuz-stengning-rammet-norsk-vannprodusent-brutalt/1330722",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-16T10:59:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road",
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "6daaf4bb0d91",
-   "title": "Lasting og lossing: LKAB med et jerngrep om førsteplassen",
-   "link": "https://www.mtlogistikk.no/2025-arsregnskap-lasting-og-lossing-oversikt/lasting-og-lossing-lkab-med-et-jerngrep-om-forsteplassen/1333710",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-16T10:44:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "c607dd5724df",
-   "title": "Fiskeri- og havministeren har møte med Rederiforbundet",
-   "link": "https://www.regjeringen.no/no/aktuelt/fiskeri-og-havministeren-har-mote-med-rederiforbundet/id3177335/",
-   "source": "regjeringen",
-   "published": "2026-10-16T10:30:00Z",
-   "seen": "2026-10-16T12:29:22Z",
-   "lang": "no",
-   "excerpt": "Fiskeri- og havminister Marianne Sivertsen Næss har møte med Rederiforbundet.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   }
