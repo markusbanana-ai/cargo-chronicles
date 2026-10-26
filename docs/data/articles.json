@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T14:52:43Z",
+ "updated": "2026-10-26T16:09:51Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren åpner konferanse om bærekraftig verdikjede og materialbruk i veibygging",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-konferanse-om-barekraftig-verdikjede-og-materialbruk-i-veibygging/id3183352/",
    "source": "regjeringen",
-   "published": "2026-10-26T14:52:43Z",
+   "published": "2026-10-26T16:09:51Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam åpner konferanse om bærekraftig verdikjede og materialbruk i vegbygging.",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren åpner ZERAC-konferansen 2026",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-zerac-konferansen-2026/id3183348/",
    "source": "regjeringen",
-   "published": "2026-10-26T14:52:43Z",
+   "published": "2026-10-26T16:09:51Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam åpner Zero Emission Regional Aviation Conference 2026.",
@@ -45,7 +45,7 @@
    "title": "Samferdselsministeren deltar på arrangement i regi av Tine Meierier",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-deltar-pa-arrangement-i-regi-av-tine-meierier/id3183350/",
    "source": "regjeringen",
-   "published": "2026-10-26T14:52:43Z",
+   "published": "2026-10-26T16:09:51Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam deltar på arrangement i regi av Tine Meierier.",
@@ -64,7 +64,7 @@
    "title": "Samferdselsministeren deltar på Kollektivkonferansen 2026",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-deltar-pa-kollektivkonferansen-2026/id3183349/",
    "source": "regjeringen",
-   "published": "2026-10-26T14:52:43Z",
+   "published": "2026-10-26T16:09:51Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam deltar på Kollektivkonferansen 2026.",
@@ -83,7 +83,7 @@
    "title": "Samferdselsministeren til Østfold",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-til-ostfold/id3183347/",
    "source": "regjeringen",
-   "published": "2026-10-26T14:52:43Z",
+   "published": "2026-10-26T16:09:51Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam skal på fylkestur til Østfold tirsdag 27. oktober.",
@@ -96,6 +96,155 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "53f7932ff770",
+   "title": "Port of Santos begins regular ethanol bunkering operations",
+   "link": "https://container-news.com/port-of-santos-begins-regular-ethanol-bunkering-operations/",
+   "source": "containernews",
+   "published": "2026-10-26T16:00:25Z",
+   "seen": "2026-10-26T16:09:51Z",
+   "lang": "en",
+   "excerpt": "CMA CGM, Copersucar, Bunker One and the Santos Port Authority have launched regular ethanol bunkering operations at the Port of Santos in Brazil. The first operation under the programme took place on 19 October 2026.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bunkers",
+    "teu",
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "c5741c95c12c",
+   "title": "Sanctioned Tanker Bound for US Passes Through UK Waters",
+   "link": "https://maritime-executive.com/article/sanctioned-tanker-bound-for-us-passes-through-uk-waters",
+   "source": "marex",
+   "published": "2026-10-26T15:34:20Z",
+   "seen": "2026-10-26T16:09:51Z",
+   "lang": "en",
+   "excerpt": "Russia has used the lifting of U.S. sanctions on the purchase of diesel to resume exports both to the United States but also other countries, in what...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "sanctions"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "e2c913db4316",
+   "title": "Trucking Needs More Than a Choice Between Diesel and EV Trucks",
+   "link": "https://www.freightwaves.com/news/trucking-needs-more-than-a-choice-between-diesel-and-ev-trucks",
+   "source": "freightwaves",
+   "published": "2026-10-26T15:30:00Z",
+   "seen": "2026-10-26T16:09:51Z",
+   "lang": "en",
+   "excerpt": "This Range Energy whitepaper compares different ways fleets can cut diesel use. The evaluated options: do nothing, purchase an electric tractor, or purchase a Range eTrailer.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "reefer"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "6ddfd3dc1ea9",
+   "title": "AI air freight drives Kuehne+Nagel profit increase",
+   "link": "https://www.freightwaves.com/news/ai-air-freight-drives-kuehnenagel-profit-increase",
+   "source": "freightwaves",
+   "published": "2026-10-26T15:26:44Z",
+   "seen": "2026-10-26T16:09:51Z",
+   "lang": "en",
+   "excerpt": "Logistics behemoth Kuehne+Nagel reported strong results in the third quarter, powered by hyperscaler demand for air cargo and productivity gains.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5098eec452b0",
+   "title": "C.H. Robinson expands AI automation across ocean and air freight",
+   "link": "https://container-news.com/c-h-robinson-expands-ai-automation-across-ocean-and-air-freight/",
+   "source": "containernews",
+   "published": "2026-10-26T15:00:45Z",
+   "seen": "2026-10-26T16:09:51Z",
+   "lang": "en",
+   "excerpt": "C.H. Robinson has introduced new artificial intelligence capabilities for ocean shipping, air freight and customs brokerage, expanding its Lean AI technology into global freight forwarding operations.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "forwarder"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "4c08be8d1460",
+   "title": "Cruise Ship Damaged as It Hits Containership Departing Bremerhaven",
+   "link": "https://maritime-executive.com/article/cruise-ship-damaged-as-it-hits-containership-departing-bremerhaven",
+   "source": "marex",
+   "published": "2026-10-26T14:59:18Z",
+   "seen": "2026-10-26T16:09:51Z",
+   "lang": "en",
+   "excerpt": "The German cruise ship Mein Schiff 3 and one of MSC’s large containerships sustained significant damage as the cruise ship was attempting to depart Br...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "73bdfd5f0fe9",
+   "title": "DSV 3Q profit rises 19.5% as Schenker integration lifts earnings",
+   "link": "https://www.freightwaves.com/news/dsv-3q-profit-rises-19-5-as-schenker-integration-lifts-earnings",
+   "source": "freightwaves",
+   "published": "2026-10-26T14:41:00Z",
+   "seen": "2026-10-26T16:09:51Z",
+   "lang": "en",
+   "excerpt": "DSV’s third-quarter operating profit improved as the Schenker integration savings boosted earnings, offsetting weakness in its trucking division.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
   },
   {
    "id": "b3ffc922eb84",
@@ -512,12 +661,12 @@
    "paywall": false
   },
   {
-   "id": "5c4ac6059ce2",
+   "id": "c393e39f1b28",
    "title": "Sikret seg 280 mål til logistikk, industri og havn i Lyngdal",
-   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347673",
+   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347107",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-26T11:22:43Z",
+   "seen": "2026-10-26T11:24:51Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -18169,145 +18318,6 @@
    ],
    "subs": [],
    "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "9681aff97108",
-   "title": "DP World deploys electric yard tractors at Busan",
-   "link": "https://container-news.com/dp-world-deploys-electric-yard-tractors-at-busan/",
-   "source": "containernews",
-   "published": "2026-10-17T20:59:17Z",
-   "seen": "2026-10-17T21:36:04Z",
-   "lang": "en",
-   "excerpt": "DP World has deployed 55 electric yard tractors at its Busan terminal in South Korea, replacing LNG-powered vehicles and accounting for approximately 36 percent of the terminal’s 154-strong yard tractor fleet.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "ebfc0b2f1108",
-   "title": "Arkas redirects Russia Express to St. Petersburg",
-   "link": "https://container-news.com/arkas-redirects-russia-express-to-st-petersburg/",
-   "source": "containernews",
-   "published": "2026-10-17T19:00:01Z",
-   "seen": "2026-10-17T21:36:04Z",
-   "lang": "en",
-   "excerpt": "Arkas Line has redirected its Russia Express Service (REX) from Novorossiysk to St. Petersburg, restoring Russian port coverage through the Baltic, according to DynaLiners.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "liner"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "5f1c53fd9ec2",
-   "title": "Fincantieri Accelerates Robotics and Physical AI to Build Future Shipyard",
-   "link": "https://maritime-executive.com/article/fincantieri-accelerates-robotics-and-physical-ai-to-build-future-shipyard",
-   "source": "marex",
-   "published": "2026-10-17T18:23:15Z",
-   "seen": "2026-10-17T21:36:04Z",
-   "lang": "en",
-   "excerpt": "Fincantieri, a global leader in high-complexity shipbuilding, is accelerating the transformation of its shipyards through the integration of advanced...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "4e4e419c930c",
-   "title": "International Seaways Expands VLCC Fleet Through Combination with Bruton",
-   "link": "https://maritime-executive.com/article/international-seaways-expands-vlcc-fleet-through-combination-with-bruton",
-   "source": "marex",
-   "published": "2026-10-17T18:09:23Z",
-   "seen": "2026-10-17T18:38:48Z",
-   "lang": "en",
-   "excerpt": "International Seaways, Inc. (NYSE: INSW), one of the largest tanker companies worldwide providing energy transportation services for crude oil and pet...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "vlcc"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "8b72ebd39630",
-   "title": "What Daimler’s Finance And Global Chiefs Revealed About Diesel, Driverless Trucks, And The Future Of The Industry",
-   "link": "https://www.freightwaves.com/news/what-daimlers-finance-and-global-chiefs-revealed-about-diesel-driverless-trucks-and-the-future-of-the-industry",
-   "source": "freightwaves",
-   "published": "2026-10-17T17:32:16Z",
-   "seen": "2026-10-17T18:38:48Z",
-   "lang": "en",
-   "excerpt": "On a rainy Saturday morning in Charlotte, inside the brand new North American headquarters of Daimler Truck Financial Services, four of the company’s senior leaders traded the usual press-conference script for something closer to a …",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "e5f7228fb66c",
-   "title": "Port of Montreal and Adani Group renew collaboration agreement",
-   "link": "https://container-news.com/port-of-montreal-and-adani-group-renew-collaboration-agreement/",
-   "source": "containernews",
-   "published": "2026-10-17T17:20:33Z",
-   "seen": "2026-10-17T18:38:48Z",
-   "lang": "en",
-   "excerpt": "The Montreal Port Authority and the Adani Group have renewed their collaboration agreement during Team Canada’s trade mission to India, signed in Mumbai by Captain Sandeep Mehta representing the Adani Group and Marie-Claude Galarneau …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "6fac1eed4fb8",
-   "title": "Canaveral Port Authority Donates Firefighting Equipment",
-   "link": "https://maritime-executive.com/article/canaveral-port-authority-donates-firefighting-equipment",
-   "source": "marex",
-   "published": "2026-10-17T17:15:22Z",
-   "seen": "2026-10-17T18:38:48Z",
-   "lang": "en",
-   "excerpt": "The Canaveral Port Authority today officially turned over the ceremonial keys to “Truck 52,” an aerial fire apparatus formerly operated by Canaveral F...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": true,
    "level": "international",
    "terms": [],
    "paywall": false
