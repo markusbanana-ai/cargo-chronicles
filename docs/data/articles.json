@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T18:54:28Z",
+ "updated": "2026-10-26T21:41:27Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren åpner konferanse om bærekraftig verdikjede og materialbruk i veibygging",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-konferanse-om-barekraftig-verdikjede-og-materialbruk-i-veibygging/id3183352/",
    "source": "regjeringen",
-   "published": "2026-10-26T18:54:28Z",
+   "published": "2026-10-26T21:41:27Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam åpner konferanse om bærekraftig verdikjede og materialbruk i vegbygging.",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren åpner ZERAC-konferansen 2026",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-zerac-konferansen-2026/id3183348/",
    "source": "regjeringen",
-   "published": "2026-10-26T18:54:28Z",
+   "published": "2026-10-26T21:41:27Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam åpner Zero Emission Regional Aviation Conference 2026.",
@@ -45,7 +45,7 @@
    "title": "Samferdselsministeren deltar på arrangement i regi av Tine Meierier",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-deltar-pa-arrangement-i-regi-av-tine-meierier/id3183350/",
    "source": "regjeringen",
-   "published": "2026-10-26T18:54:28Z",
+   "published": "2026-10-26T21:41:27Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam deltar på arrangement i regi av Tine Meierier.",
@@ -64,7 +64,7 @@
    "title": "Samferdselsministeren deltar på Kollektivkonferansen 2026",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-deltar-pa-kollektivkonferansen-2026/id3183349/",
    "source": "regjeringen",
-   "published": "2026-10-26T18:54:28Z",
+   "published": "2026-10-26T21:41:27Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam deltar på Kollektivkonferansen 2026.",
@@ -83,7 +83,7 @@
    "title": "Samferdselsministeren til Østfold",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-til-ostfold/id3183347/",
    "source": "regjeringen",
-   "published": "2026-10-26T18:54:28Z",
+   "published": "2026-10-26T21:41:27Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam skal på fylkestur til Østfold tirsdag 27. oktober.",
@@ -96,6 +96,268 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "fc296418d5e3",
+   "title": "Moderne Transportprisen til Jan Endre Vartdal og Marius Husabø Monsen",
+   "link": "https://www.mtlogistikk.no/moderne-transport-prisen-mowi-sjomatlogistikk/moderne-transportprisen-til-jan-endre-vartdal-og-marius-husabo-monsen/1339339",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-26T21:41:27Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "2783409fca9a",
+   "title": "SAT-JAM: Ships must learn to navigate without GPS",
+   "link": "https://splash247.com/sat-jam-ships-must-learn-to-navigate-without-gps/",
+   "source": "splash",
+   "published": "2026-10-26T21:07:00Z",
+   "seen": "2026-10-26T21:41:27Z",
+   "lang": "en",
+   "excerpt": "A researcher in Denmark who has developed a new system for tracking satellite navigation interference from space has a stark warning for the shipping industry in today’s Maritime CEO interview: GPS can no longer be considered a dependable …",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "b216d715324b",
+   "title": "Seatrium and Keppel agree to complete four offshore drilling rigs",
+   "link": "https://container-news.com/seatrium-and-keppel-agree-to-complete-four-offshore-drilling-rigs/",
+   "source": "containernews",
+   "published": "2026-10-26T21:00:47Z",
+   "seen": "2026-10-26T21:41:27Z",
+   "lang": "en",
+   "excerpt": "Seatrium and Keppel’s wholly owned subsidiary, RigCo, have agreed to complete four offshore drilling rigs. The construction work has an estimated total contract value of more than S$500 million.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "rig"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "7f521d2377d1",
+   "title": "Port Fees for Chinese-Built Ships and Shipping to be Delayed by USTR",
+   "link": "https://maritime-executive.com/article/port-fees-for-chinese-built-ships-and-shipping-to-be-delayed-by-ustr",
+   "source": "marex",
+   "published": "2026-10-26T20:46:25Z",
+   "seen": "2026-10-26T21:41:27Z",
+   "lang": "en",
+   "excerpt": "With just two weeks left until the one-year suspension of U.S.-imposed fees on Chinese-built ships and ships operated by Chinese companies is due to e...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "05963ec27ca9",
+   "title": "Shipping cuts training when it needs it most",
+   "link": "https://splash247.com/shipping-cuts-training-when-it-needs-it-most/",
+   "source": "splash",
+   "published": "2026-10-26T20:19:00Z",
+   "seen": "2026-10-26T21:41:27Z",
+   "lang": "en",
+   "excerpt": "Irene Rosberg, who runs the Blue MBA at Copenhagen Business School, returns to Splash today. When business conditions become difficult, training is often one of the easiest budgets to cut.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a9a0cc580a42",
+   "title": "Fire Reported on Tanker off the Coast of Iraq",
+   "link": "https://maritime-executive.com/article/fire-reported-on-tanker-off-the-coast-of-iraq",
+   "source": "marex",
+   "published": "2026-10-26T20:05:07Z",
+   "seen": "2026-10-26T21:41:27Z",
+   "lang": "en",
+   "excerpt": "UK Maritime Trade Operations (UKMTO) has reported a fire aboard a vessel in the Iraqi exclusive economic zone of the Arabian Gulf, the latest incident...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "7cbcbfea7c79",
+   "title": "London Gateway resumes empty container acceptance",
+   "link": "https://container-news.com/london-gateway-resumes-empty-container-acceptance/",
+   "source": "containernews",
+   "published": "2026-10-26T20:00:32Z",
+   "seen": "2026-10-26T21:41:27Z",
+   "lang": "en",
+   "excerpt": "Maersk has confirmed that London Gateway Port has resumed accepting empty containers. The restrictions were lifted at 12:00 on 26 October 2026. Empty containers can now be returned to the terminal under normal procedures.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "44594fdbdf99",
+   "title": "Årets unge talent vil gjøre transporthverdagen smartere",
+   "link": "https://www.mtlogistikk.no/moss-transportforum-thomas-bogle-arets-unge-talent/arets-unge-talent-vil-gjore-transporthverdagen-smartere/1349078",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-26T19:56:27Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5731e4ed1faf",
+   "title": "MSC receives first ESG Recognition from DNV",
+   "link": "https://container-news.com/msc-receives-first-esg-recognition-from-dnv/",
+   "source": "containernews",
+   "published": "2026-10-26T19:00:31Z",
+   "seen": "2026-10-26T21:41:27Z",
+   "lang": "en",
+   "excerpt": "MSC has received its first ESG Recognition from global assurance and risk management company DNV. The recognition is based on independent evaluations of MSC’s certified management systems.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "class-society"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "76df8c28b62a",
+   "title": "Tanker Disabled in Strait of Hormuz Attack, Another Vessel Reported on Fire in Persian Gulf",
+   "link": "https://gcaptain.com/tanker-disabled-in-strait-of-hormuz-attack-another-vessel-reported-on-fire-in-persian-gulf/",
+   "source": "gcaptain",
+   "published": "2026-10-26T18:46:03Z",
+   "seen": "2026-10-26T21:41:27Z",
+   "lang": "en",
+   "excerpt": "Two new maritime security warnings issued Monday point to continued dangers for commercial shipping in the Middle East, with one tanker confirmed disabled by a projectile in the Strait of...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "6cff2c6b85f2",
+   "title": "Hormuz Chaos Sparks Legal Showdown Over Global Tanker Pricing",
+   "link": "https://gcaptain.com/hormuz-chaos-sparks-legal-showdown-over-global-tanker-pricing/",
+   "source": "gcaptain",
+   "published": "2026-10-26T18:30:47Z",
+   "seen": "2026-10-26T21:41:27Z",
+   "lang": "en",
+   "excerpt": "Commodity trader Mercuria Energy Group accused the Baltic Exchange of continuing to publish the world’s benchmark oil tanker rate, despite distortions caused by the Iran war, because it feared losing business to a competitor.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint",
+    "baltic-exchange"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "febe7607a3fe",
+   "title": "Singapore Yards Chase Profit From Europe’s Offshore Wind Push",
+   "link": "https://gcaptain.com/singapore-yards-chase-profit-from-europes-offshore-wind-push/",
+   "source": "gcaptain",
+   "published": "2026-10-26T18:22:16Z",
+   "seen": "2026-10-26T21:41:27Z",
+   "lang": "en",
+   "excerpt": "At a shipyard in northern Singapore, a yellow platform towers over a maze of scaffolding and cranes. Resembling a 15-story building, the piece will be shipped halfway around the world to Europe to be installed into an offshore wind farm.",
+   "segments": [
+    "finance",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "offshore-wind"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "d34a3d772019",
+   "title": "Carriers Sales & Purchase Market Report, Week 43",
+   "link": "https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-43-3/",
+   "source": "hsn",
+   "published": "2026-10-26T18:00:59Z",
+   "seen": "2026-10-26T21:41:27Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "reports"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
   },
   {
    "id": "8842f2a899ed",
@@ -211,6 +473,25 @@
    "terms": [
     "teu"
    ],
+   "paywall": false
+  },
+  {
+   "id": "c393e39f1b28",
+   "title": "Sikret seg 280 mål til logistikk, industri og havn i Lyngdal",
+   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347107",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-26T16:41:27Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
    "paywall": false
   },
   {
@@ -374,25 +655,6 @@
    ],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "5c4ac6059ce2",
-   "title": "Sikret seg 280 mål til logistikk, industri og havn i Lyngdal",
-   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347673",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-26T15:09:28Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road",
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18035,278 +18297,6 @@
    "terms": [
     "container-index",
     "congestion"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "21a2cdd3952a",
-   "title": "Iran war: Saudi helicopter crash kills two as tanker attacks threaten Hormuz",
-   "link": "https://www.hellenicshippingnews.com/iran-war-saudi-helicopter-crash-kills-two-as-tanker-attacks-threaten-hormuz/",
-   "source": "hsn",
-   "published": "2026-10-18T21:00:42Z",
-   "seen": "2026-10-18T21:36:40Z",
-   "lang": "en",
-   "excerpt": "Two Saudi military personnel were killed in a helicopter crash near Yemen on Sunday, as regional fighting intensified and tanker attacks threatened shipping through the Strait of Hormuz.",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "ef82732667da",
-   "title": "Singapore fuel oil stocks fall 7% despite rise in net imports",
-   "link": "https://www.hellenicshippingnews.com/singapore-fuel-oil-stocks-fall-7-despite-rise-in-net-imports/",
-   "source": "hsn",
-   "published": "2026-10-18T21:00:40Z",
-   "seen": "2026-10-18T21:36:40Z",
-   "lang": "en",
-   "excerpt": "Singapore’s residual fuel oil stocks have averaged 7% lower so far in October than across September, Enterprise Singapore’s latest data shows.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "units"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "06aaa2d07eca",
-   "title": "AI, Robotics and Nuclear Energy Lead Discussion at ABS North America Regional Committee Meeting",
-   "link": "https://www.hellenicshippingnews.com/ai-robotics-and-nuclear-energy-lead-discussion-at-abs-north-america-regional-committee-meeting/",
-   "source": "hsn",
-   "published": "2026-10-18T21:00:36Z",
-   "seen": "2026-10-18T21:36:40Z",
-   "lang": "en",
-   "excerpt": "“Rapid technology innovation and autonomous systems are transforming shipping into a highly connected, data-driven industry.” That was a key message from John McDonald, ABS Chairman and CEO, to maritime industry leaders at the ABS North …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "class-society"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "5e367e0ce9aa",
-   "title": "AMS Barging christens 9,000 m³ methanol-ready tanker Felicitas as fleet continues to grow",
-   "link": "https://www.hellenicshippingnews.com/ams-barging-christens-9000-m%c2%b3-methanol-ready-tanker-felicitas-as-fleet-continues-to-grow/",
-   "source": "hsn",
-   "published": "2026-10-18T21:00:34Z",
-   "seen": "2026-10-18T21:36:40Z",
-   "lang": "en",
-   "excerpt": "Dutch inland shipping company AMS Barging has christened its new diesel-electric tanker Felicitas at Noordereiland in Rotterdam. Liv and Julie, daughters of AMS Barging co-owner Igor Jansen, performed the naming ceremony.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "dual-fuel"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "daaed076c905",
-   "title": "Singapore bio-bunker sales surged in September, while LNG sales declined",
-   "link": "https://www.hellenicshippingnews.com/singapore-bio-bunker-sales-surged-in-september-while-lng-sales-declined/",
-   "source": "hsn",
-   "published": "2026-10-18T21:00:32Z",
-   "seen": "2026-10-18T21:36:40Z",
-   "lang": "en",
-   "excerpt": "Singapore sold approximately 2,700 mt/day of bio-bunkers in September, up from around 1,800 mt/day in August, according to preliminary data from the Maritime and Port Authority of Singapore.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bunkers",
-    "lng",
-    "dual-fuel"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "b529083e870f",
-   "title": "China state buyers purchase up to 13 US soybean cargoes",
-   "link": "https://www.hellenicshippingnews.com/china-state-buyers-purchase-up-to-13-us-soybean-cargoes/",
-   "source": "hsn",
-   "published": "2026-10-18T21:00:30Z",
-   "seen": "2026-10-18T21:36:40Z",
-   "lang": "en",
-   "excerpt": "Chinese state-owned trading firms purchased 10 to 13 Panamax cargoes of US soybeans on Wednesday, marking the second substantial round of purchases since US President Donald Trump and Chinese President Xi Jinping met in September, Reuters …",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "panamax"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "aa1052f5ec1d",
-   "title": "Oman Signs EU No-Tolls Pledge on Freedom of Navigation",
-   "link": "https://maritime-executive.com/article/oman-signs-eu-no-tolls-pledge-on-freedom-of-navigation",
-   "source": "marex",
-   "published": "2026-10-18T20:57:33Z",
-   "seen": "2026-10-18T21:36:40Z",
-   "lang": "en",
-   "excerpt": "Oman has joined all 27 EU member states and 33 other countries in signing a pledge to maintain the integrity of the United Nations Convention on the L...",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "7dc5cccb850b",
-   "title": "CMA CGM and COSCO shift EPIC call to Algeciras",
-   "link": "https://container-news.com/cma-cgm-and-cosco-shift-epic-call-to-algeciras/",
-   "source": "containernews",
-   "published": "2026-10-18T20:30:52Z",
-   "seen": "2026-10-18T21:36:40Z",
-   "lang": "en",
-   "excerpt": "CMA CGM and COSCO Shipping Lines/OOCL will temporarily replace the westbound Tangier call with Algeciras on their joint EPIC/IP1 service, according to DynaLiners. The adjustment is expected to remain in place until at least December 2026.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "60dd93ad80f0",
-   "title": "As CM Ports Exits Colombo Project, US Invests $17M in Port's Digitalization",
-   "link": "https://maritime-executive.com/article/u-s-invests-17-million-in-colombo-port-s-digital-upgrades",
-   "source": "marex",
-   "published": "2026-10-18T18:59:05Z",
-   "seen": "2026-10-18T21:36:40Z",
-   "lang": "en",
-   "excerpt": "As Sri Lanka's Colombo Port continues to expand its booming transshipment business in South Asia, the U.S. government has pledged a small investment o...",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "transshipment"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "b4c9722bddcb",
-   "title": "GT Lines launches Khorfakkan–Djibouti shuttle",
-   "link": "https://container-news.com/gt-lines-launches-khorfakkan-djibouti-shuttle/",
-   "source": "containernews",
-   "published": "2026-10-18T18:30:09Z",
-   "seen": "2026-10-18T18:39:15Z",
-   "lang": "en",
-   "excerpt": "Gulftainer’s shipping arm, GT Lines, has launched a new direct container service connecting Khorfakkan in the United Arab Emirates with Djibouti.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint",
-    "liner"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "0d757e7ea136",
-   "title": "The Shift From Owning Trucks To Subscribing To Them, And What It Means For Fleet Finance",
-   "link": "https://www.freightwaves.com/news/the-shift-from-owning-trucks-to-subscribing-to-them-and-what-it-means-for-fleet-finance",
-   "source": "freightwaves",
-   "published": "2026-10-18T18:07:23Z",
-   "seen": "2026-10-18T18:39:15Z",
-   "lang": "en",
-   "excerpt": "The trucking industry has fallen in love with two phrases that get tossed around in conference rooms and press releases without anyone stopping to explain them, and if you have heard the terms truck as a service and driver as a service and …",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "bb04de863fd6",
-   "title": "California trucking owner pleads guilty in $2.1M identity theft scheme",
-   "link": "https://www.freightwaves.com/news/california-trucking-owner-pleads-guilty-in-2-1m-identity-theft-scheme",
-   "source": "freightwaves",
-   "published": "2026-10-18T17:37:19Z",
-   "seen": "2026-10-18T18:39:15Z",
-   "lang": "en",
-   "excerpt": "Nearly 100 people had their personal information compromised. Federal investigators traced the proceeds through international bank transfers before authorities arrested the operator following 18 months in Turkey.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lou"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "798064aac50e",
-   "title": "CMA CGM and MSC return Europe–Australia service to Suez",
-   "link": "https://container-news.com/cma-cgm-and-msc-return-europe-australia-service-to-suez/",
-   "source": "containernews",
-   "published": "2026-10-18T16:30:26Z",
-   "seen": "2026-10-18T18:39:15Z",
-   "lang": "en",
-   "excerpt": "CMA CGM and MSC have resumed routing their joint North Europe–Australasia service through the Suez Canal in both directions, according to DynaLiners. The service is marketed as Newmo by CMA CGM and Australia Express by MSC.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
    ],
    "paywall": false
   }
