@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T12:52:29Z",
+ "updated": "2026-10-27T15:52:24Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren åpner konferanse om bærekraftig verdikjede og materialbruk i veibygging",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-konferanse-om-barekraftig-verdikjede-og-materialbruk-i-veibygging/id3183352/",
    "source": "regjeringen",
-   "published": "2026-10-27T12:52:29Z",
+   "published": "2026-10-27T15:52:24Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam åpner konferanse om bærekraftig verdikjede og materialbruk i vegbygging.",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren åpner ZERAC-konferansen 2026",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-zerac-konferansen-2026/id3183348/",
    "source": "regjeringen",
-   "published": "2026-10-27T12:52:29Z",
+   "published": "2026-10-27T15:52:24Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam åpner Zero Emission Regional Aviation Conference 2026.",
@@ -45,7 +45,7 @@
    "title": "Samferdselsministeren deltar på arrangement i regi av Tine Meierier",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-deltar-pa-arrangement-i-regi-av-tine-meierier/id3183350/",
    "source": "regjeringen",
-   "published": "2026-10-27T12:52:29Z",
+   "published": "2026-10-27T15:52:24Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam deltar på arrangement i regi av Tine Meierier.",
@@ -64,7 +64,7 @@
    "title": "Samferdselsministeren deltar på Kollektivkonferansen 2026",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-deltar-pa-kollektivkonferansen-2026/id3183349/",
    "source": "regjeringen",
-   "published": "2026-10-27T12:52:29Z",
+   "published": "2026-10-27T15:52:24Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam deltar på Kollektivkonferansen 2026.",
@@ -77,6 +77,318 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "fc296418d5e3",
+   "title": "Moderne Transportprisen til Jan Endre Vartdal og Marius Husabø Monsen",
+   "link": "https://www.mtlogistikk.no/moderne-transport-prisen-mowi-sjomatlogistikk/moderne-transportprisen-til-jan-endre-vartdal-og-marius-husabo-monsen/1339339",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-27T15:52:24Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "199bd3bf5cab",
+   "title": "2027 FreightTech 25 winners announced at F3",
+   "link": "https://www.freightwaves.com/news/2027-freighttech-25-winners-announced-at-f3",
+   "source": "freightwaves",
+   "published": "2026-10-27T15:22:43Z",
+   "seen": "2026-10-27T15:52:24Z",
+   "lang": "en",
+   "excerpt": "Highway takes top spot in FreightWaves’ 2027 FreightTech 25 for the third consecutive year as freight fraud prevention, AI automation and autonomous trucking emerged as key themes across the rankings.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c917d93e40aa",
+   "title": "Kai - en digital driftsleder",
+   "link": "https://www.mtlogistikk.no/flatestyring-future-driver-kai/kai-en-digital-driftsleder/1349342",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-27T15:22:24Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "13914b92918b",
+   "title": "Japanese consortium plans ammonia supply chain and car carrier fleet",
+   "link": "https://container-news.com/japanese-consortium-plans-ammonia-supply-chain-and-car-carrier-fleet/",
+   "source": "containernews",
+   "published": "2026-10-27T15:00:03Z",
+   "seen": "2026-10-27T15:52:24Z",
+   "lang": "en",
+   "excerpt": "Seven Japanese companies have agreed to develop an integrated ammonia fuel supply chain and introduce four ammonia-fuelled car carriers.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "car-carrier",
+    "dual-fuel"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "34025a924eef",
+   "title": "Band24 seeks early testers for satellite-connected asset tracker ahead of Nov. 13 deadline",
+   "link": "https://www.freightwaves.com/news/band24-seeks-early-testers-for-satellite-connected-asset-tracker-ahead-of-nov-13-deadline",
+   "source": "freightwaves",
+   "published": "2026-10-27T14:57:32Z",
+   "seen": "2026-10-27T15:52:24Z",
+   "lang": "en",
+   "excerpt": "Asset-tracking company Band24 is seeking businesses to test Terra, a new tracker combining Bluetooth, cellular and satellite connectivity, ahead of a Nov. 13 deadline for its early-access program.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c92e2c35a127",
+   "title": "Miami airport to deploy shared logistics platform for cargo community",
+   "link": "https://www.freightwaves.com/news/miami-airport-to-deploy-shared-logistics-platform-for-cargo-community",
+   "source": "freightwaves",
+   "published": "2026-10-27T14:51:49Z",
+   "seen": "2026-10-27T15:52:24Z",
+   "lang": "en",
+   "excerpt": "Miami airport is partnering with Kalé to develop a central data exchange portal for the cargo stakeholders.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "210b35e2484d",
+   "title": "Double Nickel launches AI agent to automate driver employment checks",
+   "link": "https://www.freightwaves.com/news/double-nickel-launches-ai-agent-to-automate-driver-employment-checks",
+   "source": "freightwaves",
+   "published": "2026-10-27T14:41:03Z",
+   "seen": "2026-10-27T15:52:24Z",
+   "lang": "en",
+   "excerpt": "Double Nickel has launched an artificial intelligence agent to automate employment verifications for trucking companies, targeting a time-consuming part of driver recruiting and regulatory compliance.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "7aa02e3d3a0d",
+   "title": "Interessen for elektriske lastebiler er rekordhøy",
+   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-enova/interessen-for-elektriske-lastebiler-er-rekordhoy/1349640",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-27T14:22:24Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "electric-truck"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "221f1db436cc",
+   "title": "Woodside passes the baton for offshore gas project to Timor Gap in $200 million deal",
+   "link": "https://offshore-energy.biz/2026/10/27/woodside-passes-the-baton-for-offshore-gas-project-to-timor-gap-in-dollar200-million-deal",
+   "source": "offshoreenergy",
+   "published": "2026-10-27T14:21:49Z",
+   "seen": "2026-10-27T15:52:24Z",
+   "lang": "en",
+   "excerpt": "Timor Gap is taking over the reins for a gas project in the Timor Sea from Woodside with completion of the takeover anticipated in H1 2027.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "mna"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "9d468b094c62",
+   "title": "Iran Says It Will Take Action Against Sinokor Ships in Hormuz",
+   "link": "https://gcaptain.com/iran-says-it-will-take-action-against-sinokor-ships-in-hormuz/",
+   "source": "gcaptain",
+   "published": "2026-10-27T14:12:36Z",
+   "seen": "2026-10-27T15:52:24Z",
+   "lang": "en",
+   "excerpt": "Iran’s Persian Gulf Strait Authority said it would take “legal action” against tankers belonging to Sinokor, the world’s biggest oil tanker owner that has carried millions of barrels out of the Strait of Hormuz in recent weeks.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "865c8a2eef22",
+   "title": "- Full seier for Nilsen-familien",
+   "link": "https://www.mtlogistikk.no/konkurs-oppkjop-so-vetrhus/full-seier-for-nilsen-familien/1349608",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-27T14:07:24Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "de7629d04cd8",
+   "title": "NLF har sikret medlemmene billig og kvalifisert hjelp med energikartlegging",
+   "link": "https://lastebil.no/aktuelt/nyheter/2026/nlf-har-sikret-medlemmene-billig-og-kvalifisert-hjelp-med-energikartlegging",
+   "source": "lastebil",
+   "published": "2026-10-27T14:04:49Z",
+   "seen": "2026-10-27T15:52:24Z",
+   "lang": "no",
+   "excerpt": "Avtale med Green Toolbox AS gir medlemsbedriftene en enkel vei til å oppfylle kravene i energikartleggingsforskriften, til en pris langt under det markedet ellers tilbyr.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "96081b3124b2",
+   "title": "Moody’s lifts Danaos outlook to positive",
+   "link": "https://container-news.com/moodys-lifts-danaos-outlook-to-positive/",
+   "source": "containernews",
+   "published": "2026-10-27T13:51:01Z",
+   "seen": "2026-10-27T15:52:24Z",
+   "lang": "en",
+   "excerpt": "Moody’s Ratings has changed the outlook on Danaos Corporation’s Ba1 Corporate Family Rating to positive from stable. The rating agency also upgraded the containership owner’s senior unsecured notes to Ba1 from Ba2.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "1cd7da7ce0ab",
+   "title": "Federal guidance on carrier selection not around the corner: TIA’s Burroughs",
+   "link": "https://www.freightwaves.com/news/federal-guidance-on-carrier-selection-not-around-the-corner-tias-burroughs",
+   "source": "freightwaves",
+   "published": "2026-10-27T13:49:47Z",
+   "seen": "2026-10-27T15:52:24Z",
+   "lang": "en",
+   "excerpt": "Chattanooga–The Transportation Intermediaries Association (TIA) was quick out of the box earlier this year after two key court decisions that didn’t favor the brokerage community, asking the federal government for some sort of guidance for …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "pfa"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "46da706ae0d1",
+   "title": "Fugro wins UXO survey contract for German offshore grid connections",
+   "link": "https://offshore-energy.biz/2026/10/27/fugro-wins-uxo-survey-contract-for-german-offshore-grid-connections",
+   "source": "offshoreenergy",
+   "published": "2026-10-27T13:22:14Z",
+   "seen": "2026-10-27T15:52:24Z",
+   "lang": "en",
+   "excerpt": "Fugro has been awarded a contract by 50Hertz to deliver unexploded ordnance (UXO) survey, identification and clearance services for the LanWin3...",
+   "segments": [
+    "road",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "3c29fd56207a",
+   "title": "Baltic Dry Index falls to 2603 down 25 points",
+   "link": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-2603-down-25-points/",
+   "source": "hsn",
+   "published": "2026-10-27T13:00:42Z",
+   "seen": "2026-10-27T15:52:24Z",
+   "lang": "en",
+   "excerpt": "Today, Tuesday, October 27 2026, the Baltic Dry Index decreased by 25 points, reaching 2603 points. Baltic Dry Index is compiled by the London-based Baltic Exchange and covers prices for transported cargo such as coal, grain and iron ore.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bdi",
+    "baltic-exchange"
+   ],
+   "paywall": false
   },
   {
    "id": "67da2bade9a8",
@@ -93,6 +405,24 @@
    "subs": [
     "containers"
    ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a5fe7a404253",
+   "title": "The Biggest Shift In Freight Liability Since Deregulation Is Here, And Few Are Ready For It",
+   "link": "https://www.freightwaves.com/news/the-biggest-shift-in-freight-liability-since-deregulation-is-here-and-few-are-ready-for-it",
+   "source": "freightwaves",
+   "published": "2026-10-27T12:44:00Z",
+   "seen": "2026-10-27T15:52:24Z",
+   "lang": "en",
+   "excerpt": "The way courts decide who is responsible when a contracted truck ends up in a wreck is changing faster than most of the freight industry realizes, and the shift is not about one ruling or one eye-popping dollar figure, it is a whole …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
    "policy": false,
    "level": "international",
    "terms": [],
@@ -231,24 +561,6 @@
    "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "7ca4a7ce3651",
-   "title": "Kai - en digital driftsleder",
-   "link": "https://www.mtlogistikk.no/flatestyring-future-driver-kai/kai-en-digital-driftsleder/1348966",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-27T11:22:29Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -621,24 +933,6 @@
    "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "6c4c7f12ded5",
-   "title": "Moderne Transportprisen til Jan Endre Vartdal og Marius Husabø Monsen",
-   "link": "https://www.mtlogistikk.no/avrenning-moderne-transport-prisen-mowi/moderne-transportprisen-til-jan-endre-vartdal-og-marius-husabo-monsen/1349160",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-27T10:52:29Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -2694,13 +2988,13 @@
   },
   {
    "id": "6d60d386c759",
-   "title": "Port of Tampa Bay Proceeding with New Terminal to Meet Growth Demands",
+   "title": "Port Tampa Bay Proceeding with New Terminal to Meet Growth Demands",
    "link": "https://maritime-executive.com/article/port-of-tampa-bay-proceeding-with-new-terminal-to-meet-growth-demands",
    "source": "marex",
    "published": "2026-10-26T13:12:43Z",
    "seen": "2026-10-26T14:52:43Z",
    "lang": "en",
-   "excerpt": "As the global cruising population continues to grow, Port Tampa Bay has carved out its niche in the cruise world as Florida’s only Gulf Coast cruise h...",
+   "excerpt": "As the global cruising population continues to grow, Port Tampa Bay has carved out its niche in the cruise world as Florida’s only Gulf Coast homeport...",
    "segments": [
     "freight"
    ],
@@ -17956,306 +18250,6 @@
    "policy": false,
    "level": "international",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "f82ec343e34b",
-   "title": "China’s economy remains resilient despite global stressors",
-   "link": "https://www.hellenicshippingnews.com/chinas-economy-remains-resilient-despite-global-stressors/",
-   "source": "hsn",
-   "published": "2026-10-19T17:00:47Z",
-   "seen": "2026-10-19T18:49:13Z",
-   "lang": "en",
-   "excerpt": "China’s economic growth picked up to 4.5 percent year-on-year in the third quarter from 4.3 percent in the previous quarter, the National Bureau of Statistics said on Monday, underscoring the resilience of the world’s second-largest …",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "3b37e25989ce",
-   "title": "Trans-Pacific facing new booking risks as reliability sinks",
-   "link": "https://www.freightwaves.com/news/trans-pacific-facing-new-booking-risks-as-reliability-sinks",
-   "source": "freightwaves",
-   "published": "2026-10-19T16:41:18Z",
-   "seen": "2026-10-19T18:49:13Z",
-   "lang": "en",
-   "excerpt": "Ocean shippers face worsening reliability across major trade lanes, with tighter trans-Pacific capacity adding to booking risks, according to WiseTech Global’s latest outlook.",
-   "segments": [
-    "road",
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "shipper-consignee"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "d3bf0f8744db",
-   "title": "Iran’s Main Oil Terminals Remain Empty as US Blockade Bites",
-   "link": "https://gcaptain.com/irans-main-oil-terminals-remain-empty-as-us-blockade-bites/",
-   "source": "gcaptain",
-   "published": "2026-10-19T16:26:30Z",
-   "seen": "2026-10-19T18:49:13Z",
-   "lang": "en",
-   "excerpt": "Iran’s main oil-loading terminals have remained empty for weeks, adding to signs that a US naval blockade of the country is throttling Tehran’s exports.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "34d8008ecec0",
-   "title": "Matson christens 1st new vessel of $1B US shipyard order",
-   "link": "https://www.freightwaves.com/news/matson-christens-1st-new-vessel-of-1b-us-shipyard-order",
-   "source": "freightwaves",
-   "published": "2026-10-19T16:14:00Z",
-   "seen": "2026-10-19T21:40:16Z",
-   "lang": "en",
-   "excerpt": "Matson christened Makua in Philadelphia, the first of three new containerships in its $1 billion fleet upgrade.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "liner"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "d62b4c7f3050",
-   "title": "Hai An approves feeder newbuilding investment",
-   "link": "https://container-news.com/hai-an-approves-feeder-newbuilding-investment/",
-   "source": "containernews",
-   "published": "2026-10-19T16:00:26Z",
-   "seen": "2026-10-19T18:49:13Z",
-   "lang": "en",
-   "excerpt": "Hai An Transport and Stevedoring Joint Stock Company has approved a shipbuilding contract with China State Shipbuilding Corporation (CSSC) for two 1,900 TEU container vessels.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "transshipment",
-    "newbuilding",
-    "teu"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "2cb283a8b077",
-   "title": "Ceva Logistics puts Paack in charge of last-mile parcel delivery",
-   "link": "https://www.freightwaves.com/news/ceva-logistics-puts-paack-in-charge-of-last-mile-parcel-delivery",
-   "source": "freightwaves",
-   "published": "2026-10-19T15:11:46Z",
-   "seen": "2026-10-19T15:49:52Z",
-   "lang": "en",
-   "excerpt": "Recently acquired Paack will be the last-mile delivery brand under Ceva Logistics, which also owns courier Colis Privé.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "last-mile"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "2e65f9674d87",
-   "title": "U.S. Sets First Deep-Sea Mining Lease Sale for November",
-   "link": "https://gcaptain.com/u-s-sets-first-deep-sea-mining-lease-sale-for-november/",
-   "source": "gcaptain",
-   "published": "2026-10-19T15:04:51Z",
-   "seen": "2026-10-19T15:49:52Z",
-   "lang": "en",
-   "excerpt": "The Trump administration has scheduled the first offshore mineral lease sale in U.S. history, opening more than 31 million acres of seabed near American Samoa to companies seeking critical minerals...",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a7e30e6403c1",
-   "title": "SITC, SIPG and Hisense sign South Africa investment framework",
-   "link": "https://container-news.com/sitc-sipg-and-hisense-sign-south-africa-investment-framework/",
-   "source": "containernews",
-   "published": "2026-10-19T15:00:43Z",
-   "seen": "2026-10-19T15:49:52Z",
-   "lang": "en",
-   "excerpt": "SITC, Shanghai International Port Group (SIPG) and Hisense have signed a tripartite framework agreement covering equity investment cooperation in South Africa. The agreement was signed on 16 October 2026 in Qingdao, China.",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "f9f532865175",
-   "title": "Werner Enterprises issues Q3 profit warning",
-   "link": "https://www.freightwaves.com/news/werner-enterprises-issues-q3-profit-warning",
-   "source": "freightwaves",
-   "published": "2026-10-19T14:54:37Z",
-   "seen": "2026-10-19T15:49:52Z",
-   "lang": "en",
-   "excerpt": "Werner Enterprises issued a negative third-quarter earnings preannouncement on Monday, citing higher fuel, driver and insurance claims costs as the culprits.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "602640addac0",
-   "title": "Why control of Hormuz is not the same as security",
-   "link": "https://container-news.com/why-control-of-hormuz-is-not-the-same-as-security/",
-   "source": "containernews",
-   "published": "2026-10-19T14:00:08Z",
-   "seen": "2026-10-19T15:49:52Z",
-   "lang": "en",
-   "excerpt": "CENTCOM says the strait is under control. The attack record, the insurance market and the crowded anchorages off the UAE tell a different story.",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "5b112202dfe0",
-   "title": "DHL Group boosts guidance on expectations for strong peak season",
-   "link": "https://www.freightwaves.com/news/dhl-group-boosts-guidance-on-expectations-for-strong-peak-season",
-   "source": "freightwaves",
-   "published": "2026-10-19T13:56:03Z",
-   "seen": "2026-10-19T15:49:52Z",
-   "lang": "en",
-   "excerpt": "DHL Group has raised its 2026 outlook.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "ac3de2f2933b",
-   "title": "EU grant to cover 60% of investment for 10 MW tidal kite array in Ireland",
-   "link": "https://offshore-energy.biz/2026/10/19/eu-grant-to-cover-60percent-of-investment-for-10-mw-tidal-kite-array-in-ireland",
-   "source": "offshoreenergy",
-   "published": "2026-10-19T13:51:56Z",
-   "seen": "2026-10-19T15:49:52Z",
-   "lang": "en",
-   "excerpt": "The European Commission has selected Swedish ocean energy developer Minesto for a €20.2 million Innovation Fund grant for the company's planned...",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "0eddd9e920c4",
-   "title": "Amerijet to repair aging 767 freighter aircraft damaged in hard landing",
-   "link": "https://www.freightwaves.com/news/amerijet-to-repair-aging-767-freighter-aircraft-damaged-in-hard-landing",
-   "source": "freightwaves",
-   "published": "2026-10-19T13:11:52Z",
-   "seen": "2026-10-19T15:49:52Z",
-   "lang": "en",
-   "excerpt": "Amerijet says it will repair the buckled skin on a Boeing 767 freighter aircraft despite its age.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "51bc0fe64fc7",
-   "title": "Container freight rates rebound as Asia-Europe indexes diverge",
-   "link": "https://container-news.com/container-freight-rates-rebound-as-asia-europe-indexes-diverge/",
-   "source": "containernews",
-   "published": "2026-10-19T13:00:32Z",
-   "seen": "2026-10-19T15:49:52Z",
-   "lang": "en",
-   "excerpt": "Global container freight rates showed signs of recovery in the latest weekly assessments, with all four major composite benchmarks recording increases.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "container-index"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "c00b572b79d7",
-   "title": "Transocean’s drillship pair bags $550 million in new US Gulf deals",
-   "link": "https://offshore-energy.biz/2026/10/19/transoceans-drillship-pair-bags-dollar550-million-in-new-us-gulf-deals",
-   "source": "offshoreenergy",
-   "published": "2026-10-19T12:48:14Z",
-   "seen": "2026-10-19T15:49:52Z",
-   "lang": "en",
-   "excerpt": "Transocean has secured multi-well ultra-deepwater contracts for two drillships in the U.S. Gulf, extending operations through 2027.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "rig"
-   ],
    "paywall": false
   }
  ]
