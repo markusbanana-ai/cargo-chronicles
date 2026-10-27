@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T00:54:14Z",
+ "updated": "2026-10-27T03:42:35Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren åpner konferanse om bærekraftig verdikjede og materialbruk i veibygging",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-konferanse-om-barekraftig-verdikjede-og-materialbruk-i-veibygging/id3183352/",
    "source": "regjeringen",
-   "published": "2026-10-27T00:54:14Z",
+   "published": "2026-10-27T03:42:35Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam åpner konferanse om bærekraftig verdikjede og materialbruk i vegbygging.",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren åpner ZERAC-konferansen 2026",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-zerac-konferansen-2026/id3183348/",
    "source": "regjeringen",
-   "published": "2026-10-27T00:54:14Z",
+   "published": "2026-10-27T03:42:35Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam åpner Zero Emission Regional Aviation Conference 2026.",
@@ -45,7 +45,7 @@
    "title": "Samferdselsministeren deltar på arrangement i regi av Tine Meierier",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-deltar-pa-arrangement-i-regi-av-tine-meierier/id3183350/",
    "source": "regjeringen",
-   "published": "2026-10-27T00:54:14Z",
+   "published": "2026-10-27T03:42:35Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam deltar på arrangement i regi av Tine Meierier.",
@@ -64,7 +64,7 @@
    "title": "Samferdselsministeren deltar på Kollektivkonferansen 2026",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-deltar-pa-kollektivkonferansen-2026/id3183349/",
    "source": "regjeringen",
-   "published": "2026-10-27T00:54:14Z",
+   "published": "2026-10-27T03:42:35Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam deltar på Kollektivkonferansen 2026.",
@@ -79,11 +79,51 @@
    "upcoming": true
   },
   {
+   "id": "fc296418d5e3",
+   "title": "Moderne Transportprisen til Jan Endre Vartdal og Marius Husabø Monsen",
+   "link": "https://www.mtlogistikk.no/moderne-transport-prisen-mowi-sjomatlogistikk/moderne-transportprisen-til-jan-endre-vartdal-og-marius-husabo-monsen/1339339",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-27T03:42:35Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "9f75145b2639",
+   "title": "Maersk updates fuel fees in Australia and New Zealand",
+   "link": "https://container-news.com/maersk-updates-fuel-fees-in-australia-and-new-zealand/",
+   "source": "containernews",
+   "published": "2026-10-27T03:00:59Z",
+   "seen": "2026-10-27T03:42:35Z",
+   "lang": "en",
+   "excerpt": "Maersk has announced new Intermodal Fuel Fee levels for landside transportation services in Australia and New Zealand. The revised monthly rates will apply from 1 November 2026.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "intermodal"
+   ],
+   "paywall": false
+  },
+  {
    "id": "53c4b1cfcb4a",
    "title": "Samferdselsministeren til Østfold",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-til-ostfold/id3183347/",
    "source": "regjeringen",
-   "published": "2026-10-27T00:54:14Z",
+   "published": "2026-10-27T02:00:00Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam skal på fylkestur til Østfold tirsdag 27. oktober.",
@@ -94,8 +134,30 @@
    "policy": false,
    "level": "national",
    "terms": [],
-   "paywall": false,
-   "upcoming": true
+   "paywall": false
+  },
+  {
+   "id": "3e33b0aeeb57",
+   "title": "Hambantota Port sees new opportunities as container ships return to Suez",
+   "link": "https://container-news.com/hambantota-port-sees-new-opportunities-as-container-ships-return-to-suez/",
+   "source": "containernews",
+   "published": "2026-10-27T01:11:36Z",
+   "seen": "2026-10-27T03:42:35Z",
+   "lang": "en",
+   "excerpt": "Hambantota International Port Group (HIPG) expects a sustained return of container shipping through the Red Sea and Suez Canal to create new commercial opportunities for the Sri Lankan port, as it prepares to expand its container handling …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner",
+    "chokepoint"
+   ],
+   "paywall": false
   },
   {
    "id": "6a40fe8356f2",
@@ -166,24 +228,6 @@
    "source": "mtlogistikk",
    "published": null,
    "seen": "2026-10-26T23:24:14Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "6c4c7f12ded5",
-   "title": "Moderne Transportprisen til Jan Endre Vartdal og Marius Husabø Monsen",
-   "link": "https://www.mtlogistikk.no/avrenning-moderne-transport-prisen-mowi/moderne-transportprisen-til-jan-endre-vartdal-og-marius-husabo-monsen/1349160",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-26T23:09:14Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -18246,44 +18290,6 @@
    "level": "national",
    "terms": [],
    "paywall": false
-  },
-  {
-   "id": "26dda6bc06ef",
-   "title": "Six-month waiver in India for new salvage & marine pollution response rules",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/six-month-waiver-in-india-for-new-salvage-marine-pollution-response-rules/",
-   "source": "imn",
-   "published": "2026-10-19T05:24:17Z",
-   "seen": "2026-10-19T06:54:23Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "salvage"
-   ],
-   "paywall": true
-  },
-  {
-   "id": "f8c7f0738f55",
-   "title": "Vessel aground near Kaliningrad",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/vessel-aground-near-kaliningrad/",
-   "source": "imn",
-   "published": "2026-10-19T05:23:15Z",
-   "seen": "2026-10-19T06:54:23Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
   }
  ]
 }
