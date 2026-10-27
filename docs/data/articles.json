@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T06:50:11Z",
+ "updated": "2026-10-27T09:47:48Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren åpner konferanse om bærekraftig verdikjede og materialbruk i veibygging",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-konferanse-om-barekraftig-verdikjede-og-materialbruk-i-veibygging/id3183352/",
    "source": "regjeringen",
-   "published": "2026-10-27T06:50:11Z",
+   "published": "2026-10-27T09:47:48Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam åpner konferanse om bærekraftig verdikjede og materialbruk i vegbygging.",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren åpner ZERAC-konferansen 2026",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-zerac-konferansen-2026/id3183348/",
    "source": "regjeringen",
-   "published": "2026-10-27T06:50:11Z",
+   "published": "2026-10-27T09:47:48Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam åpner Zero Emission Regional Aviation Conference 2026.",
@@ -45,7 +45,7 @@
    "title": "Samferdselsministeren deltar på arrangement i regi av Tine Meierier",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-deltar-pa-arrangement-i-regi-av-tine-meierier/id3183350/",
    "source": "regjeringen",
-   "published": "2026-10-27T06:50:11Z",
+   "published": "2026-10-27T09:47:48Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam deltar på arrangement i regi av Tine Meierier.",
@@ -64,7 +64,7 @@
    "title": "Samferdselsministeren deltar på Kollektivkonferansen 2026",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-deltar-pa-kollektivkonferansen-2026/id3183349/",
    "source": "regjeringen",
-   "published": "2026-10-27T06:50:11Z",
+   "published": "2026-10-27T09:47:48Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam deltar på Kollektivkonferansen 2026.",
@@ -79,14 +79,251 @@
    "upcoming": true
   },
   {
-   "id": "454380a4f80f",
-   "title": "KMTC makes Chinese shipyard debut with six boxships",
-   "link": "https://splash247.com/kmtc-makes-chinese-shipyard-debut-with-six-boxships/",
+   "id": "fc296418d5e3",
+   "title": "Moderne Transportprisen til Jan Endre Vartdal og Marius Husabø Monsen",
+   "link": "https://www.mtlogistikk.no/moderne-transport-prisen-mowi-sjomatlogistikk/moderne-transportprisen-til-jan-endre-vartdal-og-marius-husabo-monsen/1339339",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-27T09:47:48Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "bb015daecd31",
+   "title": "Yangzijiang Maritime cashes in on MR newbuilds with $308m sale",
+   "link": "https://splash247.com/yangzijiang-maritime-cashes-in-on-mr-newbuilds-with-308m-sale/",
    "source": "splash",
-   "published": "2026-10-27T06:28:42Z",
+   "published": "2026-10-27T09:35:00Z",
+   "seen": "2026-10-27T09:47:48Z",
+   "lang": "en",
+   "excerpt": "Singapore-listed Yangzijiang Maritime Development has struck deals to sell six MR tanker newbuildings for a combined $308m, taking the value of its contracted vessel resales to $805m over the past ten months.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "newbuilding",
+    "product-tanker",
+    "dwt"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "78e8e00f889c",
+   "title": "Følg drømmen – vinn lastebillappen!",
+   "link": "https://lastebil.no/aktuelt/nyheter/foelg-droemmen-vinn-lastebillappen",
+   "source": "lastebil",
+   "published": "2026-10-27T09:28:33Z",
+   "seen": "2026-10-27T09:47:48Z",
+   "lang": "no",
+   "excerpt": "Drømmer du om et yrkesliv på veien? Norges Lastebileier-Forbund, P4 og Viaplay gir én heldig vinner førerkort klasse C til en verdi av inntil 100 000 kroner.Konkurransen arrangeres i forbindelse med «Norske Truckers» på Viaplay.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c917d93e40aa",
+   "title": "Kai - en digital driftsleder",
+   "link": "https://www.mtlogistikk.no/flatestyring-future-driver-kai/kai-en-digital-driftsleder/1349342",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-27T09:17:48Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "dfdef8dc93d0",
+   "title": "What cargo shipping can learn from cruise about crewing technology",
+   "link": "https://splash247.com/what-cargo-shipping-can-learn-from-cruise-about-crewing-technology/",
+   "source": "splash",
+   "published": "2026-10-27T09:15:00Z",
+   "seen": "2026-10-27T09:47:48Z",
+   "lang": "en",
+   "excerpt": "Raal Harris, the founder of PitchFrame, brings readers details of an interesting session from last week’s Crew Connect Global in Manila.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "195b4c9606ca",
+   "title": "GXO and Agility Robotics expand humanoid robot deployment across US warehouses",
+   "link": "https://container-news.com/gxo-and-agility-robotics-expand-humanoid-robot-deployment-across-us-warehouses/",
+   "source": "containernews",
+   "published": "2026-10-27T08:41:14Z",
+   "seen": "2026-10-27T09:47:48Z",
+   "lang": "en",
+   "excerpt": "GXO Logistics and Agility Robotics have announced plans to expand their partnership by deploying humanoid robots at two additional logistics facilities in the United States.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "7b0f9ce193ed",
+   "title": "Energy Drilling lines up 30-month job to keep its rig busy through 2030",
+   "link": "https://offshore-energy.biz/2026/10/27/energy-drilling-lines-up-30-month-job-to-keep-its-rig-busy-through-2030",
+   "source": "offshoreenergy",
+   "published": "2026-10-27T08:39:50Z",
+   "seen": "2026-10-27T09:47:48Z",
+   "lang": "en",
+   "excerpt": "Energy Drilling has secured a multimillion-dollar offshore drilling campaign in Southeast Asia for its 2013-built rig, ensuring work until decade-end.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "rig"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "3ef044ac039d",
+   "title": "NLF løfter lastebilnæringens stemme der beslutningene tas",
+   "link": "https://lastebil.no/aktuelt/nyheter/2026/nlf-loefter-lastebilnaeringens-stemme-der-beslutningene-tas",
+   "source": "lastebil",
+   "published": "2026-10-27T08:29:07Z",
+   "seen": "2026-10-27T09:47:48Z",
+   "lang": "no",
+   "excerpt": "Fem komiteer, en statsminister og fire politiske møter på tre uker. Mens Stortinget behandlet statsbudsjettet for 2027, var NLF på plass. Arbeidet stopper likevel ikke når budsjettet er vedtatt.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f454d5172c70",
+   "title": "Siem Industries orders two subsea construction vessels from China",
+   "link": "https://offshore-energy.biz/2026/10/27/siem-industries-orders-two-subsea-construction-vessels-from-china",
+   "source": "offshoreenergy",
+   "published": "2026-10-27T08:13:53Z",
+   "seen": "2026-10-27T09:47:48Z",
+   "lang": "en",
+   "excerpt": "Siem Industries has placed an order with a Chinese shipyard for two offshore subsea construction vessels (OSCVs) that will be 145 meters long....",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "csv"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "dc3d3b32610e",
+   "title": "Hapag-Lloyd flags rainfall risks to Kenya cargo flows",
+   "link": "https://container-news.com/hapag-lloyd-flags-rainfall-risks-to-kenya-cargo-flows/",
+   "source": "containernews",
+   "published": "2026-10-27T07:44:52Z",
+   "seen": "2026-10-27T09:47:48Z",
+   "lang": "en",
+   "excerpt": "Hapag-Lloyd has warned that heavy rainfall and localised flooding could affect cargo operations in Kenya between October and December 2026.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c5c31cc95e33",
+   "title": "Maersk informs customers of new UK Trader Support Service platform",
+   "link": "https://container-news.com/maersk-informs-customers-of-new-uk-trader-support-service-platform/",
+   "source": "containernews",
+   "published": "2026-10-27T06:52:24Z",
+   "seen": "2026-10-27T09:47:48Z",
+   "lang": "en",
+   "excerpt": "Maersk has informed customers that the new UK Trader Support Service platform went live on 20 October 2026. All goods movements between Great Britain and Northern Ireland from that date must be submitted through the new TSS platform.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "971692297667",
+   "title": "Wall Street splits over tanker boom",
+   "link": "https://splash247.com/wall-street-splits-over-tanker-boom/",
+   "source": "splash",
+   "published": "2026-10-27T06:45:01Z",
    "seen": "2026-10-27T06:50:11Z",
    "lang": "en",
-   "excerpt": "South Korean liner operator Korea Marine Transport Co (KMTC) has entered China’s shipbuilding market for the first time, ordering six 3,100 teu containerships at CSSC Huangpu Wenchong.",
+   "excerpt": "Wall Street’s increasingly divided outlook for the tanker supercycle has taken another twist, with investment bank Evercore ISI dramatically raising its freight forecasts and share price targets while warning that the industry’s …",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "mean-reversion",
+    "vlcc"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "59c4f3c67137",
+   "title": "Jade Pacific makes liner debut with Red Sea service",
+   "link": "https://splash247.com/jade-pacific-makes-liner-debut-with-red-sea-service/",
+   "source": "splash",
+   "published": "2026-10-27T06:30:02Z",
+   "seen": "2026-10-27T06:50:11Z",
+   "lang": "en",
+   "excerpt": "A new Singapore-based container shipping company headed by former SeaLead executives has entered the liner trades with a service connecting India, Pakistan and Egypt’s Red Sea coast.",
    "segments": [
     "freight"
    ],
@@ -96,7 +333,7 @@
    "policy": false,
    "level": "international",
    "terms": [
-    "liner"
+    "chokepoint"
    ],
    "paywall": false
   },
@@ -299,91 +536,22 @@
    "paywall": true
   },
   {
-   "id": "971692297667",
-   "title": "Wall Street splits over tanker boom",
-   "link": "https://splash247.com/wall-street-splits-over-tanker-boom/",
+   "id": "2783409fca9a",
+   "title": "SAT-JAM: Ships must learn to navigate without GPS",
+   "link": "https://splash247.com/sat-jam-ships-must-learn-to-navigate-without-gps/",
    "source": "splash",
-   "published": "2026-10-27T06:09:01Z",
-   "seen": "2026-10-27T06:50:11Z",
+   "published": "2026-10-27T06:15:00Z",
+   "seen": "2026-10-26T21:41:27Z",
    "lang": "en",
-   "excerpt": "Wall Street’s increasingly divided outlook for the tanker supercycle has taken another twist, with investment bank Evercore ISI dramatically raising its freight forecasts and share price targets while warning that the industry’s …",
+   "excerpt": "A researcher in Denmark who has developed a new system for tracking satellite navigation interference from space has a stark warning for the shipping industry in today’s Maritime CEO interview: GPS can no longer be considered a dependable …",
    "segments": [
     "freight",
-    "finance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "mean-reversion",
-    "vlcc"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "59c4f3c67137",
-   "title": "Jade Pacific makes liner debut with Red Sea service",
-   "link": "https://splash247.com/jade-pacific-makes-liner-debut-with-red-sea-service/",
-   "source": "splash",
-   "published": "2026-10-27T06:06:02Z",
-   "seen": "2026-10-27T06:50:11Z",
-   "lang": "en",
-   "excerpt": "A new Singapore-based container shipping company headed by former SeaLead executives has entered the liner trades with a service connecting India, Pakistan and Egypt’s Red Sea coast.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "91a465aa3ae7",
-   "title": "New study pours cold water on nuclear shipping economics",
-   "link": "https://splash247.com/new-study-pours-cold-water-on-nuclear-shipping-economics/",
-   "source": "splash",
-   "published": "2026-10-27T06:01:33Z",
-   "seen": "2026-10-27T06:50:11Z",
-   "lang": "en",
-   "excerpt": "The commercial case for nuclear-powered shipping remains highly uncertain, with new research suggesting the technology could become competitive by 2040, but only with dramatic reductions in reactor costs and effective global carbon …",
-   "segments": [
-    "freight"
+    "insurance"
    ],
    "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [
-    "liner"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "44a43bfb3af5",
-   "title": "Japanese shipping giants join forces for ammonia-fuelled car carrier quartet",
-   "link": "https://splash247.com/japanese-shipping-giants-join-forces-for-ammonia-fuelled-car-carrier-quartet/",
-   "source": "splash",
-   "published": "2026-10-27T05:56:59Z",
-   "seen": "2026-10-27T06:50:11Z",
-   "lang": "en",
-   "excerpt": "Seven Japanese companies have joined forces to build four ammonia-fuelled car carriers and establish an integrated bunkering network, in one of the most ambitious commercial shipping projects yet involving the alternative fuel.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "dual-fuel",
-    "car-carrier",
-    "bunkers"
-   ],
+   "terms": [],
    "paywall": false
   },
   {
@@ -407,21 +575,67 @@
    "paywall": false
   },
   {
-   "id": "6c4c7f12ded5",
-   "title": "Moderne Transportprisen til Jan Endre Vartdal og Marius Husabø Monsen",
-   "link": "https://www.mtlogistikk.no/avrenning-moderne-transport-prisen-mowi/moderne-transportprisen-til-jan-endre-vartdal-og-marius-husabo-monsen/1349160",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-27T05:05:11Z",
-   "lang": "no",
-   "excerpt": "",
+   "id": "454380a4f80f",
+   "title": "KMTC makes Chinese shipyard debut with six boxships",
+   "link": "https://splash247.com/kmtc-makes-chinese-shipyard-debut-with-six-boxships/",
+   "source": "splash",
+   "published": "2026-10-27T05:28:42Z",
+   "seen": "2026-10-27T06:50:11Z",
+   "lang": "en",
+   "excerpt": "South Korean liner operator Korea Marine Transport Co (KMTC) has entered China’s shipbuilding market for the first time, ordering six 3,100 teu containerships at CSSC Huangpu Wenchong.",
    "segments": [
-    "road"
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "91a465aa3ae7",
+   "title": "New study pours cold water on nuclear shipping economics",
+   "link": "https://splash247.com/new-study-pours-cold-water-on-nuclear-shipping-economics/",
+   "source": "splash",
+   "published": "2026-10-27T05:15:33Z",
+   "seen": "2026-10-27T06:50:11Z",
+   "lang": "en",
+   "excerpt": "The commercial case for nuclear-powered shipping remains highly uncertain, with new research suggesting the technology could become competitive by 2040, but only with dramatic reductions in reactor costs and effective global carbon …",
+   "segments": [
+    "freight"
    ],
    "subs": [],
    "policy": false,
-   "level": "national",
-   "terms": [],
+   "level": "international",
+   "terms": [
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "44a43bfb3af5",
+   "title": "Japanese shipping giants join forces for ammonia-fuelled car carrier quartet",
+   "link": "https://splash247.com/japanese-shipping-giants-join-forces-for-ammonia-fuelled-car-carrier-quartet/",
+   "source": "splash",
+   "published": "2026-10-27T05:00:59Z",
+   "seen": "2026-10-27T06:50:11Z",
+   "lang": "en",
+   "excerpt": "Seven Japanese companies have joined forces to build four ammonia-fuelled car carriers and establish an integrated bunkering network, in one of the most ambitious commercial shipping projects yet involving the alternative fuel.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dual-fuel",
+    "car-carrier",
+    "bunkers"
+   ],
    "paywall": false
   },
   {
@@ -439,6 +653,24 @@
    "subs": [
     "containers"
    ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "d624a49632ef",
+   "title": "Democratic Senators Warn Seaports Not to Handle Russian Diesel",
+   "link": "https://maritime-executive.com/article/democratic-senators-warn-seaports-not-to-handle-russian-diesel",
+   "source": "marex",
+   "published": "2026-10-27T03:01:08Z",
+   "seen": "2026-10-27T09:47:48Z",
+   "lang": "en",
+   "excerpt": "Senior Democrats in the House and Senate are warning American banks, ports and energy companies to steer clear of any cargoes of Russian diesel that m...",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
    "policy": false,
    "level": "international",
    "terms": [],
@@ -464,6 +696,62 @@
    "terms": [
     "intermodal"
    ],
+   "paywall": false
+  },
+  {
+   "id": "05963ec27ca9",
+   "title": "Shipping cuts training when it needs it most",
+   "link": "https://splash247.com/shipping-cuts-training-when-it-needs-it-most/",
+   "source": "splash",
+   "published": "2026-10-27T03:00:00Z",
+   "seen": "2026-10-26T21:41:27Z",
+   "lang": "en",
+   "excerpt": "Irene Rosberg, who runs the Blue MBA at Copenhagen Business School, returns to Splash today. When business conditions become difficult, training is often one of the easiest budgets to cut.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5cfc890ecf36",
+   "title": "Industry Experts Share Operational Insights into Wind-Assisted Propulsion",
+   "link": "https://maritime-executive.com/article/industry-experts-share-operational-insights-into-wind-assisted-propulsion-systems-waps",
+   "source": "marex",
+   "published": "2026-10-27T02:57:00Z",
+   "seen": "2026-10-27T09:47:48Z",
+   "lang": "en",
+   "excerpt": "ClassNK held the environmental seminar ‘Latest Trends and Practical Operation of Wind-Assisted Propulsion Systems’ (the ‘Seminar’) on October 23, spon...",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "class-society"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "a02ed404963d",
+   "title": "Svitzer: Better Towage Can Unlock Productivity for Ports",
+   "link": "https://maritime-executive.com/article/svitzer-towage-can-unlock-productivity-as-ports-face-record-congestion-levels",
+   "source": "marex",
+   "published": "2026-10-27T02:01:00Z",
+   "seen": "2026-10-27T09:47:48Z",
+   "lang": "en",
+   "excerpt": "The TRAnsverse tug can save port and terminal operators valuable minutes in berthing and arrival times according to Svitzer’s new white paper on the T...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
    "paywall": false
   },
   {
@@ -1065,25 +1353,6 @@
    "paywall": false
   },
   {
-   "id": "2783409fca9a",
-   "title": "SAT-JAM: Ships must learn to navigate without GPS",
-   "link": "https://splash247.com/sat-jam-ships-must-learn-to-navigate-without-gps/",
-   "source": "splash",
-   "published": "2026-10-26T21:07:00Z",
-   "seen": "2026-10-26T21:41:27Z",
-   "lang": "en",
-   "excerpt": "A researcher in Denmark who has developed a new system for tracking satellite navigation interference from space has a stark warning for the shipping industry in today’s Maritime CEO interview: GPS can no longer be considered a dependable …",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "b216d715324b",
    "title": "Seatrium and Keppel agree to complete four offshore drilling rigs",
    "link": "https://container-news.com/seatrium-and-keppel-agree-to-complete-four-offshore-drilling-rigs/",
@@ -1135,24 +1404,6 @@
    ],
    "subs": [],
    "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "05963ec27ca9",
-   "title": "Shipping cuts training when it needs it most",
-   "link": "https://splash247.com/shipping-cuts-training-when-it-needs-it-most/",
-   "source": "splash",
-   "published": "2026-10-26T20:19:00Z",
-   "seen": "2026-10-26T21:41:27Z",
-   "lang": "en",
-   "excerpt": "Irene Rosberg, who runs the Blue MBA at Copenhagen Business School, returns to Splash today. When business conditions become difficult, training is often one of the easiest budgets to cut.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": true,
    "level": "international",
    "terms": [],
    "paywall": false
@@ -1866,6 +2117,26 @@
    "paywall": false
   },
   {
+   "id": "6c03d081f14b",
+   "title": "MSC Foundation Backs Landmark Global Coral Reef Ecosystems Assessment",
+   "link": "https://maritime-executive.com/article/msc-foundation-backs-landmark-global-coral-reef-ecosystems-assessment",
+   "source": "marex",
+   "published": "2026-10-26T13:11:09Z",
+   "seen": "2026-10-26T14:52:43Z",
+   "lang": "en",
+   "excerpt": ", Linking Science to a Critical Window for Conservation Action10/22/2026As princi",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
    "id": "3a31c5ec3223",
    "title": "Tight reservoirs on Equinor and Aker BP’s agenda amid Norway’s 2.8-billion-boe potential",
    "link": "https://offshore-energy.biz/2026/10/26/tight-reservoirs-on-equinor-and-aker-bps-agenda-amid-norways-28-billion-boe-potential",
@@ -1894,6 +2165,25 @@
    "excerpt": "123Loadboard and Direct Freight are combining two independent freight marketplaces so brokers can close capacity gaps and carriers can find better-matched freight.",
    "segments": [
     "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5836aa0b924d",
+   "title": "Global Ports Holding Showcases Major Investments at San Juan Cruise Port",
+   "link": "https://maritime-executive.com/article/global-ports-holding-showcases-major-investments-at-san-juan-cruise-port",
+   "source": "marex",
+   "published": "2026-10-26T13:01:37Z",
+   "seen": "2026-10-26T14:52:43Z",
+   "lang": "en",
+   "excerpt": "More than $200 million in infrastructure improvements, plans for a new cruise terminal, and continued government collaboration underscore long-term c...",
+   "segments": [
+    "freight",
+    "finance"
    ],
    "subs": [],
    "policy": false,
@@ -4086,26 +4376,6 @@
    "paywall": false
   },
   {
-   "id": "6c03d081f14b",
-   "title": "MSC Foundation Backs Landmark Global Coral Reef Ecosystems Assessment",
-   "link": "https://maritime-executive.com/article/msc-foundation-backs-landmark-global-coral-reef-ecosystems-assessment",
-   "source": "marex",
-   "published": "2026-10-25T13:11:09Z",
-   "seen": "2026-10-26T14:52:43Z",
-   "lang": "en",
-   "excerpt": ", Linking Science to a Critical Window for Conservation Action10/22/2026As princi",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "fe1757e036fb",
    "title": "Port Everglades Cruise Season Brings New Record, Director and Art",
    "link": "https://maritime-executive.com/article/port-everglades-cruise-season-brings-new-record-director-and-art",
@@ -4116,25 +4386,6 @@
    "excerpt": "For the third consecutive year, Broward County’s Port Everglades has hosted a record number of cruise guests. Over 5.38 million guests were welcomed t...",
    "segments": [
     "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "5836aa0b924d",
-   "title": "Global Ports Holding Showcases Major Investments at San Juan Cruise Port",
-   "link": "https://maritime-executive.com/article/global-ports-holding-showcases-major-investments-at-san-juan-cruise-port",
-   "source": "marex",
-   "published": "2026-10-25T13:01:37Z",
-   "seen": "2026-10-26T14:52:43Z",
-   "lang": "en",
-   "excerpt": "More than $200 million in infrastructure improvements, plans for a new cruise terminal, and continued government collaboration underscore long-term c...",
-   "segments": [
-    "freight",
-    "finance"
    ],
    "subs": [],
    "policy": false,
@@ -18019,295 +18270,6 @@
    "level": "international",
    "terms": [
     "sanctions"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "ab8e8559e5ef",
-   "title": "Trump likely to waive new Russian oil sanctions due today: analysts",
-   "link": "https://www.hellenicshippingnews.com/trump-likely-to-waive-new-russian-oil-sanctions-due-today-analysts/",
-   "source": "hsn",
-   "published": "2026-10-19T10:00:25Z",
-   "seen": "2026-10-19T12:51:24Z",
-   "lang": "en",
-   "excerpt": "US President Donald Trump’s administration is likely to defer implementation or issue waivers of new sanctions and tariffs on buyers of Russian oil that are legally due Oct.",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "sanctions"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "79676aaa2c8c",
-   "title": "Nanjing Tanker picks Dalian for LR2 quartet",
-   "link": "https://splash247.com/nanjing-tanker-picks-dalian-for-lr2-quartet/",
-   "source": "splash",
-   "published": "2026-10-19T10:00:00Z",
-   "seen": "2026-10-19T12:51:24Z",
-   "lang": "en",
-   "excerpt": "China Merchants-controlled Nanjing Tanker has selected Dalian Shipbuilding Industry Corporation (DSIC) to build four more LR2 product and crude tankers, taking its planned newbuilding programme in the segment at the Chinese yard to six …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "product-tanker",
-    "newbuilding"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "228ddd4dba37",
-   "title": "Hai An lines up $70m feeder newbuild investment",
-   "link": "https://splash247.com/hai-an-lines-up-70m-feeder-newbuild-investment/",
-   "source": "splash",
-   "published": "2026-10-19T09:40:00Z",
-   "seen": "2026-10-19T09:46:10Z",
-   "lang": "en",
-   "excerpt": "Vietnamese shipowner Hai An Transport and Stevedoring has approved an investment of up to $70m in two feeder containerships at a Chinese shipyard, adding another pair of vessels to its expanding newbuilding programme.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "transshipment",
-    "newbuilding",
-    "liner"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "de91a5db6e76",
-   "title": "MSC joins Rheinmetall in €138m Romanian shipyard takeover",
-   "link": "https://splash247.com/msc-joins-rheinmetall-in-e138m-romanian-shipyard-takeover/",
-   "source": "splash",
-   "published": "2026-10-19T09:30:00Z",
-   "seen": "2026-10-19T09:46:10Z",
-   "lang": "en",
-   "excerpt": "Mediterranean Shipping Co (MSC) has been confirmed as a joint buyer of Romania’s bankrupt Mangalia shipyard, teaming up with German defence giant Rheinmetall in a €138m deal to revive one of Europe’s largest shipbuilding facilities.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "mna"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "e8294f32a52c",
-   "title": "In pursuit of Middle East expansion, US piping company sets up entity in Jordan",
-   "link": "https://offshore-energy.biz/2026/10/19/in-pursuit-of-middle-east-expansion-us-piping-company-sets-up-entity-in-jordan",
-   "source": "offshoreenergy",
-   "published": "2026-10-19T09:26:54Z",
-   "seen": "2026-10-19T12:51:24Z",
-   "lang": "en",
-   "excerpt": "Texas-headquartered engineered pipe services provider Perma-Pipe International has established a subsidiary in Jordan, a move that comes as part...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "155dba517915",
-   "title": "Reederei Nord reshuffles top team",
-   "link": "https://splash247.com/reederei-nord-reshuffles-top-team/",
-   "source": "splash",
-   "published": "2026-10-19T09:23:00Z",
-   "seen": "2026-10-19T09:46:10Z",
-   "lang": "en",
-   "excerpt": "German shipowner and manager Reederei Nord has reshuffled its Hamburg leadership, promoting two long-serving executives to senior management roles as chief executive Kurt Klemme shifts more of his attention to shipping investments and new …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers",
-    "drybulk",
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "d0f4cd74b8fc",
-   "title": "CMA CGM names methanol-powered Lorenzaccio",
-   "link": "https://container-news.com/cma-cgm-names-methanol-powered-lorenzaccio/",
-   "source": "containernews",
-   "published": "2026-10-19T09:00:42Z",
-   "seen": "2026-10-19T09:46:10Z",
-   "lang": "en",
-   "excerpt": "CMA CGM has officially named CMA CGM Lorenzaccio, its latest 15,000 TEU methanol dual-fuel container ship. The vessel joins a series of six CMA CGM containerships named after characters from French literature.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "teu",
-    "dual-fuel",
-    "liner"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "b068cfa3259e",
-   "title": "Tanker earnings defy all historical comparisons",
-   "link": "https://splash247.com/tanker-earnings-defy-all-historical-comparisons/",
-   "source": "splash",
-   "published": "2026-10-19T08:45:36Z",
-   "seen": "2026-10-19T06:54:23Z",
-   "lang": "en",
-   "excerpt": "The tanker market has entered such extraordinary territory that independent owners could be making an additional $400m a day above their original earnings expectations, a windfall that, if sustained for a year, would almost match the …",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "3c3bc5a83a9c",
-   "title": "Hormuz attacks overwhelm UKMTO",
-   "link": "https://splash247.com/hormuz-attacks-overwhelm-ukmto/",
-   "source": "splash",
-   "published": "2026-10-19T08:34:00Z",
-   "seen": "2026-10-19T09:46:10Z",
-   "lang": "en",
-   "excerpt": "The sheer volume of attacks on commercial shipping around the Strait of Hormuz has left Britain’s maritime security reporting centre struggling to keep track, with most vessels targeted in the increasingly dangerous waterway no longer …",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "containers",
-    "drybulk",
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "a27fb45c7da1",
-   "title": "Kritisk vareflyt gjør lageret til et fristende mål",
-   "link": "https://www.mtlogistikk.no/consafe-logistics-cybersikkerhet-lagerlogistikk/kritisk-vareflyt-gjor-lageret-til-et-fristende-mal/1342965",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-19T08:16:10Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "43dc2a3e9bd1",
-   "title": "European shipowners demand bigger share of EU carbon revenues",
-   "link": "https://splash247.com/european-shipowners-demand-bigger-share-of-eu-carbon-revenues/",
-   "source": "splash",
-   "published": "2026-10-19T08:15:58Z",
-   "seen": "2026-10-19T09:46:10Z",
-   "lang": "en",
-   "excerpt": "European shipowners are calling for a threefold increase in the carbon allowances earmarked to support shipping’s energy transition, arguing that the sector contributes almost twice its share of emissions to the EU Emissions Trading …",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "eu-ets"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "e024574221e1",
-   "title": "COSCO books 16 grain carrier newbuilds",
-   "link": "https://splash247.com/cosco-books-16-grain-carrier-newbuilds/",
-   "source": "splash",
-   "published": "2026-10-19T08:02:58Z",
-   "seen": "2026-10-19T09:46:10Z",
-   "lang": "en",
-   "excerpt": "China’s COSCO Shipping Bulk has signed up for another 16 multipurpose grain carriers at Fujian Shipbuilding, extending its newbuilding spree in the dry bulk sector.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers",
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "newbuilding",
-    "dry-bulk",
-    "dwt"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "b8d26f1fb6c4",
-   "title": "Maersk completes world’s largest ethanol bunkering in Singapore",
-   "link": "https://container-news.com/maersk-completes-worlds-largest-ethanol-bunkering-in-singapore/",
-   "source": "containernews",
-   "published": "2026-10-19T08:00:39Z",
-   "seen": "2026-10-19T09:46:10Z",
-   "lang": "en",
-   "excerpt": "Maersk has completed what it describes as the world’s largest ethanol bunkering operation, supplying approximately 5,000 metric tonnes of ISCC-certified bioethanol to Maersk Halifax in Singapore.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bunkers",
-    "liner",
-    "dual-fuel"
    ],
    "paywall": false
   }
