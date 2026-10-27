@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T03:42:35Z",
+ "updated": "2026-10-27T06:50:11Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren åpner konferanse om bærekraftig verdikjede og materialbruk i veibygging",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-konferanse-om-barekraftig-verdikjede-og-materialbruk-i-veibygging/id3183352/",
    "source": "regjeringen",
-   "published": "2026-10-27T03:42:35Z",
+   "published": "2026-10-27T06:50:11Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam åpner konferanse om bærekraftig verdikjede og materialbruk i vegbygging.",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren åpner ZERAC-konferansen 2026",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-zerac-konferansen-2026/id3183348/",
    "source": "regjeringen",
-   "published": "2026-10-27T03:42:35Z",
+   "published": "2026-10-27T06:50:11Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam åpner Zero Emission Regional Aviation Conference 2026.",
@@ -45,7 +45,7 @@
    "title": "Samferdselsministeren deltar på arrangement i regi av Tine Meierier",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-deltar-pa-arrangement-i-regi-av-tine-meierier/id3183350/",
    "source": "regjeringen",
-   "published": "2026-10-27T03:42:35Z",
+   "published": "2026-10-27T06:50:11Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam deltar på arrangement i regi av Tine Meierier.",
@@ -64,7 +64,7 @@
    "title": "Samferdselsministeren deltar på Kollektivkonferansen 2026",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-deltar-pa-kollektivkonferansen-2026/id3183349/",
    "source": "regjeringen",
-   "published": "2026-10-27T03:42:35Z",
+   "published": "2026-10-27T06:50:11Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam deltar på Kollektivkonferansen 2026.",
@@ -79,12 +79,340 @@
    "upcoming": true
   },
   {
-   "id": "fc296418d5e3",
+   "id": "454380a4f80f",
+   "title": "KMTC makes Chinese shipyard debut with six boxships",
+   "link": "https://splash247.com/kmtc-makes-chinese-shipyard-debut-with-six-boxships/",
+   "source": "splash",
+   "published": "2026-10-27T06:28:42Z",
+   "seen": "2026-10-27T06:50:11Z",
+   "lang": "en",
+   "excerpt": "South Korean liner operator Korea Marine Transport Co (KMTC) has entered China’s shipbuilding market for the first time, ordering six 3,100 teu containerships at CSSC Huangpu Wenchong.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "d38e0236a420",
+   "title": "Containership suffers large hull tear after collision with cruise ship",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/containership-suffers-large-hull-tear-after-collision-with-cruise-ship/",
+   "source": "imn",
+   "published": "2026-10-27T06:27:33Z",
+   "seen": "2026-10-27T06:50:11Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "ecd1cf6f3612",
+   "title": "Borr drilling rig sinks off Gabon",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/borr-drilling-rig-sinks-off-gabon/",
+   "source": "imn",
+   "published": "2026-10-27T06:26:28Z",
+   "seen": "2026-10-27T06:50:11Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "rig"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "eb3f7b9757b6",
+   "title": "Khoryv has drifted after drone attack",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/khoryv-has-drifted-after-drone-attack/",
+   "source": "imn",
+   "published": "2026-10-27T06:25:21Z",
+   "seen": "2026-10-27T06:50:11Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "928aa994387f",
+   "title": "Details emerge of attacked ship Ghana Prosperity",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/details-emerge-of-attacked-ship-ghana-prosperity/",
+   "source": "imn",
+   "published": "2026-10-27T06:24:09Z",
+   "seen": "2026-10-27T06:50:11Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "52c332c2a9fc",
+   "title": "Caution issued as containers drift near Oman",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/caution-issued-as-containers-drift-near-oman/",
+   "source": "imn",
+   "published": "2026-10-27T06:23:13Z",
+   "seen": "2026-10-27T06:50:11Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "a31f18040b28",
+   "title": "Maintenance guidance updated after motor falls from gantry crane",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/maintenance-guidance-updated-after-motor-falls-from-gantry-crane/",
+   "source": "imn",
+   "published": "2026-10-27T06:22:03Z",
+   "seen": "2026-10-27T06:50:11Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "8192ef4e0388",
+   "title": "US DoJ asks Maryland District Court to remand second offshore wind approval",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/us-doj-asks-maryland-district-court-to-remand-second-offshore-wind-approval/",
+   "source": "imn",
+   "published": "2026-10-27T06:20:33Z",
+   "seen": "2026-10-27T06:50:11Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "offshore-wind"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "25bde71442ed",
+   "title": "Nigeria detains ships temporarily in its battle against alleged cabotage violations",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/nigeria-detains-ships-temporarily-in-its-battle-against-alleged-cabotage-violations/",
+   "source": "imn",
+   "published": "2026-10-27T06:19:21Z",
+   "seen": "2026-10-27T06:50:11Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "road",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "cabotage"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "a579000d0379",
+   "title": "New pilot transfer arrangements from 2028",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/new-pilot-transfer-arrangements-from-2028/",
+   "source": "imn",
+   "published": "2026-10-27T06:18:16Z",
+   "seen": "2026-10-27T06:50:11Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "ea50da6974e6",
+   "title": "New Zealand opens first round for offshore energy feasibility permits",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/new-zealand-opens-first-round-for-offshore-energy-feasibility-permits/",
+   "source": "imn",
+   "published": "2026-10-27T06:17:17Z",
+   "seen": "2026-10-27T06:50:11Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "971692297667",
+   "title": "Wall Street splits over tanker boom",
+   "link": "https://splash247.com/wall-street-splits-over-tanker-boom/",
+   "source": "splash",
+   "published": "2026-10-27T06:09:01Z",
+   "seen": "2026-10-27T06:50:11Z",
+   "lang": "en",
+   "excerpt": "Wall Street’s increasingly divided outlook for the tanker supercycle has taken another twist, with investment bank Evercore ISI dramatically raising its freight forecasts and share price targets while warning that the industry’s …",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "mean-reversion",
+    "vlcc"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "59c4f3c67137",
+   "title": "Jade Pacific makes liner debut with Red Sea service",
+   "link": "https://splash247.com/jade-pacific-makes-liner-debut-with-red-sea-service/",
+   "source": "splash",
+   "published": "2026-10-27T06:06:02Z",
+   "seen": "2026-10-27T06:50:11Z",
+   "lang": "en",
+   "excerpt": "A new Singapore-based container shipping company headed by former SeaLead executives has entered the liner trades with a service connecting India, Pakistan and Egypt’s Red Sea coast.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "91a465aa3ae7",
+   "title": "New study pours cold water on nuclear shipping economics",
+   "link": "https://splash247.com/new-study-pours-cold-water-on-nuclear-shipping-economics/",
+   "source": "splash",
+   "published": "2026-10-27T06:01:33Z",
+   "seen": "2026-10-27T06:50:11Z",
+   "lang": "en",
+   "excerpt": "The commercial case for nuclear-powered shipping remains highly uncertain, with new research suggesting the technology could become competitive by 2040, but only with dramatic reductions in reactor costs and effective global carbon …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "44a43bfb3af5",
+   "title": "Japanese shipping giants join forces for ammonia-fuelled car carrier quartet",
+   "link": "https://splash247.com/japanese-shipping-giants-join-forces-for-ammonia-fuelled-car-carrier-quartet/",
+   "source": "splash",
+   "published": "2026-10-27T05:56:59Z",
+   "seen": "2026-10-27T06:50:11Z",
+   "lang": "en",
+   "excerpt": "Seven Japanese companies have joined forces to build four ammonia-fuelled car carriers and establish an integrated bunkering network, in one of the most ambitious commercial shipping projects yet involving the alternative fuel.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dual-fuel",
+    "car-carrier",
+    "bunkers"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "7c517402f317",
+   "title": "Port of Long Beach revises environmental plans for Pier B rail project",
+   "link": "https://container-news.com/port-of-long-beach-revises-environmental-plans-for-pier-b-rail-project/",
+   "source": "containernews",
+   "published": "2026-10-27T05:41:23Z",
+   "seen": "2026-10-27T06:50:11Z",
+   "lang": "en",
+   "excerpt": "The Port of Long Beach has released a revised draft supplemental environmental impact report for its Pier B On-Dock Rail Support Facility project, reflecting proposed design modifications to one of the port’s major rail infrastructure …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6c4c7f12ded5",
    "title": "Moderne Transportprisen til Jan Endre Vartdal og Marius Husabø Monsen",
-   "link": "https://www.mtlogistikk.no/moderne-transport-prisen-mowi-sjomatlogistikk/moderne-transportprisen-til-jan-endre-vartdal-og-marius-husabo-monsen/1339339",
+   "link": "https://www.mtlogistikk.no/avrenning-moderne-transport-prisen-mowi/moderne-transportprisen-til-jan-endre-vartdal-og-marius-husabo-monsen/1349160",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-27T03:42:35Z",
+   "seen": "2026-10-27T05:05:11Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -93,6 +421,26 @@
    "subs": [],
    "policy": false,
    "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a8b5d1b1a9bb",
+   "title": "Hapag-Lloyd replaces BFS with new BFX service",
+   "link": "https://container-news.com/hapag-lloyd-replaces-bfs-with-new-bfx-service/",
+   "source": "containernews",
+   "published": "2026-10-27T04:17:01Z",
+   "seen": "2026-10-27T06:50:11Z",
+   "lang": "en",
+   "excerpt": "Hapag-Lloyd will discontinue its Benelux France Shuttle (BFS) and replace it with the new Benelux France Express (BFX). The change forms part of the Gemini Cooperation network and will take effect during the week of 2–8 November 2026.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
    "terms": [],
    "paywall": false
   },
@@ -12892,24 +13240,6 @@
    "paywall": false
   },
   {
-   "id": "296e4f2ea5d0",
-   "title": "New Zealand Opens First Round for Offshore Energy Feasibility Permits",
-   "link": "https://maritime-executive.com/article/new-zealand-opens-first-round-for-offshore-energy-feasibility-permits",
-   "source": "marex",
-   "published": "2026-10-20T23:16:51Z",
-   "seen": "2026-10-21T00:52:08Z",
-   "lang": "en",
-   "excerpt": "New Zealand has moved quickly to open its first round for offshore renewable energy feasibility permit applications just weeks after it completed the...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "1207a819dfa1",
    "title": "Maersk schedules first India drydocking",
    "link": "https://container-news.com/maersk-schedules-first-india-drydocking/",
@@ -17979,316 +18309,6 @@
     "liner",
     "dual-fuel"
    ],
-   "paywall": false
-  },
-  {
-   "id": "eb36ad407ca7",
-   "title": "Nordic energy players hit paydirt with new gas and condensate discovery",
-   "link": "https://offshore-energy.biz/2026/10/19/nordic-energy-players-hit-paydirt-with-new-gas-and-condensate-discovery",
-   "source": "offshoreenergy",
-   "published": "2026-10-19T07:51:38Z",
-   "seen": "2026-10-19T09:46:10Z",
-   "lang": "en",
-   "excerpt": "Vår Energi and Equinor have struck gas and condensate in Norwegian waters, packing up to 5.5 million barrels.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "fb6c559b7af1",
-   "title": "TenneT and NKT jointly explore offshore cable decommissioning",
-   "link": "https://offshore-energy.biz/2026/10/19/tennet-and-nkt-jointly-explore-offshore-cable-decommissioning",
-   "source": "offshoreenergy",
-   "published": "2026-10-19T07:37:41Z",
-   "seen": "2026-10-19T09:46:10Z",
-   "lang": "en",
-   "excerpt": "Offshore cable decommissioning is technically feasible and can support CO2 reduction, but the economics aspect depends on a number of factors, a...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "decommissioning"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "7fff4afcaf6f",
-   "title": "China Merchants and COSCO move to exit Qingdao ore terminal",
-   "link": "https://splash247.com/china-merchants-and-cosco-move-to-exit-qingdao-ore-terminal/",
-   "source": "splash",
-   "published": "2026-10-19T07:30:43Z",
-   "seen": "2026-10-19T09:46:10Z",
-   "lang": "en",
-   "excerpt": "China Merchants Port and COSCO Shipping Ports are joining forces with IMC to sell a controlling stake in an iron ore terminal at China’s Qingdao port, setting a minimum price of CNY1.92bn ($287m).",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers",
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "d331dc9fd9e1",
-   "title": "Peel Ports Group appoints David Huck as new CEO",
-   "link": "https://container-news.com/peel-ports-group-appoints-david-huck-as-new-ceo/",
-   "source": "containernews",
-   "published": "2026-10-19T07:00:44Z",
-   "seen": "2026-10-19T07:07:21Z",
-   "lang": "en",
-   "excerpt": "Peel Ports Group has appointed David Huck as its new Group Chief Executive Officer, following the departure of Claudio Veritiero earlier this month. Huck moves into the role from his previous position as Chief Operating Officer.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "ce3bb2943c4c",
-   "title": "India rolls out credit risk backstop for shipbuilders",
-   "link": "https://splash247.com/india-rolls-out-credit-risk-backstop-for-shipbuilders/",
-   "source": "splash",
-   "published": "2026-10-19T07:00:23Z",
-   "seen": "2026-10-19T09:46:10Z",
-   "lang": "en",
-   "excerpt": "India has introduced two government-backed credit-risk insurance products for shipbuilders, aiming to protect domestic yards against missed payments and buyer defaults on vessel construction contracts.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "ae14ad17d665",
-   "title": "ADM is Port of Virginia's Shipper of the Year Award Recipient",
-   "link": "https://maritime-executive.com/article/adm-is-port-of-virginia-s-shipper-of-the-year-award-recipient",
-   "source": "marex",
-   "published": "2026-10-19T06:51:00Z",
-   "seen": "2026-10-19T06:54:23Z",
-   "lang": "en",
-   "excerpt": "The Archer Daniels Midland Co. (ADM), a global agricultural conglomerate that is a long-time user of The Port of Virginia®, is this year’s recipient o...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "shipper-consignee"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "ba80e2e5c742",
-   "title": "Readers Speak: Joint ventures lead preferences for container terminal operations",
-   "link": "https://container-news.com/readers-speak-joint-ventures-lead-preferences-for-container-terminal-operations/",
-   "source": "containernews",
-   "published": "2026-10-19T06:00:23Z",
-   "seen": "2026-10-19T06:54:23Z",
-   "lang": "en",
-   "excerpt": "The role of foreign companies in operating major container terminals remains a subject of debate, particularly when international investment intersects with national interests and the management of strategic infrastructure.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "7745b778198e",
-   "title": "Chemikalien Seetransport down to one LR1 tanker",
-   "link": "https://splash247.com/chemikalien-seetransport-down-to-one-lr1-tanker/",
-   "source": "splash",
-   "published": "2026-10-19T05:45:05Z",
-   "seen": "2026-10-19T06:54:23Z",
-   "lang": "en",
-   "excerpt": "German tanker owner and shipmanager Chemikalien Seetransport (CST), backed by the Krämer family, is continuing to reduce its exposure to ageing tonnage, selling its 20-year-old LR1 tanker London Star to Chinese interests.The 73,900 dwt New …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "product-tanker",
-    "dwt"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "6867802ed192",
-   "title": "Tok politikere og presse med i lastebil gjennom Dagslett-kaoset",
-   "link": "https://lastebil.no/aktuelt/nyheter/tok-politikere-og-presse-med-i-lastebil-gjennom-dagslett-kaoset",
-   "source": "lastebil",
-   "published": "2026-10-19T05:42:58Z",
-   "seen": "2026-10-19T06:54:23Z",
-   "lang": "no",
-   "excerpt": "40 år med venting: Nå må Stortinget prioritere DagslettFredag tok NLF, sammen med lokale ordførere og næringslivsaktører, politikere og journalister med i lastebil gjennom Dagslett-området ved Drammen.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "d994282fcf0b",
-   "title": "Romania shoots down two more drones off its coastline",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/romania-shoots-down-two-more-drones-off-its-coastline/",
-   "source": "imn",
-   "published": "2026-10-19T05:31:24Z",
-   "seen": "2026-10-19T06:54:23Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "455463144518",
-   "title": "Munich Re takes lead on International Group collective overspill layer: report",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/munich-re-takes-lead-on-international-group-collective-overspill-layer-report/",
-   "source": "imn",
-   "published": "2026-10-19T05:29:58Z",
-   "seen": "2026-10-19T06:54:23Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "ig"
-   ],
-   "paywall": true
-  },
-  {
-   "id": "f1fb8c33969d",
-   "title": "DF Peak detained in Réunion",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/df-peak-detained-in-reunion/",
-   "source": "imn",
-   "published": "2026-10-19T05:28:53Z",
-   "seen": "2026-10-19T06:54:23Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "psc"
-   ],
-   "paywall": true
-  },
-  {
-   "id": "75bf622d9085",
-   "title": "International vessels seek shelter in Norwegian waters",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/international-vessels-seek-shelter-in-norwegian-waters/",
-   "source": "imn",
-   "published": "2026-10-19T05:27:25Z",
-   "seen": "2026-10-19T06:54:23Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "105873ad6c1e",
-   "title": "IMB records a 34-year piracy low",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/imb-records-a-34-year-piracy-low/",
-   "source": "imn",
-   "published": "2026-10-19T05:26:04Z",
-   "seen": "2026-10-19T06:54:23Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "7591c44a7b33",
-   "title": "NorthStandard reports further incident involving UN 3378 Sodium Carbonate Peroxyhydrate",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/northstandard-reports-further-incident-involving-un-3378-sodium-carbonate-peroxyhydrate/",
-   "source": "imn",
-   "published": "2026-10-19T05:25:14Z",
-   "seen": "2026-10-19T06:54:23Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "pi-club",
-    "un-number"
-   ],
-   "paywall": true
-  },
-  {
-   "id": "1dfca0809d69",
-   "title": "Tallenes tale 2025: Freja omsatte for mindre og tjente mindre",
-   "link": "https://www.mtlogistikk.no/2025-arsregnskap-freja-transport-logistics-lelu/tallenes-tale-2025-freja-omsatte-for-mindre-og-tjente-mindre/1343498",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-19T05:24:23Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   }
  ]
