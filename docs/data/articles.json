@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T13:01:46Z",
+ "updated": "2026-10-28T15:57:29Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren åpner konferanse om bærekraftig verdikjede og materialbruk i veibygging",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-konferanse-om-barekraftig-verdikjede-og-materialbruk-i-veibygging/id3183352/",
    "source": "regjeringen",
-   "published": "2026-10-28T13:01:46Z",
+   "published": "2026-10-28T15:57:29Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam åpner konferanse om bærekraftig verdikjede og materialbruk i vegbygging.",
@@ -22,12 +22,12 @@
    "upcoming": true
   },
   {
-   "id": "a16004ebc952",
-   "title": "Gordon setter inn tolv el-lastesykler i Oslo sentrum",
-   "link": "https://www.mtlogistikk.no/bylogistikk-el-lastesykler-gordon/gordon-setter-inn-tolv-el-lastesykler-i-oslo-sentrum/1350321",
+   "id": "c917d93e40aa",
+   "title": "Kai - en digital driftsleder",
+   "link": "https://www.mtlogistikk.no/flatestyring-future-driver-kai/kai-en-digital-driftsleder/1349342",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-28T13:01:46Z",
+   "seen": "2026-10-28T15:12:29Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -37,6 +37,247 @@
    "policy": false,
    "level": "national",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ba0c4f671ba4",
+   "title": "Stolen shoes on eBay lead police to $1 million in missing BNSF train cargo",
+   "link": "https://www.freightwaves.com/news/stolen-shoes-on-ebay-lead-police-to-1-million-in-missing-bnsf-train-cargo",
+   "source": "freightwaves",
+   "published": "2026-10-28T15:02:31Z",
+   "seen": "2026-10-28T15:57:29Z",
+   "lang": "en",
+   "excerpt": "An eBay listing for stolen shoes exposed a $1 million cargo recovery in Los Angeles. Investigators arrested the business owner, but questions remain about where the merchandise originated.",
+   "segments": [
+    "road",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lou"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "fc296418d5e3",
+   "title": "Moderne Transportprisen til Jan Endre Vartdal og Marius Husabø Monsen",
+   "link": "https://www.mtlogistikk.no/moderne-transport-prisen-mowi-sjomatlogistikk/moderne-transportprisen-til-jan-endre-vartdal-og-marius-husabo-monsen/1339339",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-28T14:57:29Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "9d9d77521286",
+   "title": "Hver tredje nye går på el eller gass",
+   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-gasslastebiler-lastebil/hver-tredje-nye-gar-pa-el-eller-gass/1349834",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-28T14:42:29Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a6646aa028a7",
+   "title": "FMCSA removes 10,000-plus driver training providers amid safety push",
+   "link": "https://www.freightwaves.com/news/fmcsa-removes-10000-plus-driver-training-providers-amid-safety-push",
+   "source": "freightwaves",
+   "published": "2026-10-28T14:36:44Z",
+   "seen": "2026-10-28T15:57:29Z",
+   "lang": "en",
+   "excerpt": "The Federal Motor Carrier Safety Administration has removed more than 10,000 training providers from its registry since December 2025, officials said.",
+   "segments": [
+    "road",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "fb719756d5d2",
+   "title": "Gordon setter inn tolv el-lastesykler i Oslo sentrum",
+   "link": "https://www.mtlogistikk.no/bylogistikk-el-lastesykler-gordon/gordon-setter-inn-tolv-el-lastesykler-i-oslo-sentrum/1350345",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-28T14:27:29Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "90dd9b72bcc4",
+   "title": "First-of-its-kind marine robotics test and development center opens in Norway",
+   "link": "https://offshore-energy.biz/2026/10/28/first-of-its-kind-marine-robotics-test-and-development-center-opens-in-norway",
+   "source": "offshoreenergy",
+   "published": "2026-10-28T14:21:42Z",
+   "seen": "2026-10-28T15:57:29Z",
+   "lang": "en",
+   "excerpt": "Equinor has opened a new, dedicated facility in Norway for the testing, qualification and development of marine robotic technologies, such as...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c72dff2902e3",
+   "title": "Russia To Begin Year-Round Arctic Northern Sea Route Shipping in Early 2027",
+   "link": "https://gcaptain.com/russia-to-begin-year-round-arctic-northern-sea-route-shipping-in-early-2027/",
+   "source": "gcaptain",
+   "published": "2026-10-28T14:07:56Z",
+   "seen": "2026-10-28T13:01:46Z",
+   "lang": "en",
+   "excerpt": "Russia expects to begin regular year-round eastbound shipping along the Northern Sea Route in early 2027, as additional nuclear icebreaker capacity, newer ice-class LNG carriers and pressure to redirect energy exports toward Asia bring the …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lng-carrier"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "ae5844daa6cb",
+   "title": "Drones Hit Container Ship off Bulgaria, Crew Safe and Ashore",
+   "link": "https://gcaptain.com/drones-hit-container-ship-off-bulgaria-crew-safe-and-ashore/",
+   "source": "gcaptain",
+   "published": "2026-10-28T14:05:00Z",
+   "seen": "2026-10-28T15:57:29Z",
+   "lang": "en",
+   "excerpt": "Sea drones struck a container ship off Bulgaria's Black Sea coast on Wednesday, the ship's owner and the government said, the latest in a string of attacks that have raised concerns about the growing scope of Russia's war in Ukraine.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "e15bcbdf43f0",
+   "title": "Backlog grows as 35,000 containers await rail service at LA–Long Beach",
+   "link": "https://www.freightwaves.com/news/backlog-grows-as-35000-containers-await-rail-service-at-la-long-beach",
+   "source": "freightwaves",
+   "published": "2026-10-28T14:01:08Z",
+   "seen": "2026-10-28T15:57:29Z",
+   "lang": "en",
+   "excerpt": "Nearly 35,700 import containers were waiting for on-dock trains at the ports of Los Angeles and Long Beach, as record cargo volumes, reported railcar shortages slowed inland traffic.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "backlog"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "d43fc5a98393",
+   "title": "Diesel prices may stay elevated into spring 2027, fuel executives warn",
+   "link": "https://www.freightwaves.com/news/diesel-prices-may-stay-elevated-into-spring-2027-fuel-executives-warn",
+   "source": "freightwaves",
+   "published": "2026-10-28T13:30:00Z",
+   "seen": "2026-10-28T15:57:29Z",
+   "lang": "en",
+   "excerpt": "Energy and truck stop executives said limited refining and pipeline capacity could leave U.S. trucking fleets vulnerable to higher diesel prices in 2027.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "rest-area"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "7319e1684f5e",
+   "title": "Forward Air saves ‘significant portion’ of major customer account",
+   "link": "https://www.freightwaves.com/news/forward-air-saves-significant-portion-of-major-customer-account",
+   "source": "freightwaves",
+   "published": "2026-10-28T13:29:49Z",
+   "seen": "2026-10-28T15:57:29Z",
+   "lang": "en",
+   "excerpt": "Forward Air has finalized a two-year deal to preserve a major share of the business from a contract logistics customer it had earlier warned it could lose.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "3pl"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "7aa02e3d3a0d",
+   "title": "Interessen for elektriske lastebiler er rekordhøy",
+   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-enova/interessen-for-elektriske-lastebiler-er-rekordhoy/1349640",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-28T13:12:29Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "electric-truck"
+   ],
    "paywall": false
   },
   {
@@ -62,6 +303,28 @@
    "paywall": false
   },
   {
+   "id": "f76a57c6596b",
+   "title": "Germany’s SEFE firms up two-decade-long offtake deal with Canadian LNG project",
+   "link": "https://offshore-energy.biz/2026/10/28/germanys-sefe-firms-up-two-decade-long-offtake-deal-with-canadian-lng-project",
+   "source": "offshoreenergy",
+   "published": "2026-10-28T12:59:12Z",
+   "seen": "2026-10-28T15:57:29Z",
+   "lang": "en",
+   "excerpt": "A binding 20-year agreement has enabled Germany’s SEFE to secure 1 mtpa of Canadian LNG starting in the early 2030s.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lng"
+   ],
+   "paywall": false
+  },
+  {
    "id": "b161195133a8",
    "title": "Frst look: almost all good news at C.H. Robinson in the third quarter",
    "link": "https://www.freightwaves.com/news/frst-look-almost-all-good-news-at-c-h-robinson-in-the-third-quarter",
@@ -79,26 +342,6 @@
    "level": "international",
    "terms": [
     "3pl"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "41325b0f4f4a",
-   "title": "Interessen for elektriske lastebiler er rekordhøy",
-   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-enova/interessen-for-elektriske-lastebiler-er-rekordhoy/1349851",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-28T12:31:46Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "electric-truck"
    ],
    "paywall": false
   },
@@ -181,24 +424,6 @@
    "paywall": false
   },
   {
-   "id": "587fa7fbb5cd",
-   "title": "Hver tredje nye går på el eller gass",
-   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-gasslastebiler-gronn-omstilling/hver-tredje-nye-gar-pa-el-eller-gass/1349674",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-28T10:31:46Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "dcee3df816ac",
    "title": "Norway lines up full-scale test of marine nuclear propulsion system",
    "link": "https://splash247.com/norway-lines-up-full-scale-test-of-marine-nuclear-propulsion-system/",
@@ -278,24 +503,6 @@
    "paywall": false
   },
   {
-   "id": "7ca4a7ce3651",
-   "title": "Kai - en digital driftsleder",
-   "link": "https://www.mtlogistikk.no/flatestyring-future-driver-kai/kai-en-digital-driftsleder/1348966",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-28T09:46:46Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "489e8cf74116",
    "title": "Woodside exits delayed Timor-Leste gas project",
    "link": "https://splash247.com/woodside-exits-delayed-timor-leste-gas-project/",
@@ -311,28 +518,6 @@
    "policy": false,
    "level": "international",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "c72dff2902e3",
-   "title": "Russia To Begin Year-Round Arctic Northern Sea Route Shipping in Early 2027",
-   "link": "https://gcaptain.com/russia-to-begin-year-round-arctic-northern-sea-route-shipping-in-early-2027/",
-   "source": "gcaptain",
-   "published": "2026-10-28T09:37:33Z",
-   "seen": "2026-10-28T13:01:46Z",
-   "lang": "en",
-   "excerpt": "Russia expects to begin regular year-round eastbound shipping along the Northern Sea Route in early 2027, as additional nuclear icebreaker capacity, newer ice-class LNG carriers and pressure to redirect energy exports toward Asia bring the …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng-carrier"
-   ],
    "paywall": false
   },
   {
@@ -353,24 +538,6 @@
    ],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "6c4c7f12ded5",
-   "title": "Moderne Transportprisen til Jan Endre Vartdal og Marius Husabø Monsen",
-   "link": "https://www.mtlogistikk.no/avrenning-moderne-transport-prisen-mowi/moderne-transportprisen-til-jan-endre-vartdal-og-marius-husabo-monsen/1349160",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-28T09:16:46Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -513,7 +680,7 @@
   },
   {
    "id": "6a1b5e8c1533",
-   "title": "- Det blir mye enklere å ha alt samlet digitalt",
+   "title": "– Det blir mye enklere å ha alt samlet digitalt",
    "link": "https://lastebil.no/aktuelt/nyheter/2026/det-blir-mye-enklere-aa-ha-alt-samlet-digitalt",
    "source": "lastebil",
    "published": "2026-10-28T07:52:59Z",
@@ -17998,173 +18165,6 @@
    "policy": false,
    "level": "international",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "53a1942615b0",
-   "title": "Major investments transform Gothenburg RoRo terminal",
-   "link": "https://container-news.com/major-investments-transform-gothenburg-roro-terminal/",
-   "source": "containernews",
-   "published": "2026-10-20T14:00:00Z",
-   "seen": "2026-10-20T15:42:06Z",
-   "lang": "en",
-   "excerpt": "Gothenburg RoRo Terminal has undergone extensive development over the past three years, with a series of infrastructure upgrades delivering a modernised, more efficient and sustainable operation serving frequent sailings to key freight …",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "roro"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "67ad02380df3",
-   "title": "Truck safety blitzes uncover hundreds of violations across US",
-   "link": "https://www.freightwaves.com/news/truck-safety-blitzes-uncover-hundreds-of-violations-across-us",
-   "source": "freightwaves",
-   "published": "2026-10-20T13:50:18Z",
-   "seen": "2026-10-20T15:42:06Z",
-   "lang": "en",
-   "excerpt": "State and federal authorities from California to North Dakota reported hundreds of violations and out-of-service orders in recent CDL enforcement operations.",
-   "segments": [
-    "road",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "91ef466ee09d",
-   "title": "LNG Canada entrusts Técnicas Reunidas with €200M+ EPCM deal",
-   "link": "https://offshore-energy.biz/2026/10/20/lng-canada-entrusts-tecnicas-reunidas-with-euro200m-epcm-deal",
-   "source": "offshoreenergy",
-   "published": "2026-10-20T13:11:12Z",
-   "seen": "2026-10-20T15:42:06Z",
-   "lang": "en",
-   "excerpt": "Técnicas Reunidas has secured work on LNG Canada's Coastal GasLink Phase 2, fueling the engineering firm's North American growth.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "072f3b5acf43",
-   "title": "Godby Shipping extends DFDS vessel charters",
-   "link": "https://container-news.com/godby-shipping-extends-dfds-vessel-charters/",
-   "source": "containernews",
-   "published": "2026-10-20T13:00:59Z",
-   "seen": "2026-10-20T15:42:06Z",
-   "lang": "en",
-   "excerpt": "Godby Shipping has extended its time charter agreements with DFDS for the vessels Lysvik Seaways, Lysbris Seaways and Transporter. All three charter agreements will now remain in effect until 31 December 2027.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "time-charter"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "d8bd1a2b35c5",
-   "title": "Maersk and Hateco Plan $3.5 Billion Vietnam Rail Freight Project",
-   "link": "https://gcaptain.com/maersk-and-hateco-plan-3-5-billion-vietnam-rail-freight-project/",
-   "source": "gcaptain",
-   "published": "2026-10-20T12:12:59Z",
-   "seen": "2026-10-20T15:42:06Z",
-   "lang": "en",
-   "excerpt": "A.P. Moller-Maersk A/S, the world’s No. 2 container carrier, signed an agreement with Vietnamese conglomerate Hateco to develop a railway freight terminal network in Vietnam during President To Lam’s official visit to Denmark.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "intermodal"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "4d45cb8a3083",
-   "title": "PD Ports opens new marine operations facility at Teesport",
-   "link": "https://container-news.com/pd-ports-opens-new-marine-operations-facility-at-teesport/",
-   "source": "containernews",
-   "published": "2026-10-20T12:00:15Z",
-   "seen": "2026-10-20T12:51:07Z",
-   "lang": "en",
-   "excerpt": "PD Ports has opened a new multi-million-pound marine facility at Cargo Fleet Wharf, within Teesport Commerce Park in Middlesbrough, UK.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "75c97b72ed21",
-   "title": "Baltic Dry Index climbs to 2593 up 47 points",
-   "link": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2593-up-47-points/",
-   "source": "hsn",
-   "published": "2026-10-20T12:00:07Z",
-   "seen": "2026-10-20T12:51:07Z",
-   "lang": "en",
-   "excerpt": "Today, Tuesday, October 20 2026, the Baltic Dry Index climbed 47 points, 2593 points. Baltic Dry Index is compiled by the London-based Baltic Exchange and covers prices for transported cargo such as coal, grain and iron ore.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bdi",
-    "baltic-exchange"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "df26f8b3cca4",
-   "title": "FERC comes up with three-tiered fast track plan to streamline US LNG permitting",
-   "link": "https://offshore-energy.biz/2026/10/20/ferc-comes-up-with-three-tiered-fast-track-plan-to-streamline-us-lng-permitting",
-   "source": "offshoreenergy",
-   "published": "2026-10-20T11:48:19Z",
-   "seen": "2026-10-20T12:51:07Z",
-   "lang": "en",
-   "excerpt": "FERC has proposed an LNG blanket authorization program to slash red tape, optimize permitting, and fast-track U.S. energy infrastructure development.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng"
-   ],
    "paywall": false
   }
  ]
