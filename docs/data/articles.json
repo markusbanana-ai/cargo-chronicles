@@ -1,7 +1,158 @@
 {
- "updated": "2026-10-28T01:04:55Z",
+ "updated": "2026-10-28T03:51:41Z",
  "sample": false,
  "articles": [
+  {
+   "id": "fce14f409f60",
+   "title": "Samferdselsministeren åpner konferanse om bærekraftig verdikjede og materialbruk i veibygging",
+   "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-konferanse-om-barekraftig-verdikjede-og-materialbruk-i-veibygging/id3183352/",
+   "source": "regjeringen",
+   "published": "2026-10-28T03:51:41Z",
+   "seen": "2026-10-26T09:52:05Z",
+   "lang": "no",
+   "excerpt": "Samferdselsminister Kamzy Gunaratnam åpner konferanse om bærekraftig verdikjede og materialbruk i vegbygging.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false,
+   "upcoming": true
+  },
+  {
+   "id": "fc296418d5e3",
+   "title": "Moderne Transportprisen til Jan Endre Vartdal og Marius Husabø Monsen",
+   "link": "https://www.mtlogistikk.no/moderne-transport-prisen-mowi-sjomatlogistikk/moderne-transportprisen-til-jan-endre-vartdal-og-marius-husabo-monsen/1339339",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-28T03:51:41Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4b4bd17b005a",
+   "title": "Insurance claims adjustments tank Landstar’s otherwise strong Q3",
+   "link": "https://www.freightwaves.com/news/insurance-claims-adjustments-tank-landstars-otherwise-strong-q3",
+   "source": "freightwaves",
+   "published": "2026-10-28T03:22:42Z",
+   "seen": "2026-10-28T03:51:41Z",
+   "lang": "en",
+   "excerpt": "Despite insurance claims activity clouding an otherwise strong third-quarter result, truckload broker Landstar System highlighted favorable demand for its dry van and flatbed offerings on Tuesday, driven by tight capacity and data center …",
+   "segments": [
+    "road",
+    "finance",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ftl"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "c917d93e40aa",
+   "title": "Kai - en digital driftsleder",
+   "link": "https://www.mtlogistikk.no/flatestyring-future-driver-kai/kai-en-digital-driftsleder/1349342",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-28T03:21:41Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "2433912c2849",
+   "title": "Port Houston container volumes jump 11% as imports surge in September",
+   "link": "https://www.freightwaves.com/news/port-houston-container-volumes-jump-11-as-imports-surge-in-september",
+   "source": "freightwaves",
+   "published": "2026-10-28T03:17:00Z",
+   "seen": "2026-10-28T03:51:41Z",
+   "lang": "en",
+   "excerpt": "Port Houston saw rising imports and improving exports in September, helping lift container activity at the Gulf Coast gateway.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "95ae1decb9af",
+   "title": "Samferdselsministeren åpner ZERAC-konferansen 2026",
+   "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-zerac-konferansen-2026/id3183348/",
+   "source": "regjeringen",
+   "published": "2026-10-28T03:00:00Z",
+   "seen": "2026-10-26T09:52:05Z",
+   "lang": "no",
+   "excerpt": "Samferdselsminister Kamzy Gunaratnam åpner Zero Emission Regional Aviation Conference 2026.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "64b2352a7577",
+   "title": "Electrified starter testingen",
+   "link": "https://www.mtlogistikk.no/electrified-elektrisk-lastebil-ervik-group/electrified-starter-testingen/1349893",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-28T02:21:41Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "587fa7fbb5cd",
+   "title": "Hver tredje nye går på el eller gass",
+   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-gasslastebiler-gronn-omstilling/hver-tredje-nye-gar-pa-el-eller-gass/1349674",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-28T02:06:41Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
   {
    "id": "c509019e7033",
    "title": "Samferdselsministeren deltar på arrangement i regi av Tine Meierier",
@@ -39,42 +190,22 @@
    "paywall": false
   },
   {
-   "id": "fce14f409f60",
-   "title": "Samferdselsministeren åpner konferanse om bærekraftig verdikjede og materialbruk i veibygging",
-   "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-konferanse-om-barekraftig-verdikjede-og-materialbruk-i-veibygging/id3183352/",
-   "source": "regjeringen",
-   "published": "2026-10-28T01:04:55Z",
-   "seen": "2026-10-26T09:52:05Z",
-   "lang": "no",
-   "excerpt": "Samferdselsminister Kamzy Gunaratnam åpner konferanse om bærekraftig verdikjede og materialbruk i vegbygging.",
+   "id": "2ea302fdb8ad",
+   "title": "Port Everglades sets third consecutive cruise passenger record",
+   "link": "https://container-news.com/port-everglades-sets-third-consecutive-cruise-passenger-record/",
+   "source": "containernews",
+   "published": "2026-10-28T01:41:10Z",
+   "seen": "2026-10-28T03:51:41Z",
+   "lang": "en",
+   "excerpt": "Port Everglades in Fort Lauderdale, Florida, welcomed more than 5.38 million cruise passengers during fiscal year 2026, setting a new annual record for the third consecutive year.",
    "segments": [
-    "road"
+    "freight"
    ],
    "subs": [],
    "policy": false,
-   "level": "national",
+   "level": "international",
    "terms": [],
-   "paywall": false,
-   "upcoming": true
-  },
-  {
-   "id": "95ae1decb9af",
-   "title": "Samferdselsministeren åpner ZERAC-konferansen 2026",
-   "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-zerac-konferansen-2026/id3183348/",
-   "source": "regjeringen",
-   "published": "2026-10-28T01:04:55Z",
-   "seen": "2026-10-26T09:52:05Z",
-   "lang": "no",
-   "excerpt": "Samferdselsminister Kamzy Gunaratnam åpner Zero Emission Regional Aviation Conference 2026.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false,
-   "upcoming": true
+   "paywall": false
   },
   {
    "id": "9867c9102f7b",
@@ -134,6 +265,24 @@
    "paywall": false
   },
   {
+   "id": "f92b5b1bc75e",
+   "title": "ANNONSØRINNHOLD FOR COLOR LINE CARGO Slik sikrer de kritisk vareflyt mellom Norge og Europa",
+   "link": "https://www.mtlogistikk.no/color-fantasy-color-line-cargo-color-magic/slik-sikrer-de-kritisk-vareflyt-mellom-norge-og-europa/1344101",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-27T23:21:41Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
    "id": "94d3dca4a388",
    "title": "Japanese Integrate Ammonia System with Car Carriers, Supply and Bunkering",
    "link": "https://maritime-executive.com/article/japanese-integrate-ammonia-system-with-car-carriers-supply-and-bunkering",
@@ -152,42 +301,6 @@
     "car-carrier",
     "bunkers"
    ],
-   "paywall": false
-  },
-  {
-   "id": "7ca4a7ce3651",
-   "title": "Kai - en digital driftsleder",
-   "link": "https://www.mtlogistikk.no/flatestyring-future-driver-kai/kai-en-digital-driftsleder/1348966",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-27T23:04:55Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "6c4c7f12ded5",
-   "title": "Moderne Transportprisen til Jan Endre Vartdal og Marius Husabø Monsen",
-   "link": "https://www.mtlogistikk.no/avrenning-moderne-transport-prisen-mowi/moderne-transportprisen-til-jan-endre-vartdal-og-marius-husabo-monsen/1349160",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-27T22:34:55Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -590,13 +703,13 @@
   },
   {
    "id": "76accd0a184d",
-   "title": "French Frigate Downed Red Sea Missile Approaching Belgian Mine Hunter",
+   "title": "French Frigate Downed Red Sea Missile Approaching Belgian Minehunter",
    "link": "https://maritime-executive.com/article/french-frigate-downed-red-sea-missile-approaching-belgian-mine-hunter",
    "source": "marex",
    "published": "2026-10-27T21:54:47Z",
    "seen": "2026-10-28T01:04:55Z",
    "lang": "en",
-   "excerpt": "A French frigate, part of the force assigned to patrol the Red Sea region, recently downed a missile that was approaching a Belgian mine hunter. Accor...",
+   "excerpt": "A French frigate, part of the force assigned to patrol the Red Sea region, recently downed a missile that was approaching a Belgian minehunter. Accord...",
    "segments": [
     "freight"
    ],
@@ -1154,24 +1267,6 @@
    "terms": [
     "vlcc"
    ],
-   "paywall": false
-  },
-  {
-   "id": "9d9d77521286",
-   "title": "Hver tredje nye går på el eller gass",
-   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-gasslastebiler-lastebil/hver-tredje-nye-gar-pa-el-eller-gass/1349834",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-27T16:42:24Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -18115,109 +18210,6 @@
    "level": "international",
    "terms": [],
    "paywall": false
-  },
-  {
-   "id": "2b61aac8c202",
-   "title": "Fire reported on bulk carrier off Indonesia",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/fire-reported-on-bulk-carrier-off-indonesia/",
-   "source": "imn",
-   "published": "2026-10-20T05:33:40Z",
-   "seen": "2026-10-20T06:49:14Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "dry-bulk"
-   ],
-   "paywall": true
-  },
-  {
-   "id": "3ad30b46a275",
-   "title": "Ukraine in talks with Türkiye, India and Egypt about possible grain corridor",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/ukraine-in-talks-with-turkiye-india-and-egypt-about-possible-grain-corridor/",
-   "source": "imn",
-   "published": "2026-10-20T05:32:39Z",
-   "seen": "2026-10-20T06:49:14Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "a5adb2fa08f4",
-   "title": "Gallagher appoints new senior broker for marine hull & war risks",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/gallagher-appoints-new-senior-broker-for-marine-hull-war-risks/",
-   "source": "imn",
-   "published": "2026-10-20T05:31:18Z",
-   "seen": "2026-10-20T06:49:14Z",
-   "lang": "en",
-   "excerpt": "Broker Gallagher has announced the appointment of Darren Rowland as executive director of hull and war risks in its global marine practice. Rowland brings more than 40 years’ experience in marine broking to the post.",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "hm",
-    "war-risk"
-   ],
-   "paywall": true
-  },
-  {
-   "id": "98aa6fd603e3",
-   "title": "German war crime charge for Ukrainian army officer re Nord Stream attack",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/german-war-crime-charge-for-ukrainian-army-officer-re-nord-stream-attack/",
-   "source": "imn",
-   "published": "2026-10-20T05:30:01Z",
-   "seen": "2026-10-20T06:49:14Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "efe82bc56b8b",
-   "title": "EU ETS scheme comes under further pressure",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/eu-ets-scheme-comes-under-further-pressure/",
-   "source": "imn",
-   "published": "2026-10-20T05:28:27Z",
-   "seen": "2026-10-20T06:49:14Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "eu-ets"
-   ],
-   "paywall": true
   }
  ]
 }
