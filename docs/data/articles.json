@@ -1,13 +1,36 @@
 {
- "updated": "2026-10-28T03:51:41Z",
+ "updated": "2026-10-28T07:00:24Z",
  "sample": false,
  "articles": [
+  {
+   "id": "bfdd50262876",
+   "title": "Wallenius Wilhelmsen extends car carrier newbuild drive",
+   "link": "https://splash247.com/wallenius-wilhelmsen-extends-car-carrier-newbuild-drive/",
+   "source": "splash",
+   "published": "2026-10-28T07:00:25Z",
+   "seen": "2026-10-28T07:00:24Z",
+   "lang": "en",
+   "excerpt": "Norwegian car carrier giant Wallenius Wilhelmsen has moved to extend its fleet renewal programme, following a $300m capital raise earlier this month to support plans for up to 12 additional LNG dual-fuel vessels.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "car-carrier",
+    "newbuilding",
+    "lng",
+    "dual-fuel"
+   ],
+   "paywall": false
+  },
   {
    "id": "fce14f409f60",
    "title": "Samferdselsministeren åpner konferanse om bærekraftig verdikjede og materialbruk i veibygging",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-konferanse-om-barekraftig-verdikjede-og-materialbruk-i-veibygging/id3183352/",
    "source": "regjeringen",
-   "published": "2026-10-28T03:51:41Z",
+   "published": "2026-10-28T07:00:24Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam åpner konferanse om bærekraftig verdikjede og materialbruk i vegbygging.",
@@ -22,12 +45,355 @@
    "upcoming": true
   },
   {
-   "id": "fc296418d5e3",
-   "title": "Moderne Transportprisen til Jan Endre Vartdal og Marius Husabø Monsen",
-   "link": "https://www.mtlogistikk.no/moderne-transport-prisen-mowi-sjomatlogistikk/moderne-transportprisen-til-jan-endre-vartdal-og-marius-husabo-monsen/1339339",
+   "id": "6d9144ab4e8f",
+   "title": "Can container shipping move beyond fixed freight contracts?",
+   "link": "https://container-news.com/can-container-shipping-move-beyond-fixed-freight-contracts/",
+   "source": "containernews",
+   "published": "2026-10-28T07:00:21Z",
+   "seen": "2026-10-28T07:00:24Z",
+   "lang": "en",
+   "excerpt": "The traditional container shipping contract is built around a straightforward agreement: shippers secure predictable transportation costs, while carriers gain cargo commitments and revenue visibility.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "shipper-consignee"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "0399fe4a9726",
+   "title": "Meadway Bulkers splashes out on ultramax series in China",
+   "link": "https://splash247.com/meadway-bulkers-splashes-out-on-ultramax-series-in-china/",
+   "source": "splash",
+   "published": "2026-10-28T06:52:22Z",
+   "seen": "2026-10-28T07:00:24Z",
+   "lang": "en",
+   "excerpt": "Greek dry bulk owner Meadway Bulkers has been linked to an order for six ultramax newbuildings at China’s Nantong Xiangyu Shipbuilding, marking its largest shipbuilding commitment since becoming a standalone company in 2021.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dry-bulk",
+    "supramax",
+    "newbuilding",
+    "dwt"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "260418696a47",
+   "title": "IUMI reports ongoing soft conditions and small increase in gross premiums for 2025",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/iumi-reports-ongoing-soft-conditions-and-small-increase-in-gross-premiums-for-2025/",
+   "source": "imn",
+   "published": "2026-10-28T06:50:35Z",
+   "seen": "2026-10-28T07:00:24Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "c4a09951ed9e",
+   "title": "Hanwha General Insurance and CYTUR plan maritime cyber insurance initiatives",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/hanwha-general-insurance-and-cytur-plan-maritime-cyber-insurance-initiatives/",
+   "source": "imn",
+   "published": "2026-10-28T06:48:28Z",
+   "seen": "2026-10-28T07:00:24Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "daae8fafee78",
+   "title": "Mercuria v Baltic Exchange trial begins in London",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/mercuria-v-baltic-exchange-trial-begins-in-london/",
+   "source": "imn",
+   "published": "2026-10-28T06:47:09Z",
+   "seen": "2026-10-28T07:00:24Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "baltic-exchange"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "4d155db40867",
+   "title": "Amazon drought raises concerns over navigation restrictions, cargo operations",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/amazon-drought-raises-concerns-over-navigation-restrictions-cargo-operations/",
+   "source": "imn",
+   "published": "2026-10-28T06:45:56Z",
+   "seen": "2026-10-28T07:00:24Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "8766b69b5df6",
+   "title": "Latvia is transiting Russian grain",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/latvia-is-transiting-russian-grain/",
+   "source": "imn",
+   "published": "2026-10-28T06:44:50Z",
+   "seen": "2026-10-28T07:00:24Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "681f3d433fed",
+   "title": "New fire drill guidelines for vessels carrying vehicles",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/new-fire-drill-guidelines-for-vessels-carrying-vehicles/",
+   "source": "imn",
+   "published": "2026-10-28T06:42:55Z",
+   "seen": "2026-10-28T07:00:24Z",
+   "lang": "en",
+   "excerpt": "The Vehicle Carrier Safety Forum (VCSF) has published its third set of industry good practice guidelines, Fire Drill Guidelines for Vehicle Carrying Vessels.",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "car-carrier"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "4bf59f38b39f",
+   "title": "Cruise ships: The problem of shore excursion liability",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/cruise-ships-the-problem-of-shore-excursion-liability/",
+   "source": "imn",
+   "published": "2026-10-28T06:40:36Z",
+   "seen": "2026-10-28T07:00:24Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "903b299d531e",
+   "title": "Peter Döhle tipped for Chengxi boxship quartet",
+   "link": "https://splash247.com/peter-dohle-tipped-for-chengxi-boxship-quartet/",
+   "source": "splash",
+   "published": "2026-10-28T06:37:54Z",
+   "seen": "2026-10-28T07:00:24Z",
+   "lang": "en",
+   "excerpt": "German tonnage provider Peter Döhle Schiffahrts has been linked to another four containership newbuildings at China’s Chengxi Shipyard, extending its ordering programme across Chinese yards.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner",
+    "operator",
+    "newbuilding",
+    "shipbroker"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "4c0165a1aa1e",
+   "title": "The Grande Island: the effect of deletion of standard wording sub-clauses on the interpretation of retained sub-clauses in a time charter",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/the-grande-island-the-effect-of-deletion-of-standard-wording-sub-clauses-on-the-interpretation-of-retained-sub-clauses-in-a-time-charter/",
+   "source": "imn",
+   "published": "2026-10-28T06:37:52Z",
+   "seen": "2026-10-28T07:00:24Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "time-charter"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "1594f69835c5",
+   "title": "AM Best reaffirms West P&I’s Financial Strength Rating",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/am-best-reaffirms-west-pis-financial-strength-rating/",
+   "source": "imn",
+   "published": "2026-10-28T06:36:12Z",
+   "seen": "2026-10-28T07:00:24Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "pi"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "0fe8e4620fec",
+   "title": "Venergy breaks into VLCCs with Hengli order",
+   "link": "https://splash247.com/venergy-breaks-into-vlccs-with-hengli-order/",
+   "source": "splash",
+   "published": "2026-10-28T06:31:38Z",
+   "seen": "2026-10-28T07:00:24Z",
+   "lang": "en",
+   "excerpt": "Greek shipowner Vyron Vasileiadis is taking his rapidly expanding tanker business into the VLCC segment, with Venergy Maritime linked to two firm newbuildings and options for another two at China’s Hengli Heavy Industries.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "vlcc",
+    "newbuilding",
+    "dwt"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "25653ef64978",
+   "title": "Marine round-up : 28th October 2026",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/marine-round-up-28th-october-2026/",
+   "source": "imn",
+   "published": "2026-10-28T06:31:13Z",
+   "seen": "2026-10-28T07:00:24Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "7ca4a7ce3651",
+   "title": "Kai - en digital driftsleder",
+   "link": "https://www.mtlogistikk.no/flatestyring-future-driver-kai/kai-en-digital-driftsleder/1348966",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-28T03:51:41Z",
+   "seen": "2026-10-28T04:30:24Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "0f4735f7a90a",
+   "title": "WEX, Euclid AI target 90% reduction in trucking transaction costs",
+   "link": "https://www.freightwaves.com/news/wex-euclid-ai-target-90-reduction-in-trucking-transaction-costs",
+   "source": "freightwaves",
+   "published": "2026-10-28T04:27:10Z",
+   "seen": "2026-10-28T07:00:24Z",
+   "lang": "en",
+   "excerpt": "WEX and Euclid AI announced plans to offer trucking-specific AI agents that Euclid says have sharply reduced transaction costs in existing deployments.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "bf372d15ac2d",
+   "title": "UPS lifts full-year outlook as revenue grows across all segments",
+   "link": "https://container-news.com/ups-lifts-full-year-outlook-as-revenue-grows-across-all-segments/",
+   "source": "containernews",
+   "published": "2026-10-28T04:00:44Z",
+   "seen": "2026-10-28T07:00:24Z",
+   "lang": "en",
+   "excerpt": "UPS reported higher third-quarter revenue across its domestic, international and supply chain businesses. The logistics group also raised its financial guidance for the fourth quarter and full year.",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6c4c7f12ded5",
+   "title": "Moderne Transportprisen til Jan Endre Vartdal og Marius Husabø Monsen",
+   "link": "https://www.mtlogistikk.no/avrenning-moderne-transport-prisen-mowi/moderne-transportprisen-til-jan-endre-vartdal-og-marius-husabo-monsen/1349160",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-28T04:00:24Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -59,24 +425,6 @@
    "terms": [
     "ftl"
    ],
-   "paywall": false
-  },
-  {
-   "id": "c917d93e40aa",
-   "title": "Kai - en digital driftsleder",
-   "link": "https://www.mtlogistikk.no/flatestyring-future-driver-kai/kai-en-digital-driftsleder/1349342",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-28T03:21:41Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -133,6 +481,26 @@
    "policy": false,
    "level": "national",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "41325b0f4f4a",
+   "title": "Interessen for elektriske lastebiler er rekordhøy",
+   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-enova/interessen-for-elektriske-lastebiler-er-rekordhoy/1349851",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-28T02:15:24Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "electric-truck"
+   ],
    "paywall": false
   },
   {
@@ -242,26 +610,6 @@
    "policy": false,
    "level": "international",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "7aa02e3d3a0d",
-   "title": "Interessen for elektriske lastebiler er rekordhøy",
-   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-enova/interessen-for-elektriske-lastebiler-er-rekordhoy/1349640",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-27T23:34:55Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "electric-truck"
-   ],
    "paywall": false
   },
   {
@@ -17841,370 +18189,6 @@
    ],
    "subs": [
     "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "8762e35c8854",
-   "title": "United Oil & Gas eyes billion-barrel Jamaican drilling targets as it maps out next steps",
-   "link": "https://offshore-energy.biz/2026/10/20/united-oil-and-gas-eyes-billion-barrel-jamaican-drilling-targets-as-it-maps-out-next-steps",
-   "source": "offshoreenergy",
-   "published": "2026-10-20T09:44:19Z",
-   "seen": "2026-10-20T12:51:07Z",
-   "lang": "en",
-   "excerpt": "United Oil & Gas has unveiled new rig and logistics study results for its license offshore Jamaica, boosting ongoing farm-out talks.",
-   "segments": [
-    "finance",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "rig"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "3b3b333c4b30",
-   "title": "Transworld adds supramax in fresh fleet move",
-   "link": "https://splash247.com/transworld-adds-supramax-in-fresh-fleet-move/",
-   "source": "splash",
-   "published": "2026-10-20T09:40:00Z",
-   "seen": "2026-10-20T09:40:41Z",
-   "lang": "en",
-   "excerpt": "India’s Transworld Shipping Lines has returned to the secondhand dry bulk market, agreeing to acquire a supramax carrier for $16.5m as it continues reshaping its fleet.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "supramax",
-    "sale-purchase",
-    "dry-bulk",
-    "dwt"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "3b8daf2b950c",
-   "title": "PD Ports opens new marine operations base at Teesport",
-   "link": "https://splash247.com/pd-ports-opens-new-marine-operations-base-at-teesport/",
-   "source": "splash",
-   "published": "2026-10-20T09:33:16Z",
-   "seen": "2026-10-20T09:40:41Z",
-   "lang": "en",
-   "excerpt": "UK port operator PD Ports has opened a new marine operations and engineering facility on the River Tees, consolidating harbour services and vessel maintenance at a purpose-built site in Middlesbrough.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "618c1c6d0518",
-   "title": "CMA CGM announces new congestion charges for Tema, Freetown and Monrovia",
-   "link": "https://container-news.com/cma-cgm-announces-new-congestion-charges-for-tema-freetown-and-monrovia/",
-   "source": "containernews",
-   "published": "2026-10-20T09:00:53Z",
-   "seen": "2026-10-20T09:40:41Z",
-   "lang": "en",
-   "excerpt": "CMA CGM has announced Port Congestion Surcharges (PCS) for shipments to three West African ports: Tema in Ghana, Freetown in Sierra Leone and Monrovia in Liberia. The charges will take effect on November 1, 2026, based on the loading date.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "congestion"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "e71e71976938",
-   "title": "US moves to legitimise shadow tanker fleet",
-   "link": "https://splash247.com/us-moves-to-legitimise-shadow-tanker-fleet/",
-   "source": "splash",
-   "published": "2026-10-20T08:50:46Z",
-   "seen": "2026-10-20T06:49:14Z",
-   "lang": "en",
-   "excerpt": "The Trump administration is authorising the sale of sanctioned oil tankers to approved investors who would refurbish the vessels and return them to legitimate crude trades, US energy secretary Chris Wright revealed yesterday, as Washington …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "sanctions",
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "d62104d433d7",
-   "title": "Folegandros island joins Greece’s mainland power grid via 60-kilometer subsea cable",
-   "link": "https://offshore-energy.biz/2026/10/20/folegandros-island-joins-greeces-mainland-power-grid-via-60-kilometer-subsea-cable",
-   "source": "offshoreenergy",
-   "published": "2026-10-20T08:46:47Z",
-   "seen": "2026-10-20T09:40:41Z",
-   "lang": "en",
-   "excerpt": "The new 60-kilometer subsea high-voltage cable that connects the Greek island of Folegandros with Santorini and Naxos has been energized and is...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "53fd3fccc921",
-   "title": "MSC tipped for another 20 megamaxes in China",
-   "link": "https://splash247.com/msc-tipped-for-another-20-megamaxes-in-china/",
-   "source": "splash",
-   "published": "2026-10-20T08:31:49Z",
-   "seen": "2026-10-20T09:40:41Z",
-   "lang": "en",
-   "excerpt": "Mediterranean Shipping Co (MSC) has reportedly added another 20 megamax containerships at China’s Hengli Heavy Industries, further expanding its already massive orderbook as global newbuilding commitments climb to their highest level in …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "liner",
-    "orderbook",
-    "newbuilding"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "a2e6bac86a10",
-   "title": "Informasjon om redaksjonens bruk av kunstig intelligens.",
-   "link": "https://www.mtlogistikk.no/bruk-av-ai-ki-bruk-kunstig-intelligens/informasjon-om-redaksjonens-bruk-av-kunstig-intelligens/1327580",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-20T08:21:07Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "44854facc743",
-   "title": "Fire aboard Espirito Santo Express disrupts SX1 service",
-   "link": "https://container-news.com/espirito-santo-express-fire-sx1-service/",
-   "source": "containernews",
-   "published": "2026-10-20T08:00:44Z",
-   "seen": "2026-10-20T09:40:41Z",
-   "lang": "en",
-   "excerpt": "Ocean Network Express (ONE) has reported a fire aboard the vessel Espirito Santo Express while it was sailing from Singapore to Santos. The vessel is deployed on ONE’s East Coast South America Express 1 (SX1) service.",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "d22c6c111e4f",
-   "title": "Northern Sea Route smashes shipping records again",
-   "link": "https://splash247.com/northern-sea-route-smashes-shipping-records-again/",
-   "source": "splash",
-   "published": "2026-10-20T08:00:01Z",
-   "seen": "2026-10-20T09:40:41Z",
-   "lang": "en",
-   "excerpt": "Shipping along Russia’s Northern Sea Route (NSR) has already broken last year’s transit record. New figures from Norway’s Centre for High North Logistics (CHNL) show 104 confirmed transits by September 30, surpassing the 103 recorded …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk",
-    "tankers"
-   ],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "ca4acb7bb887",
-   "title": "UK’s first HVDC subsea cable factory opens in Scotland",
-   "link": "https://offshore-energy.biz/2026/10/20/uks-first-hvdc-subsea-cable-factory-opens-in-scotland",
-   "source": "offshoreenergy",
-   "published": "2026-10-20T07:34:44Z",
-   "seen": "2026-10-20T09:40:41Z",
-   "lang": "en",
-   "excerpt": "Japan-headquartered Sumitomo Electric Industries has held the opening ceremony for what is said to be the UK's first HVDC subsea cable factory,...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "1b02b320a123",
-   "title": "Maersk and Hapag-Lloyd reshape Asia–Europe network: Which ports gain or lose?",
-   "link": "https://container-news.com/maersk-and-hapag-lloyd-reshape-asia-europe-network-which-ports-gain-or-lose/",
-   "source": "containernews",
-   "published": "2026-10-20T07:00:56Z",
-   "seen": "2026-10-20T09:40:41Z",
-   "lang": "en",
-   "excerpt": "Maersk and Hapag-Lloyd are preparing a significant reshuffle of the Gemini network, with changes to Asia–Europe services that will alter direct port connections across Northern Europe, the Mediterranean and the Middle East.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "e1442a19bd83",
-   "title": "Navigator sets course for UK domicile",
-   "link": "https://splash247.com/navigator-sets-course-for-uk-domicile/",
-   "source": "splash",
-   "published": "2026-10-20T07:00:39Z",
-   "seen": "2026-10-20T09:40:41Z",
-   "lang": "en",
-   "excerpt": "New York-listed gas carrier owner Navigator Gas is moving to shift its corporate domicile from the Marshall Islands to Britain, putting the proposed restructuring to shareholders next month.",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "restructuring",
-    "mna"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "f64c30d03483",
-   "title": "Spodumene shipments triple as battery boom creates new dry bulk trades",
-   "link": "https://splash247.com/spodumene-shipments-triple-as-battery-boom-creates-new-dry-bulk-trades/",
-   "source": "splash",
-   "published": "2026-10-20T06:48:23Z",
-   "seen": "2026-10-20T09:40:41Z",
-   "lang": "en",
-   "excerpt": "The seaborne trade in spodumene, a lithium-bearing mineral essential for battery production, is emerging as one of dry bulk shipping’s fastest-growing niche cargoes, with volumes more than tripling over the past five years.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "dry-bulk",
-    "shipbroker"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "822a8a28e9e2",
-   "title": "Bulker officer missing after rescuing 28 from burning boxship",
-   "link": "https://splash247.com/bulker-officer-missing-after-rescuing-28-from-burning-boxship/",
-   "source": "splash",
-   "published": "2026-10-20T06:20:08Z",
-   "seen": "2026-10-20T09:40:41Z",
-   "lang": "en",
-   "excerpt": "The chief officer of a Portuguese-flagged bulk carrier is missing after being swept overboard during a dramatic operation that rescued all 28 seafarers from a burning 11,800 teu containership in the South Atlantic.",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "containers",
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "dry-bulk",
-    "liner"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "2e180a82e963",
-   "title": "NGM Energy back in the asset game with suezmax flip",
-   "link": "https://splash247.com/ngm-energy-back-in-the-asset-game-with-suezmax-flip/",
-   "source": "splash",
-   "published": "2026-10-20T06:17:22Z",
-   "seen": "2026-10-20T06:49:14Z",
-   "lang": "en",
-   "excerpt": "Asset plays have been the name of the game in shipping circles in recent weeks, with a string of relatively new Middle Eastern players flipping tankers to Chinese buyers at eye-catching profits.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "suezmax",
-    "asset-play"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "d9ccb54d0497",
-   "title": "Rheinmetall and MSC win bid for Mangalia shipyard",
-   "link": "https://container-news.com/rheinmetall-and-msc-win-bid-for-mangalia-shipyard/",
-   "source": "containernews",
-   "published": "2026-10-20T06:00:01Z",
-   "seen": "2026-10-20T06:49:14Z",
-   "lang": "en",
-   "excerpt": "Rheinmetall and Swiss container shipping group MSC have won the auction for the Mangalia shipyard in Romania, with the partners planning to develop the site for both civilian and military shipbuilding.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers"
    ],
    "policy": false,
    "level": "international",
