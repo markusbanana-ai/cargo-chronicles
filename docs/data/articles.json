@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T18:55:53Z",
+ "updated": "2026-10-28T21:48:10Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren åpner konferanse om bærekraftig verdikjede og materialbruk i veibygging",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-konferanse-om-barekraftig-verdikjede-og-materialbruk-i-veibygging/id3183352/",
    "source": "regjeringen",
-   "published": "2026-10-28T18:55:53Z",
+   "published": "2026-10-28T21:48:10Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam åpner konferanse om bærekraftig verdikjede og materialbruk i vegbygging.",
@@ -22,12 +22,12 @@
    "upcoming": true
   },
   {
-   "id": "a16004ebc952",
-   "title": "Gordon setter inn tolv el-lastesykler i Oslo sentrum",
-   "link": "https://www.mtlogistikk.no/bylogistikk-el-lastesykler-gordon/gordon-setter-inn-tolv-el-lastesykler-i-oslo-sentrum/1350321",
+   "id": "c917d93e40aa",
+   "title": "Kai - en digital driftsleder",
+   "link": "https://www.mtlogistikk.no/flatestyring-future-driver-kai/kai-en-digital-driftsleder/1349342",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-28T18:55:53Z",
+   "seen": "2026-10-28T21:03:10Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -36,6 +36,182 @@
    "subs": [],
    "policy": false,
    "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "fc296418d5e3",
+   "title": "Moderne Transportprisen til Jan Endre Vartdal og Marius Husabø Monsen",
+   "link": "https://www.mtlogistikk.no/moderne-transport-prisen-mowi-sjomatlogistikk/moderne-transportprisen-til-jan-endre-vartdal-og-marius-husabo-monsen/1339339",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-28T20:48:10Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "9d9d77521286",
+   "title": "Hver tredje nye går på el eller gass",
+   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-gasslastebiler-lastebil/hver-tredje-nye-gar-pa-el-eller-gass/1349834",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-28T20:33:10Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "fb719756d5d2",
+   "title": "Gordon setter inn tolv el-lastesykler i Oslo sentrum",
+   "link": "https://www.mtlogistikk.no/bylogistikk-el-lastesykler-gordon/gordon-setter-inn-tolv-el-lastesykler-i-oslo-sentrum/1350345",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-28T20:18:10Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "696a9580f3f0",
+   "title": "Los Angeles, Long Beach Ports Identify LNG and Methanol as Leading Alternative Marine Fuels",
+   "link": "https://gcaptain.com/los-angeles-long-beach-ports-identify-lng-and-methanol-as-leading-alternative-marine-fuels/",
+   "source": "gcaptain",
+   "published": "2026-10-28T19:39:17Z",
+   "seen": "2026-10-28T21:48:10Z",
+   "lang": "en",
+   "excerpt": "The ports of Los Angeles and Long Beach have identified liquefied natural gas (LNG) and methanol as the most viable alternative marine fuels for the near and medium term, with...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers",
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lng",
+    "bunkers"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "f335b47570e4",
+   "title": "India to Resume Negotiations with MSC Regarding Loss of MSC Elsa 3",
+   "link": "https://maritime-executive.com/article/india-to-resume-negotiations-with-msc-regarding-loss-of-msc-elsa-3",
+   "source": "marex",
+   "published": "2026-10-28T19:39:12Z",
+   "seen": "2026-10-28T21:48:10Z",
+   "lang": "en",
+   "excerpt": "Seventeen months after the sinking of the containership MSC Elsa 3 off the west coast of India, a court has lifted a stay on a state-appointed committ...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "fd9d7958efaa",
+   "title": "Samferdselsnytt fra EU-delegasjonen i Brussel",
+   "link": "https://www.regjeringen.no/no/tema/transport-og-kommunikasjon/eu-eos-og-internasjonalt-samarbeid-om-transport-og-kommunikasjon/samferdselsnytt-fra-brussel/id466239/",
+   "source": "regjeringen",
+   "published": "2026-10-28T19:24:35Z",
+   "seen": "2026-10-28T21:48:10Z",
+   "lang": "no",
+   "excerpt": "Nyhetsbrev fra spesialutsendingen for samferdsel med oversikt over utvalgte saker og møter fra uken som var og uken som kommer, inkludert Europakommisjonens høringer og konsultasjoner.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6d3b2f90aa94",
+   "title": "Patrick Terminals to launch OptiBook at Sydney AutoStrad",
+   "link": "https://container-news.com/patrick-terminals-to-launch-optibook-at-sydney-autostrad/",
+   "source": "containernews",
+   "published": "2026-10-28T19:11:55Z",
+   "seen": "2026-10-28T21:48:10Z",
+   "lang": "en",
+   "excerpt": "Patrick Terminals and OneStop will launch the OptiBook container management platform at the Sydney AutoStrad Terminal on 28 November 2026, introducing a new booking system designed to improve container visibility and landside operations.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "7aa02e3d3a0d",
+   "title": "Interessen for elektriske lastebiler er rekordhøy",
+   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-enova/interessen-for-elektriske-lastebiler-er-rekordhoy/1349640",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-28T19:03:10Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "electric-truck"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "3b3da4497f83",
+   "title": "How One Trucker Turned One Video A Day Into Billions Of Views, And What It Cost Him",
+   "link": "https://www.freightwaves.com/news/how-one-trucker-turned-one-video-a-day-into-billions-of-views-and-what-it-cost-him",
+   "source": "freightwaves",
+   "published": "2026-10-28T18:44:02Z",
+   "seen": "2026-10-28T21:48:10Z",
+   "lang": "en",
+   "excerpt": "Larry Cothran did not set out to become what he now calls the number one trucking content creator in the world, he set out to post one video a day and then simply refused to stop, and that stubborn daily discipline, showing up on Facebook …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
    "terms": [],
    "paywall": false
   },
@@ -59,26 +235,6 @@
    "level": "international",
    "terms": [
     "liner"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "41325b0f4f4a",
-   "title": "Interessen for elektriske lastebiler er rekordhøy",
-   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-enova/interessen-for-elektriske-lastebiler-er-rekordhoy/1349851",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-28T18:25:53Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "electric-truck"
    ],
    "paywall": false
   },
@@ -204,24 +360,6 @@
    "paywall": false
   },
   {
-   "id": "587fa7fbb5cd",
-   "title": "Hver tredje nye går på el eller gass",
-   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-gasslastebiler-gronn-omstilling/hver-tredje-nye-gar-pa-el-eller-gass/1349674",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-28T16:25:53Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "f31d06cb73da",
    "title": "Scorpio Tankers Reports $181,000-a-Day LR2 Rates as Middle East War Upends Oil Trade",
    "link": "https://gcaptain.com/scorpio-tankers-reports-181000-a-day-lr2-rates-as-middle-east-war-upends-oil-trade/",
@@ -263,20 +401,21 @@
    "paywall": false
   },
   {
-   "id": "7ca4a7ce3651",
-   "title": "Kai - en digital driftsleder",
-   "link": "https://www.mtlogistikk.no/flatestyring-future-driver-kai/kai-en-digital-driftsleder/1348966",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-28T15:40:53Z",
-   "lang": "no",
-   "excerpt": "",
+   "id": "9648749d4001",
+   "title": "First look: CPKC earnings",
+   "link": "https://www.freightwaves.com/news/first-look-cpkc-earnings-2",
+   "source": "freightwaves",
+   "published": "2026-10-28T15:32:00Z",
+   "seen": "2026-10-28T21:48:10Z",
+   "lang": "en",
+   "excerpt": "CPKC’s third-quarter revenue and earnings climbed, though higher fuel costs squeezed margins.",
    "segments": [
-    "road"
+    "road",
+    "finance"
    ],
    "subs": [],
    "policy": false,
-   "level": "national",
+   "level": "international",
    "terms": [],
    "paywall": false
   },
@@ -299,24 +438,6 @@
    "terms": [
     "shipper-consignee"
    ],
-   "paywall": false
-  },
-  {
-   "id": "6c4c7f12ded5",
-   "title": "Moderne Transportprisen til Jan Endre Vartdal og Marius Husabø Monsen",
-   "link": "https://www.mtlogistikk.no/avrenning-moderne-transport-prisen-mowi/moderne-transportprisen-til-jan-endre-vartdal-og-marius-husabo-monsen/1349160",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-28T15:10:53Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -18028,140 +18149,6 @@
    "policy": false,
    "level": "international",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "f78cccd36f56",
-   "title": "Weekly Vessel Valuations Report, October 20 2026",
-   "link": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-october-20-2026/",
-   "source": "hsn",
-   "published": "2026-10-20T17:00:27Z",
-   "seen": "2026-10-20T18:46:00Z",
-   "lang": "en",
-   "excerpt": "Bulkers Bulker values held broadly stable this week, with Capesize edging slightly lower alongside softer earnings. The Capesize Pan Advance sold at a premium, in line with firm demand for prompt tonnage.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "dry-bulk",
-    "capesize",
-    "dwt"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "11cd8f268a08",
-   "title": "Breakwave Tanker Report 10.20.2026",
-   "link": "https://www.hellenicshippingnews.com/breakwave-tanker-report-10-20-2026/",
-   "source": "hsn",
-   "published": "2026-10-20T17:00:20Z",
-   "seen": "2026-10-20T18:46:00Z",
-   "lang": "en",
-   "excerpt": "VLCC Supported at Record High Amid Exceptional Geopolitical Risks – Continued attacks on shipping and energy infrastructure are",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "vlcc"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "d5917d5fb998",
-   "title": "Crowley adds new tug at Los Angeles and Long Beach",
-   "link": "https://container-news.com/crowley-adds-new-tug-at-los-angeles-and-long-beach/",
-   "source": "containernews",
-   "published": "2026-10-20T17:00:07Z",
-   "seen": "2026-10-20T18:46:00Z",
-   "lang": "en",
-   "excerpt": "Crowley has accepted delivery of Venture, a new chartered tug that will undertake ship-assist and escort operations at the ports of Los Angeles and Long Beach.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "jones-act"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "59cb7d5fc4f6",
-   "title": "Time-definite ocean delivery? Container ship completes new Arctic route trial",
-   "link": "https://www.freightwaves.com/news/time-definite-ocean-delivery-container-ship-completes-new-arctic-route-trial",
-   "source": "freightwaves",
-   "published": "2026-10-20T17:00:00Z",
-   "seen": "2026-10-20T18:46:00Z",
-   "lang": "en",
-   "excerpt": "South Korea’s Arctic shipping trial demonstrated a faster Europe route, but commercial viability remains uncertain.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "liner"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "00d853ce6bed",
-   "title": "Heartland Express sees earnings turnaround in Q3",
-   "link": "https://www.freightwaves.com/news/heartland-express-sees-earnings-turnaround-in-q3",
-   "source": "freightwaves",
-   "published": "2026-10-20T16:32:00Z",
-   "seen": "2026-10-20T18:46:00Z",
-   "lang": "en",
-   "excerpt": "For the first time since 2023, truckload carrier Heartland Express achieved a net profit that was not driven by large gains from selling equipment and terminals.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "ftl"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "8b200ecb7fc2",
-   "title": "World’s first ammonia-powered dry bulk ship completes sea trials",
-   "link": "https://www.freightwaves.com/news/worlds-first-ammonia-powered-dry-bulk-ship-completes-sea-trials",
-   "source": "freightwaves",
-   "published": "2026-10-20T16:30:00Z",
-   "seen": "2026-10-20T21:41:06Z",
-   "lang": "en",
-   "excerpt": "Completion of sea trials marks a milestone in commercial deploying of alternative fuels for ocean shipping.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers",
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "dry-bulk",
-    "dual-fuel"
-   ],
    "paywall": false
   }
  ]
