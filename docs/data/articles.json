@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T09:55:14Z",
+ "updated": "2026-10-28T13:01:46Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren åpner konferanse om bærekraftig verdikjede og materialbruk i veibygging",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-konferanse-om-barekraftig-verdikjede-og-materialbruk-i-veibygging/id3183352/",
    "source": "regjeringen",
-   "published": "2026-10-28T09:55:14Z",
+   "published": "2026-10-28T13:01:46Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam åpner konferanse om bærekraftig verdikjede og materialbruk i vegbygging.",
@@ -20,6 +20,280 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "a16004ebc952",
+   "title": "Gordon setter inn tolv el-lastesykler i Oslo sentrum",
+   "link": "https://www.mtlogistikk.no/bylogistikk-el-lastesykler-gordon/gordon-setter-inn-tolv-el-lastesykler-i-oslo-sentrum/1350321",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-28T13:01:46Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "615a47b60681",
+   "title": "CMA CGM announces new Asia-Africa surcharges for November",
+   "link": "https://container-news.com/cma-cgm-announces-new-asia-africa-surcharges-for-november/",
+   "source": "containernews",
+   "published": "2026-10-28T13:00:11Z",
+   "seen": "2026-10-28T13:01:46Z",
+   "lang": "en",
+   "excerpt": "CMA CGM has announced a series of Peak Season Surcharge (PSS) updates covering shipments from Asia to several African destinations, with charges reaching US$900 per TEU on selected routes from China to West Africa.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "b161195133a8",
+   "title": "Frst look: almost all good news at C.H. Robinson in the third quarter",
+   "link": "https://www.freightwaves.com/news/frst-look-almost-all-good-news-at-c-h-robinson-in-the-third-quarter",
+   "source": "freightwaves",
+   "published": "2026-10-28T12:35:19Z",
+   "seen": "2026-10-28T13:01:46Z",
+   "lang": "en",
+   "excerpt": "The third quarter at C.H. Robinson might be remembered for both the highs and the lows. It was the period when Lipe vs. Lupus Superior came down, and just days after the quarter ended, the giant 3PL announced the almost $6 billion …",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "3pl"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "41325b0f4f4a",
+   "title": "Interessen for elektriske lastebiler er rekordhøy",
+   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-enova/interessen-for-elektriske-lastebiler-er-rekordhoy/1349851",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-28T12:31:46Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "electric-truck"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "72ce0474f624",
+   "title": "Noble offloads idle drillship for $38m",
+   "link": "https://splash247.com/noble-offloads-idle-drillship-for-38m/",
+   "source": "splash",
+   "published": "2026-10-28T12:31:29Z",
+   "seen": "2026-10-28T13:01:46Z",
+   "lang": "en",
+   "excerpt": "US offshore drilling contractor Noble Corporation has agreed to sell its 2013-built, sixth-generation drillship, Noble Globetrotter II, for $38m as it continues to dispose of underutilised drilling assets.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "rig"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "e498108d8aee",
+   "title": "The Companies That Write The Standards Will Own The Next Decade Of Freight",
+   "link": "https://www.freightwaves.com/news/the-companies-that-write-the-standards-will-own-the-next-decade-of-freight",
+   "source": "freightwaves",
+   "published": "2026-10-28T12:18:19Z",
+   "seen": "2026-10-28T13:01:46Z",
+   "lang": "en",
+   "excerpt": "The freight industry has spent years and real money chasing fraud, piling up more tracking, more data, and more awareness than it has ever had, and the losses keep climbing anyway, which is the paradox Michael Caney, Chief Customer Officer …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c82e16eac45f",
+   "title": "Baker Hughes' subsea systems to help fast-track Cyprus's first commercial gas project",
+   "link": "https://offshore-energy.biz/2026/10/28/baker-hughes-subsea-systems-to-help-fast-track-cypruss-first-commercial-gas-project",
+   "source": "offshoreenergy",
+   "published": "2026-10-28T12:14:20Z",
+   "seen": "2026-10-28T13:01:46Z",
+   "lang": "en",
+   "excerpt": "Baker Hughes has been awarded a contract by Italy’s energy giant Eni for the supply of subsea production systems and services for Cyprus's...",
+   "segments": [
+    "road",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "da15c9b9fe99",
+   "title": "Jacobs, RXO’s creator, backs its acquisition by C.H. Robinson",
+   "link": "https://www.freightwaves.com/news/jacobs-rxos-creator-backs-its-acquisition-by-c-h-robinson",
+   "source": "freightwaves",
+   "published": "2026-10-28T11:00:00Z",
+   "seen": "2026-10-28T13:01:46Z",
+   "lang": "en",
+   "excerpt": "Chattanooga–The man who created RXO gave his public support to the 3PL’s acquisition by C.H. Robinson, saying you need “scale and density” to make it in the brokerage world.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "3pl"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "587fa7fbb5cd",
+   "title": "Hver tredje nye går på el eller gass",
+   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-gasslastebiler-gronn-omstilling/hver-tredje-nye-gar-pa-el-eller-gass/1349674",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-28T10:31:46Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "dcee3df816ac",
+   "title": "Norway lines up full-scale test of marine nuclear propulsion system",
+   "link": "https://splash247.com/norway-lines-up-full-scale-test-of-marine-nuclear-propulsion-system/",
+   "source": "splash",
+   "published": "2026-10-28T10:30:00Z",
+   "seen": "2026-10-28T13:01:46Z",
+   "lang": "en",
+   "excerpt": "A Norwegian-led consortium involving shipbuilder Vard and offshore vessel owner Island Offshore is preparing to build and test an integrated nuclear propulsion system, targeting its first vessel deployment in 2031 or 2032.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "1bdb47e7b2b7",
+   "title": "Sintana cuts early payout deal to tie up loose ends for Trinidad exit",
+   "link": "https://offshore-energy.biz/2026/10/28/sintana-cuts-early-payout-deal-to-tie-up-loose-ends-for-trinidad-exit",
+   "source": "offshoreenergy",
+   "published": "2026-10-28T10:08:06Z",
+   "seen": "2026-10-28T13:01:46Z",
+   "lang": "en",
+   "excerpt": "Sintana is putting finishing touches on its departure from the Caribbean by accelerating deferred cash payments for the sale of its Trinidad business.",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "b405c0b757f0",
+   "title": "Europe’s container ports: Why is transshipment falling while gateway traffic grows?",
+   "link": "https://container-news.com/europes-container-ports-why-is-transshipment-falling-while-gateway-traffic-grows/",
+   "source": "containernews",
+   "published": "2026-10-28T10:00:59Z",
+   "seen": "2026-10-28T13:01:46Z",
+   "lang": "en",
+   "excerpt": "Europe’s major container ports are reporting increasingly contrasting traffic patterns in 2026, with headline throughput figures concealing significant changes in the composition of cargo flows.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "transshipment"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "c33121b8a172",
+   "title": "South Korean shipyard set for offshore wind makeover",
+   "link": "https://splash247.com/south-korean-shipyard-set-for-offshore-wind-makeover/",
+   "source": "splash",
+   "published": "2026-10-28T10:00:00Z",
+   "seen": "2026-10-28T13:01:46Z",
+   "lang": "en",
+   "excerpt": "Four South Korean companies have signed an agreement to transform part of the Gunsan shipyard into an offshore wind manufacturing hub, with plans to produce large turbines, towers and offshore substations.",
+   "segments": [
+    "freight",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "offshore-wind"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "7ca4a7ce3651",
+   "title": "Kai - en digital driftsleder",
+   "link": "https://www.mtlogistikk.no/flatestyring-future-driver-kai/kai-en-digital-driftsleder/1348966",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-28T09:46:46Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
   },
   {
    "id": "489e8cf74116",
@@ -40,30 +314,55 @@
    "paywall": false
   },
   {
-   "id": "c917d93e40aa",
-   "title": "Kai - en digital driftsleder",
-   "link": "https://www.mtlogistikk.no/flatestyring-future-driver-kai/kai-en-digital-driftsleder/1349342",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-28T09:25:14Z",
-   "lang": "no",
-   "excerpt": "",
+   "id": "c72dff2902e3",
+   "title": "Russia To Begin Year-Round Arctic Northern Sea Route Shipping in Early 2027",
+   "link": "https://gcaptain.com/russia-to-begin-year-round-arctic-northern-sea-route-shipping-in-early-2027/",
+   "source": "gcaptain",
+   "published": "2026-10-28T09:37:33Z",
+   "seen": "2026-10-28T13:01:46Z",
+   "lang": "en",
+   "excerpt": "Russia expects to begin regular year-round eastbound shipping along the Northern Sea Route in early 2027, as additional nuclear icebreaker capacity, newer ice-class LNG carriers and pressure to redirect energy exports toward Asia bring the …",
    "segments": [
-    "road"
+    "freight"
    ],
-   "subs": [],
+   "subs": [
+    "gas"
+   ],
    "policy": false,
-   "level": "national",
+   "level": "international",
+   "terms": [
+    "lng-carrier"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "cd9ef2260cfa",
+   "title": "Saudi Tanker Giant Posts 10-Fold Profit Jump as Ship Rates Surge",
+   "link": "https://gcaptain.com/saudi-tanker-giant-posts-10-fold-profit-jump-as-ship-rates-surge/",
+   "source": "gcaptain",
+   "published": "2026-10-28T09:27:13Z",
+   "seen": "2026-10-28T13:01:46Z",
+   "lang": "en",
+   "excerpt": "Saudi Arabia’s main shipping firm Bahri reported a 10-fold jump in third-quarter profit as its oil tanker business benefited from surging freight rates amid the Iran war.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
    "terms": [],
    "paywall": false
   },
   {
-   "id": "fc296418d5e3",
+   "id": "6c4c7f12ded5",
    "title": "Moderne Transportprisen til Jan Endre Vartdal og Marius Husabø Monsen",
-   "link": "https://www.mtlogistikk.no/moderne-transport-prisen-mowi-sjomatlogistikk/moderne-transportprisen-til-jan-endre-vartdal-og-marius-husabo-monsen/1339339",
+   "link": "https://www.mtlogistikk.no/avrenning-moderne-transport-prisen-mowi/moderne-transportprisen-til-jan-endre-vartdal-og-marius-husabo-monsen/1349160",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-28T09:10:14Z",
+   "seen": "2026-10-28T09:16:46Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -90,24 +389,6 @@
    "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "9d9d77521286",
-   "title": "Hver tredje nye går på el eller gass",
-   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-gasslastebiler-lastebil/hver-tredje-nye-gar-pa-el-eller-gass/1349834",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-28T08:55:14Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -290,26 +571,6 @@
    "terms": [
     "rig",
     "utilisation"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "7aa02e3d3a0d",
-   "title": "Interessen for elektriske lastebiler er rekordhøy",
-   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-enova/interessen-for-elektriske-lastebiler-er-rekordhoy/1349640",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-28T07:40:14Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "electric-truck"
    ],
    "paywall": false
   },
@@ -17903,275 +18164,6 @@
    "level": "international",
    "terms": [
     "lng"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "639e23b052e0",
-   "title": "Daimler Is Building Autonomy Into The Truck At The Factory, And Leaving The Software Choice Open",
-   "link": "https://www.freightwaves.com/news/daimler-is-building-autonomy-into-the-truck-at-the-factory-and-leaving-the-software-choice-open",
-   "source": "freightwaves",
-   "published": "2026-10-20T11:44:00Z",
-   "seen": "2026-10-20T12:51:07Z",
-   "lang": "en",
-   "excerpt": "One of the quieter but more consequential points to come out of a recent candid session with Daimler Truck leadership had nothing to do with financing or freight rates and everything to do with how the trucks themselves are being built …",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "0dacda67df60",
-   "title": "EU backs cross-border CO2 transport and storage project with €223 million",
-   "link": "https://offshore-energy.biz/2026/10/20/eu-backs-cross-border-co2-transport-and-storage-project-with-euro223-million",
-   "source": "offshoreenergy",
-   "published": "2026-10-20T11:28:21Z",
-   "seen": "2026-10-20T12:51:07Z",
-   "lang": "en",
-   "excerpt": "Aker BP and Höegh Evi have secured €223 million from the European Union Innovation Fund for a large-scale CO2 transport and storage (CCS) project...",
-   "segments": [
-    "road",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "national",
-   "terms": [
-    "ccs"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "41391af90acc",
-   "title": "The 2026 Elections Will Reshape Trucking Labor Policy No Matter Which Party Wins",
-   "link": "https://www.freightwaves.com/news/the-2026-elections-will-reshape-trucking-labor-policy-no-matter-which-party-wins",
-   "source": "freightwaves",
-   "published": "2026-10-20T11:24:00Z",
-   "seen": "2026-10-20T12:51:07Z",
-   "lang": "en",
-   "excerpt": "For most of the last two decades, trucking could read the politics of its workforce fights along a familiar line, with one party broadly friendly to the independent contractor model and the other broadly skeptical of it, but according to …",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "c93e1dfc85b9",
-   "title": "ProRail awards Rotterdam rail yard upgrade contract to VolkerRail",
-   "link": "https://container-news.com/prorail-awards-rotterdam-rail-yard-upgrade-contract-to-volkerrail/",
-   "source": "containernews",
-   "published": "2026-10-20T11:00:07Z",
-   "seen": "2026-10-20T12:51:07Z",
-   "lang": "en",
-   "excerpt": "ProRail has awarded VolkerRail a contract to redevelop the Waalhaven Zuid rail yard at the Port of Rotterdam, increasing its capacity to handle longer freight trains. The contract was signed on October 15, 2026.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "intermodal"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "8da817ee08b4",
-   "title": "UK shipowners warn against copying FuelEU red tape",
-   "link": "https://splash247.com/uk-shipowners-warn-against-copying-fueleu-red-tape/",
-   "source": "splash",
-   "published": "2026-10-20T11:00:00Z",
-   "seen": "2026-10-20T12:51:07Z",
-   "lang": "en",
-   "excerpt": "The UK Chamber of Shipping has urged the British government to avoid repeating the compliance problems encountered under FuelEU Maritime as it prepares to introduce its own maritime fuel standard.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "fueleu"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "570d34015e86",
-   "title": "«Bare send regningen»",
-   "link": "https://www.mtlogistikk.no/co2-avgift-dieselpriser-entreprenor/bare-send-regningen/1344315",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-20T10:51:07Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "9e8716ae75dd",
-   "title": "Timor-Leste throws 12-month lifeline to delayed gas project ahead of drilling ops",
-   "link": "https://offshore-energy.biz/2026/10/20/timor-leste-throws-12-month-lifeline-to-delayed-gas-project-ahead-of-drilling-ops",
-   "source": "offshoreenergy",
-   "published": "2026-10-20T10:45:57Z",
-   "seen": "2026-10-20T12:51:07Z",
-   "lang": "en",
-   "excerpt": "This extension for a gas field in Timor-Leste follows earlier termination warnings as partnership talks and drilling preparations press ahead.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "d31f4d5152ba",
-   "title": "Marinakis tanker venture locks down $930m for 11 VLCC newbuilds",
-   "link": "https://splash247.com/marinakis-tanker-venture-locks-down-930m-for-11-vlcc-newbuilds/",
-   "source": "splash",
-   "published": "2026-10-20T10:40:00Z",
-   "seen": "2026-10-20T12:51:07Z",
-   "lang": "en",
-   "excerpt": "Greek shipowner Capital Tankers has lined up $930.3m in financing for 11 VLCC newbuildings under construction in China and South Korea, making further headway in funding its expanding crude tanker fleet.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "vlcc",
-    "newbuilding"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "11ae6c52279a",
-   "title": "Euroseas seals bumper charter and $26m boxship sale",
-   "link": "https://splash247.com/euroseas-seals-bumper-charter-and-26m-boxship-sale/",
-   "source": "splash",
-   "published": "2026-10-20T10:20:00Z",
-   "seen": "2026-10-20T12:51:07Z",
-   "lang": "en",
-   "excerpt": "Nasdaq-listed Greek containership owner Euroseas has secured a $62,500-a-day charter for a 25-year-old feeder vessel while agreeing to sell its sistership for $26m, capitalising on continued strength in the smaller boxship market.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "liner",
-    "transshipment"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "8e7f08f78eb3",
-   "title": "Dutch inland shipping duo expands into Belgium with new chartering venture",
-   "link": "https://splash247.com/dutch-inland-shipping-duo-expands-into-belgium-with-new-chartering-venture/",
-   "source": "splash",
-   "published": "2026-10-20T10:16:04Z",
-   "seen": "2026-10-20T12:51:07Z",
-   "lang": "en",
-   "excerpt": "Dutch inland shipping companies Amer Shipping and Van de Graaf & Meeusen have joined forces to establish a new chartering business in Antwerp, backed by a fresh dry cargo newbuilding order at Concordia Damen.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "newbuilding",
-    "shipper-consignee"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "a53a83033d37",
-   "title": "WATCH: Second Island Offshore ocean energy construction vessel in Norway for completion",
-   "link": "https://offshore-energy.biz/2026/10/20/watch-second-island-offshore-ocean-energy-construction-vessel-in-norway-for-completion",
-   "source": "offshoreenergy",
-   "published": "2026-10-20T10:15:35Z",
-   "seen": "2026-10-20T12:51:07Z",
-   "lang": "en",
-   "excerpt": "The second hybrid power ocean energy construction vessel (OECV) that Norwegian shipbuilder VARD is building for compatriot Island Offshore has...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "dd09e9d646c7",
-   "title": "Seaborne coal trade rebounds as Asian energy crisis reshapes global flows",
-   "link": "https://www.hellenicshippingnews.com/seaborne-coal-trade-rebounds-as-asian-energy-crisis-reshapes-global-flows/",
-   "source": "hsn",
-   "published": "2026-10-20T10:00:59Z",
-   "seen": "2026-10-20T12:51:07Z",
-   "lang": "en",
-   "excerpt": "Global seaborne coal trade has returned to growth in 2026, reversing last year’s decline as disruption to LNG supplies and shifting Asian demand patterns reshape international coal flows, according to new research from global shipbroker …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng",
-    "shipbroker",
-    "ig"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "a2619ed62eef",
-   "title": "Fuel Switch Snapshot: LBM nips at LSMGO’s heels in Rotterdam",
-   "link": "https://www.hellenicshippingnews.com/fuel-switch-snapshot-lbm-nips-at-lsmgos-heels-in-rotterdam/",
-   "source": "hsn",
-   "published": "2026-10-20T10:00:57Z",
-   "seen": "2026-10-20T12:51:07Z",
-   "lang": "en",
-   "excerpt": "Liquefied biomethane (LBM) is closing in on LSMGO in Rotterdam. Its discounts to LSMGO have narrowed by $100-103/mt to $17-137/mt, depending on engine type.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "dual-fuel",
-    "bunkers"
    ],
    "paywall": false
   }
