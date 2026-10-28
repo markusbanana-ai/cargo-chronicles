@@ -1,36 +1,13 @@
 {
- "updated": "2026-10-28T07:00:24Z",
+ "updated": "2026-10-28T09:55:14Z",
  "sample": false,
  "articles": [
-  {
-   "id": "bfdd50262876",
-   "title": "Wallenius Wilhelmsen extends car carrier newbuild drive",
-   "link": "https://splash247.com/wallenius-wilhelmsen-extends-car-carrier-newbuild-drive/",
-   "source": "splash",
-   "published": "2026-10-28T07:00:25Z",
-   "seen": "2026-10-28T07:00:24Z",
-   "lang": "en",
-   "excerpt": "Norwegian car carrier giant Wallenius Wilhelmsen has moved to extend its fleet renewal programme, following a $300m capital raise earlier this month to support plans for up to 12 additional LNG dual-fuel vessels.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "car-carrier",
-    "newbuilding",
-    "lng",
-    "dual-fuel"
-   ],
-   "paywall": false
-  },
   {
    "id": "fce14f409f60",
    "title": "Samferdselsministeren åpner konferanse om bærekraftig verdikjede og materialbruk i veibygging",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-konferanse-om-barekraftig-verdikjede-og-materialbruk-i-veibygging/id3183352/",
    "source": "regjeringen",
-   "published": "2026-10-28T07:00:24Z",
+   "published": "2026-10-28T09:55:14Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam åpner konferanse om bærekraftig verdikjede og materialbruk i vegbygging.",
@@ -43,6 +20,322 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "489e8cf74116",
+   "title": "Woodside exits delayed Timor-Leste gas project",
+   "link": "https://splash247.com/woodside-exits-delayed-timor-leste-gas-project/",
+   "source": "splash",
+   "published": "2026-10-28T09:38:00Z",
+   "seen": "2026-10-28T09:55:14Z",
+   "lang": "en",
+   "excerpt": "Australian energy major Woodside has agreed to sell its entire 33.44% stake in the long-delayed Greater Sunrise gas development to Timor-Leste’s state-owned energy company TIMOR GAP for up to $200m.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c917d93e40aa",
+   "title": "Kai - en digital driftsleder",
+   "link": "https://www.mtlogistikk.no/flatestyring-future-driver-kai/kai-en-digital-driftsleder/1349342",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-28T09:25:14Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "fc296418d5e3",
+   "title": "Moderne Transportprisen til Jan Endre Vartdal og Marius Husabø Monsen",
+   "link": "https://www.mtlogistikk.no/moderne-transport-prisen-mowi-sjomatlogistikk/moderne-transportprisen-til-jan-endre-vartdal-og-marius-husabo-monsen/1339339",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-28T09:10:14Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "38c10bad96d1",
+   "title": "New gas pay for Chevron in Mediterranean waters",
+   "link": "https://offshore-energy.biz/2026/10/28/new-gas-pay-for-chevron-in-mediterranean-waters",
+   "source": "offshoreenergy",
+   "published": "2026-10-28T08:58:40Z",
+   "seen": "2026-10-28T09:55:14Z",
+   "lang": "en",
+   "excerpt": "Chevron’s drilling activities in the Mediterranean have uncovered another gas-bearing interval, extending reservoirs initially discovered in 2022.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "9d9d77521286",
+   "title": "Hver tredje nye går på el eller gass",
+   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-gasslastebiler-lastebil/hver-tredje-nye-gar-pa-el-eller-gass/1349834",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-28T08:55:14Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "39d5ce0c6605",
+   "title": "DeepOcean to employ recently upgraded subsea vessel offshore Ghana",
+   "link": "https://offshore-energy.biz/2026/10/28/deepocean-to-employ-recently-upgraded-subsea-vessel-offshore-ghana",
+   "source": "offshoreenergy",
+   "published": "2026-10-28T08:49:49Z",
+   "seen": "2026-10-28T09:55:14Z",
+   "lang": "en",
+   "excerpt": "DeepOcean has secured a contract with Tullow Ghana Ltd, a subsidiary of the UK-headquartered Tullow Oil, for a riser retermination project in...",
+   "segments": [
+    "road",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a3315e3a3113",
+   "title": "Ingen skam i å prøve og feile",
+   "link": "https://www.mtlogistikk.no/autonome-skip-elektrisk-transport-maritim-teknologi/ingen-skam-i-a-prove-og-feile/1349816",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-28T08:40:14Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "34dac7ec6a36",
+   "title": "Containership orderbook heads towards 16m teu",
+   "link": "https://splash247.com/containership-orderbook-heads-towards-16m-teu/",
+   "source": "splash",
+   "published": "2026-10-28T08:30:28Z",
+   "seen": "2026-10-28T09:55:14Z",
+   "lang": "en",
+   "excerpt": "The containership industry’s extraordinary ordering spree is showing no signs of slowing, with the global orderbook now exceeding 15m teu and another wave of megamax contracts poised to push the total towards 16m teu before the end of the …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner",
+    "orderbook"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "1333652598db",
+   "title": "Ønsker bud på Marit og Therese",
+   "link": "https://www.mtlogistikk.no/asko-maritime-autonome-fartoy-mosshorten/onsker-bud-pa-marit-og-therese/1350020",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-28T08:25:14Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "848bd3019419",
+   "title": "Iran singles out Sinokor",
+   "link": "https://splash247.com/iran-singles-out-sinokor/",
+   "source": "splash",
+   "published": "2026-10-28T08:15:12Z",
+   "seen": "2026-10-28T09:55:14Z",
+   "lang": "en",
+   "excerpt": "Iran has threatened South Korean tanker giant Sinokor, the world’s dominant VLCC owner, with sweeping action against its fleet from November 1, accusing the company of repeatedly violating Tehran’s restrictions on shipping through the …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "vlcc",
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "6759d9ea4d49",
+   "title": "Maritime CEO Forum: Shipping’s wartime boom tests discipline",
+   "link": "https://splash247.com/maritime-ceo-forum-shippings-wartime-boom-tests-discipline/",
+   "source": "splash",
+   "published": "2026-10-28T08:00:05Z",
+   "seen": "2026-10-28T09:55:14Z",
+   "lang": "en",
+   "excerpt": "Shipping may be enjoying one of its strongest booms in decades, but the extraordinary profits generated by geopolitical turmoil are raising difficult questions about risk, investment and what happens when the wars end, delegates at …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6a1b5e8c1533",
+   "title": "- Det blir mye enklere å ha alt samlet digitalt",
+   "link": "https://lastebil.no/aktuelt/nyheter/2026/det-blir-mye-enklere-aa-ha-alt-samlet-digitalt",
+   "source": "lastebil",
+   "published": "2026-10-28T07:52:59Z",
+   "seen": "2026-10-28T09:55:14Z",
+   "lang": "no",
+   "excerpt": "Digitale skjemaer, mindre papirarbeid og bedre oversikt. Dette var noe av det Sunniva Bernes Mjelde, HMS-ansvarlig i Svanevik Transport & Utleie AS, trakk fram da hun ble kjent med NLFs nye medlemssystem.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "dfd81d6e63c8",
+   "title": "Sanctioned Russian tankers head for US carrying diesel",
+   "link": "https://splash247.com/sanctioned-russian-tankers-head-for-us-carrying-diesel/",
+   "source": "splash",
+   "published": "2026-10-28T07:45:53Z",
+   "seen": "2026-10-28T09:55:14Z",
+   "lang": "en",
+   "excerpt": "Three tankers carrying Russian diesel are heading towards the United States under the controversial agreement between presidents Donald Trump and Vladimir Putin, with Moscow preparing to dispatch a fourth vessel today.",
+   "segments": [
+    "road",
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "sanctions"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "9749a0cc77fc",
+   "title": "Saipem wins multimillion-dollar rig jobs with Eni in Mediterranean and West Africa",
+   "link": "https://offshore-energy.biz/2026/10/28/saipem-wins-multimillion-dollar-rig-jobs-with-eni-in-mediterranean-and-west-africa",
+   "source": "offshoreenergy",
+   "published": "2026-10-28T07:43:10Z",
+   "seen": "2026-10-28T09:55:14Z",
+   "lang": "en",
+   "excerpt": "Saipem has picked up offshore drilling assignments with Eni off the coasts of Cyprus and Ghana, boosting fleet utilization for 2026 and 2027.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "rig",
+    "utilisation"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "7aa02e3d3a0d",
+   "title": "Interessen for elektriske lastebiler er rekordhøy",
+   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-enova/interessen-for-elektriske-lastebiler-er-rekordhoy/1349640",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-28T07:40:14Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "electric-truck"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "0fe8e4620fec",
+   "title": "Venergy breaks into VLCCs with Hengli order",
+   "link": "https://splash247.com/venergy-breaks-into-vlccs-with-hengli-order/",
+   "source": "splash",
+   "published": "2026-10-28T07:31:38Z",
+   "seen": "2026-10-28T07:00:24Z",
+   "lang": "en",
+   "excerpt": "Greek shipowner Vyron Vasileiadis is taking his rapidly expanding tanker business into the VLCC segment, with Venergy Maritime linked to two firm newbuildings and options for another two at China’s Hengli Heavy Industries.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "vlcc",
+    "newbuilding",
+    "dwt"
+   ],
+   "paywall": false
   },
   {
    "id": "6d9144ab4e8f",
@@ -63,31 +356,6 @@
    "level": "international",
    "terms": [
     "shipper-consignee"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "0399fe4a9726",
-   "title": "Meadway Bulkers splashes out on ultramax series in China",
-   "link": "https://splash247.com/meadway-bulkers-splashes-out-on-ultramax-series-in-china/",
-   "source": "splash",
-   "published": "2026-10-28T06:52:22Z",
-   "seen": "2026-10-28T07:00:24Z",
-   "lang": "en",
-   "excerpt": "Greek dry bulk owner Meadway Bulkers has been linked to an order for six ultramax newbuildings at China’s Nantong Xiangyu Shipbuilding, marking its largest shipbuilding commitment since becoming a standalone company in 2021.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "dry-bulk",
-    "supramax",
-    "newbuilding",
-    "dwt"
    ],
    "paywall": false
   },
@@ -292,30 +560,6 @@
    "paywall": true
   },
   {
-   "id": "0fe8e4620fec",
-   "title": "Venergy breaks into VLCCs with Hengli order",
-   "link": "https://splash247.com/venergy-breaks-into-vlccs-with-hengli-order/",
-   "source": "splash",
-   "published": "2026-10-28T06:31:38Z",
-   "seen": "2026-10-28T07:00:24Z",
-   "lang": "en",
-   "excerpt": "Greek shipowner Vyron Vasileiadis is taking his rapidly expanding tanker business into the VLCC segment, with Venergy Maritime linked to two firm newbuildings and options for another two at China’s Hengli Heavy Industries.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "vlcc",
-    "newbuilding",
-    "dwt"
-   ],
-   "paywall": false
-  },
-  {
    "id": "25653ef64978",
    "title": "Marine round-up : 28th October 2026",
    "link": "https://insurancemarinenews.com/insurance-marine-news/marine-round-up-28th-october-2026/",
@@ -334,21 +578,51 @@
    "paywall": true
   },
   {
-   "id": "7ca4a7ce3651",
-   "title": "Kai - en digital driftsleder",
-   "link": "https://www.mtlogistikk.no/flatestyring-future-driver-kai/kai-en-digital-driftsleder/1348966",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-28T04:30:24Z",
-   "lang": "no",
-   "excerpt": "",
+   "id": "0399fe4a9726",
+   "title": "Meadway Bulkers splashes out on ultramax series in China",
+   "link": "https://splash247.com/meadway-bulkers-splashes-out-on-ultramax-series-in-china/",
+   "source": "splash",
+   "published": "2026-10-28T06:00:22Z",
+   "seen": "2026-10-28T07:00:24Z",
+   "lang": "en",
+   "excerpt": "Greek dry bulk owner Meadway Bulkers has been linked to an order for six ultramax newbuildings at China’s Nantong Xiangyu Shipbuilding, marking its largest shipbuilding commitment since becoming a standalone company in 2021.",
    "segments": [
-    "road"
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dry-bulk",
+    "supramax",
+    "newbuilding",
+    "dwt"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "bfdd50262876",
+   "title": "Wallenius Wilhelmsen extends car carrier newbuild drive",
+   "link": "https://splash247.com/wallenius-wilhelmsen-extends-car-carrier-newbuild-drive/",
+   "source": "splash",
+   "published": "2026-10-28T05:00:25Z",
+   "seen": "2026-10-28T07:00:24Z",
+   "lang": "en",
+   "excerpt": "Norwegian car carrier giant Wallenius Wilhelmsen has moved to extend its fleet renewal programme, following a $300m capital raise earlier this month to support plans for up to 12 additional LNG dual-fuel vessels.",
+   "segments": [
+    "freight"
    ],
    "subs": [],
    "policy": false,
    "level": "national",
-   "terms": [],
+   "terms": [
+    "car-carrier",
+    "newbuilding",
+    "lng",
+    "dual-fuel"
+   ],
    "paywall": false
   },
   {
@@ -388,20 +662,21 @@
    "paywall": false
   },
   {
-   "id": "6c4c7f12ded5",
-   "title": "Moderne Transportprisen til Jan Endre Vartdal og Marius Husabø Monsen",
-   "link": "https://www.mtlogistikk.no/avrenning-moderne-transport-prisen-mowi/moderne-transportprisen-til-jan-endre-vartdal-og-marius-husabo-monsen/1349160",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-28T04:00:24Z",
-   "lang": "no",
-   "excerpt": "",
+   "id": "ef95674a3556",
+   "title": "ILWU Watchmen May Strike at LA/Long Beach, With Effects on Half the Port",
+   "link": "https://maritime-executive.com/article/ilwu-watchmen-may-strike-at-la-long-beach-with-effects-on-half-the-port",
+   "source": "marex",
+   "published": "2026-10-28T03:36:55Z",
+   "seen": "2026-10-28T09:55:14Z",
+   "lang": "en",
+   "excerpt": "A union representing security watchmen at the twin ports of Los Angeles and Long Beach has warned that it will go on strike if talks on a new collecti...",
    "segments": [
-    "road"
+    "freight",
+    "insurance"
    ],
    "subs": [],
    "policy": false,
-   "level": "national",
+   "level": "international",
    "terms": [],
    "paywall": false
   },
@@ -448,6 +723,28 @@
    "paywall": false
   },
   {
+   "id": "6c9a97361c0c",
+   "title": "Shipping’s $275m lesson in the limits of sanctions screening",
+   "link": "https://splash247.com/shippings-275m-lesson-in-the-limits-of-sanctions-screening/",
+   "source": "splash",
+   "published": "2026-10-28T03:00:13Z",
+   "seen": "2026-10-28T09:55:14Z",
+   "lang": "en",
+   "excerpt": "A sanctions settlement has exposed a fundamental weakness in shipping’s compliance systems. Wolfgang Lehmacher reports. On paper, Adani Enterprises did what compliance manuals demand.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "sanctions",
+    "lpg"
+   ],
+   "paywall": false
+  },
+  {
    "id": "95ae1decb9af",
    "title": "Samferdselsministeren åpner ZERAC-konferansen 2026",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-zerac-konferansen-2026/id3183348/",
@@ -463,6 +760,26 @@
    "policy": false,
    "level": "national",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "88943834e737",
+   "title": "ADES jackup lines up work offshore Indonesia",
+   "link": "https://splash247.com/ades-jackup-lines-up-work-offshore-indonesia/",
+   "source": "splash",
+   "published": "2026-10-28T02:40:00Z",
+   "seen": "2026-10-28T09:55:14Z",
+   "lang": "en",
+   "excerpt": "Saudi offshore drilling contractor ADES Holding has secured a new contract from Pertamina for the Shelf Drilling Perseverance jackup offshore Indonesia. The agreement covers a firm period of 406 days, with an option for another 30 days.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "rig"
+   ],
    "paywall": false
   },
   {
@@ -484,40 +801,20 @@
    "paywall": false
   },
   {
-   "id": "41325b0f4f4a",
-   "title": "Interessen for elektriske lastebiler er rekordhøy",
-   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-enova/interessen-for-elektriske-lastebiler-er-rekordhoy/1349851",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-28T02:15:24Z",
-   "lang": "no",
-   "excerpt": "",
+   "id": "df270948d56a",
+   "title": "Maritime Industry Advances Harmonisation of Digital Emissions Reporting",
+   "link": "https://maritime-executive.com/article/maritime-industry-advances-harmonisation-of-digital-emissions-reporting",
+   "source": "marex",
+   "published": "2026-10-28T02:03:00Z",
+   "seen": "2026-10-28T09:55:14Z",
+   "lang": "en",
+   "excerpt": "The Tripartite Joint Industry Working Group (JIWG) has released two new frameworks that can help improve the exchange of operations and emissions data...",
    "segments": [
-    "road"
+    "freight"
    ],
    "subs": [],
    "policy": false,
-   "level": "national",
-   "terms": [
-    "electric-truck"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "587fa7fbb5cd",
-   "title": "Hver tredje nye går på el eller gass",
-   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-gasslastebiler-gronn-omstilling/hver-tredje-nye-gar-pa-el-eller-gass/1349674",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-28T02:06:41Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
+   "level": "international",
    "terms": [],
    "paywall": false
   },
@@ -696,27 +993,6 @@
    "terms": [
     "shipbroker",
     "product-tanker"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "b9791cd76a10",
-   "title": "Maritime industry advances harmonisation of digital emissions reporting",
-   "link": "https://www.hellenicshippingnews.com/maritime-industry-advances-harmonisation-of-digital-emissions-reporting/",
-   "source": "hsn",
-   "published": "2026-10-27T22:00:58Z",
-   "seen": "2026-10-28T01:04:55Z",
-   "lang": "en",
-   "excerpt": "The Tripartite Joint Industry Working Group (JIWG) has released two new frameworks that can help improve the exchange of operations and emissions data across the maritime industry.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bimco",
-    "class-society"
    ],
    "paywall": false
   },
@@ -17897,302 +18173,6 @@
     "dual-fuel",
     "bunkers"
    ],
-   "paywall": false
-  },
-  {
-   "id": "29344e0565df",
-   "title": "LNG shipping stocks: Down on the surface",
-   "link": "https://www.hellenicshippingnews.com/lng-shipping-stocks-down-on-the-surface/",
-   "source": "hsn",
-   "published": "2026-10-20T10:00:55Z",
-   "seen": "2026-10-20T12:51:07Z",
-   "lang": "en",
-   "excerpt": "The UP World LNG Shipping Index fell 6.97 points (3.0%) to close at 224.91, pulled down by a broad equity-market selloff — the S&P 500 lost 1.95%, its biggest weekly drop since June.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng-carrier",
-    "sale-purchase"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "e7ffc3131a4a",
-   "title": "Platts increases standard ship size range for Asia-Pacific LNG cargo assessments",
-   "link": "https://www.hellenicshippingnews.com/platts-increases-standard-ship-size-range-for-asia-pacific-lng-cargo-assessments/",
-   "source": "hsn",
-   "published": "2026-10-20T10:00:53Z",
-   "seen": "2026-10-20T12:51:07Z",
-   "lang": "en",
-   "excerpt": "Platts, part of S&P Global Energy, has increased the standard vessel size range reflected in its daily Asia-Pacific LNG cargo price assessments, effective Oct. 16.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng",
-    "sale-purchase",
-    "lng-carrier"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "99db846ac387",
-   "title": "The Grande Island: What you delete is only half the story",
-   "link": "https://www.hellenicshippingnews.com/the-grande-island-what-you-delete-is-only-half-the-story-2/",
-   "source": "hsn",
-   "published": "2026-10-20T10:00:51Z",
-   "seen": "2026-10-20T12:51:07Z",
-   "lang": "en",
-   "excerpt": "The recent decision in Olam International Ltd v Pacific Basin Supramax Ltd (The Grande Island) [2026] EWHC 2136 (Comm) concerned a familiar feature of charter partynegotiations where standard wording had been incorporated but parts of it …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "supramax"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "613da2d34c5d",
-   "title": "Panama bunker sales fall in September",
-   "link": "https://www.hellenicshippingnews.com/panama-bunker-sales-fall-in-september/",
-   "source": "hsn",
-   "published": "2026-10-20T10:00:47Z",
-   "seen": "2026-10-20T12:51:07Z",
-   "lang": "en",
-   "excerpt": "Changes in Panama bunker fuel sales from August to September: Total sales down 27,000 mt to 385,000 mt VLSFO sales up 19,000 mt to 266,000 mt LSMGO sales up 2,600 mt to 38,000 mt HSFO sales down 46,000 mt to 75,000 mt 0.5% MGO sales down …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bunkers"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "933d914f744f",
-   "title": "MMI Daily Iron Ore Index Report October 20 2026",
-   "link": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-october-20-2026/",
-   "source": "hsn",
-   "published": "2026-10-20T10:00:45Z",
-   "seen": "2026-10-20T12:51:07Z",
-   "lang": "en",
-   "excerpt": "After the previous broad gains, prices pulled back modestly, highlighting the fragility of the recovery. DCE most-traded closed at 681.5 yuan/mt, down 0.15%.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "0c98490b2718",
-   "title": "China unexpectedly increases its purchases of Brazilian oil",
-   "link": "https://www.hellenicshippingnews.com/china-unexpectedly-increases-its-purchases-of-brazilian-oil/",
-   "source": "hsn",
-   "published": "2026-10-20T10:00:45Z",
-   "seen": "2026-10-20T12:51:07Z",
-   "lang": "en",
-   "excerpt": "According to the South China Morning Post , amidst the turmoil in the global energy supply chain due to the conflict in the Gulf region, the Brazilian economy has seized a golden opportunity.",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "121bfbbf35bf",
-   "title": "Iron Ore Slips on Signs of Robust Supply",
-   "link": "https://www.hellenicshippingnews.com/iron-ore-slips-on-signs-of-robust-supply/",
-   "source": "hsn",
-   "published": "2026-10-20T10:00:43Z",
-   "seen": "2026-10-20T12:51:07Z",
-   "lang": "en",
-   "excerpt": "Iron ore futures fell below CNY 680 per ton, sliding back toward four-year lows as rising global shipments and higher arrivals at Chinese ports pointed to ample supply.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "0ba9be648552",
-   "title": "Supply Constraints Keep Asian Coal Prices High",
-   "link": "https://www.hellenicshippingnews.com/supply-constraints-keep-asian-coal-prices-high/",
-   "source": "hsn",
-   "published": "2026-10-20T10:00:41Z",
-   "seen": "2026-10-20T12:51:07Z",
-   "lang": "en",
-   "excerpt": "Asian thermal coal prices are likely to stay elevated in the near term as Indonesian supply uncertainty and lower Chinese production limit supply, says Fitch Ratings.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "credit-rating"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "38e4c7460b07",
-   "title": "Simandou iron ore offsets depletion as demand balances market: Vale",
-   "link": "https://www.hellenicshippingnews.com/simandou-iron-ore-offsets-depletion-as-demand-balances-market-vale/",
-   "source": "hsn",
-   "published": "2026-10-20T10:00:39Z",
-   "seen": "2026-10-20T12:51:07Z",
-   "lang": "en",
-   "excerpt": "The iron ore market will remain balanced in the long term as global demand continues to expand despite lower steel production in China, while massive new supply from Guinea’s Simandou mine will mainly help offset iron ore resource …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "70e56324c8ec",
-   "title": "Oil hovers near five-month high as Hormuz, Houthi attacks threaten supply recovery",
-   "link": "https://www.hellenicshippingnews.com/oil-hovers-near-five-month-high-as-hormuz-houthi-attacks-threaten-supply-recovery/",
-   "source": "hsn",
-   "published": "2026-10-20T10:00:31Z",
-   "seen": "2026-10-20T12:51:07Z",
-   "lang": "en",
-   "excerpt": "Oil prices held near a five-month high on Tuesday, as traders assessed reports of fresh attacks on vessels and Houthi strikes on Saudi energy infrastructure.",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint",
-    "lt-utc"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "465488d7b71e",
-   "title": "South Asia LNG demand growth derailed as Middle East conflict exposes critical supply vulnerabilities",
-   "link": "https://www.hellenicshippingnews.com/south-asia-lng-demand-growth-derailed-as-middle-east-conflict-exposes-critical-supply-vulnerabilities/",
-   "source": "hsn",
-   "published": "2026-10-20T10:00:29Z",
-   "seen": "2026-10-20T12:51:07Z",
-   "lang": "en",
-   "excerpt": "South Asian LNG markets have absorbed one of the most severe supply shocks in the history of the global gas trade, as the war in the Middle East and the closure of the Strait of Hormuz cut off Qatari and UAE LNG flows to a region that had …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng",
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "56964a5f1a45",
-   "title": "Venezuela expects $76 billion oil investment boost amid U.S. cooperation",
-   "link": "https://www.hellenicshippingnews.com/venezuela-expects-76-billion-oil-investment-boost-amid-u-s-cooperation/",
-   "source": "hsn",
-   "published": "2026-10-20T10:00:27Z",
-   "seen": "2026-10-20T12:51:07Z",
-   "lang": "en",
-   "excerpt": "Venezuela expects to attract nearly $76 billion in oil investment over the next five years under new agreements, acting President Delcy Rodriguez said.",
-   "segments": [
-    "finance",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "rig"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "680fb0f3da6c",
-   "title": "Explainer: Behind MSC’s entrance in Mangalia shipyard",
-   "link": "https://container-news.com/explainer-behind-mscs-entrance-in-mangalia-shipyard/",
-   "source": "containernews",
-   "published": "2026-10-20T10:00:22Z",
-   "seen": "2026-10-20T12:51:07Z",
-   "lang": "en",
-   "excerpt": "By joining Rheinmetall at Romania’s Mangalia yard, MSC fills the gap that threatened the deal and lays the base for a European shipbuilding platform.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "88d32c4ca44f",
-   "title": "Eastern Pacific links wind propulsion repayments to fuel savings",
-   "link": "https://splash247.com/eastern-pacific-links-wind-propulsion-repayments-to-fuel-savings/",
-   "source": "splash",
-   "published": "2026-10-20T09:50:00Z",
-   "seen": "2026-10-20T12:51:07Z",
-   "lang": "en",
-   "excerpt": "Singapore-based Eastern Pacific Shipping (EPS) has secured financing for wind-assisted propulsion systems on two vessels through a fund linking repayments to independently verified fuel savings.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
    "paywall": false
   }
  ]
