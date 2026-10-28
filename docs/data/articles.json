@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T15:57:29Z",
+ "updated": "2026-10-28T18:55:53Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren åpner konferanse om bærekraftig verdikjede og materialbruk i veibygging",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-konferanse-om-barekraftig-verdikjede-og-materialbruk-i-veibygging/id3183352/",
    "source": "regjeringen",
-   "published": "2026-10-28T15:57:29Z",
+   "published": "2026-10-28T18:55:53Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam åpner konferanse om bærekraftig verdikjede og materialbruk i vegbygging.",
@@ -22,12 +22,292 @@
    "upcoming": true
   },
   {
-   "id": "c917d93e40aa",
-   "title": "Kai - en digital driftsleder",
-   "link": "https://www.mtlogistikk.no/flatestyring-future-driver-kai/kai-en-digital-driftsleder/1349342",
+   "id": "a16004ebc952",
+   "title": "Gordon setter inn tolv el-lastesykler i Oslo sentrum",
+   "link": "https://www.mtlogistikk.no/bylogistikk-el-lastesykler-gordon/gordon-setter-inn-tolv-el-lastesykler-i-oslo-sentrum/1350321",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-28T15:12:29Z",
+   "seen": "2026-10-28T18:55:53Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "71c08756e71b",
+   "title": "Containership Struck Off Bulgaria as Ministers Meet to Increase Security",
+   "link": "https://maritime-executive.com/article/containership-struck-off-bulgaria-as-ministers-meet-to-increase-security",
+   "source": "marex",
+   "published": "2026-10-28T18:37:17Z",
+   "seen": "2026-10-28T18:55:53Z",
+   "lang": "en",
+   "excerpt": "A Greek-owned containership operating a route for Zim was struck off Bulgaria midday on Wednesday, October 28, with the Bulgarian Navy rescuing the cr...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "41325b0f4f4a",
+   "title": "Interessen for elektriske lastebiler er rekordhøy",
+   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-enova/interessen-for-elektriske-lastebiler-er-rekordhoy/1349851",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-28T18:25:53Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "electric-truck"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "0625c7a2844e",
+   "title": "U.S. Senator Demands Russian Diesel Tanker Turn Around as Legal Fight Escalates",
+   "link": "https://gcaptain.com/u-s-senator-demands-russian-diesel-tanker-turn-around-as-legal-fight-escalates/",
+   "source": "gcaptain",
+   "published": "2026-10-28T17:29:33Z",
+   "seen": "2026-10-28T18:55:53Z",
+   "lang": "en",
+   "excerpt": "U.S. Senator Richard Blumenthal (D-Conn.) is demanding that a tanker reportedly carrying Russian diesel to the United States reverse course, warning its owner that delivering the cargo would violate federal...",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "bb2f85b80609",
+   "title": "MARAD Approves $8.2 Billion Texas LNG Export Port in Record-Time Review",
+   "link": "https://gcaptain.com/marad-approves-8-2-billion-texas-lng-export-port-in-record-time-review/",
+   "source": "gcaptain",
+   "published": "2026-10-28T17:24:40Z",
+   "seen": "2026-10-28T18:55:53Z",
+   "lang": "en",
+   "excerpt": "The Trump administration has approved an $8.2 billion offshore liquefied natural gas export project off the Texas coast, marking a major milestone for its effort to speed up deepwater port...",
+   "segments": [
+    "freight",
+    "offshore"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lng"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "651f04244af7",
+   "title": "Old Dominion’s tonnage turns positive; recovery needs demand inflection",
+   "link": "https://www.freightwaves.com/news/old-dominions-tonnage-turns-positive-recovery-needs-demand-inflection",
+   "source": "freightwaves",
+   "published": "2026-10-28T17:22:04Z",
+   "seen": "2026-10-28T18:55:53Z",
+   "lang": "en",
+   "excerpt": "Old Dominion reported positive tonnage growth in September for the first time in more than two years, but company executives emphasized that returning to upcycle-level performance likely requires a wider recovery in demand, which relies on …",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4373adbc7586",
+   "title": "Tildelingsbrev, årsrapporter og instrukser – Samferdselsdepartementet",
+   "link": "https://www.regjeringen.no/no/dokument/dep/sd/tildelingsbrev-arsrapporter-og-instrukser-samferdselsdepartementet/id749211/",
+   "source": "regjeringen",
+   "published": "2026-10-28T16:52:38Z",
+   "seen": "2026-10-21T09:42:08Z",
+   "lang": "no",
+   "excerpt": "Oversikt over tildelingsbrev og instrukser fra Samferdselsdepartementet til underliggende virksomheter, samt virksomhetenes årsrapporter.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "640040d126e9",
+   "title": "Russia Turns to Arctic WW2 Route to Export Grain",
+   "link": "https://gcaptain.com/russia-turns-to-arctic-ww2-route-to-export-grain/",
+   "source": "gcaptain",
+   "published": "2026-10-28T16:32:21Z",
+   "seen": "2026-10-28T18:55:53Z",
+   "lang": "en",
+   "excerpt": "Russia, the world's largest wheat exporter, has turned to an Arctic World War II shipping route to export grain for the first time as the conflict in Ukraine stalls Black Sea trade and officials warn of risks in the NATO-controlled Baltic …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ac91028e1128",
+   "title": "US Tells Ships to Avoid Unnecessary Transits Through Hormuz",
+   "link": "https://gcaptain.com/us-tells-ships-to-avoid-unnecessary-transits-through-hormuz/",
+   "source": "gcaptain",
+   "published": "2026-10-28T16:27:19Z",
+   "seen": "2026-10-28T18:55:53Z",
+   "lang": "en",
+   "excerpt": "(Bloomberg) — The US military said vessels that have no need to move between ports in the Gulf of Oman and the Strait of Hormuz should stay away, as tensions...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "587fa7fbb5cd",
+   "title": "Hver tredje nye går på el eller gass",
+   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-gasslastebiler-gronn-omstilling/hver-tredje-nye-gar-pa-el-eller-gass/1349674",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-28T16:25:53Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f31d06cb73da",
+   "title": "Scorpio Tankers Reports $181,000-a-Day LR2 Rates as Middle East War Upends Oil Trade",
+   "link": "https://gcaptain.com/scorpio-tankers-reports-181000-a-day-lr2-rates-as-middle-east-war-upends-oil-trade/",
+   "source": "gcaptain",
+   "published": "2026-10-28T16:05:59Z",
+   "seen": "2026-10-28T18:55:53Z",
+   "lang": "en",
+   "excerpt": "Scorpio Tankers is reporting a sharp surge in tanker earnings as the war in the Middle East disrupts global oil flows, with its LR2 product tankers securing bookings averaging $181,000...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "product-tanker"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "3cb37f90bfb5",
+   "title": "T. Parker Host Invests $50 Million to Expand Former Avondale Shipyard",
+   "link": "https://gcaptain.com/t-parker-host-invests-50-million-to-expand-former-avondale-shipyard/",
+   "source": "gcaptain",
+   "published": "2026-10-28T15:56:46Z",
+   "seen": "2026-10-28T18:55:53Z",
+   "lang": "en",
+   "excerpt": "T. Parker Host (HOST) is investing $50 million to expand rail, warehouse and dock capacity at Avondale Global Gateway, the former Avondale Shipyard site on the Mississippi River near New...",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "7ca4a7ce3651",
+   "title": "Kai - en digital driftsleder",
+   "link": "https://www.mtlogistikk.no/flatestyring-future-driver-kai/kai-en-digital-driftsleder/1348966",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-28T15:40:53Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f599549d5f50",
+   "title": "F3: FreightWaves announces Shipper of Choice winners",
+   "link": "https://www.freightwaves.com/news/f3-freightwaves-announces-shipper-of-choice-winners",
+   "source": "freightwaves",
+   "published": "2026-10-28T15:31:42Z",
+   "seen": "2026-10-28T18:55:53Z",
+   "lang": "en",
+   "excerpt": "FreightWaves named 10 Shipper of Choice award winners at the F3: Future of Freight Festival, recognizing companies for their carrier relationships, operational efficiency and shipping practices.",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "shipper-consignee"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "6c4c7f12ded5",
+   "title": "Moderne Transportprisen til Jan Endre Vartdal og Marius Husabø Monsen",
+   "link": "https://www.mtlogistikk.no/avrenning-moderne-transport-prisen-mowi/moderne-transportprisen-til-jan-endre-vartdal-og-marius-husabo-monsen/1349160",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-28T15:10:53Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -61,42 +341,6 @@
    "paywall": false
   },
   {
-   "id": "fc296418d5e3",
-   "title": "Moderne Transportprisen til Jan Endre Vartdal og Marius Husabø Monsen",
-   "link": "https://www.mtlogistikk.no/moderne-transport-prisen-mowi-sjomatlogistikk/moderne-transportprisen-til-jan-endre-vartdal-og-marius-husabo-monsen/1339339",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-28T14:57:29Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "9d9d77521286",
-   "title": "Hver tredje nye går på el eller gass",
-   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-gasslastebiler-lastebil/hver-tredje-nye-gar-pa-el-eller-gass/1349834",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-28T14:42:29Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "a6646aa028a7",
    "title": "FMCSA removes 10,000-plus driver training providers amid safety push",
    "link": "https://www.freightwaves.com/news/fmcsa-removes-10000-plus-driver-training-providers-amid-safety-push",
@@ -112,24 +356,6 @@
    "subs": [],
    "policy": true,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "fb719756d5d2",
-   "title": "Gordon setter inn tolv el-lastesykler i Oslo sentrum",
-   "link": "https://www.mtlogistikk.no/bylogistikk-el-lastesykler-gordon/gordon-setter-inn-tolv-el-lastesykler-i-oslo-sentrum/1350345",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-28T14:27:29Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -261,23 +487,24 @@
    "paywall": false
   },
   {
-   "id": "7aa02e3d3a0d",
-   "title": "Interessen for elektriske lastebiler er rekordhøy",
-   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-enova/interessen-for-elektriske-lastebiler-er-rekordhoy/1349640",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-28T13:12:29Z",
-   "lang": "no",
-   "excerpt": "",
+   "id": "9ec30d6b3e1c",
+   "title": "Strike threat by port security workers at Los Angeles–Long Beach",
+   "link": "https://www.freightwaves.com/news/strike-threat-by-port-security-workers-at-los-angeles-long-beach",
+   "source": "freightwaves",
+   "published": "2026-10-28T13:23:00Z",
+   "seen": "2026-10-28T18:55:53Z",
+   "lang": "en",
+   "excerpt": "About 250 security workers could walk out Nov. 1, potentially disrupting terminals at the busiest U.S. port complex.",
    "segments": [
-    "road"
+    "freight",
+    "insurance"
    ],
-   "subs": [],
+   "subs": [
+    "containers"
+   ],
    "policy": false,
-   "level": "national",
-   "terms": [
-    "electric-truck"
-   ],
+   "level": "international",
+   "terms": [],
    "paywall": false
   },
   {
@@ -395,6 +622,25 @@
    "segments": [
     "road",
     "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "7a6dddf458bb",
+   "title": "Greenbrier profit falls as railcar demand weighs on sales",
+   "link": "https://www.freightwaves.com/news/greenbrier-profit-falls-as-railcar-demand-weighs-on-sales",
+   "source": "freightwaves",
+   "published": "2026-10-28T11:16:00Z",
+   "seen": "2026-10-28T18:55:53Z",
+   "lang": "en",
+   "excerpt": "Greenbrier’s fiscal fourth-quarter profit tumbled though outlook for orders and leasing growth improved.",
+   "segments": [
+    "road",
+    "finance"
    ],
    "subs": [],
    "policy": false,
@@ -15996,24 +16242,6 @@
    "paywall": false
   },
   {
-   "id": "4373adbc7586",
-   "title": "Tildelingsbrev, årsrapporter og instrukser – Samferdselsdepartementet",
-   "link": "https://www.regjeringen.no/no/dokument/dep/sd/tildelingsbrev-arsrapporter-og-instrukser-samferdselsdepartementet/id749211/",
-   "source": "regjeringen",
-   "published": "2026-10-21T09:15:11Z",
-   "seen": "2026-10-21T09:42:08Z",
-   "lang": "no",
-   "excerpt": "Oversikt over tildelingsbrev og instrukser fra Samferdselsdepartementet til underliggende virksomheter, samt virksomhetenes årsrapporter.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "5e1910b7ff0c",
    "title": "Maersk eyes full return to Suez Canal by March 2027",
    "link": "https://container-news.com/maersk-eyes-full-return-to-suez-canal-by-march-2027/",
@@ -17934,237 +18162,6 @@
     "dry-bulk",
     "dual-fuel"
    ],
-   "paywall": false
-  },
-  {
-   "id": "d730b5b76991",
-   "title": "Trump’s Plan to Revive Sanctioned Tankers Faces Tough Sell",
-   "link": "https://gcaptain.com/trumps-plan-to-revive-sanctioned-tankers-faces-tough-sell/",
-   "source": "gcaptain",
-   "published": "2026-10-20T16:27:14Z",
-   "seen": "2026-10-20T18:46:00Z",
-   "lang": "en",
-   "excerpt": "(Bloomberg) — A US plan to rehabilitate sanctioned tankers to boost oil supply may attract only a sliver of the dark fleet, as existing contracts, complex compliance checks and sky-high...",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "sanctions",
-    "shadow-fleet"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "707fc768a193",
-   "title": "Iran Strikes More Ship Engine Rooms in Ramp-Up of Hormuz Attacks",
-   "link": "https://gcaptain.com/iran-strikes-more-ship-engine-rooms-in-ramp-up-of-hormuz-attacks/",
-   "source": "gcaptain",
-   "published": "2026-10-20T16:20:13Z",
-   "seen": "2026-10-20T18:46:00Z",
-   "lang": "en",
-   "excerpt": "Iranian attacks in the Persian Gulf are striking more ships and causing more severe damage than earlier in the conflict, bringing fresh risks to energy flows from the region.",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "77863a4fb184",
-   "title": "Kpler Expands ‘Dark Fleet’ Tracking With Airbus Satellite Deal",
-   "link": "https://gcaptain.com/kpler-expands-dark-fleet-tracking-with-airbus-satellite-deal/",
-   "source": "gcaptain",
-   "published": "2026-10-20T16:15:52Z",
-   "seen": "2026-10-20T18:46:00Z",
-   "lang": "en",
-   "excerpt": "Maritime data provider Kpler has reached an agreement with Airbus to expand its ability to track vessels that disappear from conventional ship-tracking systems, adding daily satellite imagery to help identify...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "shadow-fleet"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "247c25a682f8",
-   "title": "Benchmark diesel price up as market takes a short breather",
-   "link": "https://www.freightwaves.com/news/benchmark-diesel-price-up-as-market-takes-a-short-breather",
-   "source": "freightwaves",
-   "published": "2026-10-20T16:10:29Z",
-   "seen": "2026-10-20T18:46:00Z",
-   "lang": "en",
-   "excerpt": "After months of volatility, the diesel market going into Tuesday appeared to have calmed down, at least for now. The day also featured the release of the weekly benchmark diesel price from the Department of Energy/Energy Information …",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "fuel-surcharge"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "60532d9b1703",
-   "title": "MSC Ajaccio omits Livorno call on MSE service",
-   "link": "https://container-news.com/msc-ajaccio-omits-livorno-call-on-mse-service/",
-   "source": "containernews",
-   "published": "2026-10-20T16:00:40Z",
-   "seen": "2026-10-20T18:46:00Z",
-   "lang": "en",
-   "excerpt": "Hapag-Lloyd has announced that MSC Ajaccio voyage MM642A will omit its scheduled call at Livorno, Italy. The vessel, operating on the Mediterranean–South America East Coast (MSE) service, was originally scheduled to call at Livorno on 17 …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "port-omission"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "2d27357df94e",
-   "title": "EU Puts Icebreakers, Shipping Security at Center of New Arctic Strategy",
-   "link": "https://gcaptain.com/eu-puts-icebreakers-shipping-security-at-center-of-new-arctic-strategy/",
-   "source": "gcaptain",
-   "published": "2026-10-20T15:43:34Z",
-   "seen": "2026-10-20T18:46:00Z",
-   "lang": "en",
-   "excerpt": "The European Union unveiled a new Arctic strategy Tuesday aimed at strengthening maritime security, expanding icebreaker capacity and protecting critical infrastructure as melting sea ice opens new shipping routes and...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "1140253667d8",
-   "title": "Maersk updates containerised vehicle booking requirements",
-   "link": "https://container-news.com/maersk-updates-containerised-vehicle-booking-requirements/",
-   "source": "containernews",
-   "published": "2026-10-20T15:00:42Z",
-   "seen": "2026-10-20T15:42:06Z",
-   "lang": "en",
-   "excerpt": "Maersk has issued updated booking and acceptance requirements for vehicles transported in containers, following the introduction of dedicated UN numbers for battery-powered vehicles under IMDG Code Amendment 42-24.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "un-number"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "91cbe0753eba",
-   "title": "How new capacity is raising rates in chaotic ocean market",
-   "link": "https://www.freightwaves.com/news/how-new-capacity-is-raising-rates-in-chaotic-ocean-market",
-   "source": "freightwaves",
-   "published": "2026-10-20T14:58:59Z",
-   "seen": "2026-10-20T15:42:06Z",
-   "lang": "en",
-   "excerpt": "Container rates rise as the Red Sea return threatens to worsen oversupply in 2027.",
-   "segments": [
-    "road",
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "88a9adf7e12c",
-   "title": "Freight broker Fura’s latest deal adds $30M in revenue",
-   "link": "https://www.freightwaves.com/news/freight-broker-furas-latest-deal-adds-30m-in-revenue",
-   "source": "freightwaves",
-   "published": "2026-10-20T14:21:03Z",
-   "seen": "2026-10-20T15:42:06Z",
-   "lang": "en",
-   "excerpt": "Freight broker Fura has acquired Road Dog Logistics, a truckload brokerage, expanding Fura's platform with an estimated $30 million in additional revenue.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "ftl"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "5450f515b811",
-   "title": "Perenco brings ‘complex’ North Sea P&A and infrastructure removal campaign to an end",
-   "link": "https://offshore-energy.biz/2026/10/20/perenco-brings-complex-north-sea-panda-and-infrastructure-removal-campaign-to-an-end",
-   "source": "offshoreenergy",
-   "published": "2026-10-20T14:10:33Z",
-   "seen": "2026-10-20T15:42:06Z",
-   "lang": "en",
-   "excerpt": "Perenco has wrapped up its decommissioning campaign, executing a P&A and infrastructure removal program in the UK North Sea.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "decommissioning"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "91eb4f27c833",
-   "title": "Australia Post expands freighter fleet ahead of holiday e-commerce rush",
-   "link": "https://www.freightwaves.com/news/australia-post-expands-freighter-fleet-ahead-of-holiday-e-commerce-rush",
-   "source": "freightwaves",
-   "published": "2026-10-20T14:05:55Z",
-   "seen": "2026-10-20T15:42:06Z",
-   "lang": "en",
-   "excerpt": "Qantas Freight and Australia Post are big proponents of the Airbus A321 converted freighter, which hasn’t gained widespread popularity.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
    "paywall": false
   }
  ]
