@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T21:48:10Z",
+ "updated": "2026-10-29T01:02:32Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren åpner konferanse om bærekraftig verdikjede og materialbruk i veibygging",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-konferanse-om-barekraftig-verdikjede-og-materialbruk-i-veibygging/id3183352/",
    "source": "regjeringen",
-   "published": "2026-10-28T21:48:10Z",
+   "published": "2026-10-29T02:00:00Z",
    "seen": "2026-10-26T09:52:05Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam åpner konferanse om bærekraftig verdikjede og materialbruk i vegbygging.",
@@ -18,70 +18,305 @@
    "policy": false,
    "level": "national",
    "terms": [],
-   "paywall": false,
-   "upcoming": true
-  },
-  {
-   "id": "c917d93e40aa",
-   "title": "Kai - en digital driftsleder",
-   "link": "https://www.mtlogistikk.no/flatestyring-future-driver-kai/kai-en-digital-driftsleder/1349342",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-28T21:03:10Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
-   "id": "fc296418d5e3",
-   "title": "Moderne Transportprisen til Jan Endre Vartdal og Marius Husabø Monsen",
-   "link": "https://www.mtlogistikk.no/moderne-transport-prisen-mowi-sjomatlogistikk/moderne-transportprisen-til-jan-endre-vartdal-og-marius-husabo-monsen/1339339",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-28T20:48:10Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "9d9d77521286",
-   "title": "Hver tredje nye går på el eller gass",
-   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-gasslastebiler-lastebil/hver-tredje-nye-gar-pa-el-eller-gass/1349834",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-28T20:33:10Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "fb719756d5d2",
+   "id": "a16004ebc952",
    "title": "Gordon setter inn tolv el-lastesykler i Oslo sentrum",
-   "link": "https://www.mtlogistikk.no/bylogistikk-el-lastesykler-gordon/gordon-setter-inn-tolv-el-lastesykler-i-oslo-sentrum/1350345",
+   "link": "https://www.mtlogistikk.no/bylogistikk-el-lastesykler-gordon/gordon-setter-inn-tolv-el-lastesykler-i-oslo-sentrum/1350321",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-28T20:18:10Z",
+   "seen": "2026-10-29T01:02:32Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "41325b0f4f4a",
+   "title": "Interessen for elektriske lastebiler er rekordhøy",
+   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-enova/interessen-for-elektriske-lastebiler-er-rekordhoy/1349851",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-29T00:32:32Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "electric-truck"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "8ada4e6f93a0",
+   "title": "Scan Global Logistics to acquire Oregon-based OIA Global",
+   "link": "https://www.freightwaves.com/news/scan-global-logistics-to-acquire-oregon-based-oia-global",
+   "source": "freightwaves",
+   "published": "2026-10-29T00:07:26Z",
+   "seen": "2026-10-29T01:02:32Z",
+   "lang": "en",
+   "excerpt": "Scan Global Logistics has agreed to acquire OIA Global, based in Portland, Oregon.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4b8cc91886bc",
+   "title": "Noatum Logistics doubles GCC truck fleet to over 850 vehicles",
+   "link": "https://container-news.com/noatum-logistics-doubles-gcc-truck-fleet-to-over-850-vehicles/",
+   "source": "containernews",
+   "published": "2026-10-29T00:00:10Z",
+   "seen": "2026-10-29T01:02:32Z",
+   "lang": "en",
+   "excerpt": "Noatum Logistics, the logistics arm of AD Ports Group, has doubled its trucking fleet to more than 850 vehicles as part of its expansion across the Middle East and Gulf Cooperation Council (GCC) markets.",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "addaf76e58c7",
+   "title": "Nigeria: Building on a Decade of Port Reform",
+   "link": "https://maritime-executive.com/article/nigeria-building-on-a-decade-of-port-reform",
+   "source": "marex",
+   "published": "2026-10-28T23:42:40Z",
+   "seen": "2026-10-29T01:02:32Z",
+   "lang": "en",
+   "excerpt": "A decade of sustained collaboration between government and the private sector has delivered tangible improvements in Nigeria’s ports. The next phase w...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "508b6ddebae4",
+   "title": "Aarhus Tests Denmark’s First Shore Power for Containerships",
+   "link": "https://maritime-executive.com/article/aarhus-tests-denmark-s-first-shore-power-for-containerships",
+   "source": "marex",
+   "published": "2026-10-28T23:41:28Z",
+   "seen": "2026-10-29T01:02:32Z",
+   "lang": "en",
+   "excerpt": "The Port of Aarhus in Denmark marked a milestone as it completed tests on the country’s first shore power for containerships with a trial docking. Off...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "09d45d3aaaa6",
+   "title": "Galveston Port Director Rees Appointed TPA President",
+   "link": "https://maritime-executive.com/article/galveston-port-director-rees-appointed-tpa-president",
+   "source": "marex",
+   "published": "2026-10-28T23:38:05Z",
+   "seen": "2026-10-29T01:02:32Z",
+   "lang": "en",
+   "excerpt": "[By: Port of GalvestonRodger Rees, Galveston Wharves port director and CEO, has been elected president of the Texas Ports Association (TPA) for a 2-ye...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "411606499d2d",
+   "title": "ASRY Completes Construction & Delivery of Two Self-Propelled Bunker Vessels",
+   "link": "https://maritime-executive.com/article/asry-completes-construction-delivery-of-two-self-propelled-bunker-vessels",
+   "source": "marex",
+   "published": "2026-10-28T23:33:28Z",
+   "seen": "2026-10-29T01:02:32Z",
+   "lang": "en",
+   "excerpt": "The Arab Shipbuilding and Repair Yard Company (ASRY) held an official ceremony to mark the successful completion, construction and delivery of two sel...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bunkers"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "2e1a30a85bfe",
+   "title": "U.S. Senator Calls Out Greek Shipowner Over Cargo of Russian Diesel",
+   "link": "https://maritime-executive.com/article/u-s-senator-calls-out-greek-shipowner-over-cargo-of-russian-diesel",
+   "source": "marex",
+   "published": "2026-10-28T23:31:09Z",
+   "seen": "2026-10-29T01:02:32Z",
+   "lang": "en",
+   "excerpt": "In recent years, tanker owners have grown used to government scrutiny and complex compliance requirements. Tanker movements are in the crosshairs in m...",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6551c93ef273",
+   "title": "Bulker Grounds as Severe Cyclone Comes Ashore in India",
+   "link": "https://maritime-executive.com/article/bulker-grounds-as-severe-cyclone-comes-ashore-in-india",
+   "source": "marex",
+   "published": "2026-10-28T23:05:36Z",
+   "seen": "2026-10-29T01:02:32Z",
+   "lang": "en",
+   "excerpt": "Indian officials are beginning to tally the damage after a severe cyclone came ashore early on Wednesday, interrupting most services and leading to mu...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dry-bulk"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "587fa7fbb5cd",
+   "title": "Hver tredje nye går på el eller gass",
+   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-gasslastebiler-gronn-omstilling/hver-tredje-nye-gar-pa-el-eller-gass/1349674",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-28T22:32:32Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c1a0607d89ea",
+   "title": "Equinor Blames US Shipbuilding Delays for Late Offshore Wind Installation",
+   "link": "https://maritime-executive.com/article/equinor-blames-us-shipbuilding-delays-for-late-offshore-wind-installation",
+   "source": "marex",
+   "published": "2026-10-28T22:27:07Z",
+   "seen": "2026-10-29T01:02:32Z",
+   "lang": "en",
+   "excerpt": "The Norwegian energy company Equinor told investors and the media on Wednesday that its offshore wind project, Empire Wind, is approximately 80 percen...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "offshore-wind"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "383a0a12a07f",
+   "title": "Aurora adds 500-truck Charger MOU toward 30,000-truck goal",
+   "link": "https://www.freightwaves.com/news/aurora-charger-logistics-500-driverless-trucks-mou",
+   "source": "freightwaves",
+   "published": "2026-10-28T21:50:06Z",
+   "seen": "2026-10-29T01:02:32Z",
+   "lang": "en",
+   "excerpt": "Aurora Innovation signed a nonbinding MOU with Charger Logistics for up to 500 driverless trucks, adding to a carrier-owned pipeline Aurora needs to hit its 2030 targets.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "7ca4a7ce3651",
+   "title": "Kai - en digital driftsleder",
+   "link": "https://www.mtlogistikk.no/flatestyring-future-driver-kai/kai-en-digital-driftsleder/1348966",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-28T21:47:32Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "93b711221825",
+   "title": "C.H Robinson and Landstar stock prices slammed; insurance a factor",
+   "link": "https://www.freightwaves.com/news/c-h-robinson-and-landstar-stock-prices-slammed-insurance-costs-a-factor",
+   "source": "freightwaves",
+   "published": "2026-10-28T21:40:55Z",
+   "seen": "2026-10-29T01:02:32Z",
+   "lang": "en",
+   "excerpt": "(Editor’s note: the initial article has been revised to note that the companies discussed increased claims, not insurance premiums). Strong financial numbers released between Tuesday and Wednesday by C.H.",
+   "segments": [
+    "road",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6c4c7f12ded5",
+   "title": "Moderne Transportprisen til Jan Endre Vartdal og Marius Husabø Monsen",
+   "link": "https://www.mtlogistikk.no/avrenning-moderne-transport-prisen-mowi/moderne-transportprisen-til-jan-endre-vartdal-og-marius-husabo-monsen/1349160",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-28T21:17:32Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -175,26 +410,6 @@
    "policy": false,
    "level": "international",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "7aa02e3d3a0d",
-   "title": "Interessen for elektriske lastebiler er rekordhøy",
-   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-enova/interessen-for-elektriske-lastebiler-er-rekordhoy/1349640",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-28T19:03:10Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "electric-truck"
-   ],
    "paywall": false
   },
   {
@@ -674,7 +889,7 @@
   },
   {
    "id": "b161195133a8",
-   "title": "Frst look: almost all good news at C.H. Robinson in the third quarter",
+   "title": "First look: almost all good news at C.H. Robinson in the third quarter",
    "link": "https://www.freightwaves.com/news/frst-look-almost-all-good-news-at-c-h-robinson-in-the-third-quarter",
    "source": "freightwaves",
    "published": "2026-10-28T12:35:19Z",
@@ -17923,227 +18138,6 @@
    "segments": [
     "freight",
     "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "d29b146374d8",
-   "title": "Bulgaria Recovers Drone Fragments from Ship Attack While Second Ship Sinks",
-   "link": "https://maritime-executive.com/article/bulgaria-recovers-drone-fragments-from-ship-attack-while-second-ship-sinks",
-   "source": "marex",
-   "published": "2026-10-20T17:07:07Z",
-   "seen": "2026-10-20T18:46:00Z",
-   "lang": "en",
-   "excerpt": "Salvage efforts are continuing after the series of vessel attacks off the coast of Bulgaria in the Black Sea. Officials are now reporting that drone f...",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "salvage"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "819b3042184e",
-   "title": "Neptune Group Welcomes “NIKOS TRAVLOS”",
-   "link": "https://www.hellenicshippingnews.com/neptune-group-welcomes-nikos-travlos/",
-   "source": "hsn",
-   "published": "2026-10-20T17:00:59Z",
-   "seen": "2026-10-20T18:46:00Z",
-   "lang": "en",
-   "excerpt": "The Neptune Group took delivery of the newly built “NIKOS TRAVLOS” at the Fujian Mawei shipyard in China, the second vessel of the expanded Genesis Project.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "car-carrier"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "e965f1576da4",
-   "title": "Blue Autonomy opens an online academy for ship performance professionals",
-   "link": "https://www.hellenicshippingnews.com/blue-autonomy-opens-an-online-academy-for-ship-performance-professionals/",
-   "source": "hsn",
-   "published": "2026-10-20T17:00:57Z",
-   "seen": "2026-10-20T18:46:00Z",
-   "lang": "en",
-   "excerpt": "Blue Autonomy today opened the Blue Autonomy Academy (academy.blueautonomy.gr), an online school of 39 self-paced courses on vessel performance, maritime data and the regulations that price them.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "91f08022583f",
-   "title": "Bidding Announcement of 15783t Bulk Carrier “ZJ2026-0270”",
-   "link": "https://www.hellenicshippingnews.com/bidding-announcement-of-15783t-bulk-carrier-zj2026-0270/",
-   "source": "hsn",
-   "published": "2026-10-20T17:00:55Z",
-   "seen": "2026-10-20T18:46:00Z",
-   "lang": "en",
-   "excerpt": "Entrusted by the transferor (the Sellers), our company (the “Bidding Company”) is scheduled to hold an online public bidding (the “Bidding”) on the Shipbid website (www.shipbid.net) from 15:00 to 15:30 (Beijing Time) on November 10th, 2026 …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "dry-bulk"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "6642485b3139",
-   "title": "Athenian Shipbrokers S.A. DEMOLITION QUICK UPDATE Week 42, 2026",
-   "link": "https://www.hellenicshippingnews.com/athenian-shipbrokers-s-a-demolition-quick-update-week-42-2026/",
-   "source": "hsn",
-   "published": "2026-10-20T17:00:54Z",
-   "seen": "2026-10-20T18:46:00Z",
-   "lang": "en",
-   "excerpt": "Athenian Shipbrokers SA Ship Recycling Weekly Report",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "shipbroker",
-    "recycling"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "0a677ba36188",
-   "title": "Family businesses Amer Shipping and Van de Graaf & Meeusen establish Belgian chartering office TriBarge",
-   "link": "https://www.hellenicshippingnews.com/family-businesses-amer-shipping-and-van-de-graaf-meeusen-establish-belgian-chartering-office-tribarge/",
-   "source": "hsn",
-   "published": "2026-10-20T17:00:53Z",
-   "seen": "2026-10-20T18:46:00Z",
-   "lang": "en",
-   "excerpt": "Inland shipping companies Amer Shipping BV and Van de Graaf & Meeusen BV have established an independent Belgian chartering office: TriBarge.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "1664245980dd",
-   "title": "M/V Espírito Santo Express Incident",
-   "link": "https://www.hellenicshippingnews.com/m-v-espirito-santo-express-incident/",
-   "source": "hsn",
-   "published": "2026-10-20T17:00:51Z",
-   "seen": "2026-10-20T18:46:00Z",
-   "lang": "en",
-   "excerpt": "We are writing to inform you about a severe casualty involving the container ship M/V Espírito Santo Express (IMO: 9793923), operated by Hapag-Lloyd / Seaspan.",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "liner",
-    "imo"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "eda7eb756a05",
-   "title": "Wärtsilä Engines selected for two additional inland waterway tugs in Brazil",
-   "link": "https://www.hellenicshippingnews.com/wartsila-engines-selected-for-two-additional-inland-waterway-tugs-in-brazil/",
-   "source": "hsn",
-   "published": "2026-10-20T17:00:49Z",
-   "seen": "2026-10-20T18:46:00Z",
-   "lang": "en",
-   "excerpt": "Technology group Wärtsilä will supply the engines for two new inland waterway pusher tugs being built by Brazilian shipyard Estaleiro Rio Maguari.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "6bfd208322ed",
-   "title": "South Korean Oil Tanker Takes Red Sea Detour",
-   "link": "https://www.hellenicshippingnews.com/south-korean-oil-tanker-takes-red-sea-detour/",
-   "source": "hsn",
-   "published": "2026-10-20T17:00:47Z",
-   "seen": "2026-10-20T18:46:00Z",
-   "lang": "en",
-   "excerpt": "Amid the Iran war and the closure of the Strait of Hormuz, a 19th South Korean oil tanker is transporting crude oil to South Korea via a Red Sea detour. The Ministry of Oceans and Fisheries announced that as of 10 a.m. on Oct.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "516e90573e32",
-   "title": "Typhoon Champi causes halt in bunker operations at Zhoushan’s outer anchorages",
-   "link": "https://www.hellenicshippingnews.com/typhoon-champi-causes-halt-in-bunker-operations-at-zhoushans-outer-anchorages/",
-   "source": "hsn",
-   "published": "2026-10-20T17:00:45Z",
-   "seen": "2026-10-20T18:46:00Z",
-   "lang": "en",
-   "excerpt": "Bunker operations at Zhoushan’s outer Tiaozhoumen and Xiazhimen anchorages have been suspended today because of rough weather brought by Typhoon Champi, according to a source.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bunkers"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "e3320c1b8975",
-   "title": "Pilbara Ports hosts global maritime leaders",
-   "link": "https://www.hellenicshippingnews.com/pilbara-ports-hosts-global-maritime-leaders/",
-   "source": "hsn",
-   "published": "2026-10-20T17:00:43Z",
-   "seen": "2026-10-20T18:46:00Z",
-   "lang": "en",
-   "excerpt": "Western Australia is taking centre stage in global maritime safety and collaboration, with Pilbara Ports hosting the 2026 Safe Ships Safe Ports Forum this week.",
-   "segments": [
-    "freight"
    ],
    "subs": [],
    "policy": false,
