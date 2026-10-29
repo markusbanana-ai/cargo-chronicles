@@ -1,7 +1,296 @@
 {
- "updated": "2026-10-29T18:57:46Z",
+ "updated": "2026-10-29T21:50:04Z",
  "sample": false,
  "articles": [
+  {
+   "id": "a16004ebc952",
+   "title": "Gordon setter inn tolv el-lastesykler i Oslo sentrum",
+   "link": "https://www.mtlogistikk.no/bylogistikk-el-lastesykler-gordon/gordon-setter-inn-tolv-el-lastesykler-i-oslo-sentrum/1350321",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-29T21:50:04Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "73b77a0df8f0",
+   "title": "First look: TFI Truckload sparkles, but OR at LTL slips",
+   "link": "https://www.freightwaves.com/news/first-look-tfi-truckload-sparkles-but-or-at-ltl-slips",
+   "source": "freightwaves",
+   "published": "2026-10-29T21:38:24Z",
+   "seen": "2026-10-29T21:50:04Z",
+   "lang": "en",
+   "excerpt": "TFI International has tried to get investors to take notice of its Truckload operations, which are substantial but smaller than its more better-known LTL segment.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ftl",
+    "ltl"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "b3a9702decc5",
+   "title": "First look: Covenant Logistics’ Q3 freight revenue surges 68%",
+   "link": "https://www.freightwaves.com/news/first-look-covenant-logistics-q3-freight-revenue-surges-68",
+   "source": "freightwaves",
+   "published": "2026-10-29T21:15:36Z",
+   "seen": "2026-10-29T21:50:04Z",
+   "lang": "en",
+   "excerpt": "Covenant Logistics Group reported a 19.2% increase in third-quarter revenue to $353.9 million, fueled by rapid growth in its managed freight segment.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "covenant"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "609c8ff4e9e9",
+   "title": "Southern Tyrrhenian and Ionian Sea port authority approves 2027 budget",
+   "link": "https://container-news.com/southern-tyrrhenian-and-ionian-sea-port-authority-approves-2027-budget/",
+   "source": "containernews",
+   "published": "2026-10-29T21:00:35Z",
+   "seen": "2026-10-29T21:50:04Z",
+   "lang": "en",
+   "excerpt": "The Management Committee of the Southern Tyrrhenian and Ionian Sea Port System Authority has adopted the 2027 Budget forecast and the 2027-2029 Three-Year Public Works Programme, outlining a significant investment programme across the …",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "04b6166dea55",
+   "title": "How transportation leaders are turning AI and connected data into a competitive edge",
+   "link": "https://www.freightwaves.com/news/how-transportation-leaders-are-turning-ai-and-connected-data-into-a-competitive-edge",
+   "source": "freightwaves",
+   "published": "2026-10-29T20:39:40Z",
+   "seen": "2026-10-29T21:50:04Z",
+   "lang": "en",
+   "excerpt": "AI is gaining ground in transportation, but are companies actually turning that potential into results? As supply chains face constant disruption, rising expectations and growing pressure to make faster decisions, the gap between adopting …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5460f3e8403d",
+   "title": "More Than 100 Lawmakers Push to Include SHIPS for America Act in Defense Bill",
+   "link": "https://gcaptain.com/more-than-100-lawmakers-push-to-include-ships-for-america-act-in-defense-bill/",
+   "source": "gcaptain",
+   "published": "2026-10-29T20:10:45Z",
+   "seen": "2026-10-29T21:50:04Z",
+   "lang": "en",
+   "excerpt": "A bipartisan group of 119 lawmakers is urging congressional leaders to preserve and expand provisions of the SHIPS for America Act in the final fiscal year 2027 National Defense Authorization...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "23610a0bd30c",
+   "title": "C.H. Robinson Q3 revenue rises 29.5% as Global Forwarding grows",
+   "link": "https://container-news.com/c-h-robinson-q3-revenue-rises-29-5-as-global-forwarding-grows/",
+   "source": "containernews",
+   "published": "2026-10-29T20:00:16Z",
+   "seen": "2026-10-29T21:50:04Z",
+   "lang": "en",
+   "excerpt": "C.H. Robinson reported revenue of $5.4 billion in the third quarter of 2026, up 29.5% from the same period last year. The logistics company also recorded higher freight volumes and improved profitability across its main business divisions.",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "d30dd73080f5",
+   "title": "FedEx cashes in on premium logistics services, fuel surcharges",
+   "link": "https://www.freightwaves.com/news/fedex-cashes-in-on-premium-logistics-services-fuel-surcharges",
+   "source": "freightwaves",
+   "published": "2026-10-29T19:49:41Z",
+   "seen": "2026-10-29T21:50:04Z",
+   "lang": "en",
+   "excerpt": "FedEx posted positive third quarter results on volume growth and better pricing and anticipates a strong peak season.",
+   "segments": [
+    "road",
+    "finance",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "fuel-surcharge"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "559e5887574e",
+   "title": "The morning after: what December’s IMO vote means for a fixture",
+   "link": "https://splash247.com/the-morning-after-what-decembers-imo-vote-means-for-a-fixture/",
+   "source": "splash",
+   "published": "2026-10-29T19:47:00Z",
+   "seen": "2026-10-29T21:50:04Z",
+   "lang": "en",
+   "excerpt": "Whatever the IMO decides in December, a broker will price a dry bulk trip the next morning. The vote changes which line of that fixture carries the carbon, and how much. Argyris Zafeiropoulos from Resilience & Compliance Advisory explains.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "imo",
+    "fixture",
+    "dry-bulk",
+    "baltic-exchange",
+    "dwt"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "19af88b42611",
+   "title": "Saia’s expanded terminal network delivers record revenue, tonnage",
+   "link": "https://www.freightwaves.com/news/saias-expanded-terminal-network-delivers-record-revenue-tonnage",
+   "source": "freightwaves",
+   "published": "2026-10-29T19:36:42Z",
+   "seen": "2026-10-29T21:50:04Z",
+   "lang": "en",
+   "excerpt": "Less-than-truckload carrier Saia achieved record revenue and tonnage in the third quarter by leveraging its expanded terminal network, with operational focus now shifting toward optimizing performance at these new locations.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ltl"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "9f7b59fbef13",
+   "title": "Port of Auckland welcomes new pilot vessel",
+   "link": "https://container-news.com/port-of-auckland-welcomes-new-pilot-vessel/",
+   "source": "containernews",
+   "published": "2026-10-29T19:00:14Z",
+   "seen": "2026-10-29T21:50:04Z",
+   "lang": "en",
+   "excerpt": "Port of Auckland’s new pilot vessel Te Ihu has entered the Waitematā Harbour for the first time, completing a four-day sailing across the Tasman Sea after arriving into New Zealand via Opua in the Bay of Islands.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "62531f2fdbe4",
+   "title": "Greek Containership Sunk by Naval Drones Off Bulgaria as Black Sea Attacks Escalate",
+   "link": "https://gcaptain.com/greek-containership-sunk-by-naval-drones-off-bulgaria-as-black-sea-attacks-escalate/",
+   "source": "gcaptain",
+   "published": "2026-10-29T18:58:10Z",
+   "seen": "2026-10-29T21:50:04Z",
+   "lang": "en",
+   "excerpt": "A Greek container ship has sunk after being hit by naval drones off Bulgaria on Wednesday, the Bulgarian government said, in the latest of a series of strikes in the western Black Sea this month that have raised concerns about the widening …",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "8a2ccc044f98",
+   "title": "Wallenius Wilhelmsen Orders Up to 12 LNG-Powered Car Carriers in $1.5 Billion Fleet Expansion",
+   "link": "https://gcaptain.com/wallenius-wilhelmsen-orders-up-to-12-lng-powered-car-carriers-in-1-5-billion-fleet-expansion/",
+   "source": "gcaptain",
+   "published": "2026-10-29T18:43:05Z",
+   "seen": "2026-10-29T21:50:04Z",
+   "lang": "en",
+   "excerpt": "Wallenius Wilhelmsen is expanding its fleet renewal program with an order for four new dual-fuel car carriers and options for eight more, potentially adding 12 vessels in a deal valued...",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "lng",
+    "car-carrier",
+    "dual-fuel"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "faf41fcc10d7",
+   "title": "Why container rates are climbing despite cooling demand",
+   "link": "https://www.freightwaves.com/news/why-container-rates-are-climbing-despite-cooling-demand",
+   "source": "freightwaves",
+   "published": "2026-10-29T18:39:34Z",
+   "seen": "2026-10-29T21:50:04Z",
+   "lang": "en",
+   "excerpt": "Container freight rates climb on major Asia-Europe and trans-Pacific routes despite signs of cooling demand.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
   {
    "id": "f05ac0e2e38c",
    "title": "QatarEnergy Continues LNG Buying Spree to Hedge Future Hormuz Disruptions",
@@ -467,24 +756,6 @@
    "paywall": false
   },
   {
-   "id": "fb719756d5d2",
-   "title": "Gordon setter inn tolv el-lastesykler i Oslo sentrum",
-   "link": "https://www.mtlogistikk.no/bylogistikk-el-lastesykler-gordon/gordon-setter-inn-tolv-el-lastesykler-i-oslo-sentrum/1350345",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-29T15:57:46Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "c7c2cf11ceff",
    "title": "Cheniere LNG Shipments Surge as Iran War Reshapes Global Gas Trade",
    "link": "https://gcaptain.com/cheniere-lng-shipments-surge-as-iran-war-reshapes-global-gas-trade/",
@@ -725,6 +996,24 @@
     "bdi",
     "baltic-exchange"
    ],
+   "paywall": false
+  },
+  {
+   "id": "d5468867bfce",
+   "title": "Automatisering løser tollfloken for flybåren netthandel",
+   "link": "https://www.mtlogistikk.no/descartes-flytransport-ics2/automatisering-loser-tollfloken-for-flybaren-netthandel/1342621",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-29T12:50:04Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
    "paywall": false
   },
   {
@@ -17906,284 +18195,6 @@
    "level": "international",
    "terms": [
     "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "8e4513e8f7c9",
-   "title": "US government backs Port MacKenzie rail connection",
-   "link": "https://container-news.com/us-government-backs-port-mackenzie-rail-connection/",
-   "source": "containernews",
-   "published": "2026-10-21T17:00:05Z",
-   "seen": "2026-10-21T18:47:18Z",
-   "lang": "en",
-   "excerpt": "The US Department of Transportation has awarded nearly US$250 million to the Alaska Railroad Corporation for the construction of a new freight rail connection to Port MacKenzie.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "9c3e32fecee9",
-   "title": "UK Approves Long-delayed Jackdaw Gas Field on Energy Security Grounds",
-   "link": "https://gcaptain.com/uk-approves-long-delayed-jackdaw-gas-field-on-energy-security-grounds/",
-   "source": "gcaptain",
-   "published": "2026-10-21T16:56:06Z",
-   "seen": "2026-10-21T18:47:18Z",
-   "lang": "en",
-   "excerpt": "LONDON, Oct 21 (Reuters) – Britain on Wednesday approved the Jackdaw North Sea gas field, ending years of legal and political wrangling as the Labour government seeks to balance its climate goals...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "db3f8ef0dfa6",
-   "title": "IEA: Gulf Oil Shipping Costs Top $37 Per Barrel, Five Times Pre-War Levels",
-   "link": "https://gcaptain.com/iea-gulf-oil-shipping-costs-top-37-per-barrel-five-times-pre-war-levels/",
-   "source": "gcaptain",
-   "published": "2026-10-21T16:29:04Z",
-   "seen": "2026-10-21T18:47:18Z",
-   "lang": "en",
-   "excerpt": "The cost of shipping crude oil from the Middle East Gulf to Asia has surged to more than $37 per barrel, over five times prewar levels, as an increasingly complex...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "40dcd6fdeb81",
-   "title": "RCL introduces UAE advance filing surcharge",
-   "link": "https://container-news.com/rcl-introduces-uae-advance-filing-surcharge/",
-   "source": "containernews",
-   "published": "2026-10-21T16:00:34Z",
-   "seen": "2026-10-21T18:47:18Z",
-   "lang": "en",
-   "excerpt": "Regional Container Lines (RCL) will introduce an Advance Filing Surcharge as part of its compliance with the United Arab Emirates’ Maritime Preload Cargo Information (MPCI) programme.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "liner"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "2ab480d0c30d",
-   "title": "New York short line wins $11.2 million federal rail grant",
-   "link": "https://www.freightwaves.com/news/new-york-short-line-wins-11-2-million-federal-rail-grant",
-   "source": "freightwaves",
-   "published": "2026-10-21T15:45:29Z",
-   "seen": "2026-10-21T18:47:18Z",
-   "lang": "en",
-   "excerpt": "Ontario Midland Railroad won an $11.2 million federal grant to upgrade track and crossings in New York state.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "55956da4731b",
-   "title": "Two More Tankers Struck as Maritime Attacks Spread Across Persian Gulf",
-   "link": "https://gcaptain.com/two-more-tankers-struck-as-maritime-attacks-spread-across-persian-gulf/",
-   "source": "gcaptain",
-   "published": "2026-10-21T15:12:23Z",
-   "seen": "2026-10-21T15:43:59Z",
-   "lang": "en",
-   "excerpt": "Two more tankers have been struck by unidentified projectiles in separate incidents near the Strait of Hormuz and in the northern Persian Gulf, adding to a growing series of attacks...",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "81ff0005b81e",
-   "title": "Maersk reports further East Asia network recovery",
-   "link": "https://container-news.com/maersk-reports-further-east-asia-network-recovery/",
-   "source": "containernews",
-   "published": "2026-10-21T15:00:27Z",
-   "seen": "2026-10-21T15:43:59Z",
-   "lang": "en",
-   "excerpt": "Maersk has reported further progress in the recovery of its East Asia network following disruption caused by the region’s typhoon season.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "congestion"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "31d6f4fc6418",
-   "title": "Why More Fleets Are Looking at Captives",
-   "link": "https://www.freightwaves.com/news/why-more-fleets-are-looking-at-captives",
-   "source": "freightwaves",
-   "published": "2026-10-21T14:58:34Z",
-   "seen": "2026-10-21T15:43:59Z",
-   "lang": "en",
-   "excerpt": "Commercial auto liability hasn’t turned a real underwriting profit in over a decade, and that math is pushing more fleets toward captives and other alternative risk structures.",
-   "segments": [
-    "road",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "underwriter"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "45f856d46696",
-   "title": "Phillips Connect moves trailer sensor alerts into the yard",
-   "link": "https://www.freightwaves.com/news/phillips-connect-insights-trailersignal-launch",
-   "source": "freightwaves",
-   "published": "2026-10-21T14:57:54Z",
-   "seen": "2026-10-21T15:43:59Z",
-   "lang": "en",
-   "excerpt": "Phillips Connect launched two smart trailer products Sunday at the American Trucking Associations’ Management Conference & Exhibition in Charlotte, North Carolina. Insights reads trailer sensor data to diagnose tire and lighting problems.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "2b1c67e03461",
-   "title": "Over 500 piles lay the foundation for Poland’s floating LNG terminal (Gallery)",
-   "link": "https://offshore-energy.biz/2026/10/21/over-500-piles-lay-the-foundation-for-polands-floating-lng-terminal-gallery",
-   "source": "offshoreenergy",
-   "published": "2026-10-21T14:34:01Z",
-   "seen": "2026-10-21T15:43:59Z",
-   "lang": "en",
-   "excerpt": "Poland has hit a new milestone in its energy independence journey, completing the foundational piling for the new FSRU terminal in Gdańsk.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "fsru"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "ea05e756009a",
-   "title": "Union Pacific CFO to retire",
-   "link": "https://www.freightwaves.com/news/union-pacific-cfo-to-retire",
-   "source": "freightwaves",
-   "published": "2026-10-21T14:18:45Z",
-   "seen": "2026-10-21T15:43:59Z",
-   "lang": "en",
-   "excerpt": "Union Pacific CFO Jennifer Hamann will retire after 35 years with the railroad.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "c0a620f4b859",
-   "title": "Port of Corpus Christi sets nine-month cargo record in 2026",
-   "link": "https://container-news.com/port-of-corpus-christi-sets-nine-month-cargo-record-in-2026/",
-   "source": "containernews",
-   "published": "2026-10-21T13:57:45Z",
-   "seen": "2026-10-21T15:43:59Z",
-   "lang": "en",
-   "excerpt": "The Port of Corpus Christi recorded its highest cargo throughput for the first nine months of 2026, handling 162.7 million tons of commodities through the Corpus Christi Ship Channel.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk",
-    "gas",
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "e9e514b84965",
-   "title": "How the Maritime Industry Will Unlock the Value of AI",
-   "link": "https://maritime-executive.com/article/how-the-maritime-industry-will-unlock-the-value-of-ai",
-   "source": "marex",
-   "published": "2026-10-21T13:49:58Z",
-   "seen": "2026-10-21T15:43:59Z",
-   "lang": "en",
-   "excerpt": "Every industry has spent the past few years moving Artificial Intelligence into daily operations. Mining, aviation, construction and energy companies...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "2142ed10e322",
-   "title": "CSX eliminates more than 100 management positions",
-   "link": "https://www.freightwaves.com/news/csx-eliminates-more-than-100-management-positions",
-   "source": "freightwaves",
-   "published": "2026-10-21T13:41:19Z",
-   "seen": "2026-10-21T15:43:59Z",
-   "lang": "en",
-   "excerpt": "Management layoffs mark railroad’s engineering department restructuring.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "restructuring"
    ],
    "paywall": false
   }
