@@ -1,7 +1,157 @@
 {
- "updated": "2026-10-29T01:02:32Z",
+ "updated": "2026-10-29T03:53:46Z",
  "sample": false,
  "articles": [
+  {
+   "id": "81d90ffcfc2e",
+   "title": "AI in Logistics: The End of Bad Truckload Routes?",
+   "link": "https://www.freightwaves.com/news/ai-in-logistics-the-end-of-bad-truckload-routes",
+   "source": "freightwaves",
+   "published": "2026-10-29T03:45:36Z",
+   "seen": "2026-10-29T03:53:46Z",
+   "lang": "en",
+   "excerpt": "Kuebix AI is here to streamline your shipper TMS operations. FreightWise CEO Chris Cochran explains how their new AI-enabled platform, built from a legacy Kuebix system, is disrupting traditional logistics by offering an “order to pay” …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ftl",
+    "shipper-consignee"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "c64cb7f1755b",
+   "title": "AI ROI: Why 90% Satisfaction Still Means Leaders Want MORE!",
+   "link": "https://www.freightwaves.com/news/ai-roi-why-90-satisfaction-still-means-leaders-want-more",
+   "source": "freightwaves",
+   "published": "2026-10-29T03:41:55Z",
+   "seen": "2026-10-29T03:53:46Z",
+   "lang": "en",
+   "excerpt": "A new Sparq report reveals a surprising trend: most transportation and logistics leaders are satisfied with their AI and technology investments, with 90% reporting met or exceeded ROI expectations.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "7f94797ed036",
+   "title": "Strike Damage Confirmed at Giant Saudi Refinery Complex",
+   "link": "https://maritime-executive.com/article/strike-damage-confirmed-at-giant-saudi-refinery-complex",
+   "source": "marex",
+   "published": "2026-10-29T03:25:35Z",
+   "seen": "2026-10-29T03:53:46Z",
+   "lang": "en",
+   "excerpt": "Commercially-available satellite imaging reveals that the Houthi missile strike on the giant oil export hub of Ras Tanura hit a critical component of...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c917d93e40aa",
+   "title": "Kai - en digital driftsleder",
+   "link": "https://www.mtlogistikk.no/flatestyring-future-driver-kai/kai-en-digital-driftsleder/1349342",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-29T03:08:46Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "fc296418d5e3",
+   "title": "Moderne Transportprisen til Jan Endre Vartdal og Marius Husabø Monsen",
+   "link": "https://www.mtlogistikk.no/moderne-transport-prisen-mowi-sjomatlogistikk/moderne-transportprisen-til-jan-endre-vartdal-og-marius-husabo-monsen/1339339",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-29T02:53:46Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "9d9d77521286",
+   "title": "Hver tredje nye går på el eller gass",
+   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-gasslastebiler-lastebil/hver-tredje-nye-gar-pa-el-eller-gass/1349834",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-29T02:38:46Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "fb719756d5d2",
+   "title": "Gordon setter inn tolv el-lastesykler i Oslo sentrum",
+   "link": "https://www.mtlogistikk.no/bylogistikk-el-lastesykler-gordon/gordon-setter-inn-tolv-el-lastesykler-i-oslo-sentrum/1350345",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-29T02:23:46Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f63c67d5081c",
+   "title": "Patrick Terminals launches digital app for truck drivers",
+   "link": "https://container-news.com/patrick-terminals-launches-digital-app-for-truck-drivers/",
+   "source": "containernews",
+   "published": "2026-10-29T02:00:34Z",
+   "seen": "2026-10-29T03:53:46Z",
+   "lang": "en",
+   "excerpt": "Patrick Terminals has launched Patrick Connect, a new mobile application designed to provide truck drivers with real-time information and operational guidance during visits to its container terminals in Australia.",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
   {
    "id": "fce14f409f60",
    "title": "Samferdselsministeren åpner konferanse om bærekraftig verdikjede og materialbruk i veibygging",
@@ -21,30 +171,12 @@
    "paywall": false
   },
   {
-   "id": "a16004ebc952",
-   "title": "Gordon setter inn tolv el-lastesykler i Oslo sentrum",
-   "link": "https://www.mtlogistikk.no/bylogistikk-el-lastesykler-gordon/gordon-setter-inn-tolv-el-lastesykler-i-oslo-sentrum/1350321",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-29T01:02:32Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "41325b0f4f4a",
+   "id": "7aa02e3d3a0d",
    "title": "Interessen for elektriske lastebiler er rekordhøy",
-   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-enova/interessen-for-elektriske-lastebiler-er-rekordhoy/1349851",
+   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-enova/interessen-for-elektriske-lastebiler-er-rekordhoy/1349640",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-29T00:32:32Z",
+   "seen": "2026-10-29T01:08:46Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -218,24 +350,6 @@
    "paywall": false
   },
   {
-   "id": "587fa7fbb5cd",
-   "title": "Hver tredje nye går på el eller gass",
-   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-gasslastebiler-gronn-omstilling/hver-tredje-nye-gar-pa-el-eller-gass/1349674",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-28T22:32:32Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "c1a0607d89ea",
    "title": "Equinor Blames US Shipbuilding Delays for Late Offshore Wind Installation",
    "link": "https://maritime-executive.com/article/equinor-blames-us-shipbuilding-delays-for-late-offshore-wind-installation",
@@ -274,24 +388,6 @@
    "paywall": false
   },
   {
-   "id": "7ca4a7ce3651",
-   "title": "Kai - en digital driftsleder",
-   "link": "https://www.mtlogistikk.no/flatestyring-future-driver-kai/kai-en-digital-driftsleder/1348966",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-28T21:47:32Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "93b711221825",
    "title": "C.H Robinson and Landstar stock prices slammed; insurance a factor",
    "link": "https://www.freightwaves.com/news/c-h-robinson-and-landstar-stock-prices-slammed-insurance-costs-a-factor",
@@ -307,24 +403,6 @@
    "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "6c4c7f12ded5",
-   "title": "Moderne Transportprisen til Jan Endre Vartdal og Marius Husabø Monsen",
-   "link": "https://www.mtlogistikk.no/avrenning-moderne-transport-prisen-mowi/moderne-transportprisen-til-jan-endre-vartdal-og-marius-husabo-monsen/1349160",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-28T21:17:32Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18064,85 +18142,6 @@
     "reefer",
     "ftl"
    ],
-   "paywall": false
-  },
-  {
-   "id": "0763206c3259",
-   "title": "Bot Auto’s Secret to an Affordable Future",
-   "link": "https://www.freightwaves.com/news/bot-autos-secret-to-an-affordable-future",
-   "source": "freightwaves",
-   "published": "2026-10-20T17:55:18Z",
-   "seen": "2026-10-20T18:46:00Z",
-   "lang": "en",
-   "excerpt": "Bot Auto’s President & COO, Brett Suma, explains how their unique foundational model and advanced software, developed by an AI-first team, slashed the cost of autonomous driving systems to just $50,000 per truck.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "670af406bda0",
-   "title": "Diesel Prices: Up, Down, or Stuck?",
-   "link": "https://www.freightwaves.com/news/diesel-prices-up-down-or-stuck",
-   "source": "freightwaves",
-   "published": "2026-10-20T17:53:35Z",
-   "seen": "2026-10-20T18:46:00Z",
-   "lang": "en",
-   "excerpt": "FreightWaves editor-at-large John Kingston breaks down the latest diesel price trends and the bombshell $700M nuclear verdict against CH Robinson.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "256509d857c3",
-   "title": "Iran Claims More Tankers Hit Mines in Hormuz, But Evidence Remains Elusive",
-   "link": "https://gcaptain.com/iran-claims-more-tankers-hit-mines-in-hormuz-but-evidence-remains-elusive/",
-   "source": "gcaptain",
-   "published": "2026-10-20T17:46:36Z",
-   "seen": "2026-10-20T21:41:06Z",
-   "lang": "en",
-   "excerpt": "Iran’s Revolutionary Guards claimed Tuesday that a supertanker caught fire after striking a naval mine south of the Strait of Hormuz, adding to a series of similar claims that have...",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint",
-    "vlcc"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "433569016cc6",
-   "title": "After 354 Accidents, Shipping Industry Urged to Rethink Enclosed Space Safety",
-   "link": "https://gcaptain.com/after-354-accidents-shipping-industry-urged-to-rethink-enclosed-space-safety/",
-   "source": "gcaptain",
-   "published": "2026-10-20T17:27:47Z",
-   "seen": "2026-10-20T18:46:00Z",
-   "lang": "en",
-   "excerpt": "A new survey of more than 900 seafarers has exposed a persistent gap between safety procedures and the realities of working aboard ships, prompting renewed calls for action to prevent...",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
    "paywall": false
   }
  ]
