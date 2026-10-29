@@ -1,7 +1,182 @@
 {
- "updated": "2026-10-29T13:03:01Z",
+ "updated": "2026-10-29T15:59:36Z",
  "sample": false,
  "articles": [
+  {
+   "id": "dd686feddaef",
+   "title": "What the Mastio Rankings Actually Tell Shippers",
+   "link": "https://www.freightwaves.com/news/what-the-mastio-rankings-actually-tell-shippers",
+   "source": "freightwaves",
+   "published": "2026-10-29T14:41:03Z",
+   "seen": "2026-10-29T15:59:36Z",
+   "lang": "en",
+   "excerpt": "When a shipper puts an LTL lane out to bid, price is the number everyone can compare in five minutes. Price, however, doesn’t say much about what happens six months into the contract.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "shipper-consignee",
+    "ltl"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "07c61646e11d",
+   "title": "Fatal rig incident: Search still underway for two missing workers off Gabon",
+   "link": "https://offshore-energy.biz/2026/10/29/fatal-rig-incident-search-still-underway-for-two-missing-workers-off-gabon",
+   "source": "offshoreenergy",
+   "published": "2026-10-29T14:40:24Z",
+   "seen": "2026-10-29T15:59:36Z",
+   "lang": "en",
+   "excerpt": "Borr Drilling continues the search for two people who remain unaccounted for after its rig sank, while supporting affected personnel and families.",
+   "segments": [
+    "insurance",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "rig"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "89baec463308",
+   "title": "9 alleged Mexican Cartel associates arrested in California train theft ring",
+   "link": "https://www.freightwaves.com/news/9-alleged-mexican-cartel-associates-arrested-in-california-train-theft-ring",
+   "source": "freightwaves",
+   "published": "2026-10-29T14:09:44Z",
+   "seen": "2026-10-29T15:59:36Z",
+   "lang": "en",
+   "excerpt": "Nine men allegedly connected to Mexico's Sinaloa Cartel were arrested in Southern California as part of a cargo train theft operation.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lou"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "56dea509ec0e",
+   "title": "Maersk–APM signs concession for new Tanger Med 3 terminal",
+   "link": "https://container-news.com/maersk-apm-signs-concession-for-new-tanger-med-3-terminal/",
+   "source": "containernews",
+   "published": "2026-10-29T14:00:14Z",
+   "seen": "2026-10-29T15:59:36Z",
+   "lang": "en",
+   "excerpt": "Maersk–APM has signed a concession agreement to develop a new container terminal at Tanger Med 3 in Morocco. The agreement was announced by Morocco’s Royal Cabinet following a working session chaired by King Mohammed VI at the Royal Palace …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6261b462c1d7",
+   "title": "Trailer Bridge appoints new CEO",
+   "link": "https://www.freightwaves.com/news/trailer-bridge-appoints-new-ceo",
+   "source": "freightwaves",
+   "published": "2026-10-29T13:53:23Z",
+   "seen": "2026-10-29T15:59:36Z",
+   "lang": "en",
+   "excerpt": "Leading Jones Act carrier Trailer Bridge has appointed a new CEO.",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "jones-act"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "0f8ec0b86645",
+   "title": "CO2 storage appraisal campaign in UK North Sea yields positive results",
+   "link": "https://offshore-energy.biz/2026/10/29/co2-storage-appraisal-campaign-in-uk-north-sea-yields-positive-results",
+   "source": "offshoreenergy",
+   "published": "2026-10-29T13:44:32Z",
+   "seen": "2026-10-29T15:59:36Z",
+   "lang": "en",
+   "excerpt": "The Northern Endurance Partnership (NEP), a joint venture of BP, Equinor and TotalEnergies, has completed an appraisal program offshore the UK...",
+   "segments": [
+    "finance",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "ccs"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "5618b4dd4576",
+   "title": "Contship Jet sinks after drone attack in Black Sea, all 18 crew rescued",
+   "link": "https://container-news.com/contship-jet-sinks-after-drone-attack-in-black-sea-all-18-crew-rescued/",
+   "source": "containernews",
+   "published": "2026-10-29T13:24:47Z",
+   "seen": "2026-10-29T15:59:36Z",
+   "lang": "en",
+   "excerpt": "The Liberian-flagged containership Contship Jet has sunk in the Black Sea after being struck by three maritime drones off the Bulgarian coast on 28 October, with all 18 crew members successfully rescued, according to Bulgarian authorities.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "fdea6fb280cd",
+   "title": "MOL and Deutsche ReGas shake hands on FSRU for German LNG terminal",
+   "link": "https://offshore-energy.biz/2026/10/29/mol-and-deutsche-regas-shake-hands-on-fsru-for-german-lng-terminal",
+   "source": "offshoreenergy",
+   "published": "2026-10-29T13:09:40Z",
+   "seen": "2026-10-29T15:59:36Z",
+   "lang": "en",
+   "excerpt": "This deal with MOL will enable an LNG carrier to be converted into an FSRU and chartered to Deutsche ReGas from 2028.",
+   "segments": [
+    "road",
+    "freight",
+    "offshore"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "fsru",
+    "lng",
+    "lng-carrier"
+   ],
+   "paywall": false
+  },
   {
    "id": "a16004ebc952",
    "title": "Gordon setter inn tolv el-lastesykler i Oslo sentrum",
@@ -40,6 +215,29 @@
    "level": "international",
    "terms": [
     "orderbook"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "e7778455ee57",
+   "title": "Baltic Dry Index climbs to 2712 up 60 points",
+   "link": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2712-up-60-points/",
+   "source": "hsn",
+   "published": "2026-10-29T13:00:05Z",
+   "seen": "2026-10-29T15:59:36Z",
+   "lang": "en",
+   "excerpt": "Today, Thursday, October 29 2026, the Baltic Dry Index climbed 60 points, 2712 points. Baltic Dry Index is compiled by the London-based Baltic Exchange and covers prices for transported cargo such as coal, grain and iron ore.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bdi",
+    "baltic-exchange"
    ],
    "paywall": false
   },
@@ -290,6 +488,24 @@
     "inter-array",
     "offshore-wind"
    ],
+   "paywall": false
+  },
+  {
+   "id": "3adf5b8725e2",
+   "title": "Krever tiltak for varelevering i ny mobilitetsplan",
+   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351252",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-29T11:14:36Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
    "paywall": false
   },
   {
@@ -755,6 +971,29 @@
    "level": "international",
    "terms": [
     "lng"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "75abde1b8902",
+   "title": "CPKC reports record revenue on strength of grain and intermodal traffic",
+   "link": "https://www.freightwaves.com/news/cpkc-reports-record-revenue-on-strength-of-grain-and-intermodal-traffic",
+   "source": "freightwaves",
+   "published": "2026-10-29T10:03:00Z",
+   "seen": "2026-10-29T15:59:36Z",
+   "lang": "en",
+   "excerpt": "CPKC turned in record 3Q revenue as the railway set records for domestic and international intermodal volumes, as well as for grain.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "intermodal"
    ],
    "paywall": false
   },
@@ -17933,220 +18172,6 @@
    "terms": [
     "bunkers",
     "sale-purchase"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "5cc540b86e16",
-   "title": "MMI Daily Iron Ore Index Report October 21 2026",
-   "link": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-october-21-2026/",
-   "source": "hsn",
-   "published": "2026-10-21T10:00:43Z",
-   "seen": "2026-10-21T12:51:00Z",
-   "lang": "en",
-   "excerpt": "Demand showed marginal improvement, but prices did not move consistently higher. Surveyed daily hot metal output rose to 2.3584 million mt on Oct 21, up 6,400 mt, and the blast furnace operating rate increased to 87.16%.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "8789a247df5c",
-   "title": "China pulls out of port project in Sri Lanka",
-   "link": "https://www.hellenicshippingnews.com/china-pulls-out-of-port-project-in-sri-lanka/",
-   "source": "hsn",
-   "published": "2026-10-21T10:00:43Z",
-   "seen": "2026-10-21T12:51:00Z",
-   "lang": "en",
-   "excerpt": "A Chinese state-owned firm has withdrawn from a $392 million joint venture to develop a major logistics hub at Sri Lanka’s main seaport, the key local partner said on Monday.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "3e1ebe041f9b",
-   "title": "Key auto shipping hub scores green milestone",
-   "link": "https://www.hellenicshippingnews.com/key-auto-shipping-hub-scores-green-milestone/",
-   "source": "hsn",
-   "published": "2026-10-21T10:00:41Z",
-   "seen": "2026-10-21T12:51:00Z",
-   "lang": "en",
-   "excerpt": "A roll-on/roll-off (Ro-Ro) vessel loaded with over 4,000 new energy vehicles for export to Europe departed on Friday from an automobile terminal in Guangzhou, capital of Guangdong province, after completing its refueling with 2,300 metric …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "roro",
-    "dual-fuel"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "f560b5ddd12a",
-   "title": "Saudi Aramco sells more fuel oil cargoes for November loading",
-   "link": "https://www.hellenicshippingnews.com/saudi-aramco-sells-more-fuel-oil-cargoes-for-november-loading/",
-   "source": "hsn",
-   "published": "2026-10-21T10:00:39Z",
-   "seen": "2026-10-21T12:51:00Z",
-   "lang": "en",
-   "excerpt": "Saudi Aramco has sold a larger volume of high-sulphur fuel oil for November loading through a tender process compared to the previous month, according to trade sources.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bunkers"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "d2c6d249e9eb",
-   "title": "World Bank Group targets $19B, fivefold boost for metals, minerals",
-   "link": "https://www.hellenicshippingnews.com/world-bank-group-targets-19b-fivefold-boost-for-metals-minerals/",
-   "source": "hsn",
-   "published": "2026-10-21T10:00:35Z",
-   "seen": "2026-10-21T12:51:00Z",
-   "lang": "en",
-   "excerpt": "The World Bank Group plans to quintuple support for metals and minerals to a total of $19 billion between fiscal 2026 and fiscal 2030, as it looks to leverage mineral resources for jobs and economic growth.",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "f9bed096217f",
-   "title": "Crude Oil Inventories Fall Less Than Expected, Impacting Market Sentiment",
-   "link": "https://www.hellenicshippingnews.com/crude-oil-inventories-fall-less-than-expected-impacting-market-sentiment-2/",
-   "source": "hsn",
-   "published": "2026-10-21T10:00:31Z",
-   "seen": "2026-10-21T12:51:00Z",
-   "lang": "en",
-   "excerpt": "The American Petroleum Institute (API) released its latest data on U.S. crude oil inventories, revealing a decline that fell short of market expectations.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a6f1b03fc008",
-   "title": "Diesel market remains under pressure as jet fuel crack widens in Europe",
-   "link": "https://www.hellenicshippingnews.com/diesel-market-remains-under-pressure-as-jet-fuel-crack-widens-in-europe/",
-   "source": "hsn",
-   "published": "2026-10-21T10:00:29Z",
-   "seen": "2026-10-21T12:51:00Z",
-   "lang": "en",
-   "excerpt": "Europe’s diesel market remains extremely tight despite jet fuel cracks outstripping gains in the motor fuel market for the first time in months, signaling a new and potentially more complex phase for European fuel markets.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "fob"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "809b78636d08",
-   "title": "European shares steady ahead of Big Tech reports",
-   "link": "https://www.hellenicshippingnews.com/european-shares-steady-ahead-of-big-tech-reports/",
-   "source": "hsn",
-   "published": "2026-10-21T10:00:23Z",
-   "seen": "2026-10-21T12:51:00Z",
-   "lang": "en",
-   "excerpt": "European shares were little changed on Wednesday, stabilizing after two volatile sessions as strong corporate earnings helped, though broader sentiment remained constrained by political turmoil in France and caution ahead of U.S.",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "e21026417785",
-   "title": "Oman plans new operator for Port of Salalah",
-   "link": "https://container-news.com/oman-plans-new-operator-for-port-of-salalah/",
-   "source": "containernews",
-   "published": "2026-10-21T10:00:01Z",
-   "seen": "2026-10-21T12:51:00Z",
-   "lang": "en",
-   "excerpt": "Oman’s Ministry of Transport, Communications and Information Technology has confirmed that a new operator will take over the Port of Salalah following the expiry of the existing concession agreement.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "9c80ecfd080c",
-   "title": "South Korea's Taihan targets expansion in US and Europe under new CEO",
-   "link": "https://offshore-energy.biz/2026/10/21/south-koreas-taihan-targets-expansion-in-us-and-europe-under-new-ceo",
-   "source": "offshoreenergy",
-   "published": "2026-10-21T09:36:18Z",
-   "seen": "2026-10-21T12:51:00Z",
-   "lang": "en",
-   "excerpt": "South Korea's Taihan Cable & Solution has named its new Chief Executive Officer (CEO), revealing plans for the expansion of the company's...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "5e1910b7ff0c",
-   "title": "Maersk eyes full return to Suez Canal by March 2027",
-   "link": "https://container-news.com/maersk-eyes-full-return-to-suez-canal-by-march-2027/",
-   "source": "containernews",
-   "published": "2026-10-21T09:00:58Z",
-   "seen": "2026-10-21T09:42:08Z",
-   "lang": "en",
-   "excerpt": "Maersk expects all its shipping services to return to the Suez Canal by March 2027, according to the Suez Canal Authority (SCA), as the carrier continues to adjust its sailing schedules.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
    ],
    "paywall": false
   }
