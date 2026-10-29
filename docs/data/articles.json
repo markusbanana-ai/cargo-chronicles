@@ -1,7 +1,430 @@
 {
- "updated": "2026-10-29T03:53:46Z",
+ "updated": "2026-10-29T07:01:54Z",
  "sample": false,
  "articles": [
+  {
+   "id": "a16004ebc952",
+   "title": "Gordon setter inn tolv el-lastesykler i Oslo sentrum",
+   "link": "https://www.mtlogistikk.no/bylogistikk-el-lastesykler-gordon/gordon-setter-inn-tolv-el-lastesykler-i-oslo-sentrum/1350321",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-29T07:01:54Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "45e38a14edfa",
+   "title": "Boluda Shipping signs agreement to acquire Samskip",
+   "link": "https://container-news.com/boluda-shipping-signs-agreement-to-acquire-samskip/",
+   "source": "containernews",
+   "published": "2026-10-29T07:00:50Z",
+   "seen": "2026-10-29T07:01:54Z",
+   "lang": "en",
+   "excerpt": "Boluda Shipping has signed an agreement to acquire Samskip, including all its assets and operations. The deal aims to create a major European short-sea shipping network connecting Northern Europe, Spain, the Canary Islands and West Africa.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5b1825432305",
+   "title": "Contship charts liner comeback with Tarros deal",
+   "link": "https://splash247.com/contship-charts-liner-comeback-with-tarros-deal/",
+   "source": "splash",
+   "published": "2026-10-29T06:53:04Z",
+   "seen": "2026-10-29T07:01:54Z",
+   "lang": "en",
+   "excerpt": "Italian terminal operator Contship is getting back into the liner business, sealing a deal to acquire Italian shipping and logistics group Tarros through its subsidiary Sogemar, in a deal aimed at creating a major integrated transport …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "0fc0a44c3467",
+   "title": "Russia targets year-round Arctic shipping from early 2027",
+   "link": "https://splash247.com/russia-targets-year-round-arctic-shipping-from-early-2027/",
+   "source": "splash",
+   "published": "2026-10-29T06:47:49Z",
+   "seen": "2026-10-29T07:01:54Z",
+   "lang": "en",
+   "excerpt": "Russia is preparing to launch regular year-round eastbound shipping along the Northern Sea Route (NSR) in early 2027, as traffic through the Arctic passage surges to unprecedented levels amid continuing disruption to conventional shipping …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "101765e94c00",
+   "title": "Maritime CEO Forum: Tanker owners see more upside",
+   "link": "https://splash247.com/maritime-ceo-forum-tanker-owners-see-more-upside/",
+   "source": "splash",
+   "published": "2026-10-29T06:40:32Z",
+   "seen": "2026-10-29T07:01:54Z",
+   "lang": "en",
+   "excerpt": "Tanker owners remain broadly bullish on the extraordinary freight market despite soaring asset prices, an ageing fleet and mounting geopolitical risks.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "2b73cd329cfe",
+   "title": "Huge investment to keep first UK-France interconnector running until at least 2050",
+   "link": "https://offshore-energy.biz/2026/10/29/huge-investment-to-keep-first-uk-france-interconnector-running-until-at-least-2050",
+   "source": "offshoreenergy",
+   "published": "2026-10-29T06:40:22Z",
+   "seen": "2026-10-29T07:01:54Z",
+   "lang": "en",
+   "excerpt": "The UK's National Grid is investing up to £400 million (around €478 million) in the first cross-border electricity link between the UK and...",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a9be32f3c032",
+   "title": "Yingkou newcomer yard starts ten-ship series",
+   "link": "https://splash247.com/yingkou-newcomer-yard-starts-ten-ship-series/",
+   "source": "splash",
+   "published": "2026-10-29T06:39:01Z",
+   "seen": "2026-10-29T07:01:54Z",
+   "lang": "en",
+   "excerpt": "Another Chinese shipbuilder has entered the country’s booming newbuilding market, with Yingkou Huayin Shipbuilding opening its yard in Liaoning province and launching a programme to construct ten 8,700 dwt multipurpose vessels.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "newbuilding",
+    "dwt"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "41325b0f4f4a",
+   "title": "Interessen for elektriske lastebiler er rekordhøy",
+   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-enova/interessen-for-elektriske-lastebiler-er-rekordhoy/1349851",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-29T06:31:54Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "electric-truck"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "5b437bd8fa74",
+   "title": "Three drones reported to have hit containership in Black Sea off Bulgaria",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/three-drones-reported-to-have-hit-containership-in-black-sea-off-bulgaria/",
+   "source": "imn",
+   "published": "2026-10-29T06:11:38Z",
+   "seen": "2026-10-29T07:01:54Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "5d640e07a281",
+   "title": "NTSB calls for new rules for uncrewed vessels after Lake Erie collision",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/ntsb-calls-for-new-rules-for-uncrewed-vessels-after-lake-erie-collision/",
+   "source": "imn",
+   "published": "2026-10-29T06:10:36Z",
+   "seen": "2026-10-29T07:01:54Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "35b04b40899b",
+   "title": "Falvey Insurance expands cargo underwriting team",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/falvey-insurance-expands-cargo-underwriting-team/",
+   "source": "imn",
+   "published": "2026-10-29T06:08:58Z",
+   "seen": "2026-10-29T07:01:54Z",
+   "lang": "en",
+   "excerpt": "Falvey Insurance Group, which specializes in marine and cargo risks, has announced several changes to its senior leadership, cargo underwriting team and Board of Directors.",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "underwriter"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "1dfab19700c7",
+   "title": "Northern Sea Route transit cargo to nearly double this year, says Russia",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/northern-sea-route-transit-cargo-to-nearly-double-this-year-says-russia/",
+   "source": "imn",
+   "published": "2026-10-29T06:07:53Z",
+   "seen": "2026-10-29T07:01:54Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "380c108f65ab",
+   "title": "Villa Vie Odyssey’s ‘endless’ world cruise stops in Cambodia amid financial difficulties",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/villa-vie-odysseys-endless-world-cruise-stops-in-cambodia-amid-financial-difficulties/",
+   "source": "imn",
+   "published": "2026-10-29T06:07:03Z",
+   "seen": "2026-10-29T07:01:54Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "45b0bc8f0f83",
+   "title": "Iranian strait authority says Sinokor vessels will face legal action",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/iranian-strait-authority-says-sinokor-vessels-will-face-legal-action/",
+   "source": "imn",
+   "published": "2026-10-29T06:05:55Z",
+   "seen": "2026-10-29T07:01:54Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "beb4b741cc5d",
+   "title": "Fugro wins contract to clear any unexploded munitions along North Sea cable routes",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/fugro-wins-contract-to-clear-any-unexploded-munitions-along-north-sea-cable-routes/",
+   "source": "imn",
+   "published": "2026-10-29T06:04:52Z",
+   "seen": "2026-10-29T07:01:54Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "b70de458de04",
+   "title": "Ketamine joins cocaine in list of high-value smuggling operations",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/ketamine-joins-cocaine-in-list-of-high-value-smuggling-operations/",
+   "source": "imn",
+   "published": "2026-10-29T06:03:11Z",
+   "seen": "2026-10-29T07:01:54Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "e571e6745aab",
+   "title": "Strike threatens eight Los Angeles, Long Beach Port Terminals",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/strike-threatens-eight-los-angeles-long-beach-port-terminals/",
+   "source": "imn",
+   "published": "2026-10-29T06:01:42Z",
+   "seen": "2026-10-29T07:01:54Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "f426e0934a3a",
+   "title": "Marine round-up : 29th October 2026",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/marine-round-up-29th-october-2026/",
+   "source": "imn",
+   "published": "2026-10-29T06:00:30Z",
+   "seen": "2026-10-29T07:01:54Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "59f1188cf633",
+   "title": "Contship signs agreement to acquire Tarros Group",
+   "link": "https://container-news.com/contship-signs-agreement-to-acquire-tarros-group/",
+   "source": "containernews",
+   "published": "2026-10-29T05:00:13Z",
+   "seen": "2026-10-29T07:01:54Z",
+   "lang": "en",
+   "excerpt": "Contship has signed an agreement to acquire the Tarros Group through its subsidiary Sogemar. The deal will bring together two major logistics operators with established networks across Europe and the Mediterranean.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "587fa7fbb5cd",
+   "title": "Hver tredje nye går på el eller gass",
+   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-gasslastebiler-gronn-omstilling/hver-tredje-nye-gar-pa-el-eller-gass/1349674",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-29T04:31:54Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c8031b43f646",
+   "title": "SC Ports secures nearly 160,000 containers of new business",
+   "link": "https://container-news.com/sc-ports-secures-nearly-160000-containers-of-new-business/",
+   "source": "containernews",
+   "published": "2026-10-29T04:00:34Z",
+   "seen": "2026-10-29T07:01:54Z",
+   "lang": "en",
+   "excerpt": "South Carolina Ports (SC Ports) has secured nearly 160,000 containers of new business as part of its strategy to restore growth and strengthen its competitive position.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "reefer"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "7ca4a7ce3651",
+   "title": "Kai - en digital driftsleder",
+   "link": "https://www.mtlogistikk.no/flatestyring-future-driver-kai/kai-en-digital-driftsleder/1348966",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-29T03:46:54Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
   {
    "id": "81d90ffcfc2e",
    "title": "AI in Logistics: The End of Bad Truckload Routes?",
@@ -60,66 +483,12 @@
    "paywall": false
   },
   {
-   "id": "c917d93e40aa",
-   "title": "Kai - en digital driftsleder",
-   "link": "https://www.mtlogistikk.no/flatestyring-future-driver-kai/kai-en-digital-driftsleder/1349342",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-29T03:08:46Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "fc296418d5e3",
+   "id": "6c4c7f12ded5",
    "title": "Moderne Transportprisen til Jan Endre Vartdal og Marius Husabø Monsen",
-   "link": "https://www.mtlogistikk.no/moderne-transport-prisen-mowi-sjomatlogistikk/moderne-transportprisen-til-jan-endre-vartdal-og-marius-husabo-monsen/1339339",
+   "link": "https://www.mtlogistikk.no/avrenning-moderne-transport-prisen-mowi/moderne-transportprisen-til-jan-endre-vartdal-og-marius-husabo-monsen/1349160",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-29T02:53:46Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "9d9d77521286",
-   "title": "Hver tredje nye går på el eller gass",
-   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-gasslastebiler-lastebil/hver-tredje-nye-gar-pa-el-eller-gass/1349834",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-29T02:38:46Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "fb719756d5d2",
-   "title": "Gordon setter inn tolv el-lastesykler i Oslo sentrum",
-   "link": "https://www.mtlogistikk.no/bylogistikk-el-lastesykler-gordon/gordon-setter-inn-tolv-el-lastesykler-i-oslo-sentrum/1350345",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-29T02:23:46Z",
+   "seen": "2026-10-29T03:16:54Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -168,26 +537,6 @@
    "policy": false,
    "level": "national",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "7aa02e3d3a0d",
-   "title": "Interessen for elektriske lastebiler er rekordhøy",
-   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-enova/interessen-for-elektriske-lastebiler-er-rekordhoy/1349640",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-29T01:08:46Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "electric-truck"
-   ],
    "paywall": false
   },
   {
@@ -2447,25 +2796,6 @@
    ],
    "subs": [],
    "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "5255c2bba62b",
-   "title": "NTSB Calls for New Rules for Uncrewed Vessels After Lake Erie Collision",
-   "link": "https://gcaptain.com/ntsb-calls-for-new-rules-for-uncrewed-vessels-after-lake-erie-collision/",
-   "source": "gcaptain",
-   "published": "2026-10-27T21:38:20Z",
-   "seen": "2026-10-28T01:04:55Z",
-   "lang": "en",
-   "excerpt": "Investigation finds NOAA research vessel was difficult to detect and lacked proper monitoring, exposing gaps in U.S. maritime safety regulations. The National Transportation Safety Board (NTSB) is calling on the...",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": true,
    "level": "international",
    "terms": [],
    "paywall": false
@@ -17794,353 +18124,6 @@
     "bunkers",
     "lng",
     "dual-fuel"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "3e3519f0dd5d",
-   "title": "Disconnected systems and AI hype are driving digital fatigue in shipping, warns OrbitMI",
-   "link": "https://www.hellenicshippingnews.com/disconnected-systems-and-ai-hype-are-driving-digital-fatigue-in-shipping-warns-orbitmi/",
-   "source": "hsn",
-   "published": "2026-10-20T21:00:39Z",
-   "seen": "2026-10-20T21:41:06Z",
-   "lang": "en",
-   "excerpt": "Shipping’s drive to digitalise risks slowing itself down as fragmented software, weak digital training and growing pressure to adopt artificial intelligence add complexity to operational and commercial decisions, according to OrbitMI.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "158d1cbcfa25",
-   "title": "MPA and China Classification Society Strengthen Partnership for a Greener, Smarter Maritime Future",
-   "link": "https://www.hellenicshippingnews.com/mpa-and-china-classification-society-strengthen-partnership-for-a-greener-smarter-maritime-future/",
-   "source": "hsn",
-   "published": "2026-10-20T21:00:37Z",
-   "seen": "2026-10-20T21:41:06Z",
-   "lang": "en",
-   "excerpt": "The Maritime and Port Authority of Singapore (MPA) and the China Classification Society (CCS) have renewed their Memorandum of Understanding (MOU) to strengthen collaboration in maritime decarbonisation, digitalisation and talent …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "class-society",
-    "ccs"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "e8008f50abf5",
-   "title": "HD Hyundai Wins $1.42 Billion HMM Ship Order",
-   "link": "https://www.hellenicshippingnews.com/hd-hyundai-wins-1-42-billion-hmm-ship-order/",
-   "source": "hsn",
-   "published": "2026-10-20T21:00:35Z",
-   "seen": "2026-10-20T21:41:06Z",
-   "lang": "en",
-   "excerpt": "HD Korea Shipbuilding & Offshore Engineering, HD Hyundai’s intermediate holding company for shipbuilding, said on Oct. 20 it signed a shipbuilding contract with HMM for eight 13,000-TEU LNG dual-fuel container ships.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "teu",
-    "lng",
-    "dual-fuel",
-    "liner"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "8d52fc20496d",
-   "title": "Port of Antwerp-Bruges sees strong recovery in container throughput in volatile trading environment",
-   "link": "https://www.hellenicshippingnews.com/port-of-antwerp-bruges-sees-strong-recovery-in-container-throughput-in-volatile-trading-environment/",
-   "source": "hsn",
-   "published": "2026-10-20T21:00:33Z",
-   "seen": "2026-10-20T21:41:06Z",
-   "lang": "en",
-   "excerpt": "In the first nine months of 2026, Port of Antwerp-Bruges handled 200.9 million tonnes of goods, 0.8% less than in the same period last year.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "e1fd6fe4825d",
-   "title": "BHP Operational review for the quarter ended 30 September 2026",
-   "link": "https://www.hellenicshippingnews.com/bhp-operational-review-for-the-quarter-ended-30-september-2026/",
-   "source": "hsn",
-   "published": "2026-10-20T21:00:31Z",
-   "seen": "2026-10-20T21:41:06Z",
-   "lang": "en",
-   "excerpt": "BHP Chief Executive Officer, Brandon Craig: “The deaths of two colleagues at Escondida and Peak Downs are a profound loss. Our thoughts remain with their families and friends. No loss of life is acceptable.",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "3e1221366085",
-   "title": "US Coast Guard Releases New Maritime Cybersecurity Compliance Guidance",
-   "link": "https://maritime-executive.com/article/us-coast-guard-releases-new-maritime-cybersecurity-compliance-guidance",
-   "source": "marex",
-   "published": "2026-10-20T20:55:16Z",
-   "seen": "2026-10-21T00:52:08Z",
-   "lang": "en",
-   "excerpt": "The U.S. Coast Guard has published Navigation and Vessel Inspection Circular (NVIC) 02-26, Cybersecurity Regulations Implementation Guidance for Marit...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "1a1138bd900c",
-   "title": "HMM Adds $1.4B Order to Already Record Containership Orderbook",
-   "link": "https://maritime-executive.com/article/hmm-adds-1-4b-order-to-already-record-containership-orderbook",
-   "source": "marex",
-   "published": "2026-10-20T20:45:24Z",
-   "seen": "2026-10-20T21:41:06Z",
-   "lang": "en",
-   "excerpt": "The orderbook for new containerships continues to set records, with HMM becoming the latest to place a sizable order. It is part of the carrier’s str...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "liner",
-    "orderbook"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "fc500198657c",
-   "title": "A. Duie Pyle expands LTL network with new Ohio, Pennsylvania facilities",
-   "link": "https://www.freightwaves.com/news/a-duie-pyle-expands-ltl-network-with-new-ohio-pennsylvania-facilities",
-   "source": "freightwaves",
-   "published": "2026-10-20T20:39:23Z",
-   "seen": "2026-10-20T21:41:06Z",
-   "lang": "en",
-   "excerpt": "A. Duie Pyle is expanding its regional freight network with a new Cincinnati-area LTL service center and an integrated warehouse facility in Camp Hill, Pennsylvania.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "ltl"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "f3292b5602fb",
-   "title": "PACCAR builds a fleet app platform into Kenworth, Peterbilt",
-   "link": "https://www.freightwaves.com/news/paccar-connect-kenworth-peterbilt-launch",
-   "source": "freightwaves",
-   "published": "2026-10-20T20:35:38Z",
-   "seen": "2026-10-20T21:41:06Z",
-   "lang": "en",
-   "excerpt": "PACCAR Connect arrives in early 2027 and links Kenworth and Peterbilt drivers to Platform Science's Virtual Vehicle app marketplace, days before PACCAR reports Q3 results.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "8961a9ea3bf0",
-   "title": "EU Arctic Strategy Puts Emphasis on Maritime Security and Subsea Cables",
-   "link": "https://maritime-executive.com/article/eu-arctic-strategy-puts-emphasis-on-maritime-security-and-subsea-cables",
-   "source": "marex",
-   "published": "2026-10-20T20:12:48Z",
-   "seen": "2026-10-20T21:41:06Z",
-   "lang": "en",
-   "excerpt": "The EU has revised its strategy document for the Arctic, with major changes to its posture on foreign presence and a new emphasis on geopolitics and s...",
-   "segments": [
-    "freight",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "025c8c102ef9",
-   "title": "Antwerp-Bruges container throughput rebounds as empty volumes surge",
-   "link": "https://container-news.com/antwerp-bruges-container-throughput-rebounds-as-empty-volumes-surge/",
-   "source": "containernews",
-   "published": "2026-10-20T20:00:27Z",
-   "seen": "2026-10-20T21:41:06Z",
-   "lang": "en",
-   "excerpt": "The Port of Antwerp-Bruges recorded a strong recovery in container traffic during the third quarter of 2026, achieving its best quarterly performance since the final quarter of 2020.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "61097872677f",
-   "title": "Bulker Holed in Dock Allision Prompts New Rules for Vietnamese Port",
-   "link": "https://maritime-executive.com/article/bulker-holed-in-dock-allision-prompts-new-rules-for-vietnamese-port",
-   "source": "marex",
-   "published": "2026-10-20T19:41:07Z",
-   "seen": "2026-10-20T21:41:06Z",
-   "lang": "en",
-   "excerpt": "A Japanese-owned bulker docking at a private port facility in Vietnam hit the dock on Sunday, causing significant damage to the vessel and the structu...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "dry-bulk"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "e35177809dff",
-   "title": "Maersk reshapes Western Mediterranean–West Africa network",
-   "link": "https://container-news.com/maersk-reshapes-western-mediterranean-west-africa-network/",
-   "source": "containernews",
-   "published": "2026-10-20T19:00:12Z",
-   "seen": "2026-10-20T21:41:06Z",
-   "lang": "en",
-   "excerpt": "Maersk will launch a new WAF1 service and revise three existing West Africa services as part of an update to its Western Mediterranean network.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "b8325f4f10d5",
-   "title": "Partner of Choice: Why the Best Shipper-Carrier Relationships Now Go Beyond Shipper of Choice",
-   "link": "https://www.freightwaves.com/news/partner-of-choice-why-the-best-shipper-carrier-relationships-now-go-beyond-shipper-of-choice",
-   "source": "freightwaves",
-   "published": "2026-10-20T18:53:46Z",
-   "seen": "2026-10-20T21:41:06Z",
-   "lang": "en",
-   "excerpt": "Tender rejections are 2.5x last year and contract rates are up 18%. SONAR's new sitrep shows how shippers go from shipper of choice to partner of choice.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "shipper-consignee"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "440bc0b32706",
-   "title": "First Maersk Containership Arrives in India for Scheduled Maintenance",
-   "link": "https://maritime-executive.com/article/first-maersk-containership-arrives-in-india-for-scheduled-maintenance",
-   "source": "marex",
-   "published": "2026-10-20T18:27:12Z",
-   "seen": "2026-10-20T18:46:00Z",
-   "lang": "en",
-   "excerpt": "The first Maersk container vessel arrived in India for scheduled maintenance, marking another milestone in the efforts to expand India’s shipbuilding...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "liner"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "ce2e16845131",
-   "title": "Shannon Foynesport reports record turnover",
-   "link": "https://container-news.com/shannon-foynesport-reports-record-turnover/",
-   "source": "containernews",
-   "published": "2026-10-20T18:00:08Z",
-   "seen": "2026-10-20T18:46:00Z",
-   "lang": "en",
-   "excerpt": "Shannon Foynes Port Company has reported a landmark financial performance for 2025, with turnover rising 12% to EUR 17.63 million and both EBITDA and operating profit reaching historic highs.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "ebitda"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "6c6bff5db006",
-   "title": "Reefer Truckload Rejections Soar: 1 in 5 Loads Rejected Nationally",
-   "link": "https://www.freightwaves.com/news/reefer-truckload-rejections-soar-1-in-5-loads-rejected-nationally",
-   "source": "freightwaves",
-   "published": "2026-10-20T17:56:29Z",
-   "seen": "2026-10-20T18:46:00Z",
-   "lang": "en",
-   "excerpt": "The freight market is seeing fluctuating volumes and steady tender rejections, with a particular spotlight on the refrigerated sector.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "reefer",
-    "ftl"
    ],
    "paywall": false
   }
