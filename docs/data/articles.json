@@ -1,7 +1,336 @@
 {
- "updated": "2026-10-30T13:01:24Z",
+ "updated": "2026-10-30T15:56:25Z",
  "sample": false,
  "articles": [
+  {
+   "id": "614aaaf3ff09",
+   "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
+   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351415",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-30T15:56:25Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6fb2b0ee131f",
+   "title": "Brukte reoler kan gi innovasjonspris",
+   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351621",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-30T15:41:25Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "e5af62d600df",
+   "title": "Jett McCandless named first FreightTech Vanguard Award winner at F3",
+   "link": "https://www.freightwaves.com/news/jett-mccandless-named-first-freighttech-vanguard-award-winner-at-f3",
+   "source": "freightwaves",
+   "published": "2026-10-30T15:22:26Z",
+   "seen": "2026-10-30T15:56:25Z",
+   "lang": "en",
+   "excerpt": "Jett McCandless, founder and CEO of project44 and LSP44, received the first FreightTech Vanguard Award at FreightWaves’ F3 Awards Dinner in Chattanooga, recognizing his contributions to logistics technology and innovation.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f1a246f3d36f",
+   "title": "Safety Technology Is Only as Good as the Trust Behind It",
+   "link": "https://www.freightwaves.com/news/safety-technology-is-only-as-good-as-the-trust-behind-it",
+   "source": "freightwaves",
+   "published": "2026-10-30T15:19:58Z",
+   "seen": "2026-10-30T15:56:25Z",
+   "lang": "en",
+   "excerpt": "Every carrier with a safety technology program eventually learns the same lesson: the hardware is the easy part. Cameras can be mounted, collision mitigation can be specified on new tractors, and telematics can be switched on.",
+   "segments": [
+    "road",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "3adf5b8725e2",
+   "title": "Krever tiltak for varelevering i ny mobilitetsplan",
+   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351252",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-30T15:11:25Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6894afb7cbc6",
+   "title": "Wallenius Wilhelmsen orders four LNG dual-fuel PCTCs",
+   "link": "https://container-news.com/wallenius-wilhelmsen-orders-four-lng-dual-fuel-pctcs/",
+   "source": "containernews",
+   "published": "2026-10-30T15:00:34Z",
+   "seen": "2026-10-30T15:56:25Z",
+   "lang": "en",
+   "excerpt": "Wallenius Wilhelmsen has ordered four LNG dual-fuel Pure Car and Truck Carriers from China’s Jinling Shipyard and secured options for eight additional vessels. Each Shaper Class vessel will have capacity for 9,900 car equivalent units.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "lng",
+    "dual-fuel",
+    "car-carrier"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "c25cd87ff778",
+   "title": "Mexico truckers halt protests, demand action on deadly highway crime",
+   "link": "https://www.freightwaves.com/news/mexico-truckers-halt-protests-demand-action-on-deadly-highway-crime",
+   "source": "freightwaves",
+   "published": "2026-10-30T14:33:18Z",
+   "seen": "2026-10-30T15:56:25Z",
+   "lang": "en",
+   "excerpt": "Mexican trucking leaders have temporarily suspended their nationwide strike but say negotiations must produce measurable improvements in highway security.",
+   "segments": [
+    "road",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6c466549d2a3",
+   "title": "Helgebrief uke 44: Nye eiere, dyre lærepenger og en tett kasse",
+   "link": "https://www.mtlogistikk.no/helgebrief-kronikk-ukerapport/helgebrief-uke-44-nye-eiere-dyre-laerepenger-og-en-tett-kasse/1351936",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-30T14:26:25Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "9dc02525f41c",
+   "title": "Mazarine taking the helm at Black Sea Oil & Gas as Carlyle and EBRD exit",
+   "link": "https://offshore-energy.biz/2026/10/30/mazarine-taking-the-helm-at-black-sea-oil-and-gas-as-carlyle-and-ebrd-exit",
+   "source": "offshoreenergy",
+   "published": "2026-10-30T14:08:27Z",
+   "seen": "2026-10-30T15:56:25Z",
+   "lang": "en",
+   "excerpt": "Mazarine Energy has struck a deal to acquire Romania's largest offshore gas producer, Black Sea Oil & Gas (BSOG).",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "7220973ba4fc",
+   "title": "Aurora reaffirms it’s on track to produce more than 1000 trucks in 2027",
+   "link": "https://www.freightwaves.com/news/aurora-q3-2026-earnings",
+   "source": "freightwaves",
+   "published": "2026-10-30T14:00:45Z",
+   "seen": "2026-10-30T15:56:25Z",
+   "lang": "en",
+   "excerpt": "Aurora reported a $257 million operating loss on $3 million in revenue and cut its full-year forecast",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f86d823c6013",
+   "title": "India approves major container manufacturing support scheme",
+   "link": "https://container-news.com/india-approves-major-container-manufacturing-support-scheme/",
+   "source": "containernews",
+   "published": "2026-10-30T14:00:37Z",
+   "seen": "2026-10-30T15:56:25Z",
+   "lang": "en",
+   "excerpt": "India’s Union Cabinet has approved the Container Manufacturing Promotion Scheme, a Rs 10,000 crore programme designed to expand domestic production and reduce the country’s reliance on imported shipping containers.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "44bc68bd87c1",
+   "title": "Schneider partners with Norfolk Southern; raises outlook despite Q3 miss",
+   "link": "https://www.freightwaves.com/news/schneider-partners-with-norfolk-southern-raises-outlook-despite-q3-miss",
+   "source": "freightwaves",
+   "published": "2026-10-30T13:55:20Z",
+   "seen": "2026-10-30T15:56:25Z",
+   "lang": "en",
+   "excerpt": "Alongside its slightly worse-than-expected third-quarter report on Thursday, Schneider National announced a deal to utilize Norfolk Southern’s rail network in the East.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "76fb9076090e",
+   "title": "Tentative Date Set for Reefing Historic Liner SS United States",
+   "link": "https://maritime-executive.com/article/tentative-date-set-for-reefing-historic-liner-ss-united-states",
+   "source": "marex",
+   "published": "2026-10-30T13:49:26Z",
+   "seen": "2026-10-30T15:56:25Z",
+   "lang": "en",
+   "excerpt": "Plans for the reefing of the historic ocean liner S.S. United States continue to progress, and now a tentative date has been announced for the operati...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f919f7a4915b",
+   "title": "CNOOC’s 2026 run powered by 9 start-ups, 5 new oil & gas discoveries, and 23 appraisals",
+   "link": "https://offshore-energy.biz/2026/10/30/cnoocs-2026-run-powered-by-9-start-ups-5-new-oil-and-gas-discoveries-and-23-appraisals",
+   "source": "offshoreenergy",
+   "published": "2026-10-30T13:19:46Z",
+   "seen": "2026-10-30T15:56:25Z",
+   "lang": "en",
+   "excerpt": "CNOOC's 2026 activities have led to nine new projects being brought online, discovery of five hydrocarbon finds, and 23 appraisal successes.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "0a041387b34f",
+   "title": "The Maritime Executive's New Edition Featuring Arsenio Dominguez is Online",
+   "link": "https://maritime-executive.com/article/the-maritime-executive-s-new-edition-featuring-arsenio-dominguez-is-online",
+   "source": "marex",
+   "published": "2026-10-30T13:18:21Z",
+   "seen": "2026-10-30T15:56:25Z",
+   "lang": "en",
+   "excerpt": "A CHARISMATIC LEADER How else to describe the dynamic secretary-general of the IMO, Arsenio Dominguez! His energy and enthusiasm are contagious, and w...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "imo"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "bc32e8bd5856",
+   "title": "Slik blir reglene for godstransport fra 6. november",
+   "link": "https://lastebil.no/aktuelt/nyheter/2026/slik-blir-reglene-for-godstransport-fra-6.-november",
+   "source": "lastebil",
+   "published": "2026-10-30T13:15:11Z",
+   "seen": "2026-10-30T15:56:25Z",
+   "lang": "no",
+   "excerpt": "Tariffnemnda har vedtatt fortsatt allmenngjøring av Godsoverenskomstene. Den nye forskriften trer i kraft 6. november 2026, og den gjelder nå også på Svalbard.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "national",
+   "terms": [
+    "posting"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "984d2779c6dd",
+   "title": "Baltic Dry Index climbs to 2714 up 2 points",
+   "link": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2714-up-2-points/",
+   "source": "hsn",
+   "published": "2026-10-30T13:00:19Z",
+   "seen": "2026-10-30T15:56:25Z",
+   "lang": "en",
+   "excerpt": "Today, Friday, October 30 2026, the Baltic Dry Index climbed 2 points, 2714 points. Baltic Dry Index is compiled by the London-based Baltic Exchange and covers prices for transported cargo such as coal, grain and iron ore.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bdi",
+    "baltic-exchange"
+   ],
+   "paywall": false
+  },
   {
    "id": "50969c4425e7",
    "title": "Maersk introduces reefer surcharge for shipments to Tema",
@@ -145,6 +474,44 @@
    "paywall": false
   },
   {
+   "id": "79daa4666817",
+   "title": "Rekordmye tonnasje i det norske skipsregisteret",
+   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351147",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-30T11:26:25Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "001ea214c956",
+   "title": "New Georgia hub aims to take 26,000 containers off the road",
+   "link": "https://www.freightwaves.com/news/new-georgia-hub-aims-to-take-26000-containers-off-the-road",
+   "source": "freightwaves",
+   "published": "2026-10-30T11:20:00Z",
+   "seen": "2026-10-30T15:56:25Z",
+   "lang": "en",
+   "excerpt": "The state of Georgia officially opens an inland rail hub with plans to take tens of thousands of containers off the roads.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
    "id": "83ccf32c5e16",
    "title": "Solstad vessel nets two subsea contracts in Asia Pacific",
    "link": "https://offshore-energy.biz/2026/10/30/solstad-vessel-nets-two-subsea-contracts-in-asia-pacific",
@@ -163,42 +530,6 @@
     "csv",
     "rov"
    ],
-   "paywall": false
-  },
-  {
-   "id": "8aa299b648a0",
-   "title": "Brukte reoler kan gi innovasjonspris",
-   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351893",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-30T11:16:24Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "ebfe6b37f888",
-   "title": "Krever tiltak for varelevering i ny mobilitetsplan",
-   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351878",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-30T11:01:24Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -471,12 +802,12 @@
    "paywall": false
   },
   {
-   "id": "89b634dacc16",
-   "title": "Rekordmye tonnasje i det norske skipsregisteret",
-   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351864",
+   "id": "a28b26d84948",
+   "title": "CargoNet øker kapasiteten på tre banestrekninger",
+   "link": "https://www.mtlogistikk.no/bergensbanen-cargonet-dovrebanen/cargonet-oker-kapasiteten-pa-tre-banestrekninger/1344434",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-30T10:46:24Z",
+   "seen": "2026-10-30T10:41:25Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -509,24 +840,6 @@
     "rig",
     "backlog"
    ],
-   "paywall": false
-  },
-  {
-   "id": "a10190f3b9dc",
-   "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
-   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351849",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-30T10:31:24Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -17918,334 +18231,6 @@
    "policy": false,
    "level": "international",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "1b96ef3a0d47",
-   "title": "Maersk expects full return of shipping services to Suez Canal by March 2027",
-   "link": "https://www.hellenicshippingnews.com/maersk-expects-full-return-of-shipping-services-to-suez-canal-by-march-2027/",
-   "source": "hsn",
-   "published": "2026-10-22T10:00:51Z",
-   "seen": "2026-10-22T12:50:36Z",
-   "lang": "en",
-   "excerpt": "Denmark-based shipping group A.P. Moller-Maersk expects all its shipping services to return to the Suez Canal by March 2027, according to a statement from the Suez Canal Authority (SCA).",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "b648cca62451",
-   "title": "Verde Marine expands bunker fleet",
-   "link": "https://www.hellenicshippingnews.com/verde-marine-expands-bunker-fleet/",
-   "source": "hsn",
-   "published": "2026-10-22T10:00:49Z",
-   "seen": "2026-10-22T12:50:36Z",
-   "lang": "en",
-   "excerpt": "Dutch bunker supplier Verde Marine Energy has added more bunker barges to its fleet, expanding its physical bunker operations in the ARA region. The company has added barges to serve customers in Flushing, Ternuezen and Ghent, it said.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bunkers"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "1ec31ace8f62",
-   "title": "Panama Canal Reports Growth in Transits and Tonnage in Fiscal Year 2026",
-   "link": "https://www.hellenicshippingnews.com/panama-canal-reports-growth-in-transits-and-tonnage-in-fiscal-year-2026/",
-   "source": "hsn",
-   "published": "2026-10-22T10:00:47Z",
-   "seen": "2026-10-22T12:50:36Z",
-   "lang": "en",
-   "excerpt": "The Panama Canal recorded growth in both vessel transits and tonnage in Fiscal Year 2026, which ran from October 2025 through September 2026.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "93d7717ee452",
-   "title": "KONGSBERG secures contract with Pilbara Ports in Australia",
-   "link": "https://www.hellenicshippingnews.com/kongsberg-secures-contract-with-pilbara-ports-in-australia/",
-   "source": "hsn",
-   "published": "2026-10-22T10:00:45Z",
-   "seen": "2026-10-22T12:50:36Z",
-   "lang": "en",
-   "excerpt": "KONGSBERG will deliver a complete Vessel Traffic Service (VTS) system including radar, electro-optical sensors, Automatic Identification System (AIS) technology and VHF communications.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "ais"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "1cd2d5e497f4",
-   "title": "Gibraltar sees busiest September for bunker calls since 2021",
-   "link": "https://www.hellenicshippingnews.com/gibraltar-sees-busiest-september-for-bunker-calls-since-2021/",
-   "source": "hsn",
-   "published": "2026-10-22T10:00:43Z",
-   "seen": "2026-10-22T12:50:36Z",
-   "lang": "en",
-   "excerpt": "Gibraltar recorded 477 bunker calls in September, up 11% from 431 in the same month last year, according to data from the Gibraltar Port Authority.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bunkers"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "d589a6504570",
-   "title": "Valenciaport presents its Sandbox at PEIC’26 as a tool to bridge the gap between innovation and implementation",
-   "link": "https://www.hellenicshippingnews.com/valenciaport-presents-its-sandbox-at-peic26-as-a-tool-to-bridge-the-gap-between-innovation-and-implementation/",
-   "source": "hsn",
-   "published": "2026-10-22T10:00:41Z",
-   "seen": "2026-10-22T12:50:36Z",
-   "lang": "en",
-   "excerpt": "The 2026 International Port Entrepreneurship Congress (PEIC’26) has kicked off its latest edition, highlighting the growing international interest in port entrepreneurship.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "db6a2200f973",
-   "title": "China’s Russian LNG imports surge 44.3pc in January-September",
-   "link": "https://www.hellenicshippingnews.com/chinas-russian-lng-imports-surge-44-3pc-in-january-september/",
-   "source": "hsn",
-   "published": "2026-10-22T10:00:39Z",
-   "seen": "2026-10-22T12:50:36Z",
-   "lang": "en",
-   "excerpt": "China increased imports of Russian liquefied natural gas (LNG) by 44.3 per cent year on year to 7.19 million metric tonnes in January-September, with supplies valued at $3.92 billion, up 38.5 per cent, according to Chinese customs data …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "79098de69907",
-   "title": "Iron Ore Hits Fresh 4-Year Low",
-   "link": "https://www.hellenicshippingnews.com/iron-ore-hits-fresh-4-year-low/",
-   "source": "hsn",
-   "published": "2026-10-22T10:00:35Z",
-   "seen": "2026-10-22T12:50:36Z",
-   "lang": "en",
-   "excerpt": "Iron ore futures declined toward CNY 670 per ton, reaching their lowest level in four years after China’s state-backed iron ore buyer secured a new supply agreement with Rio Tinto, easing concerns over supply availability.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "0b9012dba42c",
-   "title": "The Commodities Feed: Attacks on Saudi Arabia fan oil supply worries",
-   "link": "https://www.hellenicshippingnews.com/the-commodities-feed-attacks-on-saudi-arabia-fan-oil-supply-worries/",
-   "source": "hsn",
-   "published": "2026-10-22T10:00:31Z",
-   "seen": "2026-10-22T12:50:36Z",
-   "lang": "en",
-   "excerpt": "Energy – Kuwait pumping more than 2m b/d Oil prices remain well bid, with ICE Brent back above $110/bbl this morning following additional deadly attacks on Saudi Arabia.",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "units"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "a2509b638804",
-   "title": "Gulf producers stand to gain as China replaces Iranian loss",
-   "link": "https://www.hellenicshippingnews.com/gulf-producers-stand-to-gain-as-china-replaces-iranian-loss/",
-   "source": "hsn",
-   "published": "2026-10-22T10:00:29Z",
-   "seen": "2026-10-22T12:50:36Z",
-   "lang": "en",
-   "excerpt": "China’s non-Iranian Middle Eastern crude arrivals are set to reach their highest level since the war began, despite VLCC tightness and Hormuz ship-to-ship (STS) bottlenecks delaying cargo deliveries.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "vlcc",
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "a9b037333afc",
-   "title": "US crude oil inventories drop 3.06 million barrels",
-   "link": "https://www.hellenicshippingnews.com/us-crude-oil-inventories-drop-3-06-million-barrels/",
-   "source": "hsn",
-   "published": "2026-10-22T10:00:27Z",
-   "seen": "2026-10-22T12:50:36Z",
-   "lang": "en",
-   "excerpt": "US crude oil inventories decreased by 3.06 million barrels to 412.5 million barrels during the week ended October 16, the US Energy Information Administration reported Wednesday. The decline exceeded market expectations.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "dd55c9a791ba",
-   "title": "India could deepen energy ties with Venezuela beyond crude imports: Rubio",
-   "link": "https://www.hellenicshippingnews.com/india-could-deepen-energy-ties-with-venezuela-beyond-crude-imports-rubio/",
-   "source": "hsn",
-   "published": "2026-10-22T10:00:25Z",
-   "seen": "2026-10-22T12:50:36Z",
-   "lang": "en",
-   "excerpt": "Indian companies could play a larger role in Venezuela’s energy sector as the country’s oil production increases, importing more of its heavy crude for processing while exploring new opportunities to invest in upstream projects, US …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "ep"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "98a4ba7ad4b3",
-   "title": "Samferdselsministeren - ESA-pakkemøte",
-   "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-esa-pakkemote/id3179069/",
-   "source": "regjeringen",
-   "published": "2026-10-22T10:00:00Z",
-   "seen": "2026-10-19T15:49:52Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "4d14fae3b59f",
-   "title": "CSX profit jumps on volume and revenue growth",
-   "link": "https://www.freightwaves.com/news/csx-profit-jumps-on-volume-and-revenue-growth",
-   "source": "freightwaves",
-   "published": "2026-10-22T10:00:00Z",
-   "seen": "2026-10-22T15:43:04Z",
-   "lang": "en",
-   "excerpt": "Increased freight boosted CSX Q3 profits, along with higher fuel surcharge revenue and more efficient operations.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "fuel-surcharge"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "f90fe7879dc4",
-   "title": "Viridien sharpens exploration picture beyond Guyana’s Stabroek block",
-   "link": "https://splash247.com/viridien-sharpens-exploration-picture-beyond-guyanas-stabroek-block/",
-   "source": "splash",
-   "published": "2026-10-22T09:59:00Z",
-   "seen": "2026-10-22T12:50:36Z",
-   "lang": "en",
-   "excerpt": "French geophysical company Viridien has launched the first phase of a major seismic reimaging programme offshore Guyana, targeting more than 10,000 sq km of existing 3D data in and around the country’s emerging shallow-water exploration …",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "seismic"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "4bfab3d56350",
-   "title": "Seven Yield secures Chinese charter deal for car carrier pair",
-   "link": "https://splash247.com/seven-yield-secures-chinese-charter-deal-for-car-carrier-pair/",
-   "source": "splash",
-   "published": "2026-10-22T09:40:34Z",
-   "seen": "2026-10-22T09:44:23Z",
-   "lang": "en",
-   "excerpt": "Luxembourg-incorporated shipowner Seven Yield has secured five-year time charters for two LNG-powered car carriers with a major Chinese automobile manufacturer, extending employment for the vessels into the next decade.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "car-carrier",
-    "time-charter",
-    "lng"
-   ],
    "paywall": false
   }
  ]
