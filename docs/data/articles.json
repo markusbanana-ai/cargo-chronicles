@@ -1,7 +1,208 @@
 {
- "updated": "2026-10-30T18:52:57Z",
+ "updated": "2026-10-30T21:44:40Z",
  "sample": false,
  "articles": [
+  {
+   "id": "614aaaf3ff09",
+   "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
+   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351415",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-30T21:44:40Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6fb2b0ee131f",
+   "title": "Brukte reoler kan gi innovasjonspris",
+   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351621",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-30T21:29:40Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a849367cfc5e",
+   "title": "FedEx revenue rises 12% as international freight business grows",
+   "link": "https://container-news.com/fedex-revenue-rises-12-as-international-freight-business-grows/",
+   "source": "containernews",
+   "published": "2026-10-30T21:00:12Z",
+   "seen": "2026-10-30T21:44:40Z",
+   "lang": "en",
+   "excerpt": "FedEx reported revenue of $22.9 billion for the third quarter of calendar 2026, up approximately 12% from $20.4 billion a year earlier.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "3adf5b8725e2",
+   "title": "Krever tiltak for varelevering i ny mobilitetsplan",
+   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351252",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-30T20:59:40Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "27137e71c904",
+   "title": "Oman Evacuates Tanker Crew as Iran Claims Spate of New Attacks",
+   "link": "https://maritime-executive.com/article/oman-evacuates-tanker-crew-as-iran-claims-spate-of-new-attacks",
+   "source": "marex",
+   "published": "2026-10-30T20:16:28Z",
+   "seen": "2026-10-30T21:44:40Z",
+   "lang": "en",
+   "excerpt": "Tensions remain high in the Persian Gulf, with Iran claiming multiple unverified attacks and the first report of a limpet mine attack in seven years....",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "3c6486e19bdc",
+   "title": "Panama Canal appoints Tommy Thomsen as Advisory Board chairman",
+   "link": "https://container-news.com/panama-canal-appoints-tommy-thomsen-as-advisory-board-chairman/",
+   "source": "containernews",
+   "published": "2026-10-30T20:00:39Z",
+   "seen": "2026-10-30T21:44:40Z",
+   "lang": "en",
+   "excerpt": "The Panama Canal has appointed Danish shipping executive Tommy Thomsen as chairman of its Advisory Board, succeeding Admiral William J. Flanagan.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "0823564723dd",
+   "title": "Strike Threat at Los Angeles, Long Beach Ports Delayed as Union and Employers Extend Talks",
+   "link": "https://gcaptain.com/strike-threat-at-los-angeles-long-beach-ports-delayed-as-union-and-employers-extend-talks/",
+   "source": "gcaptain",
+   "published": "2026-10-30T19:12:06Z",
+   "seen": "2026-10-30T21:44:40Z",
+   "lang": "en",
+   "excerpt": "A potential strike threatening operations at some of the busiest container terminals in the United States has been pushed back after the Pacific Maritime Association (PMA) and the International Longshore...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6a2b67c34e6a",
+   "title": "APSEZ raises full-year outlook after strong second quarter",
+   "link": "https://container-news.com/apsez-raises-full-year-outlook-after-strong-second-quarter/",
+   "source": "containernews",
+   "published": "2026-10-30T19:00:38Z",
+   "seen": "2026-10-30T21:44:40Z",
+   "lang": "en",
+   "excerpt": "Adani Ports and Special Economic Zone (APSEZ) has raised its revenue, EBITDA and capital expenditure guidance following strong results for the second quarter of the 2027 financial year.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ebitda"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "6d9d1f9973e2",
+   "title": "Rail Rivalry: Schneider’s Bold Move to Norfolk Southern from CSX",
+   "link": "https://www.freightwaves.com/news/rail-rivalry-schneiders-bold-move-to-norfolk-southern-from-csx",
+   "source": "freightwaves",
+   "published": "2026-10-30T18:42:39Z",
+   "seen": "2026-10-30T21:44:40Z",
+   "lang": "en",
+   "excerpt": "Schneider is making a monumental shift in its intermodal operations, moving all eastern rail business from CSX to Norfolk Southern. This strategic partnership aims to unlock significant growth, enhance capacity flexibility, and drive more …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "intermodal"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "700dae9f6608",
+   "title": "Unexpected Boom: Trailer Leasing Demand Hits Record Highs",
+   "link": "https://www.freightwaves.com/news/unexpected-boom-trailer-leasing-demand-hits-record-highs",
+   "source": "freightwaves",
+   "published": "2026-10-30T18:40:16Z",
+   "seen": "2026-10-30T21:44:40Z",
+   "lang": "en",
+   "excerpt": "The trailer market is experiencing an unexpected surge, with utilization rates surpassing even pandemic levels. Craig Barth, CFO at Premier Trailer Leasing, breaks down why this supply-side driven boom is happening, the shift in demand for …",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
   {
    "id": "4814c5924a74",
    "title": "SAIA’s Record $982.5M Q3 Revenue | What’s Next?",
@@ -258,6 +459,32 @@
    "paywall": false
   },
   {
+   "id": "1116675bc05b",
+   "title": "CLARKSONS HELLAS – SnP WEEKLY",
+   "link": "https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-16/",
+   "source": "hsn",
+   "published": "2026-10-30T18:00:20Z",
+   "seen": "2026-10-30T21:44:40Z",
+   "lang": "en",
+   "excerpt": "This week, tanker activity has increased compared with the previous few weeks across most segments. VLCC spot rates appear to have established a near-term floor of around $500,000/day, with the global average across the mainstream roots …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "reports",
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "vlcc",
+    "spot-market",
+    "product-tanker",
+    "tce"
+   ],
+   "paywall": false
+  },
+  {
    "id": "91cb069eeaec",
    "title": "Five Rescued, One Died in Tugboat Fire off Japan",
    "link": "https://maritime-executive.com/article/five-rescued-one-died-in-tugboat-fire-off-japan",
@@ -356,6 +583,24 @@
    "paywall": false
   },
   {
+   "id": "79daa4666817",
+   "title": "Rekordmye tonnasje i det norske skipsregisteret",
+   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351147",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-30T17:14:40Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
    "id": "9c31054ba821",
    "title": "SFL acquires two 8,800 TEU container ships",
    "link": "https://container-news.com/sfl-acquires-two-8800-teu-container-ships/",
@@ -382,24 +627,6 @@
    "paywall": false
   },
   {
-   "id": "8aa299b648a0",
-   "title": "Brukte reoler kan gi innovasjonspris",
-   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351893",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-30T16:52:57Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "90d67d094b5a",
    "title": "Hanwha Philly Shipyard Wins $269 Million U.S. Navy Landing Ship Contract",
    "link": "https://gcaptain.com/hanwha-philly-shipyard-wins-269-million-u-s-navy-landing-ship-contract/",
@@ -414,42 +641,6 @@
    "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "ebfe6b37f888",
-   "title": "Krever tiltak for varelevering i ny mobilitetsplan",
-   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351878",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-30T16:37:57Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "89b634dacc16",
-   "title": "Rekordmye tonnasje i det norske skipsregisteret",
-   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351864",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-30T16:22:57Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -471,24 +662,6 @@
    "terms": [
     "car-carrier"
    ],
-   "paywall": false
-  },
-  {
-   "id": "a10190f3b9dc",
-   "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
-   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351849",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-30T16:07:57Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -18074,165 +18247,6 @@
    "level": "international",
    "terms": [
     "congestion"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "07b568da2244",
-   "title": "ID Logistics revenue jumps 25.6% in Q3 as North America drives growth",
-   "link": "https://container-news.com/id-logistics-revenue-jumps-25-6-in-q3-as-north-america-drives-growth/",
-   "source": "containernews",
-   "published": "2026-10-22T17:00:37Z",
-   "seen": "2026-10-22T18:46:49Z",
-   "lang": "en",
-   "excerpt": "ID Logistics reported a 25.6% increase in revenue during the third quarter of 2026, supported by strong growth in North America and continued expansion across its international operations.",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "3pl"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "dfb15d4f0694",
-   "title": "Iran Claims More Ships Struck Near Hormuz as Trump Accuses Tehran of ‘Faking Hits’",
-   "link": "https://gcaptain.com/iran-claims-more-ships-struck-near-hormuz-as-trump-accuses-tehran-of-faking-hits/",
-   "source": "gcaptain",
-   "published": "2026-10-22T16:46:26Z",
-   "seen": "2026-10-22T18:46:49Z",
-   "lang": "en",
-   "excerpt": "Iran’s Revolutionary Guards claimed Thursday that seven commercial vessels were struck overnight in the Persian Gulf and Strait of Hormuz, including four ships conducting oil transfers, prompting President Donald Trump...",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "0bf62a696f3c",
-   "title": "CBP seizes $2.5M in meth hidden in tomatillo truck at Otay Mesa; driver’s visa canceled",
-   "link": "https://www.freightwaves.com/news/cbp-seizes-2-5m-in-meth-hidden-in-tomatillo-truck-at-otay-mesa-drivers-visa-canceled",
-   "source": "freightwaves",
-   "published": "2026-10-22T16:24:13Z",
-   "seen": "2026-10-22T18:46:49Z",
-   "lang": "en",
-   "excerpt": "Nearly 1,600 pounds of narcotics, a federal investigation and an unexpected development involving the trucker. New details obtained by FreightWaves reveal what happened after the seizure.",
-   "segments": [
-    "road",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "53527cfd57bb",
-   "title": "MSC launches Jasmine service linking China and Indonesia",
-   "link": "https://container-news.com/msc-launches-jasmine-service-linking-china-and-indonesia/",
-   "source": "containernews",
-   "published": "2026-10-22T16:00:57Z",
-   "seen": "2026-10-22T18:46:49Z",
-   "lang": "en",
-   "excerpt": "MSC has announced the launch of Jasmine, a new standalone service connecting ports in China with Singapore and Indonesia. The service will provide direct connections between Shanghai, Ningbo, Shekou, Singapore, Surabaya and Semarang.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "515b6b7f5e98",
-   "title": "US trailer orders soar 385% as Class 8 truck market sends mixed signals",
-   "link": "https://www.freightwaves.com/news/us-trailer-orders-soar-385-as-class-8-truck-market-sends-mixed-signals",
-   "source": "freightwaves",
-   "published": "2026-10-22T15:42:56Z",
-   "seen": "2026-10-22T18:46:49Z",
-   "lang": "en",
-   "excerpt": "Trailer orders jumped sharply in September as carriers moved to secure equipment ahead of potential price increases, while heavy-duty truck purchases showed mixed signals.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "49dce99d3aaa",
-   "title": "UPS automates 4 additional facilities ahead of peak shipping season",
-   "link": "https://www.freightwaves.com/news/ups-automates-4-additional-facilities-ahead-of-peak-shipping-season",
-   "source": "freightwaves",
-   "published": "2026-10-22T15:38:17Z",
-   "seen": "2026-10-22T18:46:49Z",
-   "lang": "en",
-   "excerpt": "UPS has completed several facility upgrades, increasing their capacity and productivity heading into peak shipping season.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "be174d2cc22d",
-   "title": "CSSC Offshore & Marine Engineering secures RMB35.8 billion in new orders",
-   "link": "https://container-news.com/cssc-offshore-marine-engineering-secures-rmb35-8-billion-in-new-orders/",
-   "source": "containernews",
-   "published": "2026-10-22T15:00:05Z",
-   "seen": "2026-10-22T15:43:04Z",
-   "lang": "en",
-   "excerpt": "CSSC Offshore & Marine Engineering (Group) Company Limited (COMEC) secured RMB35.799 billion in new orders during the first nine months of 2026, exceeding its full-year contract target by a substantial margin.",
-   "segments": [
-    "freight",
-    "offshore"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "10ba2432ac49",
-   "title": "QatarEnergy Signs Long-Term Deal to Buy U.S. LNG as Iran War Disrupts Exports",
-   "link": "https://gcaptain.com/qatarenergy-signs-long-term-deal-to-buy-u-s-lng-as-iran-war-disrupts-exports/",
-   "source": "gcaptain",
-   "published": "2026-10-22T14:48:26Z",
-   "seen": "2026-10-22T15:43:04Z",
-   "lang": "en",
-   "excerpt": "QatarEnergy has signed two long-term agreements to purchase up to 4 million tonnes of U.S. liquefied natural gas annually from Cheniere Energy through 2054, as the Gulf producer continues to...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng"
    ],
    "paywall": false
   }
