@@ -1,14 +1,308 @@
 {
- "updated": "2026-10-30T03:53:41Z",
+ "updated": "2026-10-30T07:02:55Z",
  "sample": false,
  "articles": [
   {
-   "id": "a16004ebc952",
+   "id": "c1c41287df00",
+   "title": "Maersk separates Finnish port charges from inland haulage rates",
+   "link": "https://container-news.com/maersk-separates-finnish-port-charges-from-inland-haulage-rates/",
+   "source": "containernews",
+   "published": "2026-10-30T07:00:15Z",
+   "seen": "2026-10-30T07:02:55Z",
+   "lang": "en",
+   "excerpt": "Maersk has changed the cost structure of its inland haulage services for import and export shipments in Finland. Effective from 1 October 2026, Arex charges and port dues are no longer included in the carrier’s inland haulage rates.",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "9b1fcd5e2744",
+   "title": "Salvage teams reach still-burning containership in South Atlantic",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/salvage-teams-reach-still-burning-containership-in-south-atlantic/",
+   "source": "imn",
+   "published": "2026-10-30T06:49:57Z",
+   "seen": "2026-10-30T07:02:55Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "salvage",
+    "liner"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "f45c9e6206f3",
+   "title": "Tanker targeted with hull-mounted explosives in Hormuz",
+   "link": "https://splash247.com/tanker-targeted-with-hull-mounted-explosives-in-hormuz/",
+   "source": "splash",
+   "published": "2026-10-30T06:49:48Z",
+   "seen": "2026-10-30T07:02:55Z",
+   "lang": "en",
+   "excerpt": "A tanker has been set ablaze in the Strait of Hormuz after attackers aboard a small boat attached explosives directly to its hull, marking a worrying new tactic in the campaign against commercial shipping.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint",
+    "dwt"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "3477c266f4fc",
+   "title": "Dockworkers at more than 100 ports worldwide to strike against arms shipments today",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/dockworkers-at-more-than-100-ports-worldwide-to-strike-against-arms-shipments-today/",
+   "source": "imn",
+   "published": "2026-10-30T06:48:36Z",
+   "seen": "2026-10-30T07:02:55Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "4899c73dd3e6",
+   "title": "Bodies found in Prospector 5 jack-up rig",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/bodies-found-in-prospector-5-jack-up-rig/",
+   "source": "imn",
+   "published": "2026-10-30T06:47:21Z",
+   "seen": "2026-10-30T07:02:55Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "rig"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "82d6d5178f44",
+   "title": "Investigations continue in Mein Schiff 3 / MSC Victorine accident",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/investigations-continue-in-mein-schiff-3-msc-victorine-accident/",
+   "source": "imn",
+   "published": "2026-10-30T06:46:21Z",
+   "seen": "2026-10-30T07:02:55Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "319558a4b7ed",
+   "title": "Crew safe after drones sink containership off Bulgaria",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/crew-safe-after-drones-sink-containership-off-bulgaria/",
+   "source": "imn",
+   "published": "2026-10-30T06:45:13Z",
+   "seen": "2026-10-30T07:02:55Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "4bfdac286003",
+   "title": "US military changes tack on Hormuz advice",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/us-military-changes-tack-on-hormuz-advice/",
+   "source": "imn",
+   "published": "2026-10-30T06:44:03Z",
+   "seen": "2026-10-30T07:02:55Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "d4142e1fb33e",
+   "title": "Unnamed tanker reported to be on fire in Strait of Hormuz",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/unnamed-tanker-reported-to-be-on-fire-in-strait-of-hormuz/",
+   "source": "imn",
+   "published": "2026-10-30T06:43:13Z",
+   "seen": "2026-10-30T07:02:55Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "d1e34c342bce",
+   "title": "US Senator says Trump ending ban on Russian diesel imports is not valid",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/us-senator-says-trump-ending-ban-on-russian-diesel-imports-is-not-valid/",
+   "source": "imn",
+   "published": "2026-10-30T06:42:25Z",
+   "seen": "2026-10-30T07:02:55Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "road",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "65c542ddf7e5",
+   "title": "Institute of Chartered Shipbrokers appoints first female president",
+   "link": "https://splash247.com/institute-of-chartered-shipbrokers-appoints-first-female-president/",
+   "source": "splash",
+   "published": "2026-10-30T06:42:21Z",
+   "seen": "2026-10-30T07:02:55Z",
+   "lang": "en",
+   "excerpt": "Greek shipping education specialist Natalia Margioli-Komninou has become the first woman to lead the Institute of Chartered Shipbrokers (ICS) in its 115-year history.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "shipbroker"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "715593805460",
+   "title": "Newbuilds, “revitalize”, or redeploy? Cruise companies strategize for next few years",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/newbuilds-revitalize-or-redeploy-cruise-companies-strategize-for-next-few-years/",
+   "source": "imn",
+   "published": "2026-10-30T06:41:32Z",
+   "seen": "2026-10-30T07:02:55Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "newbuilding"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "47a2684affe1",
+   "title": "DP World looking to develop trade through Churchill in northern Canada",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/dp-world-looking-to-develop-trade-through-churchill-in-northern-canada/",
+   "source": "imn",
+   "published": "2026-10-30T06:40:36Z",
+   "seen": "2026-10-30T07:02:55Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "b4ff4c8405a6",
+   "title": "ABP strengthens Humber logistics capabilities",
+   "link": "https://container-news.com/abp-strengthens-humber-logistics-capabilities/",
+   "source": "containernews",
+   "published": "2026-10-30T06:00:13Z",
+   "seen": "2026-10-30T07:02:55Z",
+   "lang": "en",
+   "excerpt": "Associated British Ports has acquired Global Shipping Services, a leading provider of stevedoring, warehousing, storage and port agency services across the Humber region, extending the range of integrated solutions ABP can offer customers …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "mna"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "fb719756d5d2",
    "title": "Gordon setter inn tolv el-lastesykler i Oslo sentrum",
-   "link": "https://www.mtlogistikk.no/bylogistikk-el-lastesykler-gordon/gordon-setter-inn-tolv-el-lastesykler-i-oslo-sentrum/1350321",
+   "link": "https://www.mtlogistikk.no/bylogistikk-el-lastesykler-gordon/gordon-setter-inn-tolv-el-lastesykler-i-oslo-sentrum/1350345",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-30T03:53:41Z",
+   "seen": "2026-10-30T04:02:55Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -17926,304 +18220,6 @@
    "policy": false,
    "level": "international",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "61d3b8939645",
-   "title": "Australian Fund Manager Buys Majority Stake in UK’s Largest Port Operator",
-   "link": "https://maritime-executive.com/article/australian-fund-manager-buys-majority-stake-in-uk-s-largest-port-operator",
-   "source": "marex",
-   "published": "2026-10-21T21:17:38Z",
-   "seen": "2026-10-21T21:42:09Z",
-   "lang": "en",
-   "excerpt": "IFM Investors, an Australia-based global fund manager with a focus on UK infrastructure, emerged as the winning bidder in the sale of Associated Briti...",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "2ba98e0bdf7e",
-   "title": "Rail Traffic SURGE: Why Intermodal Volume is Climbing",
-   "link": "https://www.freightwaves.com/news/rail-traffic-surge-why-intermodal-volume-is-climbing",
-   "source": "freightwaves",
-   "published": "2026-10-21T21:17:27Z",
-   "seen": "2026-10-22T00:52:03Z",
-   "lang": "en",
-   "excerpt": "The latest weekly rail traffic numbers show a significant intermodal volume surge, propelled by high diesel fuel prices and tight truck capacity, causing shippers to divert freight to rail.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "intermodal",
-    "shipper-consignee"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "87fe09da392f",
-   "title": "Vertical Aerospace eVTOL: The Future of Urgent Air Cargo",
-   "link": "https://www.freightwaves.com/news/vertical-aerospace-evtol-the-future-of-urgent-air-cargo",
-   "source": "freightwaves",
-   "published": "2026-10-21T21:15:43Z",
-   "seen": "2026-10-22T00:52:03Z",
-   "lang": "en",
-   "excerpt": "Vertical Aerospace’s Michael Cervenka explains how their Velocopter eVTOL aircraft is set to transform urgent freight and remote logistics.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "d5b4088eef27",
-   "title": "DSV expands US-Mexico freight network with $90M Laredo facility",
-   "link": "https://www.freightwaves.com/news/dsv-expands-us-mexico-freight-network-with-90m-laredo-facility",
-   "source": "freightwaves",
-   "published": "2026-10-21T21:12:45Z",
-   "seen": "2026-10-22T00:52:03Z",
-   "lang": "en",
-   "excerpt": "DSV has opened a $90 million logistics facility in Laredo, consolidating cross-border transportation, warehousing and customs services along the Texas-Mexico border.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "c3a768e7f65b",
-   "title": "Truckload Pricing Power? Diesel Is Eating It Up",
-   "link": "https://www.freightwaves.com/news/truckload-pricing-power-diesel-is-eating-it-up",
-   "source": "freightwaves",
-   "published": "2026-10-21T21:12:39Z",
-   "seen": "2026-10-22T00:52:03Z",
-   "lang": "en",
-   "excerpt": "Truckload rates are up, but carrier profits still aren’t following. JB Hunt, Werner and Heartland earnings all point to the same freight market story: pricing power is back, but diesel, driver and insurance costs are eating the gains.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "ftl",
-    "intermodal"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "5118252fa65b",
-   "title": "Nearly $1M in Pokémon Cards STOLEN from FedEx",
-   "link": "https://www.freightwaves.com/news/nearly-1m-in-pokemon-cards-stolen-from-fedex",
-   "source": "freightwaves",
-   "published": "2026-10-21T21:11:21Z",
-   "seen": "2026-10-22T00:52:03Z",
-   "lang": "en",
-   "excerpt": "A FedEx truck carrying nearly $1 million in Pokémon and sports cards was robbed in California. FreightWaves’ Phil Brink and Highway’s Brennan Bailey break down how this audacious cargo theft happened and what it means for supply chain …",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "85101baa6c2f",
-   "title": "US sanctions relief could lift tanker rates in Russia, inject capacity to Gulf shuttles: analysts",
-   "link": "https://www.hellenicshippingnews.com/us-sanctions-relief-could-lift-tanker-rates-in-russia-inject-capacity-to-gulf-shuttles-analysts/",
-   "source": "hsn",
-   "published": "2026-10-21T21:00:59Z",
-   "seen": "2026-10-21T21:42:09Z",
-   "lang": "en",
-   "excerpt": "US sanctions relief on shadow-fleet tankers could redirect ships from Russian oil trades toward the Middle East, potentially raising Russian freight costs while easing some of the tanker shortages around the Strait of Hormuz, shipping …",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "sanctions",
-    "shadow-fleet",
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "b465af900286",
-   "title": "Ship Recycling Market Gaining Strength In India",
-   "link": "https://www.hellenicshippingnews.com/ship-recycling-market-gaining-strength-in-india/",
-   "source": "hsn",
-   "published": "2026-10-21T21:00:59Z",
-   "seen": "2026-10-21T21:42:09Z",
-   "lang": "en",
-   "excerpt": "The ship recycling market has gained strength in India over the past week. In its latest weekly report, Best Oasis (www.best-oasis.com), a leading cash buyer of ships said that “the Indian ship recycling market has strengthened over the …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "recycling"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "de0d16aab764",
-   "title": "New and Established Yards Enter Tanker Market for the First Time",
-   "link": "https://www.hellenicshippingnews.com/new-and-established-yards-enter-tanker-market-for-the-first-time/",
-   "source": "hsn",
-   "published": "2026-10-21T21:00:58Z",
-   "seen": "2026-10-21T21:42:09Z",
-   "lang": "en",
-   "excerpt": "The list of yards building Tankers is widening, with a mix of brand new builders and established builders extending into the sector for the first time.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "newbuilding",
-    "orderbook"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "5053915854c4",
-   "title": "Baltic Dry Index Up for 3rd Day",
-   "link": "https://www.hellenicshippingnews.com/baltic-dry-index-up-for-3rd-day-4/",
-   "source": "hsn",
-   "published": "2026-10-21T21:00:57Z",
-   "seen": "2026-10-21T21:42:09Z",
-   "lang": "en",
-   "excerpt": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, advanced for a third session on Wednesday, rising by 3.4% to its highest since October 13 at 2,680 points.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bdi",
-    "baltic-exchange",
-    "dry-bulk",
-    "capesize"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "f0b045860326",
-   "title": "Venezuela’s oil trade reopened. The risk moved to the vessel",
-   "link": "https://www.hellenicshippingnews.com/venezuelas-oil-trade-reopened-the-risk-moved-to-the-vessel/",
-   "source": "hsn",
-   "published": "2026-10-21T21:00:57Z",
-   "seen": "2026-10-21T21:42:09Z",
-   "lang": "en",
-   "excerpt": "Venezuela is not a binary, open-or-closed sanctions story. Trade responds to restrictions, but it also responds to waivers, licences and commercial incentives.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "sanctions"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "573448bc0d87",
-   "title": "FUJAIRAH DATA: Oil product stockpiles rebound as light distillates jump record 72%",
-   "link": "https://www.hellenicshippingnews.com/fujairah-data-oil-product-stockpiles-rebound-as-light-distillates-jump-record-72/",
-   "source": "hsn",
-   "published": "2026-10-21T21:00:55Z",
-   "seen": "2026-10-21T21:42:09Z",
-   "lang": "en",
-   "excerpt": "Oil product stockpiles at the UAE’s Fujairah rebounded 6.2% in the week ended Oct. 19, led by a record 72% jump in light distillates such as gasoline and naphtha, according to Fujairah Oil Industry Zone data published Oct. 21.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "e44a09dcf882",
-   "title": "Fearnleys Week 43 2026",
-   "link": "https://www.hellenicshippingnews.com/fearnleys-week-43-2026/",
-   "source": "hsn",
-   "published": "2026-10-21T21:00:54Z",
-   "seen": "2026-10-21T21:42:09Z",
-   "lang": "en",
-   "excerpt": "VLCC rates have been under pressure in the week gone by, shedding WS 100-150 points depending on the voyages in question. The “weaker”",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "reports"
-   ],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "vlcc",
-    "worldscale"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "210892ddcb6b",
-   "title": "Maersk Tankers: A step closer to ammonia-powered VLACs",
-   "link": "https://www.hellenicshippingnews.com/maersk-tankers-a-step-closer-to-ammonia-powered-vlacs/",
-   "source": "hsn",
-   "published": "2026-10-21T21:00:53Z",
-   "seen": "2026-10-21T21:42:09Z",
-   "lang": "en",
-   "excerpt": "Our ambition to power our new fleet of Very Large Ammonia Carriers (VLACs) with ammonia has taken an important step forward. Our retrofit project, RIPPLE, has been selected for EU Innovation Fund funding, pending finalisation of the grant …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers",
-    "gas",
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lpg",
-    "dual-fuel",
-    "bunkers"
-   ],
    "paywall": false
   }
  ]
