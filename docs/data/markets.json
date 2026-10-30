@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T21:50:16Z",
+ "updated": "2026-10-30T01:04:40Z",
  "series": {
   "usdnok": {
    "label": "USD/NOK",
@@ -7,10 +7,6 @@
    "source": "Norges Bank",
    "source_url": "https://www.norges-bank.no/en/topics/Statistics/exchange_rates/",
    "points": [
-    [
-     "2025-08-25",
-     10.0953
-    ],
     [
      "2025-08-26",
      10.1544
@@ -1211,10 +1207,6 @@
    "source": "Norges Bank",
    "source_url": "https://www.norges-bank.no/en/topics/Statistics/exchange_rates/",
    "points": [
-    [
-     "2025-08-25",
-     11.8085
-    ],
     [
      "2025-08-26",
      11.836
