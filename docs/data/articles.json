@@ -1,14 +1,393 @@
 {
- "updated": "2026-10-30T15:56:25Z",
+ "updated": "2026-10-30T18:52:57Z",
  "sample": false,
  "articles": [
   {
-   "id": "614aaaf3ff09",
-   "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
-   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351415",
+   "id": "4814c5924a74",
+   "title": "SAIA’s Record $982.5M Q3 Revenue | What’s Next?",
+   "link": "https://www.freightwaves.com/news/saias-record-982-5m-q3-revenue-whats-next",
+   "source": "freightwaves",
+   "published": "2026-10-30T18:37:16Z",
+   "seen": "2026-10-30T18:52:57Z",
+   "lang": "en",
+   "excerpt": "SAIA President & CEO Fritz Holgrefe breaks down the company’s impressive third-quarter earnings, including record revenue and significant improvements in customer satisfaction and claims ratios.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5336f67d0d0d",
+   "title": "TFI chief Bedard rips into its US LTL operations, promises change",
+   "link": "https://www.freightwaves.com/news/tfi-chief-bedard-rips-into-its-us-ltl-operations-promises-change",
+   "source": "freightwaves",
+   "published": "2026-10-30T18:31:44Z",
+   "seen": "2026-10-30T18:52:57Z",
+   "lang": "en",
+   "excerpt": "Alain Bedard, the CEO of TFI International, had been highly critical of his company’s U.S. LTL operations back in 2024, at one point referring to some of its practices as “stupid.” As recently as April, he was far more optimistic about the …",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ltl"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "9669f86483c6",
+   "title": "Beverage Distribution: Why Your SKU Count is Crushing Productivity",
+   "link": "https://www.freightwaves.com/news/beverage-distribution-why-your-sku-count-is-crushing-productivity",
+   "source": "freightwaves",
+   "published": "2026-10-30T18:30:22Z",
+   "seen": "2026-10-30T18:52:57Z",
+   "lang": "en",
+   "excerpt": "SKU proliferation has made beverage distribution a logistical nightmare. Zac Boehm, Chief Automation Officer at Hy-Tek Intralogistics, breaks down how their innovative automation systems, High-Sync and High-Flow, tackle the challenges of …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "d2ef87646a9f",
+   "title": "Arkansas truck blitz nets 183 English violations, 44 arrests in 48 hours",
+   "link": "https://www.freightwaves.com/news/arkansas-truck-blitz-nets-183-english-violations-44-arrests-in-48-hours",
+   "source": "freightwaves",
+   "published": "2026-10-30T18:06:57Z",
+   "seen": "2026-10-30T18:52:57Z",
+   "lang": "en",
+   "excerpt": "A two-day Arkansas trucking enforcement blitz resulted in 183 English-language proficiency violations, 44 criminal arrests and 74 immigration violations.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "921eabe3744b",
+   "title": "Natalia Margioli takes the helm at the Institute of Chartered Shipbrokers",
+   "link": "https://www.hellenicshippingnews.com/natalia-margioli-takes-the-helm-at-the-institute-of-chartered-shipbrokers/",
+   "source": "hsn",
+   "published": "2026-10-30T18:00:59Z",
+   "seen": "2026-10-30T18:52:57Z",
+   "lang": "en",
+   "excerpt": "The Institute of Chartered Shipbrokers (ICS), the professional body for the commercial shipping industry worldwide, has officially welcomed its new senior officers at this year’s Controlling Council meeting held in Cape Town, South Africa.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "shipbroker"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "01c34f9c9951",
+   "title": "Open Letter: Request for clarification on the treatment of specific fuels under the IMO Net-Zero Framework",
+   "link": "https://www.hellenicshippingnews.com/open-letter-request-for-clarification-on-the-treatment-of-specific-fuels-under-the-imo-net-zero-framework/",
+   "source": "hsn",
+   "published": "2026-10-30T18:00:57Z",
+   "seen": "2026-10-30T18:52:57Z",
+   "lang": "en",
+   "excerpt": "On 27 October 2026, civil society organisations wrote to IMO Secretary-General Arsenio Dominguez. They asked for confirmation that decisions on how specific fuels are treated under the Net-Zero Framework rest with member states, informed …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "imo-nzf",
+    "imo",
+    "lng"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "b247501ed597",
+   "title": "ZIM Launches ZX3 – A New Premium Express Service Connecting Shanghai and Xiamen to Los Angeles",
+   "link": "https://www.hellenicshippingnews.com/zim-launches-zx3-a-new-premium-express-service-%e2%80%a8connecting-shanghai-and-xiamen-to-los-angeles/",
+   "source": "hsn",
+   "published": "2026-10-30T18:00:55Z",
+   "seen": "2026-10-30T18:52:57Z",
+   "lang": "en",
+   "excerpt": "ZIM Integrated Shipping Services (NYSE: ZIM) announced today the launch of ZX3, a new premium expedited service connecting Shanghai and Xiamen directly with Los Angeles, further expanding ZIM’s expedited offering across the Transpacific …",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "30c4390baff0",
+   "title": "30th October International day of action: ‘Dockworkers don’t work for war’",
+   "link": "https://www.hellenicshippingnews.com/30th-october-international-day-of-action-dockworkers-dont-work-for-war/",
+   "source": "hsn",
+   "published": "2026-10-30T18:00:53Z",
+   "seen": "2026-10-30T18:52:57Z",
+   "lang": "en",
+   "excerpt": "On Friday 30 October, dockworkers in 113 ports across 22 countries will take action against war in the largest coordinated port action ever held.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ed890981f1b2",
+   "title": "Gov. Kemp, Georgia Ports host Gainesville grand opening",
+   "link": "https://www.hellenicshippingnews.com/gov-kemp-georgia-ports-host-gainesville-grand-opening/",
+   "source": "hsn",
+   "published": "2026-10-30T18:00:51Z",
+   "seen": "2026-10-30T18:52:57Z",
+   "lang": "en",
+   "excerpt": "Georgia Gov. Brian Kemp joined customers, Hall County dignitaries and Georgia Ports leaders to host the grand opening ceremony of the $134 million Gainesville Inland Port.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "57cb3b158620",
+   "title": "Increased capacity at Arken Intermodal Terminal in the Port of Gothenburg",
+   "link": "https://www.hellenicshippingnews.com/increased-capacity-at-arken-intermodal-terminal-in-the-port-of-gothenburg/",
+   "source": "hsn",
+   "published": "2026-10-30T18:00:49Z",
+   "seen": "2026-10-30T18:52:57Z",
+   "lang": "en",
+   "excerpt": "By rebuilding and streamlining the layout of the railway tracks at Arken Intermodal Terminal, new space for cargo handling has been created. The result is a significant increase in yard capacity.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "intermodal"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "9a2fe740fceb",
+   "title": "GDP up by 0.4% in the euro area and by 0.5% in the EU",
+   "link": "https://www.hellenicshippingnews.com/gdp-up-by-0-4-in-the-euro-area-and-by-0-5-in-the-eu/",
+   "source": "hsn",
+   "published": "2026-10-30T18:00:47Z",
+   "seen": "2026-10-30T18:52:57Z",
+   "lang": "en",
+   "excerpt": "Overview In the third quarter of 2026, seasonally adjusted GDP increased by 0.4% in the euro area and by 0.5% in the EU, compared with the previous quarter, according to a preliminary flash estimate published by Eurostat, the statistical …",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "586f2e7f18bc",
+   "title": "Lion Shipbrokers Weekly Market Report, Week 44 2026",
+   "link": "https://www.hellenicshippingnews.com/lion-shipbrokers-weekly-market-report-week-44-2026/",
+   "source": "hsn",
+   "published": "2026-10-30T18:00:41Z",
+   "seen": "2026-10-30T18:52:57Z",
+   "lang": "en",
+   "excerpt": "Sale & Purchase: The second-hand market was busy this week, with fifteen vessels reported sold or committed for further trading, nine dry",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "reports"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "shipbroker",
+    "sale-purchase"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "5aea504b54d9",
+   "title": "Toyo Construction wins Sihanoukville container terminal contract",
+   "link": "https://container-news.com/toyo-construction-wins-sihanoukville-container-terminal-contract/",
+   "source": "containernews",
+   "published": "2026-10-30T18:00:37Z",
+   "seen": "2026-10-30T18:52:57Z",
+   "lang": "en",
+   "excerpt": "Toyo Construction has secured a ¥26.2 billion contract to build the second new container terminal at Sihanoukville Port in Cambodia. The Port Authority of Sihanoukville awarded the Japanese contractor Package 1, which covers the civil …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "91cb069eeaec",
+   "title": "Five Rescued, One Died in Tugboat Fire off Japan",
+   "link": "https://maritime-executive.com/article/five-rescued-one-died-in-tugboat-fire-off-japan",
+   "source": "marex",
+   "published": "2026-10-30T17:49:09Z",
+   "seen": "2026-10-30T18:52:57Z",
+   "lang": "en",
+   "excerpt": "[Brief] The Japanese Coast Guard received reports Friday morning of a fire aboard a tugboat located approximately 20 nautical miles north of Miyako...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "0150bccc6710",
+   "title": "European postal operators gear up for surge in holiday volume",
+   "link": "https://www.freightwaves.com/news/european-postal-operators-gear-up-for-surge-in-holiday-volume",
+   "source": "freightwaves",
+   "published": "2026-10-30T17:44:55Z",
+   "seen": "2026-10-30T18:52:57Z",
+   "lang": "en",
+   "excerpt": "Posten Bring in Norway and Deutsche Post in Germany are beefing up locker networks and taking other steps to ensure smooth delivery service for the holidays.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "bde6e47fbb0f",
+   "title": "How MARAD Cut Years Off Deepwater Port Reviews Without Changing Environmental Standards",
+   "link": "https://gcaptain.com/how-marad-cut-years-off-deepwater-port-reviews-without-changing-environmental-standards/",
+   "source": "gcaptain",
+   "published": "2026-10-30T17:36:50Z",
+   "seen": "2026-10-30T18:52:57Z",
+   "lang": "en",
+   "excerpt": "As gCaptain reported earlier this week, the Maritime Administration (MARAD) announced its approval of the $8.2 billion Texas ST LNG export port application, a major development for U.S. energy production.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lng"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "5b1776ad3300",
+   "title": "Covenant Logistics CEO expects double-digit truckload rate hikes in 2027",
+   "link": "https://www.freightwaves.com/news/covenant-logistics-ceo-expects-double-digit-truckload-rate-hikes-in-2027",
+   "source": "freightwaves",
+   "published": "2026-10-30T17:32:06Z",
+   "seen": "2026-10-30T18:52:57Z",
+   "lang": "en",
+   "excerpt": "Covenant Logistics CEO David Parker expects another year of substantial truckload contract rate increases in 2027.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "covenant",
+    "ftl"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "d496d99ccea8",
+   "title": "Hanwha Philly Shipyard Selected by TOTE to Build First Medium Landing Ship",
+   "link": "https://maritime-executive.com/article/hanwha-philly-shipyard-selected-by-tote-to-build-first-medium-landing-ship",
+   "source": "marex",
+   "published": "2026-10-30T17:25:52Z",
+   "seen": "2026-10-30T18:52:57Z",
+   "lang": "en",
+   "excerpt": "Hanwha Defense USA was officially named as the first shipbuilder selected by TOTE Services to build a Medium Landing Ship (LSM) for the U.S. Navy and...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "9c31054ba821",
+   "title": "SFL acquires two 8,800 TEU container ships",
+   "link": "https://container-news.com/sfl-acquires-two-8800-teu-container-ships/",
+   "source": "containernews",
+   "published": "2026-10-30T17:00:40Z",
+   "seen": "2026-10-30T18:52:57Z",
+   "lang": "en",
+   "excerpt": "SFL Corporation has agreed to acquire two 8,800 TEU container vessels scheduled for delivery in 2027. The company will also acquire a 93,000-cubic-metre dual-fuel Very Large Ammonia Carrier, which is due for delivery in 2028.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "teu",
+    "liner",
+    "dual-fuel",
+    "time-charter"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "8aa299b648a0",
+   "title": "Brukte reoler kan gi innovasjonspris",
+   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351893",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-30T15:56:25Z",
+   "seen": "2026-10-30T16:52:57Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -21,12 +400,30 @@
    "paywall": false
   },
   {
-   "id": "6fb2b0ee131f",
-   "title": "Brukte reoler kan gi innovasjonspris",
-   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351621",
+   "id": "90d67d094b5a",
+   "title": "Hanwha Philly Shipyard Wins $269 Million U.S. Navy Landing Ship Contract",
+   "link": "https://gcaptain.com/hanwha-philly-shipyard-wins-269-million-u-s-navy-landing-ship-contract/",
+   "source": "gcaptain",
+   "published": "2026-10-30T16:46:58Z",
+   "seen": "2026-10-30T18:52:57Z",
+   "lang": "en",
+   "excerpt": "Hanwha Philly Shipyard has secured a $269 million contract to build a Medium Landing Ship (LSM) for the U.S. Navy and Marine Corps, marking a major milestone in the South...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ebfe6b37f888",
+   "title": "Krever tiltak for varelevering i ny mobilitetsplan",
+   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351878",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-30T15:41:25Z",
+   "seen": "2026-10-30T16:37:57Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -35,6 +432,98 @@
    "subs": [],
    "policy": false,
    "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "89b634dacc16",
+   "title": "Rekordmye tonnasje i det norske skipsregisteret",
+   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351864",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-30T16:22:57Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "0f54761529f8",
+   "title": "Grimaldi Warns U.S. Port Fees Could Force Ships Out of American Trades",
+   "link": "https://gcaptain.com/grimaldi-warns-u-s-port-fees-could-force-ships-out-of-american-trades/",
+   "source": "gcaptain",
+   "published": "2026-10-30T16:18:17Z",
+   "seen": "2026-10-30T18:52:57Z",
+   "lang": "en",
+   "excerpt": "Italian shipping giant Grimaldi Group is warning that reinstating U.S. port fees on foreign-built vehicle carriers could force it to redeploy vessels away from American trades, potentially disrupting shipping services...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "car-carrier"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "a10190f3b9dc",
+   "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
+   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351849",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-30T16:07:57Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4acc2a829468",
+   "title": "Anti-War Protests Spread Across Global Ports as Dockworkers Target Arms Trade",
+   "link": "https://gcaptain.com/anti-war-protests-spread-across-global-ports-as-dockworkers-target-arms-trade/",
+   "source": "gcaptain",
+   "published": "2026-10-30T16:02:58Z",
+   "seen": "2026-10-30T18:52:57Z",
+   "lang": "en",
+   "excerpt": "Dockworkers across 113 ports in 22 countries staged coordinated strikes and protests Friday, disrupting cargo operations and ferry services as part of a global campaign opposing arms shipments to Israel...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "fb99248323b0",
+   "title": "What the shrinking US port budget says about the contest with China",
+   "link": "https://container-news.com/what-the-shrinking-us-port-budget-says-about-the-contest-with-china/",
+   "source": "containernews",
+   "published": "2026-10-30T16:00:38Z",
+   "seen": "2026-10-30T18:52:57Z",
+   "lang": "en",
+   "excerpt": "The latest MARAD round is the smallest in five years. The bigger problem is that America funds its maritime revival one grant at a time, while China runs it as a five-year plan.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
    "terms": [],
    "paywall": false
   },
@@ -76,21 +565,26 @@
    "paywall": false
   },
   {
-   "id": "3adf5b8725e2",
-   "title": "Krever tiltak for varelevering i ny mobilitetsplan",
-   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351252",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-30T15:11:25Z",
-   "lang": "no",
-   "excerpt": "",
+   "id": "1ffcb7ba918b",
+   "title": "Tanker Hit by Limpet Mines in Strait of Hormuz as New Threat to Shipping Emerges",
+   "link": "https://gcaptain.com/tanker-hit-by-limpet-mines-in-strait-of-hormuz-as-new-threat-to-shipping-emerges/",
+   "source": "gcaptain",
+   "published": "2026-10-30T15:16:54Z",
+   "seen": "2026-10-30T18:52:57Z",
+   "lang": "en",
+   "excerpt": "A tanker transiting the Strait of Hormuz was attacked by a small boat that attached two explosive devices to its hull, triggering an engine room fire and temporarily disabling the...",
    "segments": [
-    "road"
+    "freight",
+    "insurance"
    ],
-   "subs": [],
+   "subs": [
+    "tankers"
+   ],
    "policy": false,
-   "level": "national",
-   "terms": [],
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
    "paywall": false
   },
   {
@@ -245,6 +739,25 @@
    "subs": [
     "containers"
    ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c64c2825045c",
+   "title": "CN 3Q profit rises 6% as freight revenue climbs",
+   "link": "https://www.freightwaves.com/news/cn-3q-profit-rises-6-as-freight-revenue-climbs",
+   "source": "freightwaves",
+   "published": "2026-10-30T13:22:00Z",
+   "seen": "2026-10-30T18:52:57Z",
+   "lang": "en",
+   "excerpt": "Canadian National Railway reported a 6% increase in third-quarter profit as grain, energy and automotive freight activity lifted revenue.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
    "policy": false,
    "level": "international",
    "terms": [],
@@ -462,24 +975,6 @@
    "source": "mtlogistikk",
    "published": null,
    "seen": "2026-10-30T11:31:24Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "79daa4666817",
-   "title": "Rekordmye tonnasje i det norske skipsregisteret",
-   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351147",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-30T11:26:25Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -17739,498 +18234,6 @@
    "terms": [
     "lng"
    ],
-   "paywall": false
-  },
-  {
-   "id": "1ab190a3df5b",
-   "title": "First look: Union Pacific earnings",
-   "link": "https://www.freightwaves.com/news/first-look-union-pacific-earnings-4",
-   "source": "freightwaves",
-   "published": "2026-10-22T14:46:03Z",
-   "seen": "2026-10-22T15:43:04Z",
-   "lang": "en",
-   "excerpt": "Union Pacific’s third-quarter profit rose 16% as higher freight volumes and pricing gains boosted revenue.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "99f276538519",
-   "title": "Saipem and Egypt’s MDC seal pact to target MENA offshore drilling market",
-   "link": "https://offshore-energy.biz/2026/10/22/saipem-and-egypts-mdc-seal-pact-to-target-mena-offshore-drilling-market",
-   "source": "offshoreenergy",
-   "published": "2026-10-22T14:22:43Z",
-   "seen": "2026-10-22T15:43:04Z",
-   "lang": "en",
-   "excerpt": "Saipem and Modern Drilling Company (MDC) are joining forces to pursue strategic offshore drilling opportunities across Egypt and the MENA region.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "b9e0811805f3",
-   "title": "Yara uklare om prestisjeskipets skjebne",
-   "link": "https://www.mtlogistikk.no/containertransport-grenland-havn-larvik-havn/yara-uklare-om-prestisjeskipets-skjebne/1346562",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-22T14:13:04Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "631c3327b487",
-   "title": "First look: Norfolk Southern earnings",
-   "link": "https://www.freightwaves.com/news/first-look-norfolk-southern-earnings-4",
-   "source": "freightwaves",
-   "published": "2026-10-22T14:09:01Z",
-   "seen": "2026-10-22T15:43:04Z",
-   "lang": "en",
-   "excerpt": "Norfolk Southern’s third-quarter earnings rose as higher freight volume and fuel surcharges drove record revenue.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "fuel-surcharge"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "d4e1eceeb50c",
-   "title": "Commodity markets whip up railfreight gains",
-   "link": "https://www.freightwaves.com/news/commodity-markets-whip-up-railfreight-gains",
-   "source": "freightwaves",
-   "published": "2026-10-22T14:00:00Z",
-   "seen": "2026-10-22T18:46:49Z",
-   "lang": "en",
-   "excerpt": "Intermodal and commodity traffic helped U.S. freight railroads to strong volume gains in the latest week data.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "intermodal"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "b734ed669f6c",
-   "title": "SC Ports handles first Isuzu container shipment through Inland Port Greer",
-   "link": "https://container-news.com/sc-ports-handles-first-isuzu-container-shipment-through-inland-port-greer/",
-   "source": "containernews",
-   "published": "2026-10-22T13:53:13Z",
-   "seen": "2026-10-22T15:43:04Z",
-   "lang": "en",
-   "excerpt": "South Carolina Ports (SC Ports) has handled the first container carrying production equipment for Isuzu North America Corporation’s new manufacturing facility in South Carolina.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "c61e680fcb74",
-   "title": "First look: almost all strong numbers in Ryder’s third quarter earnings",
-   "link": "https://www.freightwaves.com/news/first-look-almost-all-strong-numbers-in-ryders-third-quarter-earnings",
-   "source": "freightwaves",
-   "published": "2026-10-22T13:42:38Z",
-   "seen": "2026-10-22T15:43:04Z",
-   "lang": "en",
-   "excerpt": "It was a solid third quarter for Ryder, with improvement in just about every metric compared to the third quarter of 2025. The numbers have been good enough that Ryder (NYSE: R) raised its full-year outlook for 2026.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "610a4f234dc1",
-   "title": "Marco Polo Marine expands Korean offshore push with new JV",
-   "link": "https://splash247.com/marco-polo-marine-expands-korean-offshore-push-with-new-jv/",
-   "source": "splash",
-   "published": "2026-10-22T13:36:25Z",
-   "seen": "2026-10-22T15:43:04Z",
-   "lang": "en",
-   "excerpt": "Singapore-listed offshore vessel owner and shipyard group Marco Polo Marine has established a joint venture in South Korea with local partner NSEL, strengthening its presence in the country’s offshore vessel market.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "da0d7ffe87a7",
-   "title": "Knight-Swift again eyes big rate increases as new bid season nears",
-   "link": "https://www.freightwaves.com/news/knight-swift-again-eyes-big-rate-increases-as-new-bid-season-nears",
-   "source": "freightwaves",
-   "published": "2026-10-22T13:31:37Z",
-   "seen": "2026-10-22T15:43:04Z",
-   "lang": "en",
-   "excerpt": "Knight-Swift Transportation’s large exposure to the one-way truckload market has it in position to capture double-digit rate increases as its new bid season kicks off next month.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "ftl"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "967823ada4e7",
-   "title": "FEED job for Barents Sea FPSO topsides goes to Aibel",
-   "link": "https://offshore-energy.biz/2026/10/22/feed-job-for-barents-sea-fpso-topsides-goes-to-aibel",
-   "source": "offshoreenergy",
-   "published": "2026-10-22T13:30:00Z",
-   "seen": "2026-10-22T15:43:04Z",
-   "lang": "en",
-   "excerpt": "Equinor has booked Aibel for its oil project's topsides engineering study as partners eye a concept selection by late 2026.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "fpso"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "999b8d52c862",
-   "title": "Rhenus introduces smart picking technology at Merck logistics hub in France",
-   "link": "https://container-news.com/rhenus-introduces-smart-picking-technology-at-merck-logistics-hub-in-france/",
-   "source": "containernews",
-   "published": "2026-10-22T13:00:40Z",
-   "seen": "2026-10-22T15:43:04Z",
-   "lang": "en",
-   "excerpt": "Rhenus has introduced a smart order-picking system at its logistics hub in Strasbourg, France, to improve warehouse operations for science and technology company Merck.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "c4f9436d59b9",
-   "title": "Cook Inlet LNG steps up Alaska energy push with TDI-Brooks survey",
-   "link": "https://offshore-energy.biz/2026/10/22/cook-inlet-lng-steps-up-alaska-energy-push-with-tdi-brooks-survey",
-   "source": "offshoreenergy",
-   "published": "2026-10-22T12:30:00Z",
-   "seen": "2026-10-22T15:43:04Z",
-   "lang": "en",
-   "excerpt": "TDI-Brooks has completed a geotechnical mission, bolstering Cook Inlet LNG’s efforts to shore up Southcentral Alaska’s energy supplies.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "0797ee761133",
-   "title": "Baltic Dry Index climbs to 2693 up 13 points",
-   "link": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2693-up-13-points/",
-   "source": "hsn",
-   "published": "2026-10-22T12:00:20Z",
-   "seen": "2026-10-22T12:50:36Z",
-   "lang": "en",
-   "excerpt": "Today, Thursday, October 22 2026, the Baltic Dry Index climbed 13 points, 2693 points. Baltic Dry Index is compiled by the London-based Baltic Exchange and covers prices for transported cargo such as coal, grain and iron ore.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bdi",
-    "baltic-exchange"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "08533122778c",
-   "title": "CMA CGM’s first container train arrives at Hungary’s East-West Gate terminal",
-   "link": "https://container-news.com/cma-cgms-first-container-train-arrives-at-hungarys-east-west-gate-terminal/",
-   "source": "containernews",
-   "published": "2026-10-22T12:00:07Z",
-   "seen": "2026-10-22T12:50:36Z",
-   "lang": "en",
-   "excerpt": "CMA CGM’s first container train has arrived at the East-West Gate (EWG) intermodal terminal in Fényeslitke, Hungary, marking a new development in the facility’s growing role in international container logistics.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "intermodal"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "e6a802801ba1",
-   "title": "Einride’s autonomous trucks to learn from Nvidia’s Alpamayo",
-   "link": "https://www.freightwaves.com/news/einride-nvidia-alpamayo-autonomous-trucks",
-   "source": "freightwaves",
-   "published": "2026-10-22T12:00:00Z",
-   "seen": "2026-10-22T12:50:36Z",
-   "lang": "en",
-   "excerpt": "A month after agreeing to build its next Einride Driver on Nvidia Hyperion, Einride said it will adapt Alpamayo to its trucks, routes and data, with a road evaluation set for 2027.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "31a9c268dbb8",
-   "title": "Yara tier om prestisjeskipets skjebne",
-   "link": "https://www.mtlogistikk.no/containertransport-grenland-havn-larvik-havn/yara-tier-om-prestisjeskipets-skjebne/1346562",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-22T11:20:36Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "445433071f63",
-   "title": "US announces nationwide rail infrastructure investment",
-   "link": "https://container-news.com/us-announces-nationwide-rail-infrastructure-investment/",
-   "source": "containernews",
-   "published": "2026-10-22T11:00:30Z",
-   "seen": "2026-10-22T12:50:36Z",
-   "lang": "en",
-   "excerpt": "The US Department of Transportation has announced a US$2.3 billion investment covering freight and passenger rail projects across 45 states and the District of Columbia.",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "1fd97f2c2688",
-   "title": "Motive launches AI Agents as fleets weigh how to prevent problems",
-   "link": "https://www.freightwaves.com/news/motive-launches-ai-agents-fleets",
-   "source": "freightwaves",
-   "published": "2026-10-22T11:00:00Z",
-   "seen": "2026-10-22T12:50:36Z",
-   "lang": "en",
-   "excerpt": "Motive, an AI platform for physical operations, launched Agents on Monday at the American Trucking Associations’ Management Conference & Exhibition (MCE) in Charlotte, North Carolina.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "abfa9c52b225",
-   "title": "Late, short deliveries cost food and CPG makers $100 billion",
-   "link": "https://www.freightwaves.com/news/cleo-otif-failures-cost-cpg-100-billion",
-   "source": "freightwaves",
-   "published": "2026-10-22T11:00:00Z",
-   "seen": "2026-10-22T12:50:36Z",
-   "lang": "en",
-   "excerpt": "Cleo's OTIF report models $10 billion to $11 billion in direct costs and $85 billion to $90 billion in indirect losses for North American CPG and food manufacturers.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "7ff8ad51f1c5",
-   "title": "EnerMech takes on ‘major’ UK CCS gig but keeps project details under wraps",
-   "link": "https://offshore-energy.biz/2026/10/22/enermech-takes-on-major-uk-ccs-gig-but-keeps-project-details-under-wraps",
-   "source": "offshoreenergy",
-   "published": "2026-10-22T10:30:00Z",
-   "seen": "2026-10-22T12:50:36Z",
-   "lang": "en",
-   "excerpt": "EnerMech has revealed a new carbon capture and storage (CCS) job in the UK, though project details and the operator remain undisclosed.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "ccs"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "aa06e2a2b0a2",
-   "title": "NLF på Oslo Motor Show",
-   "link": "https://lastebil.no/aktuelt/nyheter/nlf-paa-oslo-motor-show",
-   "source": "lastebil",
-   "published": "2026-10-22T10:20:23Z",
-   "seen": "2026-10-22T12:50:36Z",
-   "lang": "no",
-   "excerpt": "Oslo Motor Show fyller Nova Spektrum med kjøretøy, lys og lyd fra fredag 23. til søndag 25. oktober. For lastebilinteresserte er hall E stedet å være – med Scandinavian Truck Trophy, bransjeutstillere, kjettinglegging og mulighet til å …",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "4fd2e9912407",
-   "title": "Shipowners warn fuel transition could slip beyond 2030 as methanol demand remains uncertain",
-   "link": "https://www.hellenicshippingnews.com/shipowners-warn-fuel-transition-could-slip-beyond-2030-as-methanol-demand-remains-uncertain/",
-   "source": "hsn",
-   "published": "2026-10-22T10:00:59Z",
-   "seen": "2026-10-22T12:50:36Z",
-   "lang": "en",
-   "excerpt": "Regulatory uncertainty and limited shipbuilding capacity could delay the wider adoption of alternative marine fuels beyond 2030, shipping executives said, while orders for methanol-capable vessels may not translate directly into demand for …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "bunkers",
-    "dry-bulk"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "eb997279bf1c",
-   "title": "Drewry: Suez Traffic Showing Strong Momentum",
-   "link": "https://www.hellenicshippingnews.com/drewry-suez-traffic-showing-strong-momentum/",
-   "source": "hsn",
-   "published": "2026-10-22T10:00:57Z",
-   "seen": "2026-10-22T12:50:36Z",
-   "lang": "en",
-   "excerpt": "With regional security changing rapidly, Drewry’s Red Sea Diversion Tracker delivers timely intelligence to shippers, carriers, ports and other stakeholders on the evolving structure of carrier networks.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint",
-    "shipper-consignee",
-    "liner"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "bcec981e35e8",
-   "title": "Goldman Sachs sees crude freight rates surge to $20 per barrel",
-   "link": "https://www.hellenicshippingnews.com/goldman-sachs-sees-crude-freight-rates-surge-to-20-per-barrel/",
-   "source": "hsn",
-   "published": "2026-10-22T10:00:55Z",
-   "seen": "2026-10-22T12:50:36Z",
-   "lang": "en",
-   "excerpt": "Global average crude freight rates have climbed above $20 per barrel from $3 per barrel a year ago, according to Goldman Sachs analysis released Wednesday.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "vlcc"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "3c95ba3d3a6a",
-   "title": "MMI Daily Iron Ore Index Report October 22 2026",
-   "link": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-october-22-2026/",
-   "source": "hsn",
-   "published": "2026-10-22T10:00:51Z",
-   "seen": "2026-10-22T12:50:36Z",
-   "lang": "en",
-   "excerpt": "Today’s decline extended across domestic futures, port spot and seaborne markets, testing the earlier recovery again. DCE most-traded closed at 669.0 yuan/mt, down 1.83%, and all eight Qingdao products fell 9 yuan/wmt.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
    "paywall": false
   }
  ]
