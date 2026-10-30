@@ -1,7 +1,81 @@
 {
- "updated": "2026-10-30T01:04:33Z",
+ "updated": "2026-10-30T03:53:41Z",
  "sample": false,
  "articles": [
+  {
+   "id": "a16004ebc952",
+   "title": "Gordon setter inn tolv el-lastesykler i Oslo sentrum",
+   "link": "https://www.mtlogistikk.no/bylogistikk-el-lastesykler-gordon/gordon-setter-inn-tolv-el-lastesykler-i-oslo-sentrum/1350321",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-30T03:53:41Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "324ea57d4494",
+   "title": "Port of NY/NJ appoints PATH leadership team",
+   "link": "https://container-news.com/port-of-ny-nj-appoints-path-leadership-team/",
+   "source": "containernews",
+   "published": "2026-10-30T02:55:09Z",
+   "seen": "2026-10-30T03:53:41Z",
+   "lang": "en",
+   "excerpt": "The Port Authority of New York and New Jersey has announced that PATH Director and General Manager Clarelle DeGraffe will retire at the end of 2026 after more than 37 years with the agency, the last seven leading the PATH rail transit …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "b82629a51855",
+   "title": "Pushback Against Russian Diesel Gains Traction With U.S. Energy Importers",
+   "link": "https://maritime-executive.com/article/pushback-against-russian-diesel-gains-traction-with-u-s-energy-importers",
+   "source": "marex",
+   "published": "2026-10-30T01:00:16Z",
+   "seen": "2026-10-30T03:53:41Z",
+   "lang": "en",
+   "excerpt": "President Donald Trump's deal with Russian President Vladimir Putin on supplying extra diesel to the U.S. market has run into political opposition, an...",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "579782c46eb6",
+   "title": "Maersk removes PSS for larger boxes on Europe–South Africa trade",
+   "link": "https://container-news.com/maersk-removes-pss-for-larger-boxes-on-europe-south-africa-trade/",
+   "source": "containernews",
+   "published": "2026-10-30T01:00:12Z",
+   "seen": "2026-10-30T03:53:41Z",
+   "lang": "en",
+   "excerpt": "Maersk has revised its Peak Season Surcharge (PSS) for shipments from Europe to South Africa. The amended rates apply from 29 October 2026 and will remain in effect until further notice. Mozambique is excluded from the destination scope.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
   {
    "id": "2956dce2afd9",
    "title": "FedEx Freight sees volumes stabilize, eyes Q4 margin improvement",
@@ -115,24 +189,6 @@
    "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "fb719756d5d2",
-   "title": "Gordon setter inn tolv el-lastesykler i Oslo sentrum",
-   "link": "https://www.mtlogistikk.no/bylogistikk-el-lastesykler-gordon/gordon-setter-inn-tolv-el-lastesykler-i-oslo-sentrum/1350345",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-29T22:04:33Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -656,6 +712,24 @@
    "subs": [],
    "policy": false,
    "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "7852d13fdc7c",
+   "title": "Sikrer avisdistribusjon med ny anbudsrunde",
+   "link": "https://www.mtlogistikk.no/aktiv-norgesdistribusjon-avisdistribusjon-offentlige-anskaffelser/sikrer-avisdistribusjon-med-ny-anbudsrunde/1343595",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-29T20:08:41Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18150,89 +18224,6 @@
     "dual-fuel",
     "bunkers"
    ],
-   "paywall": false
-  },
-  {
-   "id": "8b7604376dad",
-   "title": "Statement by the HR/VP on the escalation of Russian strikes in the EU, particularly on Black Sea shipping, threatening human life, regional stability and food security",
-   "link": "https://www.hellenicshippingnews.com/statement-by-the-hr-vp-on-the-escalation-of-russian-strikes-in-the-eu-particularly-on-black-sea-shipping-threatening-human-life-regional-stability-and-food-security/",
-   "source": "hsn",
-   "published": "2026-10-21T21:00:47Z",
-   "seen": "2026-10-21T21:42:09Z",
-   "lang": "en",
-   "excerpt": "Russia is not winning on the battlefield in Ukraine. Instead, Putin is blatantly targeting civilians and stepping up hybrid attacks in the rest of Europe.",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "b4bc69822491",
-   "title": "World’s first commercial ship-to-ship green ammonia bunkering completed in China",
-   "link": "https://www.hellenicshippingnews.com/worlds-first-commercial-ship-to-ship-green-ammonia-bunkering-completed-in-china/",
-   "source": "hsn",
-   "published": "2026-10-21T21:00:45Z",
-   "seen": "2026-10-21T21:42:09Z",
-   "lang": "en",
-   "excerpt": "A liquefied gas carrier originally designed by FKAB Marine Design has completed what Jiangsu Andefu Energy Development describes as the world’s first commercial ship-to-ship bunkering operation using green ammonia.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "dual-fuel",
-    "bunkers"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "6b671aebc1b0",
-   "title": "BGN builds up LPG-capable gas carrier fleet with four more ships",
-   "link": "https://www.hellenicshippingnews.com/bgn-builds-up-lpg-capable-gas-carrier-fleet-with-four-more-ships/",
-   "source": "hsn",
-   "published": "2026-10-21T21:00:43Z",
-   "seen": "2026-10-21T21:42:09Z",
-   "lang": "en",
-   "excerpt": "Energy and commodities trading group BGN has ordered four 93,000-cbm LPG-capable gas carriers from HD Hyundai Heavy Industries for delivery in January 2030.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lpg",
-    "units"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "21f546a44ebd",
-   "title": "HarborLab launches DEX, an AI assistant for DA evaluation teams",
-   "link": "https://www.hellenicshippingnews.com/harborlab-launches-dex-an-ai-assistant-for-da-evaluation-teams/",
-   "source": "hsn",
-   "published": "2026-10-21T21:00:39Z",
-   "seen": "2026-10-21T21:42:09Z",
-   "lang": "en",
-   "excerpt": "HarborLab, the AI-powered platform for port cost management, has launched DEX, an AI assistant that checks every port expense on a DA, so analysts can focus on what needs a decision.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
    "paywall": false
   }
  ]
