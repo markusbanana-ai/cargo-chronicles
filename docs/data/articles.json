@@ -1,14 +1,58 @@
 {
- "updated": "2026-10-31T15:41:41Z",
+ "updated": "2026-10-31T18:50:10Z",
  "sample": false,
  "articles": [
   {
-   "id": "614aaaf3ff09",
-   "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
-   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351415",
+   "id": "d9db5dc9b1e8",
+   "title": "Iran’s IRGC Navy Says Four Tankers Catch Fire In Strait Of Hormuz",
+   "link": "https://gcaptain.com/irans-irgc-navy-says-four-tankers-catch-fire-in-strait-of-hormuz/",
+   "source": "gcaptain",
+   "published": "2026-10-31T18:01:30Z",
+   "seen": "2026-10-31T18:50:10Z",
+   "lang": "en",
+   "excerpt": "DUBAI, Oct 30 (Reuters) – Iran’s Revolutionary Guards Navy said on Friday that four oil tankers had caught fire and exploded in the Strait of Hormuz, while attempting to use what it described as unauthorised routes,...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "6c8a2813d00a",
+   "title": "Why the US advisory for Hormuz is traffic management rather than risk mitigation",
+   "link": "https://container-news.com/why-the-us-advisory-for-hormuz-is-traffic-management-rather-than-risk-mitigation/",
+   "source": "containernews",
+   "published": "2026-10-31T18:00:03Z",
+   "seen": "2026-10-31T18:50:10Z",
+   "lang": "en",
+   "excerpt": "On 28 October, US Naval Forces Central Command issued a notice through the Joint Maritime Information Center advising vessels with no need to move between ports in the Gulf of Oman and the Strait of Hormuz to remain well clear.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "8aa299b648a0",
+   "title": "Brukte reoler kan gi innovasjonspris",
+   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351893",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-31T15:41:41Z",
+   "seen": "2026-10-31T16:50:10Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -21,12 +65,68 @@
    "paywall": false
   },
   {
-   "id": "6fb2b0ee131f",
-   "title": "Brukte reoler kan gi innovasjonspris",
-   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351621",
+   "id": "ebfe6b37f888",
+   "title": "Krever tiltak for varelevering i ny mobilitetsplan",
+   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351878",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-31T15:26:41Z",
+   "seen": "2026-10-31T16:35:10Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "57c81f8b3e8a",
+   "title": "Sea-Intelligence: Unprecedented Capacity Levels in Oct/Nov",
+   "link": "https://container-news.com/sea-intelligence-unprecedented-capacity-levels-in-oct-nov/",
+   "source": "containernews",
+   "published": "2026-10-31T16:24:30Z",
+   "seen": "2026-10-31T18:50:10Z",
+   "lang": "en",
+   "excerpt": "The container shipping market is currently operating in an environment of unprecedented supply, with deployed capacity reaching historic highs across all major East‑West trade lanes.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "89b634dacc16",
+   "title": "Rekordmye tonnasje i det norske skipsregisteret",
+   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351864",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-31T16:20:10Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a10190f3b9dc",
+   "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
+   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351849",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-31T16:05:10Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -59,24 +159,6 @@
    "paywall": false
   },
   {
-   "id": "3adf5b8725e2",
-   "title": "Krever tiltak for varelevering i ny mobilitetsplan",
-   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351252",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-31T14:56:41Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "33f3d710a0fe",
    "title": "COSCO SHIPPING Ports revenue rises as overseas volumes accelerate",
    "link": "https://container-news.com/cosco-shipping-ports-revenue-rises-as-overseas-volumes-accelerate/",
@@ -94,24 +176,6 @@
    ],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "79daa4666817",
-   "title": "Rekordmye tonnasje i det norske skipsregisteret",
-   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351147",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-31T11:11:41Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18222,76 +18286,6 @@
    "level": "international",
    "terms": [
     "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "d5b0ef737b44",
-   "title": "HMM to Invest KRW 2 trillion in Newbuild Fleet",
-   "link": "https://www.hellenicshippingnews.com/hmm-to-invest-krw-2-trillion-in-newbuild-fleet/",
-   "source": "hsn",
-   "published": "2026-10-22T21:00:45Z",
-   "seen": "2026-10-22T21:39:17Z",
-   "lang": "en",
-   "excerpt": "HMM has announced that it placed a newbuilding order for eight 13,000 TEU containerships with HD Hyundai. The eight newbuildings will be built to LNG dual-fuel specifications, with the total contract value amounting to approximately KRW 2 …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "newbuilding",
-    "teu",
-    "liner",
-    "lng",
-    "dual-fuel"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "dfdcbf451730",
-   "title": "Iran reports ship fires, mine strikes, threatens wider response against US",
-   "link": "https://www.hellenicshippingnews.com/iran-reports-ship-fires-mine-strikes-threatens-wider-response-against-us/",
-   "source": "hsn",
-   "published": "2026-10-22T21:00:43Z",
-   "seen": "2026-10-22T21:39:17Z",
-   "lang": "en",
-   "excerpt": "Iran’s Islamic Revolutionary Guard Corps Navy said on Thursday that four vessels involved in illegal oil transfers in the northern Persian Gulf were simultaneously hit and caught fire after being tracked by its forces on Wednesday.",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "a7462fbfa640",
-   "title": "BW LPG Limited Delivers Strong Q3 2026 Segment Performance",
-   "link": "https://www.hellenicshippingnews.com/bw-lpg-limited-delivers-strong-q3-2026-segment-performance/",
-   "source": "hsn",
-   "published": "2026-10-22T21:00:41Z",
-   "seen": "2026-10-22T21:39:17Z",
-   "lang": "en",
-   "excerpt": "BW LPG Limited provided an update on its Product Services’ (“BW Product Services”) Q3 2026 segment performance. Q3 2026 highlights: • Gross trading result: US$164 million • This includes: o Realised trading result of US$146 million o …",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lpg"
    ],
    "paywall": false
   }
