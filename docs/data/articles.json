@@ -1,7 +1,101 @@
 {
- "updated": "2026-10-31T06:57:03Z",
+ "updated": "2026-10-31T09:46:42Z",
  "sample": false,
  "articles": [
+  {
+   "id": "614aaaf3ff09",
+   "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
+   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351415",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-31T09:46:42Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6fb2b0ee131f",
+   "title": "Brukte reoler kan gi innovasjonspris",
+   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351621",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-31T09:31:42Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "3adf5b8725e2",
+   "title": "Krever tiltak for varelevering i ny mobilitetsplan",
+   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351252",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-31T09:01:42Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "db070c5fc66d",
+   "title": "Eastern Car Liner arrives at port of Lázaro Cárdenas",
+   "link": "https://container-news.com/eastern-car-liner-arrives-at-port-of-lazaro-cardenas/",
+   "source": "containernews",
+   "published": "2026-10-31T09:00:35Z",
+   "seen": "2026-10-31T09:46:42Z",
+   "lang": "en",
+   "excerpt": "The Port of Lázaro Cárdenas has welcomed Eastern Car Liner, a Japanese shipping company specialising in the transport of automobiles, heavy vehicles, construction equipment and project cargo, with the MV Malaysia Brave making its inaugural …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "project-cargo"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "3153414c9d7c",
+   "title": "Behind Russia’s Arctic strategy",
+   "link": "https://container-news.com/behind-russias-arctic-strategy/",
+   "source": "containernews",
+   "published": "2026-10-31T07:30:15Z",
+   "seen": "2026-10-31T09:46:42Z",
+   "lang": "en",
+   "excerpt": "Moscow is not building a rival to Suez, but an export corridor no Western-controlled strait can touch, and selling it to Asia as safety.",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
   {
    "id": "9cf4896f7f60",
    "title": "DNV confirms feasibility of ship-based CO₂ injection concept for Atlas project",
@@ -24,30 +118,12 @@
    "paywall": false
   },
   {
-   "id": "8aa299b648a0",
-   "title": "Brukte reoler kan gi innovasjonspris",
-   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351893",
+   "id": "79daa4666817",
+   "title": "Rekordmye tonnasje i det norske skipsregisteret",
+   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351147",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-31T04:57:03Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "ebfe6b37f888",
-   "title": "Krever tiltak for varelevering i ny mobilitetsplan",
-   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351878",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-31T04:42:03Z",
+   "seen": "2026-10-31T05:16:42Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -84,42 +160,6 @@
    "paywall": false
   },
   {
-   "id": "89b634dacc16",
-   "title": "Rekordmye tonnasje i det norske skipsregisteret",
-   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351864",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-31T04:27:03Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a10190f3b9dc",
-   "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
-   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351849",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-31T04:12:03Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "c7b7978a3bb5",
    "title": "Port of Virginia orders 10 electric straddle carriers from Kalmar",
    "link": "https://container-news.com/port-of-virginia-orders-10-electric-straddle-carriers-from-kalmar/",
@@ -136,6 +176,24 @@
    ],
    "policy": false,
    "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "607575c68734",
+   "title": "Fremskutte lagre styrker forsyningssikkerheten",
+   "link": "https://www.mtlogistikk.no/finnmark-forsvaret-forsvarsbygg/fremskutte-lagre-styrker-forsyningssikkerheten/1345443",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-31T02:31:42Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18231,68 +18289,6 @@
    "policy": false,
    "level": "international",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a97bbcca1305",
-   "title": "UK P&I Club and TT Club announce the successful completion of their joint acquisition of the Thomas Miller Holdings group",
-   "link": "https://www.hellenicshippingnews.com/uk-pi-club-and-tt-club-announce-the-successful-completion-of-their-joint-acquisition-of-the-thomas-miller-holdings-group/",
-   "source": "hsn",
-   "published": "2026-10-22T21:00:33Z",
-   "seen": "2026-10-22T21:39:17Z",
-   "lang": "en",
-   "excerpt": "The UK P&I Club and TT Club today announce the successful completion of their joint acquisition of the Thomas Miller Holdings group, marking a major milestone in the creation of the United Transport Mutual.",
-   "segments": [
-    "finance",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "pi-club"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "5e0676853a10",
-   "title": "The Port of Riga to become a testbed for resilient maritime connectivity, as LVR Flote and HARDMODE sign MoU",
-   "link": "https://www.hellenicshippingnews.com/the-port-of-riga-to-become-a-testbed-for-resilient-maritime-connectivity-as-lvr-flote-and-hardmode-sign-mou/",
-   "source": "hsn",
-   "published": "2026-10-22T21:00:31Z",
-   "seen": "2026-10-22T21:39:17Z",
-   "lang": "en",
-   "excerpt": "LVR Flote, a provider of technical port services, and connectivity technology company HARDMODE have partnered to develop and test secure communications technologies for ports and the wider maritime sector as a crucial part of critical …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "f65b08fa13dd",
-   "title": "HIPG sees stronger opportunities as container shipping’s return to Suez gathers pace",
-   "link": "https://www.hellenicshippingnews.com/hipg-sees-stronger-opportunities-as-container-shippings-return-to-suez-gathers-pace/",
-   "source": "hsn",
-   "published": "2026-10-22T21:00:29Z",
-   "seen": "2026-10-22T21:39:17Z",
-   "lang": "en",
-   "excerpt": "Hambantota International Port Group (HIPG) has welcomed the prospect of a sustained return of container shipping through the Red Sea and Suez Canal, saying the recovery of the main East–West shipping corridor could strengthen Hambantota’s …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint",
-    "teu"
-   ],
    "paywall": false
   }
  ]
