@@ -1,7 +1,163 @@
 {
- "updated": "2026-10-31T18:50:10Z",
+ "updated": "2026-10-31T21:41:08Z",
  "sample": false,
  "articles": [
+  {
+   "id": "614aaaf3ff09",
+   "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
+   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351415",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-31T21:41:08Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a6ac47c9ca2f",
+   "title": "MacGregor secures retrofit contract for 35 Wallenius Wilhelmsen vessels",
+   "link": "https://container-news.com/macgregor-secures-retrofit-contract-for-35-wallenius-wilhelmsen-vessels/",
+   "source": "containernews",
+   "published": "2026-10-31T21:40:24Z",
+   "seen": "2026-10-31T21:41:08Z",
+   "lang": "en",
+   "excerpt": "MacGregor has secured a contract to upgrade Programmable Logic Controller (PLC) systems aboard 35 Pure Car and Truck Carrier (PCTC) vessels operated by Wallenius Wilhelmsen.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "car-carrier"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "6fb2b0ee131f",
+   "title": "Brukte reoler kan gi innovasjonspris",
+   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351621",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-31T21:26:08Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "3adf5b8725e2",
+   "title": "Krever tiltak for varelevering i ny mobilitetsplan",
+   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351252",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-31T20:56:08Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "71d17448a143",
+   "title": "Panama Canal Revises Transit Booking System and Updates NetZero Requirement",
+   "link": "https://maritime-executive.com/article/panama-canal-revises-transit-booking-system-and-updates-netzero-requirement",
+   "source": "marex",
+   "published": "2026-10-31T20:36:34Z",
+   "seen": "2026-10-31T21:41:08Z",
+   "lang": "en",
+   "excerpt": "The Panama Canal has updated the criteria for reallocating transit slots that are canceled or become available during booking periods 1A and 2 at the...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "b577427a2d11",
+   "title": "Natalia Margioli Takes the Helm at the Institute of Chartered Shipbrokers",
+   "link": "https://maritime-executive.com/article/natalia-margioli-takes-the-helm-at-the-institute-of-chartered-shipbrokers",
+   "source": "marex",
+   "published": "2026-10-31T20:31:25Z",
+   "seen": "2026-10-31T21:41:08Z",
+   "lang": "en",
+   "excerpt": "The Institute of Chartered Shipbrokers (ICS), the professional body for the commercial shipping industry worldwide, has officially welcomed its new se...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "shipbroker"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "c491def85dff",
+   "title": "Regular bioethanol bunkering begins at the Port of Santos",
+   "link": "https://maritime-executive.com/article/regular-bioethanol-bunkering-begins-at-the-port-of-santos",
+   "source": "marex",
+   "published": "2026-10-31T20:27:22Z",
+   "seen": "2026-10-31T21:41:08Z",
+   "lang": "en",
+   "excerpt": "New phase follows the pioneering operation carried out in July, through a partnership between Copersucar, CMA CGM, Bunker One, AGEO Terminais, Santos...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bunkers"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "3d2cf5bc34b7",
+   "title": "CMA CGM announces new surcharges for Beira and Indian Ocean trades",
+   "link": "https://container-news.com/cma-cgm-announces-new-surcharges-for-beira-and-indian-ocean-trades/",
+   "source": "containernews",
+   "published": "2026-10-31T20:00:32Z",
+   "seen": "2026-10-31T21:41:08Z",
+   "lang": "en",
+   "excerpt": "CMA CGM has announced three new freight surcharges affecting shipments from Mozambique, China and the Far East. The new charges will take effect on different dates throughout November 2026.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "congestion"
+   ],
+   "paywall": false
+  },
   {
    "id": "d9db5dc9b1e8",
    "title": "Iran’s IRGC Navy Says Four Tankers Catch Fire In Strait Of Hormuz",
@@ -47,30 +203,12 @@
    "paywall": false
   },
   {
-   "id": "8aa299b648a0",
-   "title": "Brukte reoler kan gi innovasjonspris",
-   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351893",
+   "id": "79daa4666817",
+   "title": "Rekordmye tonnasje i det norske skipsregisteret",
+   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351147",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-31T16:50:10Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "ebfe6b37f888",
-   "title": "Krever tiltak for varelevering i ny mobilitetsplan",
-   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351878",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-31T16:35:10Z",
+   "seen": "2026-10-31T17:11:08Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -99,42 +237,6 @@
    ],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "89b634dacc16",
-   "title": "Rekordmye tonnasje i det norske skipsregisteret",
-   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351864",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-31T16:20:10Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a10190f3b9dc",
-   "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
-   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351849",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-31T16:05:10Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -1070,26 +1172,6 @@
    "policy": false,
    "level": "international",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "921eabe3744b",
-   "title": "Natalia Margioli takes the helm at the Institute of Chartered Shipbrokers",
-   "link": "https://www.hellenicshippingnews.com/natalia-margioli-takes-the-helm-at-the-institute-of-chartered-shipbrokers/",
-   "source": "hsn",
-   "published": "2026-10-30T18:00:59Z",
-   "seen": "2026-10-30T18:52:57Z",
-   "lang": "en",
-   "excerpt": "The Institute of Chartered Shipbrokers (ICS), the professional body for the commercial shipping industry worldwide, has officially welcomed its new senior officers at this year’s Controlling Council meeting held in Cape Town, South Africa.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "shipbroker"
-   ],
    "paywall": false
   },
   {
@@ -18201,92 +18283,6 @@
    "policy": false,
    "level": "international",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "d98eb1af90fe",
-   "title": "New report reveals China’s key strengths across green shipping corridor building blocks",
-   "link": "https://www.hellenicshippingnews.com/new-report-reveals-chinas-key-strengths-across-green-shipping-corridor-building-blocks/",
-   "source": "hsn",
-   "published": "2026-10-22T21:00:55Z",
-   "seen": "2026-10-22T21:39:17Z",
-   "lang": "en",
-   "excerpt": "A new report from the Global Maritime Forum reveals that China has quickly become a global leader in green shipping corridors, with nearly one-fifth of the world’s corridor initiatives connecting to a Chinese port.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "f2d6a0fe1588",
-   "title": "Titan analysis shows FuelEU pooling propelled liquefied biomethane demand",
-   "link": "https://www.hellenicshippingnews.com/titan-analysis-shows-fueleu-pooling-propelled-liquefied-biomethane-demand/",
-   "source": "hsn",
-   "published": "2026-10-22T21:00:53Z",
-   "seen": "2026-10-22T21:39:17Z",
-   "lang": "en",
-   "excerpt": "Titan, part of Molgas, has analysed the role of LNG, liquefied biomethane (LBM/bio-LNG) and e-methane (the methane decarbonisation pathway) in FuelEU Maritime compliance, as well as the performance of the regulation, particularly its …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers",
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "fueleu",
-    "lng",
-    "teu",
-    "liner"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "efcd07f616b2",
-   "title": "Ports encouraged to prepare now for advanced nuclear in maritime and clean energy",
-   "link": "https://www.hellenicshippingnews.com/ports-encouraged-to-prepare-now-for-advanced-nuclear-in-maritime-and-clean-energy/",
-   "source": "hsn",
-   "published": "2026-10-22T21:00:51Z",
-   "seen": "2026-10-22T21:39:17Z",
-   "lang": "en",
-   "excerpt": "Ports should begin structured planning for advanced nuclear technology now, treating it as a long-term infrastructure and operating-model question rather than a new marine fuel, according to a new joint paper from the British Ports …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bunkers"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "4ddb395f6dab",
-   "title": "Hapag-Lloyd expects more shipping services to return to Suez Canal",
-   "link": "https://www.hellenicshippingnews.com/hapag-lloyd-expects-more-shipping-services-to-return-to-suez-canal/",
-   "source": "hsn",
-   "published": "2026-10-22T21:00:47Z",
-   "seen": "2026-10-22T21:39:17Z",
-   "lang": "en",
-   "excerpt": "Hamburg-based shipping company Hapag-Lloyd expects additional services to resume transits through the Suez Canal, joining two services already operating to and from Asia, according to a statement from the Suez Canal Authority (SCA).",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
    "paywall": false
   }
  ]
