@@ -1,68 +1,108 @@
 {
- "updated": "2026-10-31T01:03:12Z",
+ "updated": "2026-10-31T03:50:45Z",
  "sample": false,
  "articles": [
   {
-   "id": "8aa299b648a0",
-   "title": "Brukte reoler kan gi innovasjonspris",
-   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351893",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-30T23:03:12Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "ebfe6b37f888",
-   "title": "Krever tiltak for varelevering i ny mobilitetsplan",
-   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351878",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-30T22:48:12Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "89b634dacc16",
-   "title": "Rekordmye tonnasje i det norske skipsregisteret",
-   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351864",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-30T22:33:12Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a10190f3b9dc",
+   "id": "614aaaf3ff09",
    "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
-   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351849",
+   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351415",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-30T22:18:12Z",
+   "seen": "2026-10-31T03:50:45Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6fb2b0ee131f",
+   "title": "Brukte reoler kan gi innovasjonspris",
+   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351621",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-31T03:35:45Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "3adf5b8725e2",
+   "title": "Krever tiltak for varelevering i ny mobilitetsplan",
+   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351252",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-31T03:05:45Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c7b7978a3bb5",
+   "title": "Port of Virginia orders 10 electric straddle carriers from Kalmar",
+   "link": "https://container-news.com/port-of-virginia-orders-10-electric-straddle-carriers-from-kalmar/",
+   "source": "containernews",
+   "published": "2026-10-31T03:00:16Z",
+   "seen": "2026-10-31T03:50:45Z",
+   "lang": "en",
+   "excerpt": "Kalmar has secured an order for 10 fully electric straddle carriers from the Port of Virginia in the United States. The equipment will be deployed at Norfolk International Terminals (NIT), the port’s largest container terminal.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "93386adc67f1",
+   "title": "Tropical Shipping orders first hybrid straddle carrier from Kalmar",
+   "link": "https://container-news.com/tropical-shipping-orders-first-hybrid-straddle-carrier-from-kalmar/",
+   "source": "containernews",
+   "published": "2026-10-31T01:21:03Z",
+   "seen": "2026-10-31T03:50:45Z",
+   "lang": "en",
+   "excerpt": "Kalmar has received an order from Tropical Shipping for a hybrid straddle carrier and a reachstacker for its container terminal in Riviera Beach, Florida.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "79daa4666817",
+   "title": "Rekordmye tonnasje i det norske skipsregisteret",
+   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351147",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-30T23:20:45Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -1130,6 +1170,24 @@
    ],
    "subs": [],
    "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "1de8e82db173",
+   "title": "ReCAAP ISC and Ministry of Oceans and Fisheries Hold Anti-Piracy Workshop",
+   "link": "https://maritime-executive.com/article/recaap-isc-and-ministry-of-oceans-and-fisheries-co-organise-regional-capacity-building-workshop-to-strengthen-information-sharing-and-response-against-piracy-and-sea-robbery-in-asia",
+   "source": "marex",
+   "published": "2026-10-30T16:43:00Z",
+   "seen": "2026-10-30T09:56:48Z",
+   "lang": "en",
+   "excerpt": "The ReCAAP Information Sharing Centre (ISC), with the support of Korea’s Ministry of Oceans and Fisheries (MOF), today concluded a 4-day Capacity Buil...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
    "level": "international",
    "terms": [],
    "paywall": false
@@ -2749,24 +2807,6 @@
    "terms": [
     "chokepoint"
    ],
-   "paywall": false
-  },
-  {
-   "id": "1de8e82db173",
-   "title": "ReCAAP ISC and Ministry of Oceans and Fisheries Hold Anti-Piracy Workshop",
-   "link": "https://maritime-executive.com/article/recaap-isc-and-ministry-of-oceans-and-fisheries-co-organise-regional-capacity-building-workshop-to-strengthen-information-sharing-and-response-against-piracy-and-sea-robbery-in-asia",
-   "source": "marex",
-   "published": "2026-10-30T02:43:00Z",
-   "seen": "2026-10-30T09:56:48Z",
-   "lang": "en",
-   "excerpt": "The ReCAAP Information Sharing Centre (ISC), with the support of Korea’s Ministry of Oceans and Fisheries (MOF), today concluded a 4-day Capacity Buil...",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
    "paywall": false
   },
   {
@@ -18245,42 +18285,6 @@
    "subs": [],
    "policy": false,
    "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "e86342b1a4bd",
-   "title": "Kapasitetsløft har gitt volumvekst",
-   "link": "https://www.mtlogistikk.no/cldn-gothenburg-roro-terminal-goeteborgs-hamn/kapasitetsloft-har-gitt-volumvekst/1344583",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-22T20:24:39Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "87f3a5084611",
-   "title": "Russian Trawlers Go Fishing for Cables",
-   "link": "https://maritime-executive.com/article/russian-trawlers-go-fishing-for-cables",
-   "source": "marex",
-   "published": "2026-10-22T20:16:20Z",
-   "seen": "2026-10-22T21:39:17Z",
-   "lang": "en",
-   "excerpt": "London’s Daily Telegraph has published a lead story outlining how a Russian fleet of trawlers has been surveying and loitering over cables in the wate...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
    "terms": [],
    "paywall": false
   }
