@@ -1,32 +1,35 @@
 {
- "updated": "2026-10-31T09:46:42Z",
+ "updated": "2026-10-31T12:54:23Z",
  "sample": false,
  "articles": [
   {
-   "id": "614aaaf3ff09",
-   "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
-   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351415",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-31T09:46:42Z",
-   "lang": "no",
-   "excerpt": "",
+   "id": "33f3d710a0fe",
+   "title": "COSCO SHIPPING Ports revenue rises as overseas volumes accelerate",
+   "link": "https://container-news.com/cosco-shipping-ports-revenue-rises-as-overseas-volumes-accelerate/",
+   "source": "containernews",
+   "published": "2026-10-31T12:00:52Z",
+   "seen": "2026-10-31T12:54:23Z",
+   "lang": "en",
+   "excerpt": "COSCO SHIPPING Ports reported higher revenue and container throughput during the third quarter of 2026, supported by strong growth across its overseas terminal portfolio. Revenue increased by 13% year on year to US$484.3 million.",
    "segments": [
-    "road"
+    "freight",
+    "finance"
    ],
-   "subs": [],
+   "subs": [
+    "containers"
+   ],
    "policy": false,
-   "level": "national",
+   "level": "international",
    "terms": [],
    "paywall": false
   },
   {
-   "id": "6fb2b0ee131f",
+   "id": "8aa299b648a0",
    "title": "Brukte reoler kan gi innovasjonspris",
-   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351621",
+   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351893",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-31T09:31:42Z",
+   "seen": "2026-10-31T10:54:23Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -39,12 +42,67 @@
    "paywall": false
   },
   {
-   "id": "3adf5b8725e2",
+   "id": "ebfe6b37f888",
    "title": "Krever tiltak for varelevering i ny mobilitetsplan",
-   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351252",
+   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351878",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-31T09:01:42Z",
+   "seen": "2026-10-31T10:39:23Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "450966501195",
+   "title": "NORDEN more than doubles Q3 profit to US$54 million",
+   "link": "https://container-news.com/norden-more-than-doubles-q3-profit-to-us54-million/",
+   "source": "containernews",
+   "published": "2026-10-31T10:30:34Z",
+   "seen": "2026-10-31T12:54:23Z",
+   "lang": "en",
+   "excerpt": "Danish shipping company NORDEN reported a net profit of US$54 million for the third quarter of 2026, more than double the US$26 million recorded in the corresponding period last year, supported by stronger market conditions across its Dry …",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "89b634dacc16",
+   "title": "Rekordmye tonnasje i det norske skipsregisteret",
+   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351864",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-31T10:24:23Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a10190f3b9dc",
+   "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
+   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351849",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-31T10:09:23Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -115,24 +173,6 @@
    "terms": [
     "class-society"
    ],
-   "paywall": false
-  },
-  {
-   "id": "79daa4666817",
-   "title": "Rekordmye tonnasje i det norske skipsregisteret",
-   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351147",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-31T05:16:42Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -18247,43 +18287,6 @@
    "segments": [
     "freight",
     "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "b045cf23c81e",
-   "title": "Columbia Group calls for greater focus on retaining women at sea as second She Beyond Conference takes place",
-   "link": "https://www.hellenicshippingnews.com/columbia-group-calls-for-greater-focus-on-retaining-women-at-sea-as-second-she-beyond-conference-takes-place/",
-   "source": "hsn",
-   "published": "2026-10-22T21:00:37Z",
-   "seen": "2026-10-22T21:39:17Z",
-   "lang": "en",
-   "excerpt": "Columbia Group has called on the maritime industry to create a future where women can thrive, progress and lead at sea, as it celebrated the second She Beyond Conference in Manila, held as part of Crew Connect Global.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "333e3645cca0",
-   "title": "Maritime Domain Action in the Indo-Pacific Needs One Shared All-Source Picture",
-   "link": "https://www.hellenicshippingnews.com/maritime-domain-action-in-the-indo-pacific-needs-one-shared-all-source-picture/",
-   "source": "hsn",
-   "published": "2026-10-22T21:00:35Z",
-   "seen": "2026-10-22T21:39:17Z",
-   "lang": "en",
-   "excerpt": "Talk of information advantage and allied interoperability comes down to one practical question: Can partners act together on a trusted picture of what is moving at sea, and why? Most do not, at least not yet.",
-   "segments": [
-    "freight",
-    "finance"
    ],
    "subs": [],
    "policy": false,
