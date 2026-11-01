@@ -1,14 +1,37 @@
 {
- "updated": "2026-11-01T15:41:21Z",
+ "updated": "2026-11-01T18:50:22Z",
  "sample": false,
  "articles": [
   {
-   "id": "614aaaf3ff09",
-   "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
-   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351415",
+   "id": "5dc71843d094",
+   "title": "Emirates Shipping restructures India–Red Sea network",
+   "link": "https://container-news.com/emirates-shipping-restructures-india-red-sea-network/",
+   "source": "containernews",
+   "published": "2026-11-01T18:00:02Z",
+   "seen": "2026-11-01T18:50:22Z",
+   "lang": "en",
+   "excerpt": "Emirates Shipping Line will reorganise its services between India and the Red Sea, according to DynaLiners. The carrier’s South Red Sea Service (SRS) will become a dedicated shuttle between Nhava Sheva and Jeddah.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint",
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "8aa299b648a0",
+   "title": "Brukte reoler kan gi innovasjonspris",
+   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351893",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-01T15:41:21Z",
+   "seen": "2026-11-01T16:50:22Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -21,12 +44,12 @@
    "paywall": false
   },
   {
-   "id": "6fb2b0ee131f",
-   "title": "Brukte reoler kan gi innovasjonspris",
-   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351621",
+   "id": "ebfe6b37f888",
+   "title": "Krever tiltak for varelevering i ny mobilitetsplan",
+   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351878",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-01T15:26:21Z",
+   "seen": "2026-11-01T16:35:22Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -36,6 +59,100 @@
    "policy": false,
    "level": "national",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "89b634dacc16",
+   "title": "Rekordmye tonnasje i det norske skipsregisteret",
+   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351864",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-01T16:20:22Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "aa468bdebe02",
+   "title": "EU Retreats From Arctic Oil Ban Language In Strategy Draft",
+   "link": "https://gcaptain.com/eu-retreats-from-arctic-oil-ban-language-in-strategy-draft/",
+   "source": "gcaptain",
+   "published": "2026-11-01T16:15:09Z",
+   "seen": "2026-11-01T18:50:22Z",
+   "lang": "en",
+   "excerpt": "By Heidi Taksdal Skjeseth and Alberto Nardelli Oct 19, 2026 (Bloomberg) –The European Union looks to be relaxing its opposition to oil and gas production in polar areas, while still calling...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a10190f3b9dc",
+   "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
+   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351849",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-01T16:05:22Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "eba55ff205c7",
+   "title": "Cefetra signs agreement with ABP at port of Immingham",
+   "link": "https://container-news.com/cefetra-signs-agreement-with-abp-at-port-of-immingham/",
+   "source": "containernews",
+   "published": "2026-11-01T16:00:59Z",
+   "seen": "2026-11-01T18:50:22Z",
+   "lang": "en",
+   "excerpt": "Cefetra has signed a ten-year agreement with Associated British Ports at the Port of Immingham, securing substantial storage space at the UK’s largest port by tonnage volume and reinforcing a partnership that spans nearly three decades.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "695eaaa6fdca",
+   "title": "Venture Global Begins Supplying Plaquemines Customers Under Long-Term LNG Contracts",
+   "link": "https://gcaptain.com/venture-global-begins-supplying-plaquemines-customers-under-long-term-lng-contracts/",
+   "source": "gcaptain",
+   "published": "2026-11-01T15:27:41Z",
+   "seen": "2026-11-01T18:50:22Z",
+   "lang": "en",
+   "excerpt": "By Curtis Williams HOUSTON, Nov 1 (Reuters) – Energy major Shell SHEL.L was the first customer to receive LNG under a long-term sales contract from Venture Global’s VG.N Plaquemines export plant in Louisiana, after it completed Phase 1 …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lng"
+   ],
    "paywall": false
   },
   {
@@ -58,24 +175,6 @@
    "terms": [
     "teu"
    ],
-   "paywall": false
-  },
-  {
-   "id": "3adf5b8725e2",
-   "title": "Krever tiltak for varelevering i ny mobilitetsplan",
-   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351252",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-01T14:56:21Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -142,24 +241,6 @@
    "terms": [
     "cabotage"
    ],
-   "paywall": false
-  },
-  {
-   "id": "79daa4666817",
-   "title": "Rekordmye tonnasje i det norske skipsregisteret",
-   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351147",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-01T11:11:21Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -18196,85 +18277,6 @@
    "terms": [
     "bimco",
     "liner"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "1c282ab6305e",
-   "title": "New index tracks how much the world cares about shipping",
-   "link": "https://splash247.com/new-index-tracks-how-much-the-world-cares-about-shipping/",
-   "source": "splash",
-   "published": "2026-10-23T03:00:07Z",
-   "seen": "2026-10-23T06:50:01Z",
-   "lang": "en",
-   "excerpt": "A new online index – much trailed on Splash – measuring how much attention the global shipping industry receives has gone live, offering maritime companies a way to assess public interest in shipping news and major incidents.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "64af9974f5fc",
-   "title": "Hapag-Lloyd revises Italy inland fuel surcharge",
-   "link": "https://container-news.com/hapag-lloyd-revises-italy-inland-fuel-surcharge/",
-   "source": "containernews",
-   "published": "2026-10-23T02:30:57Z",
-   "seen": "2026-10-23T03:41:23Z",
-   "lang": "en",
-   "excerpt": "Hapag-Lloyd will revise its Inland Fuel Floater for applicable inland transportation services in Italy. The carrier attributed the adjustment to continued volatility in international energy markets and fluctuations in diesel prices.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "fuel-surcharge"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "55776d388ce3",
-   "title": "Samferdselsministeren besøker Oslo Motorshow og Oslo lufthavn",
-   "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-besoker-oslo-motorshow-og-oslo-lufthavn/id3182348/",
-   "source": "regjeringen",
-   "published": "2026-10-23T02:00:00Z",
-   "seen": "2026-10-24T09:38:50Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "27213dfc91c2",
-   "title": "Bureau Veritas grants type approval to WinGD’s variable compression technology",
-   "link": "https://container-news.com/bureau-veritas-grants-type-approval-to-wingds-variable-compression-technology/",
-   "source": "containernews",
-   "published": "2026-10-23T01:30:54Z",
-   "seen": "2026-10-23T03:41:23Z",
-   "lang": "en",
-   "excerpt": "Bureau Veritas Marine & Offshore has granted Type Approval to WinGD’s Variable Compression Ratio (VCR) technology, marking an important step in the development of more efficient marine dual-fuel engines.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "class-society",
-    "dual-fuel"
    ],
    "paywall": false
   }
