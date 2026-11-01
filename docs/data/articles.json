@@ -1,7 +1,107 @@
 {
- "updated": "2026-11-01T12:55:22Z",
+ "updated": "2026-11-01T15:41:21Z",
  "sample": false,
  "articles": [
+  {
+   "id": "614aaaf3ff09",
+   "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
+   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351415",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-01T15:41:21Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6fb2b0ee131f",
+   "title": "Brukte reoler kan gi innovasjonspris",
+   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351621",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-01T15:26:21Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5cc55001f02a",
+   "title": "Messina Line drops second Misurata call from West Med service",
+   "link": "https://container-news.com/messina-line-drops-second-misurata-call-from-west-med-service/",
+   "source": "containernews",
+   "published": "2026-11-01T15:00:32Z",
+   "seen": "2026-11-01T15:41:21Z",
+   "lang": "en",
+   "excerpt": "Messina Line will remove the second Misurata call from its West Med Line, according to DynaLiners. The service currently calls at the Libyan port twice during each rotation.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "3adf5b8725e2",
+   "title": "Krever tiltak for varelevering i ny mobilitetsplan",
+   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351252",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-01T14:56:21Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5ca7e554789e",
+   "title": "KMTC places first overseas newbuilding order",
+   "link": "https://container-news.com/kmtc-places-first-overseas-newbuilding-order/",
+   "source": "containernews",
+   "published": "2026-11-01T14:00:47Z",
+   "seen": "2026-11-01T15:41:21Z",
+   "lang": "en",
+   "excerpt": "Korea Marine Transport Company (KMTC) has signed a contract for six 3,100 TEU container ships at CSSC Huangpu Wenchong Shipbuilding in China, according to DynaLiners.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "newbuilding",
+    "teu",
+    "liner"
+   ],
+   "paywall": false
+  },
   {
    "id": "de2a7eee6cba",
    "title": "Kongsberg Maritime reports record order backlog amid strong newbuild demand",
@@ -45,6 +145,24 @@
    "paywall": false
   },
   {
+   "id": "79daa4666817",
+   "title": "Rekordmye tonnasje i det norske skipsregisteret",
+   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351147",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-01T11:11:21Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
    "id": "7af1640dfbb3",
    "title": "Georgia Ports opens Gainesville inland port",
    "link": "https://container-news.com/georgia-ports-opens-gainesville-inland-port/",
@@ -59,78 +177,6 @@
    "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "8aa299b648a0",
-   "title": "Brukte reoler kan gi innovasjonspris",
-   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351893",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-01T10:55:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "ebfe6b37f888",
-   "title": "Krever tiltak for varelevering i ny mobilitetsplan",
-   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351878",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-01T10:40:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "89b634dacc16",
-   "title": "Rekordmye tonnasje i det norske skipsregisteret",
-   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351864",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-01T10:25:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a10190f3b9dc",
-   "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
-   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351849",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-01T10:10:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18230,47 +18276,6 @@
     "class-society",
     "dual-fuel"
    ],
-   "paywall": false
-  },
-  {
-   "id": "cf8bddaef3cc",
-   "title": "LR: Ports Will Benefit From Early Planning for Nuclear Power Systems",
-   "link": "https://maritime-executive.com/article/lr-ports-will-benefit-from-early-planning-for-nuclear-power-systems",
-   "source": "marex",
-   "published": "2026-10-23T01:23:34Z",
-   "seen": "2026-10-23T06:50:01Z",
-   "lang": "en",
-   "excerpt": "In a new white paper, Lloyd's Register and the British Ports Association (BPA) are encouraging port operators to get ready for the arrival of nuclear-...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "class-society"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "b3f10b07424f",
-   "title": "Kuehne+Nagel Q3 profit jumps 53% as sea freight volumes return to growth",
-   "link": "https://container-news.com/kuehnenagel-q3-profit-jumps-53-as-sea-freight-volumes-return-to-growth/",
-   "source": "containernews",
-   "published": "2026-10-23T00:00:56Z",
-   "seen": "2026-10-23T00:54:39Z",
-   "lang": "en",
-   "excerpt": "Kuehne+Nagel reported strong financial results for the third quarter of 2026, with higher revenue and earnings across all four business units.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
    "paywall": false
   }
  ]
