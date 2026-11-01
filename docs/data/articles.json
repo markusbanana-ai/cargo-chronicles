@@ -1,32 +1,74 @@
 {
- "updated": "2026-11-01T09:51:28Z",
+ "updated": "2026-11-01T12:55:22Z",
  "sample": false,
  "articles": [
   {
-   "id": "614aaaf3ff09",
-   "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
-   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351415",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-01T09:51:28Z",
-   "lang": "no",
-   "excerpt": "",
+   "id": "de2a7eee6cba",
+   "title": "Kongsberg Maritime reports record order backlog amid strong newbuild demand",
+   "link": "https://container-news.com/kongsberg-maritime-reports-record-order-backlog-amid-strong-newbuild-demand/",
+   "source": "containernews",
+   "published": "2026-11-01T12:00:08Z",
+   "seen": "2026-11-01T12:55:22Z",
+   "lang": "en",
+   "excerpt": "Kongsberg Maritime reported a record order backlog of NOK 29.75 billion in the third quarter of 2026, supported by strong demand for newbuild vessels across several shipping segments.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "backlog",
+    "newbuilding"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "e0ce649b8486",
+   "title": "Borderlands Mexico: Cabotage enforcements threatening cross-border trucking",
+   "link": "https://www.freightwaves.com/news/borderlands-mexico-cabotage-enforcements-threatening-cross-border-trucking",
+   "source": "freightwaves",
+   "published": "2026-11-01T12:00:00Z",
+   "seen": "2026-11-01T12:55:22Z",
+   "lang": "en",
+   "excerpt": "This week in Borderlands Mexico: Cabotage enforcements threatening cross-border trucking; Nuevo León slashes Colombia Bridge toll fees 50% to boost cross-border trucking; and Walmart plans $400M distribution center near San Antonio …",
    "segments": [
     "road"
    ],
    "subs": [],
    "policy": false,
-   "level": "national",
+   "level": "international",
+   "terms": [
+    "cabotage"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "7af1640dfbb3",
+   "title": "Georgia Ports opens Gainesville inland port",
+   "link": "https://container-news.com/georgia-ports-opens-gainesville-inland-port/",
+   "source": "containernews",
+   "published": "2026-11-01T11:00:42Z",
+   "seen": "2026-11-01T12:55:22Z",
+   "lang": "en",
+   "excerpt": "Georgia Ports Authority has opened the Gainesville Inland Port in a grand opening ceremony attended by Governor Brian Kemp, Hall County dignitaries and Georgia Ports leadership.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
    "terms": [],
    "paywall": false
   },
   {
-   "id": "6fb2b0ee131f",
+   "id": "8aa299b648a0",
    "title": "Brukte reoler kan gi innovasjonspris",
-   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351621",
+   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351893",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-01T09:36:28Z",
+   "seen": "2026-11-01T10:55:22Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -39,12 +81,12 @@
    "paywall": false
   },
   {
-   "id": "3adf5b8725e2",
+   "id": "ebfe6b37f888",
    "title": "Krever tiltak for varelevering i ny mobilitetsplan",
-   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351252",
+   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351878",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-01T09:06:28Z",
+   "seen": "2026-11-01T10:40:22Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -53,6 +95,60 @@
    "subs": [],
    "policy": false,
    "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "89b634dacc16",
+   "title": "Rekordmye tonnasje i det norske skipsregisteret",
+   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351864",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-01T10:25:22Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a10190f3b9dc",
+   "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
+   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351849",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-01T10:10:22Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "e5d7c2634721",
+   "title": "Explainer: Washington trades leverage for time",
+   "link": "https://container-news.com/explainer-washington-trades-leverage-for-time/",
+   "source": "containernews",
+   "published": "2026-11-01T10:00:15Z",
+   "seen": "2026-11-01T12:55:22Z",
+   "lang": "en",
+   "excerpt": "A two-month extension of the Section 301 suspension shows US shipbuilding policy becoming a bargaining chip, while Beijing keeps its own levers live.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
    "terms": [],
    "paywall": false
   },
@@ -111,24 +207,6 @@
    ],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "79daa4666817",
-   "title": "Rekordmye tonnasje i det norske skipsregisteret",
-   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351147",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-01T05:21:28Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18192,79 +18270,6 @@
    ],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "5dec058c476a",
-   "title": "40 år med hastverk – hvert minutt teller",
-   "link": "https://www.mtlogistikk.no/jetpak-jubileum/40-ar-med-hastverk-hvert-minutt-teller/1346886",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-22T23:24:39Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "3c45132a53ad",
-   "title": "Smuggler Tactics Make a Mass Casualty in English Channel \"Inevitable\"",
-   "link": "https://maritime-executive.com/article/smuggler-tactics-make-a-mass-casualty-in-english-channel-inevitable",
-   "source": "marex",
-   "published": "2026-10-22T23:22:36Z",
-   "seen": "2026-10-23T00:54:39Z",
-   "lang": "en",
-   "excerpt": "The commander of the United Kingdom’s Border Security Command has warned the House of Commons Home Affairs Committee that it is only a matter of time...",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "871c1ffeaba1",
-   "title": "Drivstoffkostnadene steg over 11 prosent",
-   "link": "https://www.mtlogistikk.no/dieselpris-kostnadsindeks-lastebiltransport/drivstoffkostnadene-steg-over-11-prosent/1347005",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-22T23:09:39Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "b5fcfba62f68",
-   "title": "Uke 43: Rederiene strammer inn kapasiteten – Europa-ratene stiger videre",
-   "link": "https://www.mtlogistikk.no/drewry-sjofrakt-spotpris/uke-43-rederiene-strammer-inn-kapasiteten-europa-ratene-stiger-videre/1346967",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-22T22:54:39Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road",
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   }
