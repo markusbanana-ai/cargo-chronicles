@@ -1,32 +1,54 @@
 {
- "updated": "2026-11-01T03:56:48Z",
+ "updated": "2026-11-01T07:03:53Z",
  "sample": false,
  "articles": [
   {
-   "id": "614aaaf3ff09",
-   "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
-   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351415",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-01T03:56:48Z",
-   "lang": "no",
-   "excerpt": "",
+   "id": "26c0cbe4e197",
+   "title": "ONE ends slot charter on Maersk’s Qilin service",
+   "link": "https://container-news.com/one-ends-slot-charter-on-maersks-qilin-service/",
+   "source": "containernews",
+   "published": "2026-11-01T07:00:10Z",
+   "seen": "2026-11-01T07:03:53Z",
+   "lang": "en",
+   "excerpt": "Ocean Network Express (ONE) has stopped chartering slots on Maersk’s Qilin service, according to DynaLiners. ONE joined the Shanghai–Australia connection in July 2026 and marketed it as the Australia Express (AUX).",
    "segments": [
-    "road"
+    "freight"
    ],
-   "subs": [],
+   "subs": [
+    "containers"
+   ],
    "policy": false,
-   "level": "national",
+   "level": "international",
    "terms": [],
    "paywall": false
   },
   {
-   "id": "6fb2b0ee131f",
+   "id": "3576e8ceac9b",
+   "title": "CMA CGM temporarily cuts transatlantic leg from PAD service",
+   "link": "https://container-news.com/cma-cgm-temporarily-cuts-transatlantic-leg-from-pad-service/",
+   "source": "containernews",
+   "published": "2026-11-01T06:00:14Z",
+   "seen": "2026-11-01T07:03:53Z",
+   "lang": "en",
+   "excerpt": "CMA CGM will temporarily suspend the transatlantic leg of its Panama Direct (PAD) service following the end of the kiwifruit season. According to DynaLiners, the suspension will last 18 weeks, from mid-November 2026 until late March 2027.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8aa299b648a0",
    "title": "Brukte reoler kan gi innovasjonspris",
-   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351621",
+   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351893",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-01T03:41:48Z",
+   "seen": "2026-11-01T05:03:53Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -39,12 +61,12 @@
    "paywall": false
   },
   {
-   "id": "3adf5b8725e2",
+   "id": "ebfe6b37f888",
    "title": "Krever tiltak for varelevering i ny mobilitetsplan",
-   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351252",
+   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351878",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-01T03:11:48Z",
+   "seen": "2026-11-01T04:48:53Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -54,6 +76,85 @@
    "policy": false,
    "level": "national",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "89b634dacc16",
+   "title": "Rekordmye tonnasje i det norske skipsregisteret",
+   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351864",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-01T04:33:53Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a10190f3b9dc",
+   "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
+   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351849",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-01T04:18:53Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5ef1ae2caace",
+   "title": "Port of Los Angeles completes interchange project",
+   "link": "https://container-news.com/port-of-los-angeles-completes-interchange-project/",
+   "source": "containernews",
+   "published": "2026-11-01T04:00:00Z",
+   "seen": "2026-11-01T07:03:53Z",
+   "lang": "en",
+   "excerpt": "The Port of Los Angeles has celebrated the completion of the US$ 139 million SR 47 Interchange Project, reconfiguring key connections between the Vincent Thomas Bridge, I-110, Harbor Boulevard and Front Street to reduce traffic congestion …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "congestion"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "60a331dbb1d4",
+   "title": "Shipping Strikes In Hormuz Leave Both Sides With Economic Pain",
+   "link": "https://gcaptain.com/shipping-strikes-in-hormuz-leave-both-sides-with-economic-pain/",
+   "source": "gcaptain",
+   "published": "2026-11-01T03:45:55Z",
+   "seen": "2026-11-01T07:03:53Z",
+   "lang": "en",
+   "excerpt": "By Gerry Doyle Oct 31, 2026 (Bloomberg) –As US President Donald Trump threatens renewed attacks against Iran, Tehran’s intermittent strikes on commercial vessels have left the two sides locked in a painful...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
    "paywall": false
   },
   {
@@ -127,24 +228,6 @@
    ],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "79daa4666817",
-   "title": "Rekordmye tonnasje i det norske skipsregisteret",
-   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351147",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-31T23:26:48Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18183,89 +18266,6 @@
    "policy": false,
    "level": "international",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "b98eb0a00719",
-   "title": "Sea-Intelligence: IMF Outlook: Container Shipping Under Strain",
-   "link": "https://container-news.com/sea-intelligence-imf-outlook-container-shipping-under-strain/",
-   "source": "containernews",
-   "published": "2026-10-22T22:00:53Z",
-   "seen": "2026-10-23T00:54:39Z",
-   "lang": "en",
-   "excerpt": "In issue 787 of the Sea-Intelligence Sunday Spotlight, we analysed the IMF October 2026 WEO report, from a container shipping perspective. The report predicts that world trade volume growth will drop from 5.0% in 2025 to 4.7% in 2027.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "0e956183ed27",
-   "title": "Ryder fleet facing possible growth need as EPA ‘27 nears",
-   "link": "https://www.freightwaves.com/news/ryder-fleet-facing-possible-growth-need-as-epa-27-nears",
-   "source": "freightwaves",
-   "published": "2026-10-22T21:47:50Z",
-   "seen": "2026-10-23T00:54:39Z",
-   "lang": "en",
-   "excerpt": "With the EPA ‘27 engine rules impacting nitrogen oxide (NoX) emissions in heavy duty vehicles getting closer every day, the new rules will have a major impact on anybody who buys new vehicles…like Ryder.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "7b7b5654f3eb",
-   "title": "Oil Prices Jump After Houthi Strikes and Iranian Shipping Attacks",
-   "link": "https://maritime-executive.com/article/oil-prices-jump-after-houthi-strikes-and-iranian-shipping-attacks",
-   "source": "marex",
-   "published": "2026-10-22T21:12:08Z",
-   "seen": "2026-10-22T21:39:17Z",
-   "lang": "en",
-   "excerpt": "On Thursday, the continued Houthi attacks on Saudi energy targets prompted a jump in oil prices, driving Brent futures upwards to nearly $113 by the m...",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "9b27e5a14178",
-   "title": "Dual-fuel fleet passes 500 ships on the water as investment exceeds $200 billion",
-   "link": "https://www.hellenicshippingnews.com/dual-fuel-fleet-passes-500-ships-on-the-water-as-investment-exceeds-200-billion/",
-   "source": "hsn",
-   "published": "2026-10-22T21:00:59Z",
-   "seen": "2026-10-22T21:39:17Z",
-   "lang": "en",
-   "excerpt": "More than 500 dual-fuel container ships and vehicle carriers are now operating worldwide, with total investment in dual-fuel ships delivered and on order surpassing $200 billion USD, according to the latest World Shipping Council (WSC) …",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "dual-fuel",
-    "liner",
-    "car-carrier"
-   ],
    "paywall": false
   }
  ]
