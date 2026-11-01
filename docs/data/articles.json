@@ -1,7 +1,99 @@
 {
- "updated": "2026-11-01T18:50:22Z",
+ "updated": "2026-11-01T21:42:15Z",
  "sample": false,
  "articles": [
+  {
+   "id": "614aaaf3ff09",
+   "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
+   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351415",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-01T21:42:15Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6fb2b0ee131f",
+   "title": "Brukte reoler kan gi innovasjonspris",
+   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351621",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-01T21:27:15Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "3adf5b8725e2",
+   "title": "Krever tiltak for varelevering i ny mobilitetsplan",
+   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351252",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-01T20:57:15Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c1ee29aeb021",
+   "title": "Kenya Progresses With a Port Concession Plan Worth $1 Billion",
+   "link": "https://maritime-executive.com/article/kenya-progresses-with-a-port-concession-plan-worth-1-billion",
+   "source": "marex",
+   "published": "2026-11-01T20:47:02Z",
+   "seen": "2026-11-01T21:42:15Z",
+   "lang": "en",
+   "excerpt": "Kenya is set to lease out key port assets after its National Treasury approved a feasibility study on the privatization plan. For over a decade now, t...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "64bcf69b9bc1",
+   "title": "Arken Intermodal Terminal achieves near-doubled yard capacity",
+   "link": "https://container-news.com/arken-intermodal-terminal-achieves-near-doubled-yard-capacity/",
+   "source": "containernews",
+   "published": "2026-11-01T20:00:04Z",
+   "seen": "2026-11-01T21:42:15Z",
+   "lang": "en",
+   "excerpt": "The Port of Gothenburg has significantly increased yard capacity at Arken Intermodal Terminal through a reconfiguration of the railway track layout, freeing up approximately 4,000 square metres of additional yard space for trailers and …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "intermodal"
+   ],
+   "paywall": false
+  },
   {
    "id": "5dc71843d094",
    "title": "Emirates Shipping restructures India–Red Sea network",
@@ -26,48 +118,12 @@
    "paywall": false
   },
   {
-   "id": "8aa299b648a0",
-   "title": "Brukte reoler kan gi innovasjonspris",
-   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351893",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-01T16:50:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "ebfe6b37f888",
-   "title": "Krever tiltak for varelevering i ny mobilitetsplan",
-   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351878",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-01T16:35:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "89b634dacc16",
+   "id": "79daa4666817",
    "title": "Rekordmye tonnasje i det norske skipsregisteret",
-   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351864",
+   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351147",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-01T16:20:22Z",
+   "seen": "2026-11-01T17:12:15Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -94,24 +150,6 @@
    "subs": [],
    "policy": true,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a10190f3b9dc",
-   "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
-   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351849",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-01T16:05:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18236,47 +18274,6 @@
    "level": "international",
    "terms": [
     "transshipment"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "ae8503031c1a",
-   "title": "A Year of Offshore Oil Spills Prompts Growing Concern in Mexico",
-   "link": "https://maritime-executive.com/article/a-year-of-offshore-oil-spills-prompts-growing-concern-in-mexico",
-   "source": "marex",
-   "published": "2026-10-23T03:17:05Z",
-   "seen": "2026-10-23T03:41:23Z",
-   "lang": "en",
-   "excerpt": "In early March, Andrés Palma was watching his children build a sandcastle on the beach in El Bosque, south-east Mexico. The fisher soon noticed that s...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "ea557e46b8bc",
-   "title": "BIMCO: Container Ship Orders are Driving China's Shipyard Surge",
-   "link": "https://maritime-executive.com/article/bimco-container-ship-orders-are-driving-china-s-shipyard-surge",
-   "source": "marex",
-   "published": "2026-10-23T03:06:39Z",
-   "seen": "2026-10-23T09:41:40Z",
-   "lang": "en",
-   "excerpt": "More than any other sector, ocean freight has driven the surge in shipyard activity over the past year, according to BIMCO, and it has boosted the for...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bimco",
-    "liner"
    ],
    "paywall": false
   }
