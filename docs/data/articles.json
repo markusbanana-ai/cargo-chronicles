@@ -1,7 +1,79 @@
 {
- "updated": "2026-11-01T01:14:12Z",
+ "updated": "2026-11-01T03:56:48Z",
  "sample": false,
  "articles": [
+  {
+   "id": "614aaaf3ff09",
+   "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
+   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351415",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-01T03:56:48Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6fb2b0ee131f",
+   "title": "Brukte reoler kan gi innovasjonspris",
+   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351621",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-01T03:41:48Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "3adf5b8725e2",
+   "title": "Krever tiltak for varelevering i ny mobilitetsplan",
+   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351252",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-01T03:11:48Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "3c4ca76642c3",
+   "title": "Taiwan Says China Harassing Shipping With East Coast Patrol",
+   "link": "https://gcaptain.com/taiwan-says-china-harassing-shipping-with-east-coast-patrol/",
+   "source": "gcaptain",
+   "published": "2026-11-01T02:36:33Z",
+   "seen": "2026-11-01T03:56:48Z",
+   "lang": "en",
+   "excerpt": "TAIPEI, Nov 1 (Reuters) – China’s Coast Guard is harassing shipping with its latest patrol off Taiwan’s east coast and trying to exert a fictional jurisdiction, the Taiwanese Coast Guard said, adding it had sent its own ships to keep...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
   {
    "id": "8b920d339860",
    "title": "Freight cycles are anything but regular",
@@ -59,66 +131,12 @@
    "paywall": false
   },
   {
-   "id": "8aa299b648a0",
-   "title": "Brukte reoler kan gi innovasjonspris",
-   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351893",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-31T23:14:12Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "ebfe6b37f888",
-   "title": "Krever tiltak for varelevering i ny mobilitetsplan",
-   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351878",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-31T22:59:12Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "89b634dacc16",
+   "id": "79daa4666817",
    "title": "Rekordmye tonnasje i det norske skipsregisteret",
-   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351864",
+   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351147",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-31T22:44:12Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a10190f3b9dc",
-   "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
-   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351849",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-31T22:29:12Z",
+   "seen": "2026-10-31T23:26:48Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -18247,30 +18265,6 @@
     "dual-fuel",
     "liner",
     "car-carrier"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "c8a7491fe57c",
-   "title": "Product Tankers: Less Cargo, Higher Earnings",
-   "link": "https://www.hellenicshippingnews.com/product-tankers-less-cargo-higher-earnings/",
-   "source": "hsn",
-   "published": "2026-10-22T21:00:59Z",
-   "seen": "2026-10-22T21:39:17Z",
-   "lang": "en",
-   "excerpt": "A market paradox seems to be forming in the product tanker market. In its latest weekly report, shipbroker Xclusiv said that “the product tanker market has experienced an extraordinary freight rally between early August and mid-October …",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "product-tanker",
-    "shipbroker"
    ],
    "paywall": false
   }
