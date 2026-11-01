@@ -1,14 +1,124 @@
 {
- "updated": "2026-10-31T21:41:08Z",
+ "updated": "2026-11-01T01:14:12Z",
  "sample": false,
  "articles": [
   {
-   "id": "614aaaf3ff09",
-   "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
-   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351415",
+   "id": "8b920d339860",
+   "title": "Freight cycles are anything but regular",
+   "link": "https://www.freightwaves.com/news/freight-cycles-are-anything-but-regular",
+   "source": "freightwaves",
+   "published": "2026-11-01T00:30:00Z",
+   "seen": "2026-11-01T01:14:12Z",
+   "lang": "en",
+   "excerpt": "We call them freight cycles, but the term implies a regularity the data doesn’t support. Since 2000, the domestic transportation market’s turns have looked less like clockwork and more like a series of random shocks",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "602f7f9b5023",
+   "title": "Russia Extends Ban On Most Diesel Exports Through January",
+   "link": "https://gcaptain.com/russia-extends-ban-on-most-diesel-exports-through-january/",
+   "source": "gcaptain",
+   "published": "2026-11-01T00:20:05Z",
+   "seen": "2026-11-01T01:14:12Z",
+   "lang": "en",
+   "excerpt": "By Bloomberg News Oct 31, 2026 (Bloomberg) –Russia’s government has extended a general ban on diesel exports by producers until the end of January while still allowing some volumes to flow...",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8d02da262644",
+   "title": "CMA CGM adds seasonal Iskenderun call to MEDEX service",
+   "link": "https://container-news.com/cma-cgm-adds-seasonal-iskenderun-call-to-medex-service/",
+   "source": "containernews",
+   "published": "2026-10-31T23:40:44Z",
+   "seen": "2026-11-01T01:14:12Z",
+   "lang": "en",
+   "excerpt": "CMA CGM has added a seasonal call at Iskenderun, Türkiye, to its Indian Subcontinent–Mediterranean MEDEX service. The call is expected to remain part of the service rotation until the end of December 2026.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8aa299b648a0",
+   "title": "Brukte reoler kan gi innovasjonspris",
+   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351893",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-10-31T21:41:08Z",
+   "seen": "2026-10-31T23:14:12Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ebfe6b37f888",
+   "title": "Krever tiltak for varelevering i ny mobilitetsplan",
+   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351878",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-31T22:59:12Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "89b634dacc16",
+   "title": "Rekordmye tonnasje i det norske skipsregisteret",
+   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351864",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-31T22:44:12Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a10190f3b9dc",
+   "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
+   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351849",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-10-31T22:29:12Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -38,42 +148,6 @@
    "terms": [
     "car-carrier"
    ],
-   "paywall": false
-  },
-  {
-   "id": "6fb2b0ee131f",
-   "title": "Brukte reoler kan gi innovasjonspris",
-   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351621",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-31T21:26:08Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "3adf5b8725e2",
-   "title": "Krever tiltak for varelevering i ny mobilitetsplan",
-   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351252",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-31T20:56:08Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -200,24 +274,6 @@
    "terms": [
     "chokepoint"
    ],
-   "paywall": false
-  },
-  {
-   "id": "79daa4666817",
-   "title": "Rekordmye tonnasje i det norske skipsregisteret",
-   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351147",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-31T17:11:08Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -18216,73 +18272,6 @@
     "product-tanker",
     "shipbroker"
    ],
-   "paywall": false
-  },
-  {
-   "id": "f5fc7b64c623",
-   "title": "Global shipyard order book grows 13%, strengthening China’s lead",
-   "link": "https://www.hellenicshippingnews.com/global-shipyard-order-book-grows-13-strengthening-chinas-lead/",
-   "source": "hsn",
-   "published": "2026-10-22T21:00:58Z",
-   "seen": "2026-10-22T21:39:17Z",
-   "lang": "en",
-   "excerpt": "“On 1 September 2026, the global shipyard order book reached an estimated 203.2m Compensated Gross Tonnage (CGT), up 13% from 180.0m CGT a year earlier,” says Niels Rasmussen, Chief Shipping Analyst at BIMCO.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "orderbook",
-    "gt",
-    "bimco"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "9d966529fb0f",
-   "title": "Baltic Dry Index Rises for 4th Day",
-   "link": "https://www.hellenicshippingnews.com/baltic-dry-index-rises-for-4th-day-2/",
-   "source": "hsn",
-   "published": "2026-10-22T21:00:57Z",
-   "seen": "2026-10-22T21:39:17Z",
-   "lang": "en",
-   "excerpt": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, advanced for a fourth straight session on Thursday, rising by 0.5% to a fresh high since October 13 at 2,693 points.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bdi",
-    "baltic-exchange",
-    "dry-bulk",
-    "capesize"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "e0716715bcde",
-   "title": "The soaring cost of shipping is lifting the price of oil for consumers",
-   "link": "https://www.hellenicshippingnews.com/the-soaring-cost-of-shipping-is-lifting-the-price-of-oil-for-consumers/",
-   "source": "hsn",
-   "published": "2026-10-22T21:00:57Z",
-   "seen": "2026-10-22T21:39:17Z",
-   "lang": "en",
-   "excerpt": "Disruptions in the Middle East are pushing tanker rates to historic highs The price of oil is only part of what determines the cost to supply the world with fuel.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
    "paywall": false
   }
  ]
