@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T13:14:00Z",
+ "updated": "2026-11-02T16:06:40Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren til Kristiansand",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-til-kristiansand/id3190651/",
    "source": "regjeringen",
-   "published": "2026-11-02T13:14:00Z",
+   "published": "2026-11-02T16:06:40Z",
    "seen": "2026-11-02T07:32:07Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam skal på fylkestur til Agder mandag 3. november. Kontaktperson for presse på turen er kommunikasjonsrådgiver i Samferdselsdepartementet Kristin Bentdal Larsen (416 09 206).",
@@ -26,7 +26,7 @@
    "title": "Fiskeri- og havministeren har møte med NHO Logistikk og Transport",
    "link": "https://www.regjeringen.no/no/aktuelt/mote-med-nho-logistikk-og-transport/id3190687/",
    "source": "regjeringen",
-   "published": "2026-11-02T13:14:00Z",
+   "published": "2026-11-02T16:06:40Z",
    "seen": "2026-11-02T10:13:09Z",
    "lang": "no",
    "excerpt": "Fiskeri- og havminister Marianne Sivertsen Næss har møte med NHO Logistikk og Transport.",
@@ -39,6 +39,236 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "de1ca335aaf7",
+   "title": "Kuttet en halv milliard – vokser likevel",
+   "link": "https://www.mtlogistikk.no/jan-volsdal-kunstlig-intelligens-pakke-og-godstransport/kuttet-en-halv-milliard-vokser-likevel/1352956",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-02T16:06:40Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a47b67ab2723",
+   "title": "ONE expands container reuse services to Switzerland with Avantida",
+   "link": "https://container-news.com/one-expands-container-reuse-services-to-switzerland-with-avantida/",
+   "source": "containernews",
+   "published": "2026-11-02T16:00:21Z",
+   "seen": "2026-11-02T16:06:40Z",
+   "lang": "en",
+   "excerpt": "Ocean Network Express (ONE) has introduced container reuse services in Switzerland through its collaboration with Avantida, allowing transport operators to reuse import containers for export shipments.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6fb2b0ee131f",
+   "title": "Brukte reoler kan gi innovasjonspris",
+   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351621",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-02T15:36:40Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c08ef736e135",
+   "title": "Boeing secures lessor order for 767 passenger-to-freighter conversion",
+   "link": "https://www.freightwaves.com/news/boeing-secures-lessor-order-for-767-passenger-to-freighter-conversion",
+   "source": "freightwaves",
+   "published": "2026-11-02T15:30:16Z",
+   "seen": "2026-11-02T16:06:40Z",
+   "lang": "en",
+   "excerpt": "Boeing will convert a 767-300 passenger jet into a freighter for Icelease, which also took options for up to two more conversions, as the leasing company continues to grow its freighter portfolio, the companies announced on Monday.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "sale-leaseback"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "3adf5b8725e2",
+   "title": "Krever tiltak for varelevering i ny mobilitetsplan",
+   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351252",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-02T15:06:40Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a1cd2d20ec10",
+   "title": "Maersk introduces dry port surcharges for Virochannagar",
+   "link": "https://container-news.com/maersk-introduces-dry-port-surcharges-for-virochannagar/",
+   "source": "containernews",
+   "published": "2026-11-02T15:00:57Z",
+   "seen": "2026-11-02T16:06:40Z",
+   "lang": "en",
+   "excerpt": "Maersk has introduced new export and import dry port surcharges for shipments moving between Virochannagar, India, and worldwide destinations. The new charges took effect on 1 November 2026 for non-regulated countries.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5e15fe093859",
+   "title": "ESL expands Far East-Africa network with FAX2 and FAX3 services",
+   "link": "https://container-news.com/esl-expands-far-east-africa-network-with-fax2-and-fax3-services/",
+   "source": "containernews",
+   "published": "2026-11-02T14:00:27Z",
+   "seen": "2026-11-02T16:06:40Z",
+   "lang": "en",
+   "excerpt": "Emirates Shipping Line (ESL) will launch two new services connecting major Chinese ports with East and southeastern Africa. The new Far East Africa Express 2 (FAX2) and Far East Africa Express 3 (FAX3) services will complement ESL’s …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "e0477aa5d9ac",
+   "title": "TotalEnergies sheds partial stake ahead of appraisal ops at Nigerian block",
+   "link": "https://offshore-energy.biz/2026/11/02/totalenergies-sheds-partial-stake-ahead-of-appraisal-ops-at-nigerian-block",
+   "source": "offshoreenergy",
+   "published": "2026-11-02T13:52:25Z",
+   "seen": "2026-11-02T16:06:40Z",
+   "lang": "en",
+   "excerpt": "TotalEnergies has set the wheels in motion to sell a partial interest in an offshore block to SAPETRO to fast-track the appraisal of a Nigerian field.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ce99776a65e8",
+   "title": "Strike at busiest US port just days away as talks continue",
+   "link": "https://www.freightwaves.com/news/strike-at-busiest-us-port-just-days-away-as-talks-continue",
+   "source": "freightwaves",
+   "published": "2026-11-02T13:48:55Z",
+   "seen": "2026-11-02T16:06:40Z",
+   "lang": "en",
+   "excerpt": "Port employers and union watchmen in Southern California extend contract as negotiations continue.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "27531010ed0c",
+   "title": "Shell and Hornbeck Offshore seal multiple deals for deepwater services",
+   "link": "https://offshore-energy.biz/2026/11/02/shell-and-hornbeck-offshore-seal-multiple-deals-for-deepwater-services",
+   "source": "offshoreenergy",
+   "published": "2026-11-02T13:30:46Z",
+   "seen": "2026-11-02T16:06:40Z",
+   "lang": "en",
+   "excerpt": "Hornbeck Offshore Services, which merged with Helix Energy Solutions two months ago, has entered into multiple agreements with Shell Offshore for...",
+   "segments": [
+    "road",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5ae202445587",
+   "title": "Goldman Hikes Oil Forecasts on ‘Substantial’ Risks to Supply",
+   "link": "https://gcaptain.com/goldman-hikes-oil-forecasts-on-substantial-risks-to-supply/",
+   "source": "gcaptain",
+   "published": "2026-11-02T13:20:51Z",
+   "seen": "2026-11-02T16:06:40Z",
+   "lang": "en",
+   "excerpt": "Goldman Sachs Group Inc. raised oil-price forecasts for the year-end and 2027 on elevated risks to supplies, joining other banks in hiking their outlooks after months of war in the Middle East.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f6812edc9d98",
+   "title": "UAE to Protect Energy Infrastructure, Invest in New Export Routes to Prepare for Iran War, Minister Says",
+   "link": "https://gcaptain.com/uae-to-protect-energy-infrastructure-invest-in-new-export-routes-to-prepare-for-iran-war-minister-says/",
+   "source": "gcaptain",
+   "published": "2026-11-02T13:18:50Z",
+   "seen": "2026-11-02T16:06:40Z",
+   "lang": "en",
+   "excerpt": "The UAE will protect its energy infrastructure and invest in new export routes, storage capacity abroad and shipping fleets to be better prepared for the US-Israeli war on Iran, its energy minister said on Monday.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
   },
   {
    "id": "be4daf238ad9",
@@ -63,6 +293,29 @@
    "paywall": false
   },
   {
+   "id": "1a7bf4b5e2bb",
+   "title": "Baltic Dry Index falls to 2648 down 66 points",
+   "link": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-2648-down-66-points/",
+   "source": "hsn",
+   "published": "2026-11-02T13:00:44Z",
+   "seen": "2026-11-02T16:06:40Z",
+   "lang": "en",
+   "excerpt": "Today, Monday, Novenber 2 2026, the Baltic Dry Index decreased by 66 points, reaching 2648 points. Baltic Dry Index is compiled by the London-based Baltic Exchange and covers prices for transported cargo such as coal, grain and iron ore.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bdi",
+    "baltic-exchange"
+   ],
+   "paywall": false
+  },
+  {
    "id": "c0b83a4ec49e",
    "title": "Maersk revises terminal handling charges in Dili",
    "link": "https://container-news.com/maersk-revises-terminal-handling-charges-in-dili/",
@@ -82,6 +335,24 @@
    "terms": [
     "thc"
    ],
+   "paywall": false
+  },
+  {
+   "id": "a10190f3b9dc",
+   "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
+   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351849",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-02T12:21:40Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
    "paywall": false
   },
   {
@@ -203,17 +474,16 @@
    "paywall": false
   },
   {
-   "id": "7b6e681956c6",
-   "title": "Kuttet en halv milliard – vokser likevel",
-   "link": "https://www.mtlogistikk.no/jan-volsdal-kunstlig-intelligens-pakke-og-godstransport/kuttet-en-halv-milliard-vokser-likevel/1352794",
+   "id": "79daa4666817",
+   "title": "Rekordmye tonnasje i det norske skipsregisteret",
+   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351147",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-02T11:14:00Z",
+   "seen": "2026-11-02T11:21:40Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
-    "road",
-    "finance"
+    "road"
    ],
    "subs": [],
    "policy": false,
@@ -316,7 +586,7 @@
    "published": "2026-11-02T11:00:51Z",
    "seen": "2026-11-02T13:14:00Z",
    "lang": "en",
-   "excerpt": "Maersk and Hapag-Lloyd have announced plans to reroute their Gemini Cooperation Indian Ocean Service (IOS) through the Red Sea, moving away from the longer route around the Cape of Good Hope.",
+   "excerpt": "Maersk and Hapag-Lloyd have announced plans to reroute their Gemini Cooperation Indian Ocean Service (IOS) through the Red Sea and Suez Canal, replacing the longer route around the Cape of Good Hope.",
    "segments": [
     "freight"
    ],
@@ -593,12 +863,12 @@
    "paywall": false
   },
   {
-   "id": "8aa299b648a0",
-   "title": "Brukte reoler kan gi innovasjonspris",
-   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351893",
+   "id": "3bd8e8562e9a",
+   "title": "Posten Bring åpner sin største pakketerminal",
+   "link": "https://www.mtlogistikk.no/moss-netthandel-posten-bring/posten-bring-apner-sin-storste-pakketerminal/1347775",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-02T10:14:00Z",
+   "seen": "2026-11-02T10:21:40Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -679,42 +949,6 @@
    "paywall": false
   },
   {
-   "id": "ebfe6b37f888",
-   "title": "Krever tiltak for varelevering i ny mobilitetsplan",
-   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351878",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-02T09:59:00Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "614aaaf3ff09",
-   "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
-   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351415",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-02T09:58:09Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "ba278e5a48a6",
    "title": "Odfjell Drilling-managed rig lands multi-well North Sea job with UK oil & gas operator",
    "link": "https://offshore-energy.biz/2026/11/02/odfjell-drilling-managed-rig-lands-multi-well-north-sea-job-with-uk-oil-and-gas-operator",
@@ -732,24 +966,6 @@
    "terms": [
     "rig"
    ],
-   "paywall": false
-  },
-  {
-   "id": "89b634dacc16",
-   "title": "Rekordmye tonnasje i det norske skipsregisteret",
-   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351864",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-02T09:44:00Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -1227,7 +1443,7 @@
   },
   {
    "id": "2a3f452ef597",
-   "title": "AIT Worldwide snaps up Australian forwarder involved in big tech buildout",
+   "title": "AIT Worldwide snaps up Australian forwarder involved in Big tech buildout",
    "link": "https://www.freightwaves.com/news/ait-worldwide-snaps-up-australian-forwarder-involved-in-big-tech-buildout",
    "source": "freightwaves",
    "published": "2026-11-02T04:06:20Z",
@@ -18086,227 +18302,6 @@
    "terms": [
     "dwt"
    ],
-   "paywall": false
-  },
-  {
-   "id": "5216e3d5ed8f",
-   "title": "UAE Confirms Approaching Oil Spill as Iran Claims Continued Attacks",
-   "link": "https://maritime-executive.com/article/uae-confirms-approaching-oil-spill-as-iran-claims-continued-attacks",
-   "source": "marex",
-   "published": "2026-10-23T20:29:47Z",
-   "seen": "2026-10-23T21:40:28Z",
-   "lang": "en",
-   "excerpt": "The UAE confirmed earlier reports of a large and spreading oil spill along the Persian Gulf side of the Khor Al Beidah peninsula while Iran continues...",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "0ea2ae042486",
-   "title": "MARAD’s Training Ship Success Offers a Blueprint for U.S. Shipbuilding",
-   "link": "https://gcaptain.com/marads-training-ship-success-offers-a-blueprint-for-u-s-shipbuilding/",
-   "source": "gcaptain",
-   "published": "2026-10-23T20:22:20Z",
-   "seen": "2026-10-24T00:57:03Z",
-   "lang": "en",
-   "excerpt": "The Maritime Administration (MARAD) recently embraced VCM when procuring a new generation of training ships for five of the six state maritime academies. To date, MARAD contractor TOTE Services has delivered four of the five vessels.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "9eca9a00ee5e",
-   "title": "Moss blir Postens nye importport",
-   "link": "https://www.mtlogistikk.no/moss-posten-bring-vanem/moss-blir-postens-nye-importport/1347514",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-23T20:10:28Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "9c81aa1938c4",
-   "title": "Emarat Maritime exercises feeder ship options",
-   "link": "https://container-news.com/emarat-maritime-exercises-feeder-ship-options/",
-   "source": "containernews",
-   "published": "2026-10-23T20:00:50Z",
-   "seen": "2026-10-23T21:40:28Z",
-   "lang": "en",
-   "excerpt": "Emarat Maritime has exercised options for three additional 930 TEU container ships at China’s Guangji Xinneng Shipbuilding. According to DynaLiners, the latest move increases the company’s firm orderbook at the Chinese shipyard to six …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "transshipment",
-    "teu",
-    "liner",
-    "orderbook"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "eedee40fbf23",
-   "title": "Sierra Leone Launches National Shipping Carrier with Chinese Support",
-   "link": "https://maritime-executive.com/article/sierra-leone-launches-national-shipping-carrier-with-chinese-support",
-   "source": "marex",
-   "published": "2026-10-23T19:32:06Z",
-   "seen": "2026-10-23T21:40:28Z",
-   "lang": "en",
-   "excerpt": "With governments across Africa planning to grow domestic fleets, Sierra Leone has moved ahead by establishing a national shipping company. President J...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "9caede6bf443",
-   "title": "Maersk reinstates Buenaventura on Peru Feeder",
-   "link": "https://container-news.com/maersk-reinstates-buenaventura-on-peru-feeder/",
-   "source": "containernews",
-   "published": "2026-10-23T19:00:22Z",
-   "seen": "2026-10-23T21:40:28Z",
-   "lang": "en",
-   "excerpt": "Maersk will reinstate Buenaventura, Colombia, on its Peru Feeder service in November. According to DynaLiners, the carrier will also retain the seasonal call at Pisco, Peru, until at least January 2027.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "transshipment",
-    "liner",
-    "teu"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "2033aacb07ee",
-   "title": "New Drewry data shows import demand boosting trans-Pacific rates",
-   "link": "https://www.freightwaves.com/news/new-drewry-data-shows-import-demand-boosting-trans-pacific-rates",
-   "source": "freightwaves",
-   "published": "2026-10-23T18:55:28Z",
-   "seen": "2026-10-23T21:40:28Z",
-   "lang": "en",
-   "excerpt": "Drewry’s World Container Index rose on higher rates on trans-Pacific and Asia-Europe routes.",
-   "segments": [
-    "road",
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "container-index"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "ef99fa8fc1a0",
-   "title": "USTR Proposes Extending China Ship Port Fee Suspension Through January 2027",
-   "link": "https://gcaptain.com/ustr-proposes-extending-china-ship-port-fee-suspension-through-january-2027/",
-   "source": "gcaptain",
-   "published": "2026-10-23T18:35:31Z",
-   "seen": "2026-10-23T21:40:28Z",
-   "lang": "en",
-   "excerpt": "The Trump administration is proposing to extend its suspension of port fees targeting China-linked vessels for another two months, pushing their potential return into January 2027 as Washington and Beijing...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "942d9b728b5a",
-   "title": "Roadrunner announces Canada-outbound service",
-   "link": "https://www.freightwaves.com/news/roadrunner-announces-canada-outbound-service",
-   "source": "freightwaves",
-   "published": "2026-10-23T18:31:28Z",
-   "seen": "2026-10-23T18:47:21Z",
-   "lang": "en",
-   "excerpt": "Less-than-truckload carrier Roadrunner announced a new outbound Canada-to-U.S. service on Friday, alongside a 5.9% general rate increase taking effect on Nov. 2.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "ltl"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "ca1874b294af",
-   "title": "Record Tanker Rates Threaten to Push U.S. Oil Exports to Asia to Seven-Year Low",
-   "link": "https://gcaptain.com/record-tanker-rates-threaten-to-push-u-s-oil-exports-to-asia-to-seven-year-low/",
-   "source": "gcaptain",
-   "published": "2026-10-23T18:22:34Z",
-   "seen": "2026-10-23T21:40:28Z",
-   "lang": "en",
-   "excerpt": "US crude oil exports to Asia are set to hit multi-year lows after the Iran war disrupted global shipping and pushed the cost to lease a tanker for the Pacific journey to a record of almost $80 million.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "399ab40c82c2",
-   "title": "Wabtec earnings rise on higher freight and transit sales",
-   "link": "https://www.freightwaves.com/news/wabtec-earnings-rise-on-higher-freight-and-transit-sales",
-   "source": "freightwaves",
-   "published": "2026-10-23T18:06:23Z",
-   "seen": "2026-10-23T18:47:21Z",
-   "lang": "en",
-   "excerpt": "Rail equipment supplier Wabtec raised its outlook on higher third-quarter revenue and earnings.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
    "paywall": false
   }
  ]
