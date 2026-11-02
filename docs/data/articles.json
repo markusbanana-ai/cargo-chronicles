@@ -1,7 +1,97 @@
 {
- "updated": "2026-11-02T01:11:47Z",
+ "updated": "2026-11-02T04:00:12Z",
  "sample": false,
  "articles": [
+  {
+   "id": "614aaaf3ff09",
+   "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
+   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351415",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-02T04:00:12Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6fb2b0ee131f",
+   "title": "Brukte reoler kan gi innovasjonspris",
+   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351621",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-02T03:45:12Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "2026db5ac9f2",
+   "title": "Pirates Hijack Iranian Fishing Vessel off Somalia",
+   "link": "https://maritime-executive.com/article/pirates-hijack-iranian-fishing-vessel-off-somalia",
+   "source": "marex",
+   "published": "2026-11-02T03:39:54Z",
+   "seen": "2026-11-02T04:00:12Z",
+   "lang": "en",
+   "excerpt": "Pirates have hijacked an Iranian fishing vessel at a position off the northeastern coast of Somalia, according to EUNAVFOR's Maritime Security Centre...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "3adf5b8725e2",
+   "title": "Krever tiltak for varelevering i ny mobilitetsplan",
+   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351252",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-02T03:15:12Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8dc37d73610e",
+   "title": "Everllence appoints Fabian Kley as new CFO",
+   "link": "https://container-news.com/everllence-appoints-fabian-kley-as-new-cfo/",
+   "source": "containernews",
+   "published": "2026-11-02T03:00:43Z",
+   "seen": "2026-11-02T04:00:12Z",
+   "lang": "en",
+   "excerpt": "Everllence has appointed Dr Fabian Kley as Chief Financial Officer (CFO) and member of its Executive Board, effective 1 November 2026. Kley has already led the company’s Finance division since March 2026.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
   {
    "id": "fa81195041ed",
    "title": "Russia Advances New LNG Supply Pivot to Africa",
@@ -63,30 +153,12 @@
    "paywall": false
   },
   {
-   "id": "8aa299b648a0",
-   "title": "Brukte reoler kan gi innovasjonspris",
-   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351893",
+   "id": "79daa4666817",
+   "title": "Rekordmye tonnasje i det norske skipsregisteret",
+   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351147",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-01T23:11:47Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "ebfe6b37f888",
-   "title": "Krever tiltak for varelevering i ny mobilitetsplan",
-   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351878",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-01T22:56:47Z",
+   "seen": "2026-11-01T23:30:12Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -118,42 +190,6 @@
    "terms": [
     "chokepoint"
    ],
-   "paywall": false
-  },
-  {
-   "id": "89b634dacc16",
-   "title": "Rekordmye tonnasje i det norske skipsregisteret",
-   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351864",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-01T22:41:47Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a10190f3b9dc",
-   "title": "Lille pakkeboks i veikanten der, hvem er utålmodigst i landet her?",
-   "link": "https://www.mtlogistikk.no/e-handel-more-og-romsdal-pakkebokser/lille-pakkeboks-i-veikanten-der-hvem-er-utalmodigst-i-landet-her/1351849",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-01T22:26:47Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -587,6 +623,24 @@
     "chokepoint",
     "teu"
    ],
+   "paywall": false
+  },
+  {
+   "id": "67e487946393",
+   "title": "Norsk sensorteknologi skal sikre uavbrutt palletering i krevende industrimiljøer",
+   "link": "https://www.mtlogistikk.no/berobox-palletering-robotsikkerhet/norsk-sensorteknologi-skal-sikre-uavbrutt-palletering-i-krevende-industrimiljoer/1344306",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-01T20:00:12Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
    "paywall": false
   },
   {
@@ -18230,68 +18284,6 @@
    "source": "mtlogistikk",
    "published": null,
    "seen": "2026-10-23T07:41:40Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "4c79d33962b3",
-   "title": "Icon Energy faces shareholder revolt over dilution",
-   "link": "https://splash247.com/icon-energy-faces-shareholder-revolt-over-dilution/",
-   "source": "splash",
-   "published": "2026-10-23T07:30:14Z",
-   "seen": "2026-10-23T09:41:40Z",
-   "lang": "en",
-   "excerpt": "Nasdaq-listed Greek dry bulk owner Icon Energy is facing pressure from a significant shareholder to overhaul its capital structure and board, following accusations that repeated equity issuances have heavily diluted ordinary investors.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers",
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "dry-bulk",
-    "capital-structure"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "9c40224ede81",
-   "title": "2677 veitransportører rangert: Hvor havner din?",
-   "link": "https://www.mtlogistikk.no/godstransport-pa-vei-oversikt-veifrakt/2677-veitransportorer-rangert-hvor-havner-din/1336829",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-23T07:26:40Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road",
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "f963afb81042",
-   "title": "2600 veitransportører rangert:Disse veitransportørene satt igjen med mest",
-   "link": "https://www.mtlogistikk.no/godstransport-pa-vei-oversikt-veifrakt/2600-veitransportorer-rangertdisse-veitransportorene-satt-igjen-med-mest/1336866",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-23T07:11:40Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
