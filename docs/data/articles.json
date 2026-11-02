@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T19:00:22Z",
+ "updated": "2026-11-02T21:48:53Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren til Kristiansand",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-til-kristiansand/id3190651/",
    "source": "regjeringen",
-   "published": "2026-11-02T19:00:22Z",
+   "published": "2026-11-02T21:48:53Z",
    "seen": "2026-11-02T07:32:07Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam skal på fylkestur til Agder mandag 3. november. Kontaktperson for presse på turen er kommunikasjonsrådgiver i Samferdselsdepartementet Kristin Bentdal Larsen (416 09 206).",
@@ -26,7 +26,7 @@
    "title": "Fiskeri- og havministeren har møte med NHO Logistikk og Transport",
    "link": "https://www.regjeringen.no/no/aktuelt/mote-med-nho-logistikk-og-transport/id3190687/",
    "source": "regjeringen",
-   "published": "2026-11-02T19:00:22Z",
+   "published": "2026-11-02T21:48:53Z",
    "seen": "2026-11-02T10:13:09Z",
    "lang": "no",
    "excerpt": "Fiskeri- og havminister Marianne Sivertsen Næss har møte med NHO Logistikk og Transport.",
@@ -39,6 +39,243 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "de1ca335aaf7",
+   "title": "Kuttet en halv milliard – vokser likevel",
+   "link": "https://www.mtlogistikk.no/jan-volsdal-kunstlig-intelligens-pakke-og-godstransport/kuttet-en-halv-milliard-vokser-likevel/1352956",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-02T21:48:53Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "974f6d9e6e00",
+   "title": "Waiting on EPA ‘27 rule, Rush says it might not be soon",
+   "link": "https://www.freightwaves.com/news/waiting-on-epa-27-rule-rush-says-it-might-not-be-soon",
+   "source": "freightwaves",
+   "published": "2026-11-02T21:24:00Z",
+   "seen": "2026-11-02T21:48:53Z",
+   "lang": "en",
+   "excerpt": "With the trucking sector anticipating the release of the final rule by the Environmental Protection Agency on nitrogen oxide (NoX) standards–known colloquially as EPA ‘27–and what engines need to do to get there, one of the country’s …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5d8340482e67",
+   "title": "Vil ha høyere akseltrykk for el-lastebiler",
+   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-lastebil-vekter-og-dimensjoner/vil-ha-hoyere-akseltrykk-for-el-lastebiler/1353674",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-02T20:18:53Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "electric-truck"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "fb1e2a966e35",
+   "title": "SONAR SCI: Custom Insights Now Includes Conversion Optimization: Shows Shippers Where to Switch Modes and What They Can Save",
+   "link": "https://www.freightwaves.com/news/sonar-sci-custom-insights-now-includes-conversion-optimization-shows-shippers-where-to-switch-modes-and-what-they-can-save",
+   "source": "freightwaves",
+   "published": "2026-11-02T20:14:17Z",
+   "seen": "2026-11-02T21:48:53Z",
+   "lang": "en",
+   "excerpt": "SONAR's SCI: Custom Insights now uses a shipper's own data to identify which lanes should change mode or pricing strategy, and how much a shipper stands to save.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "shipper-consignee"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "89b1e15a71eb",
+   "title": "When the ship pays back before the owner does",
+   "link": "https://splash247.com/when-the-ship-pays-back-before-the-owner-does/",
+   "source": "splash",
+   "published": "2026-11-02T20:14:00Z",
+   "seen": "2026-11-02T21:48:53Z",
+   "lang": "en",
+   "excerpt": "Fuel-saving retrofits can pay for themselves long before the shipowner who funded them sees a return. A new BIMCO contract seeks to resolve shipping’s longstanding divide between who pays for efficiency and who pockets the savings.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "bimco",
+    "class-society"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "87e8e82d196d",
+   "title": "Mr. Pukk smuldrer opp",
+   "link": "https://www.mtlogistikk.no/entreprenor-konkurs-mr-pukk-as/mr-pukk-smuldrer-opp/1353627",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-02T20:03:53Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a96de7fb8dba",
+   "title": "Sporer opp Mr. Pukk-penger",
+   "link": "https://www.mtlogistikk.no/entreprenor-konkurs-mr-pukk-as/sporer-opp-mr-pukk-penger/1353652",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-02T19:48:53Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "795c05a3c57e",
+   "title": "Amazon, retailers paid more for freight in 3Q",
+   "link": "https://www.freightwaves.com/news/amazon-retailers-paid-more-for-freight-in-3q",
+   "source": "freightwaves",
+   "published": "2026-11-02T19:30:09Z",
+   "seen": "2026-11-02T21:48:53Z",
+   "lang": "en",
+   "excerpt": "Largest retailers cite shipping inflation alongside isolated delays in getting merchandise into inventory.",
+   "segments": [
+    "road",
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "04b160a0e36f",
+   "title": "How Potable Water Quality Impacts Crew Health & Safety",
+   "link": "https://gcaptain.com/how-potable-water-quality-impacts-crew-health-safety/",
+   "source": "gcaptain",
+   "published": "2026-11-02T19:18:03Z",
+   "seen": "2026-11-02T21:48:53Z",
+   "lang": "en",
+   "excerpt": "Dozens of miles offshore in the Gulf of Mexico, a worker turns on a shower after a 12-hour shift. The water flows clear and strong, unremarkable in every way, just as...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "11963c2bc1df",
+   "title": "Electric Trucking: Why 2,500 Tesla Semis Will Transform Freight",
+   "link": "https://www.freightwaves.com/news/electric-trucking-why-2500-tesla-semis-will-transform-freight",
+   "source": "freightwaves",
+   "published": "2026-11-02T18:52:21Z",
+   "seen": "2026-11-02T21:48:53Z",
+   "lang": "en",
+   "excerpt": "ZET Scale, a shipper alliance, just placed the largest electric truck order in US history: 2,500 Tesla Class 8 trucks. Cristiano Façanha from Smart Freight Centre explains how this demand aggregation program is breaking the market’s …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "shipper-consignee",
+    "electric-truck"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "f57a393952a4",
+   "title": "LTL vs. Truckload: Who emerged stronger from Q3 earnings reports?",
+   "link": "https://www.freightwaves.com/news/ltl-vs-truckload-who-emerged-stronger-from-q3-earnings-reports",
+   "source": "freightwaves",
+   "published": "2026-11-02T18:50:43Z",
+   "seen": "2026-11-02T21:48:53Z",
+   "lang": "en",
+   "excerpt": "FreightWaves Finance Editor Todd Maiden breaks down Q3 earnings. Capacity drawdown continues, but demand needs to catch up. LTL carriers showed demand improvement and managed costs, while truckload saw profit growth lag.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ltl",
+    "ftl"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "1076ad684510",
+   "title": "WARNING: Don’t Expect This Freight Cycle to End Soon",
+   "link": "https://www.freightwaves.com/news/warning-dont-expect-this-freight-cycle-to-end-soon",
+   "source": "freightwaves",
+   "published": "2026-11-02T18:50:04Z",
+   "seen": "2026-11-02T21:48:53Z",
+   "lang": "en",
+   "excerpt": "FreightWaves expert breaks down 20 years of freight market cycles, from the muted early 2000s to the current volatile environment. Discover how economic variables and policy changes have shaped boom and bust periods, leading to today’s …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "mean-reversion"
+   ],
+   "paywall": false
   },
   {
    "id": "614aaaf3ff09",
@@ -368,25 +605,6 @@
    "terms": [
     "ltl"
    ],
-   "paywall": false
-  },
-  {
-   "id": "7b6e681956c6",
-   "title": "Kuttet en halv milliard – vokser likevel",
-   "link": "https://www.mtlogistikk.no/jan-volsdal-kunstlig-intelligens-pakke-og-godstransport/kuttet-en-halv-milliard-vokser-likevel/1352794",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-02T16:15:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -18048,238 +18266,6 @@
    "policy": true,
    "level": "international",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "f08ccc3d31ec",
-   "title": "Hapag-Lloyd and Wan Hai reduce Shanghai coverage on AA7 service",
-   "link": "https://container-news.com/hapag-lloyd-and-wan-hai-reduce-shanghai-coverage-on-aa7-service/",
-   "source": "containernews",
-   "published": "2026-10-24T05:21:44Z",
-   "seen": "2026-10-24T06:47:22Z",
-   "lang": "en",
-   "excerpt": "Hapag-Lloyd and Wan Hai have reduced Shanghai coverage on their joint Far East–US East Coast AA7 service. Shanghai will now be served fortnightly, alternating with Ningbo, instead of receiving a weekly call.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "teu"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "e4ebd908d6e2",
-   "title": "CMA CGM adds seasonal Pisco call to PAD service",
-   "link": "https://container-news.com/cma-cgm-adds-seasonal-pisco-call-to-pad-service/",
-   "source": "containernews",
-   "published": "2026-10-24T04:00:43Z",
-   "seen": "2026-10-24T06:47:22Z",
-   "lang": "en",
-   "excerpt": "CMA CGM will introduce a seasonal call at Pisco, Peru, on its Panama Direct (PAD) service in December. The service connects Australia and New Zealand with the US East Coast and North Europe.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "26063be9edd3",
-   "title": "Emirates Shipping Line launches China–Red Sea service",
-   "link": "https://container-news.com/emirates-shipping-line-launches-china-red-sea-service/",
-   "source": "containernews",
-   "published": "2026-10-24T02:20:40Z",
-   "seen": "2026-10-24T03:40:16Z",
-   "lang": "en",
-   "excerpt": "Emirates Shipping Line will introduce a new service connecting China with Egypt, Jordan and Saudi Arabia in November. According to DynaLiners, the new service will be marketed as the China Red Sea Connector (CRC).",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint",
-    "liner",
-    "teu"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "36afc4caa89d",
-   "title": "Maersk Tankers' Ammonia Power Tanker Retrofit Project Gets EU Funding",
-   "link": "https://maritime-executive.com/article/maersk-tankers-ammonia-power-tanker-retrofit-project-gets-eu-funding",
-   "source": "marex",
-   "published": "2026-10-24T00:11:27Z",
-   "seen": "2026-10-24T03:40:16Z",
-   "lang": "en",
-   "excerpt": "Maersk Tankers’ proposal to retrofit its Very Large Ammonia Carriers (VLACs) for",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers",
-    "gas",
-    "tankers"
-   ],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "lpg"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "ea2b31d1bb67",
-   "title": "Carriers reinstate Busan call on South America service",
-   "link": "https://container-news.com/carriers-reinstate-busan-call-on-south-america-service/",
-   "source": "containernews",
-   "published": "2026-10-24T00:01:09Z",
-   "seen": "2026-10-24T00:57:03Z",
-   "lang": "en",
-   "excerpt": "Cosco Shipping Lines, Evergreen, PIL and Wan Hai plan to reinstate Busan on their joint Far East–West Coast South America service by the end of 2026, as reported by DynaLiners.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "c38c3bc700f1",
-   "title": "Defense Arm of US Investment Manager Buys Fraser Industries",
-   "link": "https://maritime-executive.com/article/defense-arm-of-us-investment-manager-buys-fraser-industries",
-   "source": "marex",
-   "published": "2026-10-23T23:58:49Z",
-   "seen": "2026-10-24T00:57:03Z",
-   "lang": "en",
-   "excerpt": "A group focused on investments in the U.S. defense sector, recently launched by a Florida-based investment manager, has agreed to acquire the Wisconsi...",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "aa660699915f",
-   "title": "Helgebrief uke 43: Vi har sjekket konkurrenten din",
-   "link": "https://www.mtlogistikk.no/helgebrief-kronikk-ukerapport/helgebrief-uke-43-vi-har-sjekket-konkurrenten-din/1347835",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-23T23:27:03Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "1fcfb372cb76",
-   "title": "HD Hyundai and Kiewit Plan to Develop New Gulf Coast Shipyard",
-   "link": "https://maritime-executive.com/article/hd-hyundai-and-kiewit-plan-to-develop-new-gulf-coast-shipyard",
-   "source": "marex",
-   "published": "2026-10-23T21:45:22Z",
-   "seen": "2026-10-24T00:57:03Z",
-   "lang": "en",
-   "excerpt": "South Korea’s largest shipbuilder, HD Hyundai, is continuing its efforts to expand in the U.S. market, announcing a new joint venture with Texas-based...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "4b5e4d4c9630",
-   "title": "Salvage Teams Continue to Fight Fires on Two Boxships at Sea",
-   "link": "https://maritime-executive.com/article/salvage-teams-continue-to-fight-fires-on-two-boxships-at-sea",
-   "source": "marex",
-   "published": "2026-10-23T21:10:14Z",
-   "seen": "2026-10-23T21:40:28Z",
-   "lang": "en",
-   "excerpt": "Salvage teams are continuing to work on two different containership fires. Both Seaspan, as the owner of the Espirito Santo Express, and HMM updated o...",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "salvage",
-    "liner"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "84f78f04e665",
-   "title": "Shipping community issues clear call for IMO regulation to turn first-mover action into a global transition",
-   "link": "https://www.hellenicshippingnews.com/shipping-community-issues-clear-call-for-imo-regulation-to-turn-first-mover-action-into-a-global-transition/",
-   "source": "hsn",
-   "published": "2026-10-23T21:00:59Z",
-   "seen": "2026-10-23T21:40:28Z",
-   "lang": "en",
-   "excerpt": "Global leaders from across the maritime value chain met in Shanghai this week for the Global Maritime Forum Annual Summit 2026, where much of the discussion centred around the future of shipping’s energy transition.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "imo",
-    "imo-nzf"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "e30d9b2f0240",
-   "title": "Dry Bulk Market: China’s Iron Ore Imports on The Rise",
-   "link": "https://www.hellenicshippingnews.com/dry-bulk-market-chinas-iron-ore-imports-on-the-rise/",
-   "source": "hsn",
-   "published": "2026-10-23T21:00:59Z",
-   "seen": "2026-10-23T21:40:28Z",
-   "lang": "en",
-   "excerpt": "China’s iron ore imports have been on the rise so far in 2026, providing the dry bulk market with the respective tailwinds. In its latest weekly report, shipbroker Banchero Costa said that “2025 was another positive year for global …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "dry-bulk",
-    "shipbroker"
-   ],
    "paywall": false
   }
  ]
