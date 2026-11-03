@@ -1,13 +1,34 @@
 {
- "updated": "2026-11-03T03:57:24Z",
+ "updated": "2026-11-03T07:16:19Z",
  "sample": false,
  "articles": [
+  {
+   "id": "a61fdb4ae724",
+   "title": "Chevron keeps ADES’ 2007-built jack-up rig busy in Angolan waters for another year",
+   "link": "https://offshore-energy.biz/2026/11/03/chevron-keeps-ades-2007-built-jack-up-rig-busy-in-angolan-waters-for-another-year",
+   "source": "offshoreenergy",
+   "published": "2026-11-03T07:30:00Z",
+   "seen": "2026-11-03T01:09:03Z",
+   "lang": "en",
+   "excerpt": "This multimillion-dollar extension enables the 19-year-old jack-up rig to remain with Chevron’s subsidiary until February 2028.",
+   "segments": [
+    "road",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "rig"
+   ],
+   "paywall": false
+  },
   {
    "id": "0d5853fdc164",
    "title": "Fiskeri- og havministeren har møte med NHO Logistikk og Transport",
    "link": "https://www.regjeringen.no/no/aktuelt/mote-med-nho-logistikk-og-transport/id3190687/",
    "source": "regjeringen",
-   "published": "2026-11-03T03:57:24Z",
+   "published": "2026-11-03T07:16:19Z",
    "seen": "2026-11-02T10:13:09Z",
    "lang": "no",
    "excerpt": "Fiskeri- og havminister Marianne Sivertsen Næss har møte med NHO Logistikk og Transport.",
@@ -22,33 +43,11 @@
    "upcoming": true
   },
   {
-   "id": "a61fdb4ae724",
-   "title": "Chevron keeps ADES’ 2007-built jack-up rig busy in Angolan waters for another year",
-   "link": "https://offshore-energy.biz/2026/11/03/chevron-keeps-ades-2007-built-jack-up-rig-busy-in-angolan-waters-for-another-year",
-   "source": "offshoreenergy",
-   "published": "2026-11-03T03:57:24Z",
-   "seen": "2026-11-03T01:09:03Z",
-   "lang": "en",
-   "excerpt": "This multimillion-dollar extension enables the 19-year-old jack-up rig to remain with Chevron’s subsidiary until February 2028.",
-   "segments": [
-    "road",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "rig"
-   ],
-   "paywall": false,
-   "upcoming": true
-  },
-  {
    "id": "79fc6c20f135",
    "title": "Well-Safe Solutions’ 1982-built rig wraps up triple P&A campaign in UK waters",
    "link": "https://offshore-energy.biz/2026/11/03/well-safe-solutions-1982-built-rig-wraps-up-triple-panda-campaign-in-uk-waters",
    "source": "offshoreenergy",
-   "published": "2026-11-03T03:57:24Z",
+   "published": "2026-11-03T07:16:19Z",
    "seen": "2026-11-03T03:57:24Z",
    "lang": "en",
    "excerpt": "This 44-year-old rig has crossed the finish line at a multi-well subsea decommissioning campaign on the UK Continental Shelf (UKCS).",
@@ -70,7 +69,7 @@
    "title": "Wison New Energies lays keel for Türkiye’s ultra-deepwater FPU",
    "link": "https://offshore-energy.biz/2026/11/03/wison-new-energies-lays-keel-for-turkiyes-ultra-deepwater-fpu",
    "source": "offshoreenergy",
-   "published": "2026-11-03T03:57:24Z",
+   "published": "2026-11-03T07:16:19Z",
    "seen": "2026-11-03T03:57:24Z",
    "lang": "en",
    "excerpt": "This ultra-deepwater floating production unit (FPU) is being built for Türkiye Petrolleri A.O. (TPAO) to boost Türkiye's natural gas supply.",
@@ -85,6 +84,278 @@
    ],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "de1ca335aaf7",
+   "title": "Kuttet en halv milliard – vokser likevel",
+   "link": "https://www.mtlogistikk.no/jan-volsdal-kunstlig-intelligens-pakke-og-godstransport/kuttet-en-halv-milliard-vokser-likevel/1352956",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-03T07:16:19Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "97fd7ead37f8",
+   "title": "Maersk and Hapag-Lloyd bring another container shipping service back to Suez",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/maersk-and-hapag-lloyd-bring-another-container-shipping-service-back-to-suez/",
+   "source": "imn",
+   "published": "2026-11-03T06:39:43Z",
+   "seen": "2026-11-03T07:16:19Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "3a713d54661b",
+   "title": "Al Mayeda attack generates robust responses from Pakistan, Qatar",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/al-mayeda-attack-generates-robust-responses-from-pakistan-qatar/",
+   "source": "imn",
+   "published": "2026-11-03T06:38:37Z",
+   "seen": "2026-11-03T07:16:19Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "ee63aab4d1b5",
+   "title": "UAE offshore tug hit in Strait of Hormuz",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/uae-offshore-tug-hit-in-strait-of-hormuz/",
+   "source": "imn",
+   "published": "2026-11-03T06:37:21Z",
+   "seen": "2026-11-03T07:16:19Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "93276c062af4",
+   "title": "Tanker hit by two projectiles on Sunday Night November 1st",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/tanker-hit-by-two-projectiles-on-sunday-night-november-1st/",
+   "source": "imn",
+   "published": "2026-11-03T06:36:21Z",
+   "seen": "2026-11-03T07:16:19Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "78d6dfd17e7b",
+   "title": "Missing midnight: Banking days, time zones and contractual deadlines",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/missing-midnight-banking-days-time-zones-and-contractual-deadlines/",
+   "source": "imn",
+   "published": "2026-11-03T06:35:04Z",
+   "seen": "2026-11-03T07:16:19Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "finance",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "e0ecd22be024",
+   "title": "Compensation still being processed for families of fishermen who died in 2022 sinking",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/compensation-still-being-processed-for-families-of-fishermen-who-died-in-2022-sinking/",
+   "source": "imn",
+   "published": "2026-11-03T06:33:42Z",
+   "seen": "2026-11-03T07:16:19Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "15e36fe8913f",
+   "title": "Fatigue and “familiar” work are blamed for serious crew injuries",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/fatigue-and-familiar-work-are-blamed-for-serious-crew-injuries/",
+   "source": "imn",
+   "published": "2026-11-03T06:32:28Z",
+   "seen": "2026-11-03T07:16:19Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "fdb6b4ac2d90",
+   "title": "Escalating attacks heighten level of uncertainty in dry bulk sector, says BIMCO",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/escalating-attacks-heighten-level-of-uncertainty-in-dry-bulk-sector-says-bimco/",
+   "source": "imn",
+   "published": "2026-11-03T06:31:22Z",
+   "seen": "2026-11-03T07:16:19Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dry-bulk",
+    "bimco"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "a1db77990e69",
+   "title": "Can a ship be unseaworthy because its Master or crew are incompetent?",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/can-a-ship-be-unseaworthy-because-its-master-or-crew-are-incompetent/",
+   "source": "imn",
+   "published": "2026-11-03T06:30:14Z",
+   "seen": "2026-11-03T07:16:19Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "seaworthiness"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "2e067fbc3624",
+   "title": "Marine round-up : 3rd November 2026",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/marine-round-up-3rd-november-2026/",
+   "source": "imn",
+   "published": "2026-11-03T06:28:17Z",
+   "seen": "2026-11-03T07:16:19Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "39b42aaa6203",
+   "title": "Regnet på det unike skipet 20 ganger – fortsatt lønnsomt",
+   "link": "https://www.mtlogistikk.no/containertransport-fornybar-ammoniakk-north-sea-container-line/regnet-pa-det-unike-skipet-20-ganger-fortsatt-lonnsomt/1352905",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-03T05:46:19Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8db63bd2b316",
+   "title": "China's New \"Drone Carrier\" Amphib Test-Launches First Unmanned Fighter",
+   "link": "https://maritime-executive.com/article/china-s-new-drone-carrier-amphib-test-launches-first-unmanned-fighter",
+   "source": "marex",
+   "published": "2026-11-03T03:39:15Z",
+   "seen": "2026-11-03T07:16:19Z",
+   "lang": "en",
+   "excerpt": "China's military claims to have conducted the first launch and recovery of an unmanned strike fighter from its new class of \"drone carrier\" amphibs. T...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "2c3f643c6ad3",
+   "title": "Vareeierundersøkelsen 2026 er nå tilgjengelig - last ned rapporten her",
+   "link": "https://www.mtlogistikk.no/forsyningskjeder-logistikk-norske-vareeiere/vareeierundersokelsen-2026-er-na-tilgjengelig/1271402",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-03T03:16:19Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
   },
   {
    "id": "2c04b249b57a",
@@ -219,25 +490,6 @@
    "terms": [
     "ais"
    ],
-   "paywall": false
-  },
-  {
-   "id": "7b6e681956c6",
-   "title": "Kuttet en halv milliard – vokser likevel",
-   "link": "https://www.mtlogistikk.no/jan-volsdal-kunstlig-intelligens-pakke-og-godstransport/kuttet-en-halv-milliard-vokser-likevel/1352794",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-03T00:27:24Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -18009,288 +18261,6 @@
    "terms": [
     "shipbroker"
    ],
-   "paywall": false
-  },
-  {
-   "id": "f9b3b06c45e8",
-   "title": "Testing fleet strategies against an uncertain energy transition",
-   "link": "https://www.hellenicshippingnews.com/testing-fleet-strategies-against-an-uncertain-energy-transition/",
-   "source": "hsn",
-   "published": "2026-10-25T22:00:57Z",
-   "seen": "2026-10-26T01:02:41Z",
-   "lang": "en",
-   "excerpt": "Balancing transition risk and cost is central to developing robust fuel and technology strategies for the journey towards 2050. This year’s Maritime Forecast to 2050 outlines DNV’s framework for evaluating these trade-offs across both …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "stranded-asset",
-    "class-society"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "0cbf0c23dcde",
-   "title": "Russian diesel tanker heads to New York as Kremlin claims regular shipments",
-   "link": "https://www.hellenicshippingnews.com/russian-diesel-tanker-heads-to-new-york-as-kremlin-claims-regular-shipments/",
-   "source": "hsn",
-   "published": "2026-10-25T22:00:56Z",
-   "seen": "2026-10-26T01:02:41Z",
-   "lang": "en",
-   "excerpt": "The Malta-flagged medium-sized tanker Agioi Fanendes is heading to New York carrying Russian diesel, according to S&P Global Energy Commodities at Sea data, with the Kremlin expecting deliveries to continue “on a regular basis.” The …",
-   "segments": [
-    "road",
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "sale-purchase"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "405574d07ee1",
-   "title": "VLCC Tanker Market Giving Up Past Gains",
-   "link": "https://www.hellenicshippingnews.com/vlcc-tanker-market-giving-up-past-gains/",
-   "source": "hsn",
-   "published": "2026-10-25T22:00:54Z",
-   "seen": "2026-10-26T01:02:41Z",
-   "lang": "en",
-   "excerpt": "Clean LR2 The TC1 75kt MEG/Japan index climbed by 92 points this week to WS1075, with the corresponding Baltic round-trip TCE rising by $28,600 to $313,200/day.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "vlcc",
-    "product-tanker",
-    "tce"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "629c7d41bb67",
-   "title": "Biofuel Bunker Snapshot: Lower feedstock costs limit Rotterdam B30-VLSFO price gain",
-   "link": "https://www.hellenicshippingnews.com/biofuel-bunker-snapshot-lower-feedstock-costs-limit-rotterdam-b30-vlsfo-price-gain/",
-   "source": "hsn",
-   "published": "2026-10-25T22:00:52Z",
-   "seen": "2026-10-26T01:02:41Z",
-   "lang": "en",
-   "excerpt": "Europe Rotterdam’s B30-VLSFO (POMEME) price has gained $11/mt in the past week, while the Dutch port’s conventional VLSFO price has jumped $30/mt over the same period.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "dual-fuel",
-    "bunkers"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "4e3f0e4466a9",
-   "title": "EU Proposed SMAP subsidy favors e-fuels and bioLNG",
-   "link": "https://www.hellenicshippingnews.com/eu-proposed-smap-subsidy-favors-e-fuels-and-biolng/",
-   "source": "hsn",
-   "published": "2026-10-25T22:00:50Z",
-   "seen": "2026-10-26T01:02:41Z",
-   "lang": "en",
-   "excerpt": "Europe’s carbon market could soon start paying shipowners to switch fuels, but the support on offer is far from equal. In July, the European Commission proposed a revision of the European Union’s Emissions Trading System (EU ETS) that …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "dual-fuel",
-    "eu-ets"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "e95a3ff3d3b5",
-   "title": "Drewry: Intra Asia Container Index Moving Higher",
-   "link": "https://www.hellenicshippingnews.com/drewry-intra-asia-container-index-moving-higher/",
-   "source": "hsn",
-   "published": "2026-10-25T22:00:48Z",
-   "seen": "2026-10-26T01:02:41Z",
-   "lang": "en",
-   "excerpt": "Drewry’s Intra-Asia Container Index (IACI) inched up $6 to $1,459 per 40ft container. This relative stability is reflected on most lanes, indicating that, with few exceptions, carriers extended rates for the first fortnight into the …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "container-index",
-    "congestion"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "0714a3c582a9",
-   "title": "Rotterdam’s bio-bunker sales drop 38% from last quarter",
-   "link": "https://www.hellenicshippingnews.com/rotterdams-bio-bunker-sales-drop-38-from-last-quarter/",
-   "source": "hsn",
-   "published": "2026-10-25T22:00:46Z",
-   "seen": "2026-10-26T01:02:41Z",
-   "lang": "en",
-   "excerpt": "Changes between the second quarter and the third quarter of 2026: • Bio-VLSFO sales down by 81,000 mt to 63,000 mt • Bio-HSFO sales down by 17,000 mt to 13,000 mt • Total bio-MGO sales down by 2,000 mt to 41,000 mt • Bio-ULSFO sales …",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bunkers"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "004318f8d500",
-   "title": "Korean shipbuilders eye FSRU conversions as aging LNG carriers spur demand",
-   "link": "https://www.hellenicshippingnews.com/korean-shipbuilders-eye-fsru-conversions-as-aging-lng-carriers-spur-demand/",
-   "source": "hsn",
-   "published": "2026-10-25T22:00:44Z",
-   "seen": "2026-10-26T01:02:41Z",
-   "lang": "en",
-   "excerpt": "A project to convert aging liquefied natural gas (LNG) carriers into floating storage and regasification units (FSRUs) is drawing attention as a new market in the shipbuilding industry.",
-   "segments": [
-    "freight",
-    "offshore"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "fsru",
-    "lng-carrier",
-    "lng",
-    "contango"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "f1068dee1373",
-   "title": "Loss of bridge control: Human failure is normal – context is key",
-   "link": "https://www.hellenicshippingnews.com/loss-of-bridge-control-human-failure-is-normal-context-is-key/",
-   "source": "hsn",
-   "published": "2026-10-25T22:00:42Z",
-   "seen": "2026-10-26T01:02:41Z",
-   "lang": "en",
-   "excerpt": "When bridge control is lost in a functioning system, it can be easy to blame human error. But accidents rarely happen because of one mistake alone.",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "f4eea16b669a",
-   "title": "Valenciaport boosts exports in September and sees a 5.48% increase in container traffic",
-   "link": "https://www.hellenicshippingnews.com/valenciaport-boosts-exports-in-september-and-sees-a-5-48-increase-in-container-traffic/",
-   "source": "hsn",
-   "published": "2026-10-25T22:00:30Z",
-   "seen": "2026-10-26T01:02:41Z",
-   "lang": "en",
-   "excerpt": "Exports from Valenciaport grew by 5.68% in September, while imports increased by 11.68%. These figures were driven by a 5.48% increase in container traffic, reaching 498,837 TEUs, while tonnage grew by 2.05% to 6.6 million metric tons last …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "teu"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "c9ce801713d0",
-   "title": "Port Of Los Angeles Reports Lowest Emissions Per Container On Record",
-   "link": "https://www.hellenicshippingnews.com/port-of-los-angeles-reports-lowest-emissions-per-container-on-record/",
-   "source": "hsn",
-   "published": "2026-10-25T22:00:28Z",
-   "seen": "2026-10-26T01:02:41Z",
-   "lang": "en",
-   "excerpt": "The Port of Los Angeles continued to make clean air gains in 2025, recording its lowest emissions per container on record, according to the Port’s newly released Inventory of Air Emissions.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "0f328c99365f",
-   "title": "HHLA cuts earnings outlook as Hamburg terminal disruptions weigh on throughput",
-   "link": "https://container-news.com/hhla-cuts-earnings-outlook-as-hamburg-terminal-disruptions-weigh-on-throughput/",
-   "source": "containernews",
-   "published": "2026-10-25T21:00:17Z",
-   "seen": "2026-10-25T21:37:56Z",
-   "lang": "en",
-   "excerpt": "Hamburger Hafen und Logistik AG (HHLA) has lowered its earnings forecast for the 2026 financial year, citing strike-related disruptions, challenges associated with the ramp-up of terminal automation in Hamburg and a non-cash impairment …",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "impairment"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "113b1d261b24",
-   "title": "Kongsberg Maritime Strengthens Presence in the Philippines with New Office",
-   "link": "https://maritime-executive.com/article/kongsberg-maritime-strengthens-presence-in-the-philippines-with-new-office",
-   "source": "marex",
-   "published": "2026-10-25T20:51:11Z",
-   "seen": "2026-10-23T21:40:28Z",
-   "lang": "en",
-   "excerpt": "Kongsberg Maritime is establishing a new office in Manila, creating a stronger local platform for growth and reinforcing its long-term commitment to c...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   }
  ]
