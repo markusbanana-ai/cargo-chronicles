@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T18:58:56Z",
+ "updated": "2026-11-03T21:52:09Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Fiskeri- og havministeren har møte med NHO Logistikk og Transport",
    "link": "https://www.regjeringen.no/no/aktuelt/mote-med-nho-logistikk-og-transport/id3190687/",
    "source": "regjeringen",
-   "published": "2026-11-03T18:58:56Z",
+   "published": "2026-11-03T21:52:09Z",
    "seen": "2026-11-02T10:13:09Z",
    "lang": "no",
    "excerpt": "Fiskeri- og havminister Marianne Sivertsen Næss har møte med NHO Logistikk og Transport.",
@@ -20,6 +20,198 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "4faa7e7934c3",
+   "title": "Spirit of Melbourne renamed TW Vijay",
+   "link": "https://container-news.com/spirit-of-melbourne-renamed-tw-vijay/",
+   "source": "containernews",
+   "published": "2026-11-03T21:00:54Z",
+   "seen": "2026-11-03T21:52:09Z",
+   "lang": "en",
+   "excerpt": "Maersk has announced that the vessel Spirit of Melbourne, deployed on its OCEANIA service, has been renamed TW Vijay. The name change took effect on 27 October 2026 following a change in the vessel’s ownership.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "748b15f8aadf",
+   "title": "MSC Cruises Says “Regulatory Matter” with USCG Caused Cruise Cancelation",
+   "link": "https://maritime-executive.com/article/msc-cruises-says-regulatory-matter-with-uscg-caused-cruise-cancelation",
+   "source": "marex",
+   "published": "2026-11-03T20:29:05Z",
+   "seen": "2026-11-03T21:52:09Z",
+   "lang": "en",
+   "excerpt": "MSC Cruises informed passengers on Tuesday morning that the scheduled cruise on MSC Poesia to the Caribbean from Miami had been canceled due to “regul...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "da669c417c1b",
+   "title": "Trucking group’s lawsuit threatens to upend federal carrier registration system",
+   "link": "https://www.freightwaves.com/news/trucking-groups-lawsuit-threatens-to-upend-federal-carrier-registration-system",
+   "source": "freightwaves",
+   "published": "2026-11-03T20:14:06Z",
+   "seen": "2026-11-03T21:52:09Z",
+   "lang": "en",
+   "excerpt": "The Small Business in Transportation Coalition is challenging the legality of the federal Uniform Crime Reporting system as its operators warn that a successful lawsuit could disrupt registration fees and state motor carrier safety funding.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ebee6e95ae91",
+   "title": "Port of Gävle signs agreement with VAROPreem Sverige",
+   "link": "https://container-news.com/port-of-gavle-signs-agreement-with-varopreem-sverige/",
+   "source": "containernews",
+   "published": "2026-11-03T20:00:38Z",
+   "seen": "2026-11-03T21:52:09Z",
+   "lang": "en",
+   "excerpt": "Gävle Hamn AB has signed a new 25-year agreement with VAROPreem Sverige, giving both parties long-term stability and predictability. The agreement covers land for terminal operations and sets the framework for VAROPreem’s long-term use of …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "52f563e2a647",
+   "title": "Logistics Alert: Capacity SHRINKS for 11 Straight Months",
+   "link": "https://www.freightwaves.com/news/logistics-alert-capacity-shrinks-for-11-straight-months",
+   "source": "freightwaves",
+   "published": "2026-11-03T19:50:18Z",
+   "seen": "2026-11-03T21:52:09Z",
+   "lang": "en",
+   "excerpt": "The latest ISM Manufacturing PMI and LMI reports confirm what many in logistics already feel: demand is strong, but capacity is heavily constrained.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ism"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "72dcb0834f19",
+   "title": "Diesel Prices Collapse, Then Rebound: What’s Driving Volatility?",
+   "link": "https://www.freightwaves.com/news/diesel-prices-collapse-then-rebound-whats-driving-volatility",
+   "source": "freightwaves",
+   "published": "2026-11-03T19:49:45Z",
+   "seen": "2026-11-03T21:52:09Z",
+   "lang": "en",
+   "excerpt": "The diesel market is experiencing extreme volatility, dropping sharply then rebounding on geopolitical news. With inventories critically low and refining capacity still a concern, experts warn of potential price spikes.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "13f684ca08ec",
+   "title": "Why Your Trucking Insurance Costs Are Rising & How to Fight Back",
+   "link": "https://www.freightwaves.com/news/why-your-trucking-insurance-costs-are-rising-how-to-fight-back",
+   "source": "freightwaves",
+   "published": "2026-11-03T19:48:58Z",
+   "seen": "2026-11-03T21:52:09Z",
+   "lang": "en",
+   "excerpt": "Control your trucking insurance costs by focusing on risk reduction before losses occur. Peter Niro from Progressive Insurance shares critical insights on underwriting, cargo coverage nuances, and the impact of operational safety on …",
+   "segments": [
+    "road",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "underwriter"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "807758778f31",
+   "title": "Truckload Rates Explode: How Shippers Adapt to Rising Costs",
+   "link": "https://www.freightwaves.com/news/truckload-rates-explode-how-shippers-adapt-to-rising-costs",
+   "source": "freightwaves",
+   "published": "2026-11-03T19:47:55Z",
+   "seen": "2026-11-03T21:52:09Z",
+   "lang": "en",
+   "excerpt": "The freight market is experiencing an inflationary leg in its current cycle, with spot truckload rates up over 40% year-over-year. Chris Pickett from Flock Freight breaks down what’s driving these increases, how shippers and carriers are …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ftl",
+    "shipper-consignee"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "692dad441ca1",
+   "title": "Haparanda–Gothenburg rail service opens an export corridor",
+   "link": "https://container-news.com/haparanda-gothenburg-rail-service-opens-an-export-corridor/",
+   "source": "containernews",
+   "published": "2026-11-03T19:00:22Z",
+   "seen": "2026-11-03T21:52:09Z",
+   "lang": "en",
+   "excerpt": "A new rail connection between Haparanda and the Port of Gothenburg will launch on 5 November, giving Finnish and northern Swedish industry a way to consolidate cargo in Haparanda before onward transport to global markets.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "2c2f917a3ce8",
+   "title": "Latam Cargo airlifts armored vehicles to Peru for Pope Leo visit",
+   "link": "https://www.freightwaves.com/news/latam-cargo-airlifts-armored-vehicles-to-peru-for-pope-leo-visit",
+   "source": "freightwaves",
+   "published": "2026-11-03T18:50:12Z",
+   "seen": "2026-11-03T21:52:09Z",
+   "lang": "en",
+   "excerpt": "The cargo division of Latam Airlines has delivered two popemobiles for the Vatican to Peru.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
   },
   {
    "id": "4de778fbcaf1",
@@ -3576,7 +3768,7 @@
    "published": "2026-11-02T15:30:16Z",
    "seen": "2026-11-02T16:06:40Z",
    "lang": "en",
-   "excerpt": "Boeing will convert a 767-300 passenger jet into a freighter for Icelease, which also took options for up to two more conversions, as the leasing company continues to grow its freighter portfolio, the companies announced on Monday.",
+   "excerpt": "Icelease has reserved a production slot with Boeing to convert a 767 passenger jet to cargo configuration.",
    "segments": [
     "road",
     "finance"
@@ -18045,197 +18237,6 @@
    "terms": [
     "csv"
    ],
-   "paywall": false
-  },
-  {
-   "id": "71e9c34808fa",
-   "title": "FedEx taps AutoZone executive to be finance chief",
-   "link": "https://www.freightwaves.com/news/fedex-taps-autozone-executive-to-be-finance-chief",
-   "source": "freightwaves",
-   "published": "2026-10-26T13:49:09Z",
-   "seen": "2026-10-26T14:52:43Z",
-   "lang": "en",
-   "excerpt": "FedEx has named a retail executive to be its next CFO.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "71fd113d33b7",
-   "title": "MSC containership damaged after cruise ship collision in Bremerhaven",
-   "link": "https://container-news.com/msc-containership-damaged-after-cruise-ship-collision-in-bremerhaven/",
-   "source": "containernews",
-   "published": "2026-10-26T13:47:01Z",
-   "seen": "2026-10-26T14:52:43Z",
-   "lang": "en",
-   "excerpt": "A TUI Cruises passenger vessel collided with two berthed containerships at the German port of Bremerhaven on 25 October, causing significant damage to one of the cargo vessels and prompting authorities to prohibit all three ships from …",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "liner",
-    "lt-utc"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "f7514533452f",
-   "title": "Converting PSVs for Expedition Cruising Creates Compelling Business Model",
-   "link": "https://maritime-executive.com/article/converting-psvs-for-expedition-cruising-creates-compelling-business-model",
-   "source": "marex",
-   "published": "2026-10-26T13:44:45Z",
-   "seen": "2026-10-26T14:52:43Z",
-   "lang": "en",
-   "excerpt": "Architect and yacht designer Stefano Pastrovich has developed a novel concept that he believes can create a compelling business model and entry for bo...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "psv"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "03fbcd3cabf6",
-   "title": "Scenic is Poised to Expand Its Discovery Yachts to Warm-Weather Cruising",
-   "link": "https://maritime-executive.com/article/scenic-is-poised-to-expand-its-discovery-yachts-to-warm-weather-cruising",
-   "source": "marex",
-   "published": "2026-10-26T13:43:45Z",
-   "seen": "2026-10-26T14:52:43Z",
-   "lang": "en",
-   "excerpt": "Scenic Group, which got its start 40 years ago offering escorted land tours, is moving to expand its unique brand of all-inclusive luxury cruising to...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "456e4956571e",
-   "title": "Color Line blir svensk",
-   "link": "https://www.mtlogistikk.no/color-line-fergefart-oppkjop/color-line-blir-svensk/1348910",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-26T13:22:43Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "6d60d386c759",
-   "title": "Port Tampa Bay Proceeding with New Terminal to Meet Growth Demands",
-   "link": "https://maritime-executive.com/article/port-of-tampa-bay-proceeding-with-new-terminal-to-meet-growth-demands",
-   "source": "marex",
-   "published": "2026-10-26T13:12:43Z",
-   "seen": "2026-10-26T14:52:43Z",
-   "lang": "en",
-   "excerpt": "As the global cruising population continues to grow, Port Tampa Bay has carved out its niche in the cruise world as Florida’s only Gulf Coast homeport...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "30f28ed8dccc",
-   "title": "Port of San Diego Highlights Its Advantages for Cruises",
-   "link": "https://maritime-executive.com/article/port-of-san-diego-highlights-its-advantages-for-cruises",
-   "source": "marex",
-   "published": "2026-10-26T13:12:04Z",
-   "seen": "2026-10-26T14:52:43Z",
-   "lang": "en",
-   "excerpt": "A city of convenience. A destination of multiple attractions. An attractive venue for a postcard shot. That’s how San Diego, California, distinguishes...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "6c03d081f14b",
-   "title": "MSC Foundation Backs Landmark Global Coral Reef Ecosystems Assessment",
-   "link": "https://maritime-executive.com/article/msc-foundation-backs-landmark-global-coral-reef-ecosystems-assessment",
-   "source": "marex",
-   "published": "2026-10-26T13:11:09Z",
-   "seen": "2026-10-26T14:52:43Z",
-   "lang": "en",
-   "excerpt": ", Linking Science to a Critical Window for Conservation Action10/22/2026As princi",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "3a31c5ec3223",
-   "title": "Tight reservoirs on Equinor and Aker BP’s agenda amid Norway’s 2.8-billion-boe potential",
-   "link": "https://offshore-energy.biz/2026/10/26/tight-reservoirs-on-equinor-and-aker-bps-agenda-amid-norways-28-billion-boe-potential",
-   "source": "offshoreenergy",
-   "published": "2026-10-26T13:08:31Z",
-   "seen": "2026-10-26T14:52:43Z",
-   "lang": "en",
-   "excerpt": "Equinor and Aker BP have joined forces to unlock the recovery potential of tight oil and gas reservoirs on the Norwegian Continental Shelf (NCS).",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "3d4a46f697a8",
-   "title": "Completing the Capacity Stack",
-   "link": "https://www.freightwaves.com/news/completing-the-capacity-stack",
-   "source": "freightwaves",
-   "published": "2026-10-26T13:05:00Z",
-   "seen": "2026-10-26T14:52:43Z",
-   "lang": "en",
-   "excerpt": "123Loadboard and Direct Freight are combining two independent freight marketplaces so brokers can close capacity gaps and carriers can find better-matched freight.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
    "paywall": false
   }
  ]
