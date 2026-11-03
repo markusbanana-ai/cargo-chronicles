@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T13:08:55Z",
+ "updated": "2026-11-03T15:58:02Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Fiskeri- og havministeren har møte med NHO Logistikk og Transport",
    "link": "https://www.regjeringen.no/no/aktuelt/mote-med-nho-logistikk-og-transport/id3190687/",
    "source": "regjeringen",
-   "published": "2026-11-03T13:08:55Z",
+   "published": "2026-11-03T15:58:02Z",
    "seen": "2026-11-02T10:13:09Z",
    "lang": "no",
    "excerpt": "Fiskeri- og havminister Marianne Sivertsen Næss har møte med NHO Logistikk og Transport.",
@@ -20,6 +20,125 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "16abd0b12b54",
+   "title": "NLF har løsningen på budsjettfloka",
+   "link": "https://lastebil.no/aktuelt/nyheter/2026/nlf-har-loesningen-paa-budsjettfloka",
+   "source": "lastebil",
+   "published": "2026-11-03T15:28:08Z",
+   "seen": "2026-11-03T15:58:02Z",
+   "lang": "no",
+   "excerpt": "Mens dieselprisen skaper strid i budsjettforhandlingene, foreslår NLF en ordning som kan gi lastebilnæringen lavere drivstoffkostnader og samtidig kutte utslipp. Ordningen heter professional diesel.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "national",
+   "terms": [
+    "pro-diesel"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "0cb0e0584c56",
+   "title": "Hanwha Philly Shipyard secures first US Navy shipbuilding contract",
+   "link": "https://container-news.com/hanwha-philly-shipyard-secures-first-us-navy-shipbuilding-contract/",
+   "source": "containernews",
+   "published": "2026-11-03T15:00:07Z",
+   "seen": "2026-11-03T15:58:02Z",
+   "lang": "en",
+   "excerpt": "Hanwha Defense USA has secured its first US Navy shipbuilding contract after being selected by TOTE Services to construct a Medium Landing Ship (LSM) at Hanwha Philly Shipyard.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "2b33fd3eda9c",
+   "title": "New survey finds AI rush isn’t boosting ports earnings",
+   "link": "https://www.freightwaves.com/news/new-survey-finds-ai-rush-isnt-boosting-ports-earnings",
+   "source": "freightwaves",
+   "published": "2026-11-03T14:09:39Z",
+   "seen": "2026-11-03T15:58:02Z",
+   "lang": "en",
+   "excerpt": "A survey of industry experts finds that even as container ports deploy artificial intelligence, few are seeing measurable financial returns.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "70798886862b",
+   "title": "Contships reports US$33.3 million nine-month profit",
+   "link": "https://container-news.com/contships-reports-us33-3-million-nine-month-profit/",
+   "source": "containernews",
+   "published": "2026-11-03T14:00:45Z",
+   "seen": "2026-11-03T15:58:02Z",
+   "lang": "en",
+   "excerpt": "Contships Logistics reported a profit of US$33.3 million for the first nine months of 2026, supported by high fleet utilisation and firm charter rates.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "utilisation",
+    "time-charter"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "2cc4ca4b7398",
+   "title": "Første gebyr for fiskeavrenning er påklaget",
+   "link": "https://lastebil.no/aktuelt/nyheter/2026/foerste-gebyr-for-fiskeavrenning-er-paaklaget",
+   "source": "lastebil",
+   "published": "2026-11-03T13:43:23Z",
+   "seen": "2026-11-03T15:58:02Z",
+   "lang": "no",
+   "excerpt": "Det nye gebyret for avrenning fra fisketransport er knapt tatt i bruk før det møter motstand. Transportselskapet Nor-Log har påklaget gebyret på 20.000 kroner, som ble ilagt under en utekontroll på Magnor kontrollstasjon 14. oktober.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "e0617c43f527",
+   "title": "LS Cable, LS Marine secure production and installation capacity for 504 MW South Korean offshore wind farm",
+   "link": "https://offshore-energy.biz/2026/11/03/ls-cable-ls-marine-secure-production-and-installation-capacity-for-504-mw-south-korean-offshore-wind-farm",
+   "source": "offshoreenergy",
+   "published": "2026-11-03T13:20:22Z",
+   "seen": "2026-11-03T15:58:02Z",
+   "lang": "en",
+   "excerpt": "LS Cable & System and LS Marine Solution have signed a capacity reservation agreement (CRA) with Taean Wind Power for the supply and installation...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "offshore-wind"
+   ],
+   "paywall": false
   },
   {
    "id": "6636d6dc563b",
@@ -60,6 +179,72 @@
    "policy": false,
    "level": "national",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f5d40faf0a05",
+   "title": "Loamy raises $6M to flag produce before a buyer rejects it",
+   "link": "https://www.freightwaves.com/news/loamy-raises-6m-flag-produce-rejections",
+   "source": "freightwaves",
+   "published": "2026-11-03T13:00:00Z",
+   "seen": "2026-11-03T15:58:02Z",
+   "lang": "en",
+   "excerpt": "Loamy closed a $6 million seed round led by Zeal Capital Partners. It says its platform has cut product rejections in half for growers, packers and distributors.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "dbf1da291e58",
+   "title": "Norway Detains Sanctioned Chinese Vessel Over False Flag Registration",
+   "link": "https://gcaptain.com/norway-detains-sanctioned-chinese-vessel-over-false-flag-registration/",
+   "source": "gcaptain",
+   "published": "2026-11-03T12:46:08Z",
+   "seen": "2026-11-03T15:58:02Z",
+   "lang": "en",
+   "excerpt": "Norway has detained a Chinese-owned heavy-lift vessel sanctioned for its role in delivering equipment to Russia’s Arctic LNG 2 project, in what appears to be the first known detention in the Arctic of a Chinese vessel linked to Russia’s …",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "gas",
+    "tankers"
+   ],
+   "policy": true,
+   "level": "national",
+   "terms": [
+    "sanctions",
+    "psc",
+    "project-cargo",
+    "lng",
+    "shadow-fleet"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "5c47d7bdc186",
+   "title": "Dronemaker Stark Designs Uncrewed Ship to Hunt Russia’s Shadow Fleet",
+   "link": "https://gcaptain.com/dronemaker-stark-designs-uncrewed-ship-to-hunt-russias-shadow-fleet/",
+   "source": "gcaptain",
+   "published": "2026-11-03T12:42:16Z",
+   "seen": "2026-11-03T15:58:02Z",
+   "lang": "en",
+   "excerpt": "German startup Stark Defence plans to launch a 24-meter uncrewed surface vessel next year, marking an expansion beyond small drones to more closely resemble an established defense contractor.",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "shadow-fleet"
+   ],
    "paywall": false
   },
   {
@@ -556,6 +741,24 @@
    "paywall": false
   },
   {
+   "id": "5af9ba5a1038",
+   "title": "Flytter lageret - kutter 80 ansatte",
+   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347196",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-03T10:28:02Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
    "id": "6b31d40777ad",
    "title": "Kazakhstan and Azerbaijan sign agreements for Caspian ferry system and Baku terminal",
    "link": "https://container-news.com/kazakhstan-and-azerbaijan-sign-agreements-for-caspian-ferry-system-and-baku-terminal/",
@@ -903,6 +1106,42 @@
    "segments": [
     "road",
     "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "bcd3f562f0dd",
+   "title": "190 tonns Liebherr skal losse 1000 tonn i timen",
+   "link": "https://www.mtlogistikk.no/gc-rieber-salt-liebherr-liebherr-norge/190-tonns-liebherr-skal-losse-1000-tonn-i-timen/1340393",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-03T06:58:02Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "fccae4aafe8c",
+   "title": "Nederland-fergen tar et nytt steg – men skipet er fortsatt ukjent",
+   "link": "https://www.mtlogistikk.no/ferge-kristiansand-kristiansand-havn/nederland-fergen-tar-et-nytt-steg-men-skipet-er-fortsatt-ukjent/1342651",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-03T06:43:02Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
    ],
    "subs": [],
    "policy": false,
@@ -1431,7 +1670,7 @@
   },
   {
    "id": "5661666c7f6a",
-   "title": "BAE System's Sale of Dormant Australian Naval Shipyard Raises Concerns",
+   "title": "BAE Systems' Sale of Dormant Australian Naval Shipyard Raises Concerns",
    "link": "https://maritime-executive.com/article/bae-system-s-pending-sale-dormant-australian-naval-shipyard-raises-concerns",
    "source": "marex",
    "published": "2026-11-03T00:14:46Z",
@@ -18020,255 +18259,6 @@
    "level": "international",
    "terms": [
     "backhaul"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "fb79bd8667cc",
-   "title": "Panagiotidis moves another LPG carrier in $18m fleet reshuffle",
-   "link": "https://splash247.com/panagiotidis-moves-another-lpg-carrier-in-18m-fleet-reshuffle/",
-   "source": "splash",
-   "published": "2026-10-26T11:00:00Z",
-   "seen": "2026-10-26T14:52:43Z",
-   "lang": "en",
-   "excerpt": "Greek shipowner Petros Panagiotidis is continuing to rearrange his LPG fleet across Nasdaq-listed companies, with AI OKTO agreeing to sell the 2015-built Dream Arrax to sister company Robin Energy for $18m.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lpg"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "b7d2a4a0ede1",
-   "title": "Oil Spill Off UAE Widens, Satellite Images Show, Prompting More Beach Closures",
-   "link": "https://gcaptain.com/oil-spill-off-uae-widens-satellite-images-show-prompting-more-beach-closures/",
-   "source": "gcaptain",
-   "published": "2026-10-26T10:44:53Z",
-   "seen": "2026-10-26T14:52:43Z",
-   "lang": "en",
-   "excerpt": "An oil spill from a damaged tanker off the coast of the United Arab Emirates has widened, satellite images showed, triggering more beach closures and raising environmental concerns.",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "16763ebf23d0",
-   "title": "Dubai’s DP World in Talks on Alliance With Northern Canada Port",
-   "link": "https://gcaptain.com/dubais-dp-world-in-talks-on-alliance-with-northern-canada-port/",
-   "source": "gcaptain",
-   "published": "2026-10-26T10:41:05Z",
-   "seen": "2026-10-26T14:52:43Z",
-   "lang": "en",
-   "excerpt": "Dubai’s DP World Ltd. is set to unveil a deal backing potential development of Canada’s port of Churchill, a northern outpost that Prime Minister Mark Carney aims to expand for exports to Europe and other markets.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "af92dd7da600",
-   "title": "Rig sinking incident: Search continues for five missing as 'robust' probe looms",
-   "link": "https://offshore-energy.biz/2026/10/26/rig-sinking-incident-search-continues-for-five-missing-as-robust-probe-looms",
-   "source": "offshoreenergy",
-   "published": "2026-10-26T10:37:33Z",
-   "seen": "2026-10-26T14:52:43Z",
-   "lang": "en",
-   "excerpt": "Borr Drilling has emphasized that search and rescue mission for five offshore workers that are still missing remains the “overriding priority.”",
-   "segments": [
-    "insurance",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "rig"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "91b526860a48",
-   "title": "NMDC Energy lands $763m in Saudi Aramco offshore contracts",
-   "link": "https://splash247.com/nmdc-energy-lands-763m-in-saudi-aramco-offshore-contracts/",
-   "source": "splash",
-   "published": "2026-10-26T10:33:00Z",
-   "seen": "2026-10-26T14:52:43Z",
-   "lang": "en",
-   "excerpt": "UAE-based offshore engineering and construction player NMDC Energy has secured three new offshore projects from Saudi Aramco worth a combined AED 2.8bn ($763.3m).",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "21a51be0f5c6",
-   "title": "Canada port reaches new longshore union labor deal",
-   "link": "https://www.freightwaves.com/news/canada-port-reaches-new-longshore-union-labor-deal",
-   "source": "freightwaves",
-   "published": "2026-10-26T10:02:00Z",
-   "seen": "2026-10-26T14:52:43Z",
-   "lang": "en",
-   "excerpt": "A tentative contract agreement at Halifax settles potential labor unrest, for now.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "6e1d8548f127",
-   "title": "Equinor extends Havila PSV pair for one more year",
-   "link": "https://splash247.com/equinor-extends-havila-psv-pair-for-one-more-year/",
-   "source": "splash",
-   "published": "2026-10-26T10:00:00Z",
-   "seen": "2026-10-26T14:52:43Z",
-   "lang": "en",
-   "excerpt": "Norwegian offshore vessel owner Havila Shipping has secured another year of work for two of its platform supply vessels (PSVs) after compatriot energy major Equinor exercised contract extension options.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "psv"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "56d97875dc78",
-   "title": "Great Eastern continues secondhand spending with LPG carrier deal",
-   "link": "https://splash247.com/great-eastern-continues-secondhand-spending-with-lpg-carrier-deal/",
-   "source": "splash",
-   "published": "2026-10-26T09:38:00Z",
-   "seen": "2026-10-26T09:52:05Z",
-   "lang": "en",
-   "excerpt": "India’s Great Eastern Shipping has struck another secondhand vessel deal, agreeing to acquire a 2015-built very large gas carrier as it continues expanding its diversified fleet.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "sale-purchase",
-    "lpg"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "35728edb7f62",
-   "title": "Åpner stort ladeanlegg for konkurrenter",
-   "link": "https://www.mtlogistikk.no/asko-vest-bergen-elektriske-lastebiler/apner-stort-ladeanlegg-for-konkurrenter/1342732",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-26T09:22:43Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "dc2772f5b242",
-   "title": "Samsung Heavy Industries unveils Canada-tailored FLNG solution",
-   "link": "https://offshore-energy.biz/2026/10/26/samsung-heavy-industries-unveils-canada-tailored-flng-solution",
-   "source": "offshoreenergy",
-   "published": "2026-10-26T09:04:49Z",
-   "seen": "2026-10-26T14:52:43Z",
-   "lang": "en",
-   "excerpt": "SHI is streamlining LNG development with a standardized FLNG platform, while strengthening local partnerships across Canada's energy sector.",
-   "segments": [
-    "freight",
-    "offshore"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "fsru",
-    "lng"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "b2e94f21921c",
-   "title": "ClassNK releases new framework for onboard carbon capture systems",
-   "link": "https://container-news.com/classnk-releases-new-framework-for-onboard-carbon-capture-systems/",
-   "source": "containernews",
-   "published": "2026-10-26T09:00:38Z",
-   "seen": "2026-10-26T14:52:43Z",
-   "lang": "en",
-   "excerpt": "Japanese classification society ClassNK has released a new handbook providing guidance on the implementation of onboard carbon capture systems (OCCS), addressing the technical, regulatory and infrastructure requirements involved in …",
-   "segments": [
-    "freight",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "class-society",
-    "ccs"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "0cc0133ee8d7",
-   "title": "VLCC delivery wave set to reach levels not seen since the 1970s",
-   "link": "https://splash247.com/vlcc-delivery-wave-set-to-reach-levels-not-seen-since-the-1970s/",
-   "source": "splash",
-   "published": "2026-10-26T08:45:35Z",
-   "seen": "2026-10-26T09:52:05Z",
-   "lang": "en",
-   "excerpt": "The VLCC sector is heading for its biggest delivery wave in half a century, with more than 100 new supertankers scheduled to enter service annually in both 2028 and 2029, according to Hartland Shipping Services.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "vlcc",
-    "bimco"
    ],
    "paywall": false
   }
