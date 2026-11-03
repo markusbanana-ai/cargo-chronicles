@@ -1,32 +1,13 @@
 {
- "updated": "2026-11-03T01:09:03Z",
+ "updated": "2026-11-03T03:57:24Z",
  "sample": false,
  "articles": [
-  {
-   "id": "2c04b249b57a",
-   "title": "Samferdselsministeren til Kristiansand",
-   "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-til-kristiansand/id3190651/",
-   "source": "regjeringen",
-   "published": "2026-11-03T01:09:03Z",
-   "seen": "2026-11-02T07:32:07Z",
-   "lang": "no",
-   "excerpt": "Samferdselsminister Kamzy Gunaratnam skal på fylkestur til Agder mandag 3. november. Kontaktperson for presse på turen er kommunikasjonsrådgiver i Samferdselsdepartementet Kristin Bentdal Larsen (416 09 206).",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false,
-   "upcoming": true
-  },
   {
    "id": "0d5853fdc164",
    "title": "Fiskeri- og havministeren har møte med NHO Logistikk og Transport",
    "link": "https://www.regjeringen.no/no/aktuelt/mote-med-nho-logistikk-og-transport/id3190687/",
    "source": "regjeringen",
-   "published": "2026-11-03T01:09:03Z",
+   "published": "2026-11-03T03:57:24Z",
    "seen": "2026-11-02T10:13:09Z",
    "lang": "no",
    "excerpt": "Fiskeri- og havminister Marianne Sivertsen Næss har møte med NHO Logistikk og Transport.",
@@ -45,7 +26,7 @@
    "title": "Chevron keeps ADES’ 2007-built jack-up rig busy in Angolan waters for another year",
    "link": "https://offshore-energy.biz/2026/11/03/chevron-keeps-ades-2007-built-jack-up-rig-busy-in-angolan-waters-for-another-year",
    "source": "offshoreenergy",
-   "published": "2026-11-03T01:09:03Z",
+   "published": "2026-11-03T03:57:24Z",
    "seen": "2026-11-03T01:09:03Z",
    "lang": "en",
    "excerpt": "This multimillion-dollar extension enables the 19-year-old jack-up rig to remain with Chevron’s subsidiary until February 2028.",
@@ -61,6 +42,164 @@
    ],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "79fc6c20f135",
+   "title": "Well-Safe Solutions’ 1982-built rig wraps up triple P&A campaign in UK waters",
+   "link": "https://offshore-energy.biz/2026/11/03/well-safe-solutions-1982-built-rig-wraps-up-triple-panda-campaign-in-uk-waters",
+   "source": "offshoreenergy",
+   "published": "2026-11-03T03:57:24Z",
+   "seen": "2026-11-03T03:57:24Z",
+   "lang": "en",
+   "excerpt": "This 44-year-old rig has crossed the finish line at a multi-well subsea decommissioning campaign on the UK Continental Shelf (UKCS).",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "rig",
+    "decommissioning"
+   ],
+   "paywall": false,
+   "upcoming": true
+  },
+  {
+   "id": "40b45d5a2f1a",
+   "title": "Wison New Energies lays keel for Türkiye’s ultra-deepwater FPU",
+   "link": "https://offshore-energy.biz/2026/11/03/wison-new-energies-lays-keel-for-turkiyes-ultra-deepwater-fpu",
+   "source": "offshoreenergy",
+   "published": "2026-11-03T03:57:24Z",
+   "seen": "2026-11-03T03:57:24Z",
+   "lang": "en",
+   "excerpt": "This ultra-deepwater floating production unit (FPU) is being built for Türkiye Petrolleri A.O. (TPAO) to boost Türkiye's natural gas supply.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "fpso"
+   ],
+   "paywall": false,
+   "upcoming": true
+  },
+  {
+   "id": "2c04b249b57a",
+   "title": "Samferdselsministeren til Kristiansand",
+   "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-til-kristiansand/id3190651/",
+   "source": "regjeringen",
+   "published": "2026-11-03T03:00:00Z",
+   "seen": "2026-11-02T07:32:07Z",
+   "lang": "no",
+   "excerpt": "Samferdselsminister Kamzy Gunaratnam skal på fylkestur til Agder mandag 3. november. Kontaktperson for presse på turen er kommunikasjonsrådgiver i Samferdselsdepartementet Kristin Bentdal Larsen (416 09 206).",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "e27d3ed37b15",
+   "title": "Splash Singapore unveils 2027 agenda with three new sessions tackling shipping’s biggest challenges",
+   "link": "https://splash247.com/splash-singapore-unveils-2027-agenda-with-three-new-sessions-tackling-shippings-biggest-challenges/",
+   "source": "splash",
+   "published": "2026-11-03T03:00:00Z",
+   "seen": "2026-11-03T03:57:24Z",
+   "lang": "en",
+   "excerpt": "Splash Singapore has unveiled the agenda for its 2027 edition, introducing three new sessions examining crewing, operational efficiency and maritime investment alongside traditional tanker and dry bulk market outlooks.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk",
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dry-bulk"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "682cd7f8475f",
+   "title": "230-plus immigrants arrested in crackdown targeting unauthorized CDL holders",
+   "link": "https://www.freightwaves.com/news/230-plus-immigrants-arrested-in-crackdown-targeting-unauthorized-cdl-holders",
+   "source": "freightwaves",
+   "published": "2026-11-03T02:49:17Z",
+   "seen": "2026-11-03T03:57:24Z",
+   "lang": "en",
+   "excerpt": "Federal and state authorities arrested more than 230 undocumented immigrants, including over 40 CDL holders, during a three-day operation spanning 15 states.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lou"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "c3a54acb1db7",
+   "title": "Indian Forces Rescue Iranian Dhow From Somali Pirates",
+   "link": "https://maritime-executive.com/article/indian-forces-rescue-iranian-dhow-from-somali-pirates",
+   "source": "marex",
+   "published": "2026-11-03T02:26:57Z",
+   "seen": "2026-11-03T03:57:24Z",
+   "lang": "en",
+   "excerpt": "Indian forces have intercepted and liberated a fishing dhow that had been captured by pirates off Somalia, according to the country's defense ministry...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8de1fdb58ea7",
+   "title": "Carnival Welcomes Caribbean Maritime University Students on Carnival Dream",
+   "link": "https://maritime-executive.com/article/carnival-corporation-welcomes-caribbean-maritime-university-students-aboard-carnival-dream-in-jamaica",
+   "source": "marex",
+   "published": "2026-11-03T02:01:00Z",
+   "seen": "2026-11-03T03:57:24Z",
+   "lang": "en",
+   "excerpt": "Students, cadets and chaperones from Caribbean Maritime University gather with Carnival officials aboard Carnival Dream in Ocho Rios, Jamaica, during...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6d5822f0e4d7",
+   "title": "Hanwha Philly Shipyard Names 25-Year Shipbuilding Veteran as President",
+   "link": "https://maritime-executive.com/article/with-expansion-into-naval-shipbuilding-hanwha-philly-shipyard-names-25-year-shipbuilding-veteran-as-president",
+   "source": "marex",
+   "published": "2026-11-03T02:00:00Z",
+   "seen": "2026-11-03T03:57:24Z",
+   "lang": "en",
+   "excerpt": "Hyuk Kim has been named president of Hanwha Philly Shipyard, Inc. (HPSI), effective today, where he will lead the yard's expansion and transition to d...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
   },
   {
    "id": "992d1f5163b1",
@@ -80,6 +219,25 @@
    "terms": [
     "ais"
    ],
+   "paywall": false
+  },
+  {
+   "id": "7b6e681956c6",
+   "title": "Kuttet en halv milliard – vokser likevel",
+   "link": "https://www.mtlogistikk.no/jan-volsdal-kunstlig-intelligens-pakke-og-godstransport/kuttet-en-halv-milliard-vokser-likevel/1352794",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-03T00:27:24Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
    "paywall": false
   },
   {
@@ -141,6 +299,24 @@
    "subs": [],
    "policy": false,
    "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "0a2d94bb7c4f",
+   "title": "Få oversikt over alle logistikk-arrangement: Eventkalender logistikk 2026",
+   "link": "https://www.mtlogistikk.no/arangementer-konferanse-logistikk-25/eventkalender-logistikk-2025/1013111",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-02T23:42:24Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -630,25 +806,6 @@
    "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "de1ca335aaf7",
-   "title": "Kuttet en halv milliard – vokser likevel",
-   "link": "https://www.mtlogistikk.no/jan-volsdal-kunstlig-intelligens-pakke-og-godstransport/kuttet-en-halv-milliard-vokser-likevel/1352956",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-02T21:48:53Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18129,163 +18286,6 @@
    "excerpt": "Kongsberg Maritime is establishing a new office in Manila, creating a stronger local platform for growth and reinforcing its long-term commitment to c...",
    "segments": [
     "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "9888e9dfc888",
-   "title": "CENTCOM's Commander Conducts an Inspection Flight in Strait of Hormuz",
-   "link": "https://maritime-executive.com/article/centcom-s-commander-conducts-an-inspection-flight-in-strait-of-hormuz",
-   "source": "marex",
-   "published": "2026-10-25T20:33:41Z",
-   "seen": "2026-10-25T21:37:56Z",
-   "lang": "en",
-   "excerpt": "In a demonstration of confidence in the control Central Command exercises over the Strait of Hormuz, Commander CENTCOM Admiral Brad Cooper has made a...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "e17a47e5e4c6",
-   "title": "Russia Says It Hit Two Cargo Vessels And Ukrainian Logistics Hubs",
-   "link": "https://gcaptain.com/russia-says-it-hit-two-cargo-vessels-and-ukrainian-logistics-hubs/",
-   "source": "gcaptain",
-   "published": "2026-10-25T20:21:48Z",
-   "seen": "2026-10-26T01:02:41Z",
-   "lang": "en",
-   "excerpt": "MOSCOW, Oct 25 (Reuters) – The Russian Defence Ministry said on Sunday that its drones had struck a cargo vessel bound for the Black Sea port of Chornomorsk in an overnight attack and another...",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "8688d2ef7b05",
-   "title": "How shipping’s stalled climate deal is being absorbed by geopolitics",
-   "link": "https://container-news.com/how-shippings-stalled-climate-deal-is-being-absorbed-by-geopolitics/",
-   "source": "containernews",
-   "published": "2026-10-25T19:00:20Z",
-   "seen": "2026-10-25T21:37:56Z",
-   "lang": "en",
-   "excerpt": "The World Shipping Council reports that the dual-fuel fleet of containerships and vehicle carriers passed 500 vessels in September 2026, a 41% rise in a year, with another 849 on order and more than $200 billion committed.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "dual-fuel",
-    "liner",
-    "car-carrier"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "4a8fa8a785c5",
-   "title": "ID Logistics inaugurates automated logistics hub for PUMA in France",
-   "link": "https://container-news.com/id-logistics-inaugurates-automated-logistics-hub-for-puma-in-france/",
-   "source": "containernews",
-   "published": "2026-10-25T17:30:16Z",
-   "seen": "2026-10-25T18:41:29Z",
-   "lang": "en",
-   "excerpt": "ID Logistics and sportswear company PUMA have officially inaugurated an automated logistics facility in Vendenheim, France, marking a new milestone in their ten-year partnership and strengthening PUMA’s distribution operations in the …",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "c050b2e26146",
-   "title": "Skuld Positions Organisation for Future Growth",
-   "link": "https://maritime-executive.com/article/skuld-positions-organisation-for-future-growth",
-   "source": "marex",
-   "published": "2026-10-25T16:33:00Z",
-   "seen": "2026-10-23T09:41:40Z",
-   "lang": "en",
-   "excerpt": "Skuld, a world-leading marine insurer, today announces organisational changes to further strengthen the value delivered to members, clients and broker...",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "pi-club"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "b449bea99e49",
-   "title": "China tightens export oversight with new technology and drone controls",
-   "link": "https://container-news.com/china-tightens-export-oversight-with-new-technology-and-drone-controls/",
-   "source": "containernews",
-   "published": "2026-10-25T16:00:22Z",
-   "seen": "2026-10-25T18:41:29Z",
-   "lang": "en",
-   "excerpt": "China has announced new export control measures covering selected advanced technologies and unmanned aerial vehicles (UAVs), introducing additional compliance requirements for exporters and international logistics providers.",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "556fa1b440e6",
-   "title": "Borr Drilling Rig Sinks Off Gabon, One Person Dead And Four Missing",
-   "link": "https://gcaptain.com/borr-drilling-rig-sinks-off-gabon-one-person-dead-and-four-missing/",
-   "source": "gcaptain",
-   "published": "2026-10-25T15:07:34Z",
-   "seen": "2026-10-25T18:41:29Z",
-   "lang": "en",
-   "excerpt": "By Gnaneshwar Rajan and Colleen Goko Oct 25 (Reuters) – Borr Drilling’s BORR.N Prospector 5 drilling rig sank late on Saturday off the coast of Mayumba, Gabon, killing one worker and leaving four others...",
-   "segments": [
-    "insurance",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "rig"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "2c3f643c6ad3",
-   "title": "Vareeierundersøkelsen 2026 er nå tilgjengelig - last ned rapporten her",
-   "link": "https://www.mtlogistikk.no/forsyningskjeder-logistikk-norske-vareeiere/vareeierundersokelsen-2026-er-na-tilgjengelig/1271402",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-25T14:41:29Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
    ],
    "subs": [],
    "policy": false,
