@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T13:11:13Z",
+ "updated": "2026-11-04T15:59:20Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Fiskeri- og havministeren har møte med NHO Logistikk og Transport",
    "link": "https://www.regjeringen.no/no/aktuelt/mote-med-nho-logistikk-og-transport/id3190687/",
    "source": "regjeringen",
-   "published": "2026-11-04T13:11:13Z",
+   "published": "2026-11-04T15:59:20Z",
    "seen": "2026-11-02T10:13:09Z",
    "lang": "no",
    "excerpt": "Fiskeri- og havminister Marianne Sivertsen Næss har møte med NHO Logistikk og Transport.",
@@ -20,6 +20,223 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "58a0063443bd",
+   "title": "Robotene skal ta seg av skoene hos XXL",
+   "link": "https://www.mtlogistikk.no/autostore-element-logic-xxl/robotene-skal-ta-seg-av-skoene-hos-xxl/1354473",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-04T15:59:20Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "dd43b82d4e17",
+   "title": "Over 350 har søkt om gratis lastebillapp, men fortsatt mulig å vinne",
+   "link": "https://lastebil.no/aktuelt/nyheter/2026/over-350-har-soekt-om-gratis-lastebillapp-men-fortsatt-mulig-aa-vinne",
+   "source": "lastebil",
+   "published": "2026-11-04T15:51:41Z",
+   "seen": "2026-11-04T15:59:20Z",
+   "lang": "no",
+   "excerpt": "354 søknader har allerede kommet inn til P4. Det er ikke for sent å melde seg på konkurransen. Én heldig vinner får førerkort klasse C til en verdi av inntil 100 000 kroner.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "aae65921d166",
+   "title": "Trimble cuts growth outlook as European freight market slows",
+   "link": "https://www.freightwaves.com/news/trimble-cuts-growth-outlook-as-european-freight-market-slows",
+   "source": "freightwaves",
+   "published": "2026-11-04T15:28:49Z",
+   "seen": "2026-11-04T15:59:20Z",
+   "lang": "en",
+   "excerpt": "Trimble lowered its full-year recurring revenue growth forecast as softer European freight conditions pressured its transportation business.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "aacdf515d6ca",
+   "title": "Port of Gothenburg reports stable freight flows",
+   "link": "https://container-news.com/port-of-gothenburg-reports-stable-freight-flows/",
+   "source": "containernews",
+   "published": "2026-11-04T15:00:33Z",
+   "seen": "2026-11-04T15:59:20Z",
+   "lang": "en",
+   "excerpt": "Cargo volumes at the Port of Gothenburg developed steadily from January to September 2026. Container volumes were in line with the previous year, while several segments grew clearly: new cars rose 14% and energy products 10%, and Ro/Ro …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "64431004e41e",
+   "title": "ONE lifts profit forecast to $2 billion as earnings surge",
+   "link": "https://www.freightwaves.com/news/one-lifts-profit-forecast-to-2-billion-as-earnings-surge",
+   "source": "freightwaves",
+   "published": "2026-11-04T14:43:57Z",
+   "seen": "2026-11-04T15:59:20Z",
+   "lang": "en",
+   "excerpt": "Higher freight rates and cargo volumes drive a sharp earnings rebound for Ocean Network Express, though the liner expects softer market conditions in H2.",
+   "segments": [
+    "road",
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6477857cfe1a",
+   "title": "Samme lastebil kan være lovet bort tre ganger",
+   "link": "https://www.mtlogistikk.no/beredskap-nato-naeringslivets-sikkerhetsrad/samme-lastebil-kan-vaere-lovet-bort-tre-ganger/1355025",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-04T14:29:20Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6e45d86dd78e",
+   "title": "– Beredskap er ikke dugnad",
+   "link": "https://www.mtlogistikk.no/beredskap-frank-stolan-toten-transport/beredskap-er-ikke-dugnad/1355100",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-04T14:14:20Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "supply-chain"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "b6262837bc31",
+   "title": "East Midlands Airport welcomes another Chinese cargo airline",
+   "link": "https://www.freightwaves.com/news/east-midlands-airport-welcomes-another-chinese-cargo-airline",
+   "source": "freightwaves",
+   "published": "2026-11-04T14:09:50Z",
+   "seen": "2026-11-04T15:59:20Z",
+   "lang": "en",
+   "excerpt": "China Central Longhao Airlines is the latest all-cargo airline to operate flights from China to East Midlands Airport.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "69d60525c22c",
+   "title": "Maersk changes PCD logic for European import shipments",
+   "link": "https://container-news.com/maersk-changes-pcd-logic-for-european-import-shipments/",
+   "source": "containernews",
+   "published": "2026-11-04T14:00:32Z",
+   "seen": "2026-11-04T15:59:20Z",
+   "lang": "en",
+   "excerpt": "Maersk will change how it calculates inland charges for selected import shipments across 15 European countries. The new Price Calculation Date (PCD) logic will apply to import shipments created from 1 January 2027.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bol",
+    "last-mile"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "7f71a9892466",
+   "title": "Higher shipment weights help ArcBest beat Q3 expectations",
+   "link": "https://www.freightwaves.com/news/higher-shipment-weights-help-arcbest-beat-q3-expectations",
+   "source": "freightwaves",
+   "published": "2026-11-04T13:52:29Z",
+   "seen": "2026-11-04T15:59:20Z",
+   "lang": "en",
+   "excerpt": "Increased shipment weights fueled higher overall tonnage and revenue per shipment at ArcBest’s less-than-truckload division during the third quarter, allowing the carrier to surpass analysts’ expectations.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ltl"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "554eaf0d18b6",
+   "title": "Etter press fra NLF: Vegvesenet løfter standarden på rv. 3",
+   "link": "https://lastebil.no/aktuelt/nyheter/2026/etter-press-fra-nlf-vegvesenet-loefter-standarden-paa-rv.-3",
+   "source": "lastebil",
+   "published": "2026-11-04T13:16:58Z",
+   "seen": "2026-11-04T15:59:20Z",
+   "lang": "no",
+   "excerpt": "Etter en vinter med store problemer og gjentatte krav fra NLF skjerper Statens vegvesen nå vinterdriften på riksveg 3. Vegen løftes fra driftsklasse C til B, med hyppigere innsats, kortere responstid og mer bruk av salt.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "national",
+   "terms": [],
+   "paywall": false
   },
   {
    "id": "165ae09c7227",
@@ -667,24 +884,6 @@
    "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "26bfda8bc194",
-   "title": "Robotene skal ta seg av skoene hos XXL",
-   "link": "https://www.mtlogistikk.no/autostore-element-logic-lager/robotene-skal-ta-seg-av-skoene-hos-xxl/1354452",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-04T10:26:13Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18057,208 +18256,6 @@
    "terms": [
     "chokepoint",
     "war-risk"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "359b66233c72",
-   "title": "Iron Ore Languishes at Four-Year Lows",
-   "link": "https://www.hellenicshippingnews.com/iron-ore-languishes-at-four-year-lows/",
-   "source": "hsn",
-   "published": "2026-10-27T11:00:33Z",
-   "seen": "2026-10-27T12:52:29Z",
-   "lang": "en",
-   "excerpt": "Iron ore futures declined toward CNY 660 per ton on Tuesday, hitting fresh four-year lows amid signs of abundant global supply and a deteriorating demand outlook.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "7be7ba1d62a8",
-   "title": "Copper Prices Rise on Renewed AI Optimism",
-   "link": "https://www.hellenicshippingnews.com/copper-prices-rise-on-renewed-ai-optimism/",
-   "source": "hsn",
-   "published": "2026-10-27T11:00:29Z",
-   "seen": "2026-10-27T12:52:29Z",
-   "lang": "en",
-   "excerpt": "Copper futures climbed toward $6.55 per pound on Tuesday, recovering from multi-week lows as Anthropic’s IPO filing reignited investor enthusiasm for the artificial intelligence trade.",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "ipo"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "f1934d2eb7ec",
-   "title": "Oil extends turn higher as Houthi attacks offset push to ease Mideast conflict",
-   "link": "https://www.hellenicshippingnews.com/oil-extends-turn-higher-as-houthi-attacks-offset-push-to-ease-mideast-conflict/",
-   "source": "hsn",
-   "published": "2026-10-27T11:00:27Z",
-   "seen": "2026-10-27T12:52:29Z",
-   "lang": "en",
-   "excerpt": "Oil prices turned higher in choppy trading on Tuesday, as traders assessed ongoing diplomatic efforts to de-escalate the U.S.-Israeli war with Iran.",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lt-utc"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "2e6f9e047461",
-   "title": "Asia enters winter LNG demand season just as JKM hits four-year high amid uncertainties",
-   "link": "https://www.hellenicshippingnews.com/asia-enters-winter-lng-demand-season-just-as-jkm-hits-four-year-high-amid-uncertainties/",
-   "source": "hsn",
-   "published": "2026-10-27T11:00:25Z",
-   "seen": "2026-10-27T12:52:29Z",
-   "lang": "en",
-   "excerpt": "Asia is entering the winter LNG season just as Platts JKM has hit its highest level since December 2022, amid price-swing factors such as uncertainty over the war in the Middle East, the EU’s ban on Russian LNG imports, and the impact of …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "lng"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "bee0f3191789",
-   "title": "Saudi oil output rises to 8mbpd; business activity strengthens",
-   "link": "https://www.hellenicshippingnews.com/saudi-oil-output-rises-to-8mbpd-business-activity-strengthens/",
-   "source": "hsn",
-   "published": "2026-10-27T11:00:23Z",
-   "seen": "2026-10-27T12:52:29Z",
-   "lang": "en",
-   "excerpt": "Saudi Arabia’s crude oil production rose to 8 million barrels per day (mbpd) in September 2026, an increase of 12.2% month-on-month, while Brent crude prices settled at $103.5 per barrel at the end of the month, according to Al Rajhi …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "9ba3c07f4840",
-   "title": "Spartan’s operators went from AI skeptics to agent builders",
-   "link": "https://www.freightwaves.com/news/spartan-carrier-alvys-foundry-ai-agents",
-   "source": "freightwaves",
-   "published": "2026-10-27T11:00:00Z",
-   "seen": "2026-10-27T12:52:29Z",
-   "lang": "en",
-   "excerpt": "Spartan Carrier Group built its first AI agent for hourly customer reports in a week and a half. Its VP of operations, who calls himself no coder, wants dispatchers building the next ones.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "042bd3fec67f",
-   "title": "Eni locks in offshore contractors for Cyprus gas project",
-   "link": "https://splash247.com/eni-locks-in-offshore-contractors-for-cyprus-gas-project/",
-   "source": "splash",
-   "published": "2026-10-27T11:00:00Z",
-   "seen": "2026-10-27T12:52:29Z",
-   "lang": "en",
-   "excerpt": "Italian energy major Eni has signed the main engineering, procurement, construction, and drilling contracts for the Cronos gas development offshore Cyprus, with a string of major offshore contractors securing work on the project.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "0088a2ab30d0",
-   "title": "Container freight rates diverge as global benchmarks rise and Asian indexes weaken",
-   "link": "https://container-news.com/container-freight-rates-diverge-as-global-benchmarks-rise-and-asian-indexes-weaken/",
-   "source": "containernews",
-   "published": "2026-10-27T10:40:41Z",
-   "seen": "2026-10-27T12:52:29Z",
-   "lang": "en",
-   "excerpt": "Global container freight rates delivered a mixed performance in the latest weekly assessments, with major international benchmarks moving higher while Chinese freight indexes showed more subdued results.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "container-index"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "9bb349f481f8",
-   "title": "Asyad Group prices $132m shipping stake sale",
-   "link": "https://splash247.com/asyad-group-prices-132m-shipping-stake-sale/",
-   "source": "splash",
-   "published": "2026-10-27T10:30:00Z",
-   "seen": "2026-10-27T12:52:29Z",
-   "lang": "en",
-   "excerpt": "Oman’s Asyad Group has priced an institutional share sale in its listed shipping subsidiary at OMR50.8m ($132m), reducing its ownership as part of a move to broaden the company’s shareholder base.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "26ef1f6c7e46",
-   "title": "Dolphin Drilling parts ways with 52-year-old rig and forges pact with SPM",
-   "link": "https://offshore-energy.biz/2026/10/27/dolphin-drilling-parts-ways-with-52-year-old-rig-and-forges-pact-with-spm",
-   "source": "offshoreenergy",
-   "published": "2026-10-27T10:01:18Z",
-   "seen": "2026-10-27T12:52:29Z",
-   "lang": "en",
-   "excerpt": "Dolphin Drilling has sealed a deal to divest its 1974-built rig for up to $25 million and formed a strategic partnership with SPM.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "rig"
    ],
    "paywall": false
   }
