@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T19:02:46Z",
+ "updated": "2026-11-04T21:55:03Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Fiskeri- og havministeren har møte med NHO Logistikk og Transport",
    "link": "https://www.regjeringen.no/no/aktuelt/mote-med-nho-logistikk-og-transport/id3190687/",
    "source": "regjeringen",
-   "published": "2026-11-04T19:02:46Z",
+   "published": "2026-11-04T21:55:03Z",
    "seen": "2026-11-02T10:13:09Z",
    "lang": "no",
    "excerpt": "Fiskeri- og havminister Marianne Sivertsen Næss har møte med NHO Logistikk og Transport.",
@@ -20,6 +20,301 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "4fd3e42b6b00",
+   "title": "The Hidden Data Challenges for Autonomous Trucking Safety",
+   "link": "https://www.freightwaves.com/news/the-hidden-data-challenges-for-autonomous-trucking-safety",
+   "source": "freightwaves",
+   "published": "2026-11-04T21:18:12Z",
+   "seen": "2026-11-04T21:55:03Z",
+   "lang": "en",
+   "excerpt": "Forget millions of test miles—it’s about the *right* miles. Empiric Earth’s Luc Vincent reveals why current autonomous vehicle testing falls short and how collecting rare, dangerous real-world events is crucial for true self-driving …",
+   "segments": [
+    "road",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "9adc59ad4c98",
+   "title": "8 Inches of Rain Shut Down Busiest US Rail Line for 60 Hours",
+   "link": "https://www.freightwaves.com/news/8-inches-of-rain-shut-down-busiest-us-rail-line-for-60-hours",
+   "source": "freightwaves",
+   "published": "2026-11-04T21:16:33Z",
+   "seen": "2026-11-04T21:55:03Z",
+   "lang": "en",
+   "excerpt": "North American rail traffic saw a mixed performance in Week 43, with significant disruptions impacting major lines. Bill Stephens of Trains Magazine breaks down how record-breaking rainfall in New Mexico and a massive CSX tech outage led …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "intermodal"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "b6f99c4ab7e4",
+   "title": "EU Court Upholds Restrictive Measures Imposed on Russian Maritime Register",
+   "link": "https://maritime-executive.com/article/eu-court-upholds-restrictive-measures-imposed-on-russian-maritime-register",
+   "source": "marex",
+   "published": "2026-11-04T21:02:09Z",
+   "seen": "2026-11-04T21:55:03Z",
+   "lang": "en",
+   "excerpt": "The Court of Justice of the European Union handed down a decision on November 4, upholding most of the restrictive measures the European Council has i...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f065cf67c571",
+   "title": "Lloyd’s Register launches service to manage cargo disruptions",
+   "link": "https://container-news.com/lloyds-register-launches-service-to-manage-cargo-disruptions/",
+   "source": "containernews",
+   "published": "2026-11-04T21:00:35Z",
+   "seen": "2026-11-04T21:55:03Z",
+   "lang": "en",
+   "excerpt": "Lloyd’s Register (LR) Advisory has launched a new Supply Chain Resilience service to help ports, governments and logistics operators manage cargo disruptions and identify alternative transport routes.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "supply-chain",
+    "congestion"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "b112b7bf4433",
+   "title": "Dry Van & Reefer: Market Signals You Can’t Ignore",
+   "link": "https://www.freightwaves.com/news/dry-van-reefer-market-signals-you-cant-ignore",
+   "source": "freightwaves",
+   "published": "2026-11-04T20:58:05Z",
+   "seen": "2026-11-04T21:55:03Z",
+   "lang": "en",
+   "excerpt": "Despite trending lower, dry van tender rejection rates still indicate a tight market. Learn why capacity isn’t expanding, even as carriers face cost pressures outpacing revenue growth.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "reefer",
+    "intermodal"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "24e5aff1102f",
+   "title": "GXO’s contract wins surge 34%, but growth comes amid cost pressures",
+   "link": "https://www.freightwaves.com/news/gxos-contract-wins-surge-34-but-growth-comes-amid-cost-pressures",
+   "source": "freightwaves",
+   "published": "2026-11-04T20:47:48Z",
+   "seen": "2026-11-04T21:55:03Z",
+   "lang": "en",
+   "excerpt": "GXO secured $375 million in third-quarter contracts, but the rapid pace of onboarding new customers created temporary cost pressures despite rising revenue and earnings.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "d4d9501cfcb7",
+   "title": "Port of Oakland reports considerable renewable and zero-carbon electricity supply",
+   "link": "https://container-news.com/port-of-oakland-reports-considerable-renewable-and-zero-carbon-electricity-supply/",
+   "source": "containernews",
+   "published": "2026-11-04T20:00:00Z",
+   "seen": "2026-11-04T21:55:03Z",
+   "lang": "en",
+   "excerpt": "The Port of Oakland has announced that 84% of the electricity delivered in 2025 by its publicly owned utility, Port Public Power, to port tenants and facilities came from renewable and zero-carbon sources.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "86dd2fcfbffe",
+   "title": "Iran Claims Strikes on Multiple Tankers, Emboldened After US Elections",
+   "link": "https://maritime-executive.com/article/iran-claims-strikes-on-multiple-tankers-emboldened-after-us-elections",
+   "source": "marex",
+   "published": "2026-11-04T19:45:03Z",
+   "seen": "2026-11-04T21:55:03Z",
+   "lang": "en",
+   "excerpt": "Iran’s Revolutionary Guard Navy continues to issue reports of multiple tankers being struck each day in the Strait of Hormuz. The latest reports came...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "7504df10dc91",
+   "title": "Emirates rolls out enhanced air cargo service for data center operators",
+   "link": "https://www.freightwaves.com/news/emirates-rolls-out-enhanced-air-cargo-service-for-data-center-operators",
+   "source": "freightwaves",
+   "published": "2026-11-04T19:41:24Z",
+   "seen": "2026-11-04T21:55:03Z",
+   "lang": "en",
+   "excerpt": "Emirates is positioning itself to attract more air cargo business from hyperscalers and their suppliers.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "fce5fda74e45",
+   "title": "Transpacific emerges as liner shipping’s golden trade",
+   "link": "https://splash247.com/transpacific-emerges-as-liner-shippings-golden-trade/",
+   "source": "splash",
+   "published": "2026-11-04T19:31:00Z",
+   "seen": "2026-11-04T21:55:03Z",
+   "lang": "en",
+   "excerpt": "The transpacific has become the most lucrative major container shipping trade in the world, with carriers generating five times more spot revenue per nautical mile on the Shanghai–Los Angeles route than on shipments to North Europe via the …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "46503f9ff07e",
+   "title": "U.S. Targets Fraudulent Ship Registries Used by Iran’s Shadow Fleet",
+   "link": "https://gcaptain.com/u-s-targets-fraudulent-ship-registries-used-by-irans-shadow-fleet/",
+   "source": "gcaptain",
+   "published": "2026-11-04T19:27:44Z",
+   "seen": "2026-11-04T21:55:03Z",
+   "lang": "en",
+   "excerpt": "The United States on Wednesday sanctioned a network of individuals and companies accused of operating fraudulent ship registries that helped Iran’s shadow fleet evade sanctions, while issuing a new warning...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "shadow-fleet",
+    "sanctions"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "813d8bc6299b",
+   "title": "Vance Blames His Own Administration’s Iran War for Republican Defeat",
+   "link": "https://gcaptain.com/vance-blames-his-own-administrations-iran-war-for-republican-defeat/",
+   "source": "gcaptain",
+   "published": "2026-11-04T18:53:44Z",
+   "seen": "2026-11-04T21:55:03Z",
+   "lang": "en",
+   "excerpt": "Vice President JD Vance on Wednesday blamed Republicans’ midterm election losses on the Trump administration’s eight-month war with Iran, which has driven up global energy prices and left commercial shipping...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "62549ed6d4fe",
+   "title": "Intermodal leads weekly gains as US rail traffic rises 3.5%, says AAR",
+   "link": "https://www.freightwaves.com/news/intermodal-leads-weekly-gains-as-us-rail-traffic-rises-3-5-says-aar",
+   "source": "freightwaves",
+   "published": "2026-11-04T18:52:17Z",
+   "seen": "2026-11-04T21:55:03Z",
+   "lang": "en",
+   "excerpt": "Rail freight on U.S. carriers continues to turn in strong results.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "intermodal"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "788a12d20c18",
+   "title": "Stronger revenue at Uber Freight, but profits still elusive",
+   "link": "https://www.freightwaves.com/news/stronger-revenue-at-uber-freight-but-profits-still-elusive",
+   "source": "freightwaves",
+   "published": "2026-11-04T18:42:16Z",
+   "seen": "2026-11-04T21:55:03Z",
+   "lang": "en",
+   "excerpt": "Uber Freight CEO Rebecca Tinucci took to LinkedIn to tout the company’s third quarter financial performance, which still is a long way from operating profitability.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "26bfda8bc194",
+   "title": "Robotene skal ta seg av skoene hos XXL",
+   "link": "https://www.mtlogistikk.no/autostore-element-logic-lager/robotene-skal-ta-seg-av-skoene-hos-xxl/1354452",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-04T18:25:03Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
   },
   {
    "id": "050fe12d695c",
@@ -387,24 +682,6 @@
    "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "58a0063443bd",
-   "title": "Robotene skal ta seg av skoene hos XXL",
-   "link": "https://www.mtlogistikk.no/autostore-element-logic-xxl/robotene-skal-ta-seg-av-skoene-hos-xxl/1354473",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-04T15:59:20Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -17986,279 +18263,6 @@
     "car-carrier",
     "dual-fuel"
    ],
-   "paywall": false
-  },
-  {
-   "id": "34025a924eef",
-   "title": "Band24 seeks early testers for satellite-connected asset tracker ahead of Nov. 13 deadline",
-   "link": "https://www.freightwaves.com/news/band24-seeks-early-testers-for-satellite-connected-asset-tracker-ahead-of-nov-13-deadline",
-   "source": "freightwaves",
-   "published": "2026-10-27T14:57:32Z",
-   "seen": "2026-10-27T15:52:24Z",
-   "lang": "en",
-   "excerpt": "Asset-tracking company Band24 is seeking businesses to test Terra, a new tracker combining Bluetooth, cellular and satellite connectivity, ahead of a Nov. 13 deadline for its early-access program.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "f549f9b789d7",
-   "title": "Hanwha Defense USA to Take Control of Philly Shipyard as Navy Shipbuilding Push Accelerates",
-   "link": "https://gcaptain.com/hanwha-defense-usa-to-take-control-of-philly-shipyard-as-navy-shipbuilding-push-accelerates/",
-   "source": "gcaptain",
-   "published": "2026-10-27T14:56:35Z",
-   "seen": "2026-10-27T18:50:49Z",
-   "lang": "en",
-   "excerpt": "Hanwha Defense USA is moving to take control of Hanwha Philly Shipyard, bringing the Philadelphia facility under its U.S. defense business as the South Korean conglomerate pushes to expand into...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "c92e2c35a127",
-   "title": "Miami airport to deploy shared logistics platform for cargo community",
-   "link": "https://www.freightwaves.com/news/miami-airport-to-deploy-shared-logistics-platform-for-cargo-community",
-   "source": "freightwaves",
-   "published": "2026-10-27T14:51:49Z",
-   "seen": "2026-10-27T15:52:24Z",
-   "lang": "en",
-   "excerpt": "Miami airport is partnering with Kalé to develop a central data exchange portal for the cargo stakeholders.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "210b35e2484d",
-   "title": "Double Nickel launches AI agent to automate driver employment checks",
-   "link": "https://www.freightwaves.com/news/double-nickel-launches-ai-agent-to-automate-driver-employment-checks",
-   "source": "freightwaves",
-   "published": "2026-10-27T14:41:03Z",
-   "seen": "2026-10-27T15:52:24Z",
-   "lang": "en",
-   "excerpt": "Double Nickel has launched an artificial intelligence agent to automate employment verifications for trucking companies, targeting a time-consuming part of driver recruiting and regulatory compliance.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "221f1db436cc",
-   "title": "Woodside passes the baton for offshore gas project to Timor Gap in $200 million deal",
-   "link": "https://offshore-energy.biz/2026/10/27/woodside-passes-the-baton-for-offshore-gas-project-to-timor-gap-in-dollar200-million-deal",
-   "source": "offshoreenergy",
-   "published": "2026-10-27T14:21:49Z",
-   "seen": "2026-10-27T15:52:24Z",
-   "lang": "en",
-   "excerpt": "Timor Gap is taking over the reins for a gas project in the Timor Sea from Woodside with completion of the takeover anticipated in H1 2027.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "mna"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "9d468b094c62",
-   "title": "Iran Says It Will Take Action Against Sinokor Ships in Hormuz",
-   "link": "https://gcaptain.com/iran-says-it-will-take-action-against-sinokor-ships-in-hormuz/",
-   "source": "gcaptain",
-   "published": "2026-10-27T14:12:36Z",
-   "seen": "2026-10-27T15:52:24Z",
-   "lang": "en",
-   "excerpt": "Iran’s Persian Gulf Strait Authority said it would take “legal action” against tankers belonging to Sinokor, the world’s biggest oil tanker owner that has carried millions of barrels out of the Strait of Hormuz in recent weeks.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "865c8a2eef22",
-   "title": "- Full seier for Nilsen-familien",
-   "link": "https://www.mtlogistikk.no/konkurs-oppkjop-so-vetrhus/full-seier-for-nilsen-familien/1349608",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-27T14:07:24Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "de7629d04cd8",
-   "title": "NLF har sikret medlemmene billig og kvalifisert hjelp med energikartlegging",
-   "link": "https://lastebil.no/aktuelt/nyheter/2026/nlf-har-sikret-medlemmene-billig-og-kvalifisert-hjelp-med-energikartlegging",
-   "source": "lastebil",
-   "published": "2026-10-27T14:04:49Z",
-   "seen": "2026-10-27T15:52:24Z",
-   "lang": "no",
-   "excerpt": "Avtale med Green Toolbox AS gir medlemsbedriftene en enkel vei til å oppfylle kravene i energikartleggingsforskriften, til en pris langt under det markedet ellers tilbyr.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "96081b3124b2",
-   "title": "Moody’s lifts Danaos outlook to positive",
-   "link": "https://container-news.com/moodys-lifts-danaos-outlook-to-positive/",
-   "source": "containernews",
-   "published": "2026-10-27T13:51:01Z",
-   "seen": "2026-10-27T15:52:24Z",
-   "lang": "en",
-   "excerpt": "Moody’s Ratings has changed the outlook on Danaos Corporation’s Ba1 Corporate Family Rating to positive from stable. The rating agency also upgraded the containership owner’s senior unsecured notes to Ba1 from Ba2.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "liner"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "1cd7da7ce0ab",
-   "title": "Federal guidance on carrier selection not around the corner: TIA’s Burroughs",
-   "link": "https://www.freightwaves.com/news/federal-guidance-on-carrier-selection-not-around-the-corner-tias-burroughs",
-   "source": "freightwaves",
-   "published": "2026-10-27T13:49:47Z",
-   "seen": "2026-10-27T15:52:24Z",
-   "lang": "en",
-   "excerpt": "Chattanooga–The Transportation Intermediaries Association (TIA) was quick out of the box earlier this year after two key court decisions that didn’t favor the brokerage community, asking the federal government for some sort of guidance for …",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "pfa"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "46da706ae0d1",
-   "title": "Fugro wins UXO survey contract for German offshore grid connections",
-   "link": "https://offshore-energy.biz/2026/10/27/fugro-wins-uxo-survey-contract-for-german-offshore-grid-connections",
-   "source": "offshoreenergy",
-   "published": "2026-10-27T13:22:14Z",
-   "seen": "2026-10-27T15:52:24Z",
-   "lang": "en",
-   "excerpt": "Fugro has been awarded a contract by 50Hertz to deliver unexploded ordnance (UXO) survey, identification and clearance services for the LanWin3...",
-   "segments": [
-    "road",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "3c29fd56207a",
-   "title": "Baltic Dry Index falls to 2603 down 25 points",
-   "link": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-2603-down-25-points/",
-   "source": "hsn",
-   "published": "2026-10-27T13:00:42Z",
-   "seen": "2026-10-27T15:52:24Z",
-   "lang": "en",
-   "excerpt": "Today, Tuesday, October 27 2026, the Baltic Dry Index decreased by 25 points, reaching 2603 points. Baltic Dry Index is compiled by the London-based Baltic Exchange and covers prices for transported cargo such as coal, grain and iron ore.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bdi",
-    "baltic-exchange"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "67da2bade9a8",
-   "title": "Hapag-Lloyd updates PSS from Asia and Oceania to South Africa",
-   "link": "https://container-news.com/hapag-lloyd-updates-pss-from-asia-and-oceania-to-south-africa/",
-   "source": "containernews",
-   "published": "2026-10-27T12:50:35Z",
-   "seen": "2026-10-27T12:52:29Z",
-   "lang": "en",
-   "excerpt": "Hapag-Lloyd will update its Peak Season Surcharge (PSS) for shipments from Asia and Oceania to South Africa. The surcharge will apply to cargo loaded on board from 3 November 2026. It will remain in effect until further notice.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a5fe7a404253",
-   "title": "The Biggest Shift In Freight Liability Since Deregulation Is Here, And Few Are Ready For It",
-   "link": "https://www.freightwaves.com/news/the-biggest-shift-in-freight-liability-since-deregulation-is-here-and-few-are-ready-for-it",
-   "source": "freightwaves",
-   "published": "2026-10-27T12:44:00Z",
-   "seen": "2026-10-27T15:52:24Z",
-   "lang": "en",
-   "excerpt": "The way courts decide who is responsible when a contracted truck ends up in a wreck is changing faster than most of the freight industry realizes, and the shift is not about one ruling or one eye-popping dollar figure, it is a whole …",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
    "paywall": false
   }
  ]
