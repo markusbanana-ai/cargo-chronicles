@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T01:10:31Z",
+ "updated": "2026-11-04T03:58:50Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Fiskeri- og havministeren har møte med NHO Logistikk og Transport",
    "link": "https://www.regjeringen.no/no/aktuelt/mote-med-nho-logistikk-og-transport/id3190687/",
    "source": "regjeringen",
-   "published": "2026-11-04T01:10:31Z",
+   "published": "2026-11-04T03:58:50Z",
    "seen": "2026-11-02T10:13:09Z",
    "lang": "no",
    "excerpt": "Fiskeri- og havminister Marianne Sivertsen Næss har møte med NHO Logistikk og Transport.",
@@ -22,12 +22,95 @@
    "upcoming": true
   },
   {
-   "id": "58a0063443bd",
-   "title": "Robotene skal ta seg av skoene hos XXL",
-   "link": "https://www.mtlogistikk.no/autostore-element-logic-xxl/robotene-skal-ta-seg-av-skoene-hos-xxl/1354473",
+   "id": "18b442a15d15",
+   "title": "Multi-year US deal brings liquidity boost to New Fortress Energy as Mexican FLNG targets 4Q restart",
+   "link": "https://offshore-energy.biz/2026/11/04/multi-year-us-deal-brings-liquidity-boost-to-new-fortress-energy-as-mexican-flng-targets-4q-restart",
+   "source": "offshoreenergy",
+   "published": "2026-11-04T03:58:50Z",
+   "seen": "2026-11-04T03:58:50Z",
+   "lang": "en",
+   "excerpt": "NFE has sealed a long-term lease for 300 MW of mobile turbines with a U.S. company, while its FLNG in Mexico edges closer to a Q4 resumption.",
+   "segments": [
+    "finance",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "fsru"
+   ],
+   "paywall": false,
+   "upcoming": true
+  },
+  {
+   "id": "121a599fa5ed",
+   "title": "Vermont Eyes Nova Scotia's Offshore Wind Resources",
+   "link": "https://maritime-executive.com/article/vermont-eyes-nova-scotia-s-offshore-wind-resources",
+   "source": "marex",
+   "published": "2026-11-04T03:17:20Z",
+   "seen": "2026-11-04T03:58:50Z",
+   "lang": "en",
+   "excerpt": "Landlocked Vermont wants access to offshore wind power to diversify its grid supply, but the odds of procuring it from the U.S. Eastern Seaboard are l...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "offshore-wind"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "b3ffc922eb84",
+   "title": "ANNONSØRINNHOLD FOR FABRITIUS Valget som reduserer kostnader og gir vekstmuligheter",
+   "link": "https://www.mtlogistikk.no/eiendom-fabritius-lager/valget-som-reduserer-kostnader-og-gir-vekstmuligheter/1348736",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-04T01:10:31Z",
+   "seen": "2026-11-04T03:13:50Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "abb2afa308b4",
+   "title": "Piraeus container throughput returns to growth in third quarter",
+   "link": "https://container-news.com/piraeus-container-throughput-returns-to-growth-in-third-quarter/",
+   "source": "containernews",
+   "published": "2026-11-04T03:00:16Z",
+   "seen": "2026-11-04T03:58:50Z",
+   "lang": "en",
+   "excerpt": "Container throughput at Pier I of the Port of Piraeus returned to growth during the third quarter of 2026, despite remaining significantly lower across the first nine months of the year.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "26bfda8bc194",
+   "title": "Robotene skal ta seg av skoene hos XXL",
+   "link": "https://www.mtlogistikk.no/autostore-element-logic-lager/robotene-skal-ta-seg-av-skoene-hos-xxl/1354452",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-04T02:28:50Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -674,7 +757,7 @@
   },
   {
    "id": "ee3632857014",
-   "title": "Modular Gun Systems Might Make Drone Strikes Optional",
+   "title": "Modular Gun Systems Might Reduce the Risk of Drone Attacks on Shipping",
    "link": "https://maritime-executive.com/article/modular-gun-systems-might-make-hormuz-drone-damage-optional",
    "source": "marex",
    "published": "2026-11-03T21:45:49Z",
@@ -682,6 +765,7 @@
    "lang": "en",
    "excerpt": "A small handful of shipowners have accepted drone and missile strikes as a cost of doing business on high-revenue, high-risk routes - a recurring haza...",
    "segments": [
+    "freight",
     "insurance"
    ],
    "subs": [],
@@ -725,6 +809,25 @@
    ],
    "policy": false,
    "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c393e39f1b28",
+   "title": "Sikret seg 280 mål til logistikk, industri og havn i Lyngdal",
+   "link": "https://www.mtlogistikk.no/hausvik-naeringsomrade-logistikkhavn-lyngdal-kommune/sikret-seg-280-mal-til-logistikk-industri-og-havn-i-lyngdal/1347107",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-03T20:58:50Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18175,103 +18278,6 @@
     "dual-fuel",
     "lng-carrier",
     "lng"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "7827e5d46346",
-   "title": "HHLA lowers earnings forecast for the 2026 financial year",
-   "link": "https://www.hellenicshippingnews.com/hhla-lowers-earnings-forecast-for-the-2026-financial-year/",
-   "source": "hsn",
-   "published": "2026-10-26T22:00:33Z",
-   "seen": "2026-10-27T00:54:14Z",
-   "lang": "en",
-   "excerpt": "Based on the business development to date and updated estimates for the fourth quarter of 2026, the Executive Board of Hamburger Hafen und Logistik AG (HHLA) made the decision today to adjust its operating result (EBIT) forecast for the …",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "8ef3b5da1d28",
-   "title": "Iron Ore Slides on Weak Steel Mill Profits",
-   "link": "https://www.hellenicshippingnews.com/iron-ore-slides-on-weak-steel-mill-profits/",
-   "source": "hsn",
-   "published": "2026-10-26T22:00:29Z",
-   "seen": "2026-10-27T00:54:14Z",
-   "lang": "en",
-   "excerpt": "Iron ore futures fell toward CNY 670 per ton on Monday, hovering near four-year lows as weakening profitability among Chinese steel mills dampened demand prospects.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "494b88858391",
-   "title": "Port of Riga to test resilient maritime communications under new partnership",
-   "link": "https://container-news.com/port-of-riga-to-test-resilient-maritime-communications-under-new-partnership-2/",
-   "source": "containernews",
-   "published": "2026-10-26T22:00:04Z",
-   "seen": "2026-10-27T00:54:14Z",
-   "lang": "en",
-   "excerpt": "The Port of Riga is set to become a testing environment for resilient maritime communication technologies following a new partnership between port technical services provider LVR Flote and connectivity technology company HARDMODE.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "3dcddc35badb",
-   "title": "Stena Acquires Color Line, Joining Two of Europe’s Largest Ferry Companies",
-   "link": "https://maritime-executive.com/article/stena-acquires-color-line-joining-two-of-europe-s-largest-ferry-companies",
-   "source": "marex",
-   "published": "2026-10-26T21:52:05Z",
-   "seen": "2026-10-27T00:54:14Z",
-   "lang": "en",
-   "excerpt": "Stena, which is already one of the largest ferry operators in Europe, is moving to expand its presence in Scandinavia with the acquisition of Norway’s...",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "ab54d086ac3a",
-   "title": "Indonesia Busts Mongolian-Flagged Tanker for Ketamine Smuggling",
-   "link": "https://maritime-executive.com/article/indonesia-busts-mongolian-flagged-tanker-for-ketamine-smuggling",
-   "source": "marex",
-   "published": "2026-10-26T21:23:05Z",
-   "seen": "2026-10-27T00:54:14Z",
-   "lang": "en",
-   "excerpt": "Authorities in Indonesia have discovered an abundant quantity of ketamine aboard a tanker in the Strait of Malacca, prompting an investigation into it...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
    ],
    "paywall": false
   }
