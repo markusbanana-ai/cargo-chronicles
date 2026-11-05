@@ -1,7 +1,296 @@
 {
- "updated": "2026-11-05T13:17:38Z",
+ "updated": "2026-11-05T16:07:43Z",
  "sample": false,
  "articles": [
+  {
+   "id": "6bff56127c53",
+   "title": "Matson raises outlook as China volumes climb 16%",
+   "link": "https://container-news.com/matson-raises-outlook-as-china-volumes-climb-16/",
+   "source": "containernews",
+   "published": "2026-11-05T16:00:14Z",
+   "seen": "2026-11-05T16:07:43Z",
+   "lang": "en",
+   "excerpt": "Matson reported stronger third-quarter results and raised its full-year outlook, supported by higher volumes and freight rates on its China services.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "23bed933defd",
+   "title": "Kan bli en av Norges største",
+   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356089",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-05T15:52:43Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "2d03366d4fd0",
+   "title": "Fem-tonns dieselkiller fra Jungheinrich",
+   "link": "https://www.mtlogistikk.no/efg-5-elektriske-motvektstrucker-internlogistikk/fem-tonns-dieselkiller-fra-jungheinrich/1356121",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-05T15:37:43Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8b96221f08cf",
+   "title": "Rema sikrer treårig jernbaneavtale",
+   "link": "https://www.mtlogistikk.no/cargonet-dagligvarelogistikk-jernbanetransport/rema-sikrer-trearig-jernbaneavtale/1355727",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-05T15:22:43Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a9e48dce32e7",
+   "title": "US Army enlists FedEx to modernize logistics at depots",
+   "link": "https://www.freightwaves.com/news/us-army-enlists-fedex-to-modernize-logistics-at-depots",
+   "source": "freightwaves",
+   "published": "2026-11-05T15:03:33Z",
+   "seen": "2026-11-05T16:07:43Z",
+   "lang": "en",
+   "excerpt": "FedEx is partnering with the U.S. Army to optimize logistics and delivery for the service’s depots, arsenals and ammunition plants.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6fa2b69a3f1c",
+   "title": "DHL Global Forwarding revenue jumps as ocean freight volumes rise",
+   "link": "https://container-news.com/dhl-global-forwarding-revenue-jumps-as-ocean-freight-volumes-rise/",
+   "source": "containernews",
+   "published": "2026-11-05T15:00:40Z",
+   "seen": "2026-11-05T16:07:43Z",
+   "lang": "en",
+   "excerpt": "DHL Group reported higher revenue and operating profit in the third quarter of 2026, supported by growth in international freight forwarding, express deliveries and contract logistics.",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "forwarder",
+    "3pl"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "b486cc65b56c",
+   "title": "Batteridrevet bulkskip vant Næringslivets klimapris",
+   "link": "https://www.mtlogistikk.no/berge-rederi-elnesvagen-gronn-omstilling/batteridrevet-bulkskip-vant-naeringslivets-klimapris/1355893",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-05T14:37:43Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "e537c118b421",
+   "title": "Velesto’s 2010-built rig finds drilling job with Petronas",
+   "link": "https://www.offshore-energy.biz/2026/11/05/velestos-2010-built-rig-finds-drilling-job-with-petronas",
+   "source": "offshoreenergy",
+   "published": "2026-11-05T14:26:36Z",
+   "seen": "2026-11-05T16:07:43Z",
+   "lang": "en",
+   "excerpt": "Velesto’s 16-year-old jack-up has landed a new offshore drilling assignment with Petronas off the coast of Malaysia.",
+   "segments": [
+    "road",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "rig"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "13d66c0a44eb",
+   "title": "The Hidden Liabilities In Maritime Acquisitions",
+   "link": "https://gcaptain.com/the-hidden-liabilities-in-maritime-acquistions/",
+   "source": "gcaptain",
+   "published": "2026-11-05T14:26:21Z",
+   "seen": "2026-11-05T16:07:43Z",
+   "lang": "en",
+   "excerpt": "What Buyers, Sellers and Investors Often Miss During Due DiligenceBy Sabrina Brigance, CMIP, Managing Director, Marine Practice, Hylant Maritime mergers and acquisitions can create significant opportunities for growth. Private equity...",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "mna"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "e70402296a03",
+   "title": "After Subsea7, Aker BP contracts OneSubsea for Norwegian fast-track oil project",
+   "link": "https://www.offshore-energy.biz/2026/11/05/after-subsea7-aker-bp-contracts-onesubsea-for-norwegian-fast-track-oil-project",
+   "source": "offshoreenergy",
+   "published": "2026-11-05T14:23:30Z",
+   "seen": "2026-11-05T16:07:43Z",
+   "lang": "en",
+   "excerpt": "Shortly after awarding Subsea7 a contract for the project, Aker BP has revealed that OneSubsea, a joint venture backed by SLB, Aker Solutions and...",
+   "segments": [
+    "road",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "d87a93192b4f",
+   "title": "France Extends Maritime Patrol Plane’s Stay in Black Sea After Cargo Ship Attacks",
+   "link": "https://gcaptain.com/france-extends-maritime-patrol-planes-stay-in-black-sea-after-cargo-ship-attacks/",
+   "source": "gcaptain",
+   "published": "2026-11-05T14:09:49Z",
+   "seen": "2026-11-05T16:07:43Z",
+   "lang": "en",
+   "excerpt": "A French maritime patrol aircraft deployed to Romania to bolster surveillance after a series of deadly strikes on merchant ships in the Black Sea on the edge of NATO's eastern flank will extend its stay by several weeks, its commander said …",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "aa3309db7766",
+   "title": "ID Logistics and Terra Robotics plan humanoid robot pilot in Germany",
+   "link": "https://container-news.com/id-logistics-and-terra-robotics-plan-humanoid-robot-pilot-in-germany/",
+   "source": "containernews",
+   "published": "2026-11-05T14:00:36Z",
+   "seen": "2026-11-05T16:07:43Z",
+   "lang": "en",
+   "excerpt": "ID Logistics has partnered with Terra Robotics to explore the use of humanoid robots in warehouse operations, with plans to launch its first pilot under real operating conditions in Germany within six months.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "3f8aff59edb8",
+   "title": "Buying Trucks in a Buyer’s Market: What Owner-Operators Are Weighing Right Now",
+   "link": "https://www.freightwaves.com/news/buying-trucks-in-a-buyers-market-what-owner-operators-are-weighing-right-now",
+   "source": "freightwaves",
+   "published": "2026-11-05T14:00:00Z",
+   "seen": "2026-11-05T16:07:43Z",
+   "lang": "en",
+   "excerpt": "The scramble is over. Carriers and owner-operators who spent the past few years chasing build slots, paying inflated prices for used units and taking whatever iron they could find are now facing a different problem: plenty of options and …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "2ddd5bbdd3fb",
+   "title": "Maersk raises profit outlook as earnings surge, but shares slide on expectations miss",
+   "link": "https://www.freightwaves.com/news/maersk-raises-profit-outlook-as-earnings-surge-but-shares-slide-on-expectations-miss",
+   "source": "freightwaves",
+   "published": "2026-11-05T13:58:32Z",
+   "seen": "2026-11-05T16:07:43Z",
+   "lang": "en",
+   "excerpt": "A.P. Moller-Maersk raised its full-year earnings forecast after higher rates drove a sharp increase in third-quarter profit.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5f6926209b16",
+   "title": "RINA to mobilize up to 83 experts for €11 million contract with Petrobras",
+   "link": "https://www.offshore-energy.biz/2026/11/05/rina-to-mobilize-up-to-83-experts-for-euro11-million-contract-with-petrobras",
+   "source": "offshoreenergy",
+   "published": "2026-11-05T13:33:57Z",
+   "seen": "2026-11-05T16:07:43Z",
+   "lang": "en",
+   "excerpt": "Inspection, certification and consulting engineering group RINA has signed a three-year €11 million contract with Brazilian oil & gas giant...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "class-society"
+   ],
+   "paywall": false
+  },
   {
    "id": "62746d8ca62d",
    "title": "420 millioner kroner til batteribytte og elektriske bulkskip",
@@ -38,6 +327,29 @@
    "policy": false,
    "level": "international",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "3576e478b554",
+   "title": "Baltic Dry Index climbs to 2740 up 46 points",
+   "link": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2740-up-46-points/",
+   "source": "hsn",
+   "published": "2026-11-05T13:00:29Z",
+   "seen": "2026-11-05T16:07:43Z",
+   "lang": "en",
+   "excerpt": "Today, Thursday, November 5 2026, the Baltic Dry Index climbed 46 points, 2740 points. Baltic Dry Index is compiled by the London-based Baltic Exchange and covers prices for transported cargo such as coal, grain and iron ore.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bdi",
+    "baltic-exchange"
+   ],
    "paywall": false
   },
   {
@@ -80,24 +392,6 @@
    "terms": [
     "offshore-wind"
    ],
-   "paywall": false
-  },
-  {
-   "id": "5ae825f6578e",
-   "title": "Rema sikrer treårig jernbaneavtale",
-   "link": "https://www.mtlogistikk.no/cargonet-dagligvarelogistikk-jernbanetransport/rema-sikrer-trearig-jernbaneavtale/1355679",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-05T11:47:38Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -503,6 +797,27 @@
    "terms": [
     "offshore-wind"
    ],
+   "paywall": false
+  },
+  {
+   "id": "3e211476cf78",
+   "title": "Port strike delayed again at Los Angeles, Long Beach ports",
+   "link": "https://www.freightwaves.com/news/port-strike-delayed-again-at-los-angeles-long-beach-ports",
+   "source": "freightwaves",
+   "published": "2026-11-05T11:00:00Z",
+   "seen": "2026-11-05T16:07:43Z",
+   "lang": "en",
+   "excerpt": "The port of Los Angeles and Long Beach delays a possible strike as employers and a longshore union local continue contract talks.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
    "paywall": false
   },
   {
@@ -17968,317 +18283,6 @@
    "terms": [
     "rig"
    ],
-   "paywall": false
-  },
-  {
-   "id": "e498108d8aee",
-   "title": "The Companies That Write The Standards Will Own The Next Decade Of Freight",
-   "link": "https://www.freightwaves.com/news/the-companies-that-write-the-standards-will-own-the-next-decade-of-freight",
-   "source": "freightwaves",
-   "published": "2026-10-28T12:18:19Z",
-   "seen": "2026-10-28T13:01:46Z",
-   "lang": "en",
-   "excerpt": "The freight industry has spent years and real money chasing fraud, piling up more tracking, more data, and more awareness than it has ever had, and the losses keep climbing anyway, which is the paradox Michael Caney, Chief Customer Officer …",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "c82e16eac45f",
-   "title": "Baker Hughes' subsea systems to help fast-track Cyprus's first commercial gas project",
-   "link": "https://offshore-energy.biz/2026/10/28/baker-hughes-subsea-systems-to-help-fast-track-cypruss-first-commercial-gas-project",
-   "source": "offshoreenergy",
-   "published": "2026-10-28T12:14:20Z",
-   "seen": "2026-10-28T13:01:46Z",
-   "lang": "en",
-   "excerpt": "Baker Hughes has been awarded a contract by Italy’s energy giant Eni for the supply of subsea production systems and services for Cyprus's...",
-   "segments": [
-    "road",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "7a6dddf458bb",
-   "title": "Greenbrier profit falls as railcar demand weighs on sales",
-   "link": "https://www.freightwaves.com/news/greenbrier-profit-falls-as-railcar-demand-weighs-on-sales",
-   "source": "freightwaves",
-   "published": "2026-10-28T11:16:00Z",
-   "seen": "2026-10-28T18:55:53Z",
-   "lang": "en",
-   "excerpt": "Greenbrier’s fiscal fourth-quarter profit tumbled though outlook for orders and leasing growth improved.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "1a67042c8822",
-   "title": "MMI Daily Iron Ore Index Report October 28 2026",
-   "link": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-october-28-2026/",
-   "source": "hsn",
-   "published": "2026-10-28T11:00:28Z",
-   "seen": "2026-10-29T09:56:42Z",
-   "lang": "en",
-   "excerpt": "Prices recovered today alongside marginal improvement in production. DCE most-traded closed at 672.0 yuan/mt, up 1.20%, and mainstream Qingdao brands rose 5–6 yuan/wmt.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "da15c9b9fe99",
-   "title": "Jacobs, RXO’s creator, backs its acquisition by C.H. Robinson",
-   "link": "https://www.freightwaves.com/news/jacobs-rxos-creator-backs-its-acquisition-by-c-h-robinson",
-   "source": "freightwaves",
-   "published": "2026-10-28T11:00:00Z",
-   "seen": "2026-10-28T13:01:46Z",
-   "lang": "en",
-   "excerpt": "Chattanooga–The man who created RXO gave his public support to the 3PL’s acquisition by C.H. Robinson, saying you need “scale and density” to make it in the brokerage world.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "3pl"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "dcee3df816ac",
-   "title": "Norway lines up full-scale test of marine nuclear propulsion system",
-   "link": "https://splash247.com/norway-lines-up-full-scale-test-of-marine-nuclear-propulsion-system/",
-   "source": "splash",
-   "published": "2026-10-28T10:30:00Z",
-   "seen": "2026-10-28T13:01:46Z",
-   "lang": "en",
-   "excerpt": "A Norwegian-led consortium involving shipbuilder Vard and offshore vessel owner Island Offshore is preparing to build and test an integrated nuclear propulsion system, targeting its first vessel deployment in 2031 or 2032.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "1bdb47e7b2b7",
-   "title": "Sintana cuts early payout deal to tie up loose ends for Trinidad exit",
-   "link": "https://offshore-energy.biz/2026/10/28/sintana-cuts-early-payout-deal-to-tie-up-loose-ends-for-trinidad-exit",
-   "source": "offshoreenergy",
-   "published": "2026-10-28T10:08:06Z",
-   "seen": "2026-10-28T13:01:46Z",
-   "lang": "en",
-   "excerpt": "Sintana is putting finishing touches on its departure from the Caribbean by accelerating deferred cash payments for the sale of its Trinidad business.",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "b405c0b757f0",
-   "title": "Europe’s container ports: Why is transshipment falling while gateway traffic grows?",
-   "link": "https://container-news.com/europes-container-ports-why-is-transshipment-falling-while-gateway-traffic-grows/",
-   "source": "containernews",
-   "published": "2026-10-28T10:00:59Z",
-   "seen": "2026-10-28T13:01:46Z",
-   "lang": "en",
-   "excerpt": "Europe’s major container ports are reporting increasingly contrasting traffic patterns in 2026, with headline throughput figures concealing significant changes in the composition of cargo flows.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "transshipment"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "c33121b8a172",
-   "title": "South Korean shipyard set for offshore wind makeover",
-   "link": "https://splash247.com/south-korean-shipyard-set-for-offshore-wind-makeover/",
-   "source": "splash",
-   "published": "2026-10-28T10:00:00Z",
-   "seen": "2026-10-28T13:01:46Z",
-   "lang": "en",
-   "excerpt": "Four South Korean companies have signed an agreement to transform part of the Gunsan shipyard into an offshore wind manufacturing hub, with plans to produce large turbines, towers and offshore substations.",
-   "segments": [
-    "freight",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "offshore-wind"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "489e8cf74116",
-   "title": "Woodside exits delayed Timor-Leste gas project",
-   "link": "https://splash247.com/woodside-exits-delayed-timor-leste-gas-project/",
-   "source": "splash",
-   "published": "2026-10-28T09:38:00Z",
-   "seen": "2026-10-28T09:55:14Z",
-   "lang": "en",
-   "excerpt": "Australian energy major Woodside has agreed to sell its entire 33.44% stake in the long-delayed Greater Sunrise gas development to Timor-Leste’s state-owned energy company TIMOR GAP for up to $200m.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "cd9ef2260cfa",
-   "title": "Saudi Tanker Giant Posts 10-Fold Profit Jump as Ship Rates Surge",
-   "link": "https://gcaptain.com/saudi-tanker-giant-posts-10-fold-profit-jump-as-ship-rates-surge/",
-   "source": "gcaptain",
-   "published": "2026-10-28T09:27:13Z",
-   "seen": "2026-10-28T13:01:46Z",
-   "lang": "en",
-   "excerpt": "Saudi Arabia’s main shipping firm Bahri reported a 10-fold jump in third-quarter profit as its oil tanker business benefited from surging freight rates amid the Iran war.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "38c10bad96d1",
-   "title": "New gas pay for Chevron in Mediterranean waters",
-   "link": "https://offshore-energy.biz/2026/10/28/new-gas-pay-for-chevron-in-mediterranean-waters",
-   "source": "offshoreenergy",
-   "published": "2026-10-28T08:58:40Z",
-   "seen": "2026-10-28T09:55:14Z",
-   "lang": "en",
-   "excerpt": "Chevron’s drilling activities in the Mediterranean have uncovered another gas-bearing interval, extending reservoirs initially discovered in 2022.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "39d5ce0c6605",
-   "title": "DeepOcean to employ recently upgraded subsea vessel offshore Ghana",
-   "link": "https://offshore-energy.biz/2026/10/28/deepocean-to-employ-recently-upgraded-subsea-vessel-offshore-ghana",
-   "source": "offshoreenergy",
-   "published": "2026-10-28T08:49:49Z",
-   "seen": "2026-10-28T09:55:14Z",
-   "lang": "en",
-   "excerpt": "DeepOcean has secured a contract with Tullow Ghana Ltd, a subsidiary of the UK-headquartered Tullow Oil, for a riser retermination project in...",
-   "segments": [
-    "road",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a3315e3a3113",
-   "title": "Ingen skam i å prøve og feile",
-   "link": "https://www.mtlogistikk.no/autonome-skip-elektrisk-transport-maritim-teknologi/ingen-skam-i-a-prove-og-feile/1349816",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-28T08:40:14Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "34dac7ec6a36",
-   "title": "Containership orderbook heads towards 16m teu",
-   "link": "https://splash247.com/containership-orderbook-heads-towards-16m-teu/",
-   "source": "splash",
-   "published": "2026-10-28T08:30:28Z",
-   "seen": "2026-10-28T09:55:14Z",
-   "lang": "en",
-   "excerpt": "The containership industry’s extraordinary ordering spree is showing no signs of slowing, with the global orderbook now exceeding 15m teu and another wave of megamax contracts poised to push the total towards 16m teu before the end of the …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "liner",
-    "orderbook"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "1333652598db",
-   "title": "Ønsker bud på Marit og Therese",
-   "link": "https://www.mtlogistikk.no/asko-maritime-autonome-fartoy-mosshorten/onsker-bud-pa-marit-og-therese/1350020",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-28T08:25:14Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   }
  ]
