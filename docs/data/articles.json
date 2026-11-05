@@ -1,7 +1,275 @@
 {
- "updated": "2026-11-05T16:07:43Z",
+ "updated": "2026-11-05T19:00:50Z",
  "sample": false,
  "articles": [
+  {
+   "id": "3e2c74513d92",
+   "title": "Kongsberg Maritime Unveils New Logo and Tagline",
+   "link": "https://maritime-executive.com/article/kongsberg-maritime-unveils-new-logo-and-tagline",
+   "source": "marex",
+   "published": "2026-11-05T19:47:06Z",
+   "seen": "2026-11-05T19:00:50Z",
+   "lang": "en",
+   "excerpt": "Kongsberg Maritime has unveiled its new logo and tagline, ‘Beyond begins here’. This is the company’s first independent visual identity following its...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4925c4b17333",
+   "title": "Iran Attacks IMO Over its Seafarer Safety Advocacy",
+   "link": "https://maritime-executive.com/article/iran-attacks-imo-for-its-seafarer-safety-advocacy",
+   "source": "marex",
+   "published": "2026-11-05T19:28:35Z",
+   "seen": "2026-11-05T19:00:50Z",
+   "lang": "en",
+   "excerpt": "Iran has criticized the International Maritime Organisation (IMO), with its Permanent Representative to London complaining that the organization ignor...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "imo"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "59c259687c56",
+   "title": "ClassNK endorses CYTUR shipboard cybersecurity management platform",
+   "link": "https://container-news.com/classnk-endorses-cytur-shipboard-cybersecurity-management-platform/",
+   "source": "containernews",
+   "published": "2026-11-05T19:00:35Z",
+   "seen": "2026-11-05T19:00:50Z",
+   "lang": "en",
+   "excerpt": "ClassNK has granted its Innovation Endorsement for Products & Solutions to CYTUR-SBOM, a cybersecurity management platform developed by CYTUR for shipboard computer-based systems.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "class-society"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "8e58948e59bc",
+   "title": "STB orders Union Pacific to make alleged rate hike threat video public",
+   "link": "https://www.freightwaves.com/news/stb-orders-union-pacific-to-make-rate-hike-threat-video-public",
+   "source": "freightwaves",
+   "published": "2026-11-05T18:35:09Z",
+   "seen": "2026-11-05T19:00:50Z",
+   "lang": "en",
+   "excerpt": "Rail regulator rejects railroad’s appeal in dispute over remarks allegedly threatening shippers opposed to Norfolk Southern merger.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "shipper-consignee",
+    "mna"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "d13dcf69eb07",
+   "title": "India joins ISF Verify initiative for digital seafarer certification",
+   "link": "https://container-news.com/india-joins-isf-verify-initiative-for-digital-seafarer-certification/",
+   "source": "containernews",
+   "published": "2026-11-05T18:00:43Z",
+   "seen": "2026-11-05T19:00:50Z",
+   "lang": "en",
+   "excerpt": "India has joined the ISF Verify initiative, marking a significant step towards the wider adoption of digital seafarer certification across the global shipping industry.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "137c5833cbd8",
+   "title": "Behind The Capitol Christmas Tree Is A Kenworth, Four Drivers, And A 2,000 Mile Haul Only Trucking Can Pull Off",
+   "link": "https://www.freightwaves.com/news/behind-the-capitol-christmas-tree-is-a-kenworth-four-drivers-and-a-2000-mile-haul-only-trucking-can-pull-off",
+   "source": "freightwaves",
+   "published": "2026-11-05T17:50:28Z",
+   "seen": "2026-11-05T19:00:50Z",
+   "lang": "en",
+   "excerpt": "Every December a towering evergreen rises on the West Lawn of the U.S. Capitol and gets called the People’s Tree, but before a child from its home state flips the switch to light it, the tree has to survive something most of the public …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ee873e6d2b7d",
+   "title": "Harbinger raises $240M to expand EV platform beyond trucks",
+   "link": "https://www.freightwaves.com/news/harbinger-240m-series-d-funding",
+   "source": "freightwaves",
+   "published": "2026-11-05T17:49:10Z",
+   "seen": "2026-11-05T19:00:50Z",
+   "lang": "en",
+   "excerpt": "The Garden Grove, California, company has raised more than $650 million since 2021. FedEx and THOR Industries participated as strategic investors in the new round",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5ae825f6578e",
+   "title": "Rema sikrer treårig jernbaneavtale",
+   "link": "https://www.mtlogistikk.no/cargonet-dagligvarelogistikk-jernbanetransport/rema-sikrer-trearig-jernbaneavtale/1355679",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-05T17:15:50Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4de25701958c",
+   "title": "Humble Robotics raises $51M for cabless hauler pilots",
+   "link": "https://www.freightwaves.com/news/humble-robotics-51m-series-a-cabless-hauler",
+   "source": "freightwaves",
+   "published": "2026-11-05T17:05:13Z",
+   "seen": "2026-11-05T19:00:50Z",
+   "lang": "en",
+   "excerpt": "Humble Robotics raised a $51 million Series A to push its cabless, electric Humble Hauler into customer pilots, testing and early manufacturing for dock-to-dock freight.",
+   "segments": [
+    "road",
+    "freight",
+    "offshore"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "206cde71b541",
+   "title": "Navios Partners triples quarterly profit and expands boxship backlog",
+   "link": "https://container-news.com/navios-partners-triples-quarterly-profit-and-expands-boxship-backlog/",
+   "source": "containernews",
+   "published": "2026-11-05T17:00:29Z",
+   "seen": "2026-11-05T19:00:50Z",
+   "lang": "en",
+   "excerpt": "Navios Maritime Partners reported a sharp rise in third-quarter earnings as the shipowner expanded its containership orderbook and secured additional long-term charter revenue.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner",
+    "backlog",
+    "orderbook"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "be7573276462",
+   "title": "IMO Backs Dominguez for Second Term Amid Shipping Attacks and Climate Deadlock",
+   "link": "https://gcaptain.com/imo-backs-dominguez-for-second-term-amid-shipping-attacks-and-climate-deadlock/",
+   "source": "gcaptain",
+   "published": "2026-11-05T16:56:28Z",
+   "seen": "2026-11-05T19:00:50Z",
+   "lang": "en",
+   "excerpt": "The International Maritime Organization (IMO) Council has backed Secretary-General Arsenio Dominguez for a second four-year term, extending its support for his leadership despite the organization’s failure to adopt its landmark...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "imo"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "0809da6ccb40",
+   "title": "RINA & Petrobras €11M Contract for Subsea Engineering & Decommissioning",
+   "link": "https://maritime-executive.com/article/rina-petrobras-11m-contract-for-subsea-engineering-decommissioning",
+   "source": "marex",
+   "published": "2026-11-05T16:52:01Z",
+   "seen": "2026-11-05T19:00:50Z",
+   "lang": "en",
+   "excerpt": "RINA, the global inspection, certification and consulting engineering multinational group, has signed a three-year €11 million contract with Petrobras...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "class-society",
+    "decommissioning"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "c5985c8428d0",
+   "title": "Maersk’s 26-Ship LNG Order Adds Nearly Half a Million TEU to Newbuilding Pipeline",
+   "link": "https://gcaptain.com/maersks-26-ship-lng-order-adds-nearly-half-a-million-teu-to-newbuilding-pipeline/",
+   "source": "gcaptain",
+   "published": "2026-11-05T16:25:45Z",
+   "seen": "2026-11-05T19:00:50Z",
+   "lang": "en",
+   "excerpt": "A.P. Moller-Maersk is pressing ahead with one of its largest containership ordering programs in years, confirming in its third-quarter earnings report that it has ordered 26 LNG dual-fuel vessels with...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers",
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lng",
+    "teu",
+    "newbuilding",
+    "liner",
+    "dual-fuel"
+   ],
+   "paywall": false
+  },
   {
    "id": "6bff56127c53",
    "title": "Matson raises outlook as China volumes climb 16%",
@@ -42,30 +310,36 @@
    "paywall": false
   },
   {
+   "id": "0650a7deb615",
+   "title": "Excelerate and AxDo strike multi-year Bahamas LNG deal for Caribbean’s new terminal",
+   "link": "https://www.offshore-energy.biz/2026/11/05/excelerate-and-axdo-strike-multi-year-bahamas-lng-deal-for-caribbeans-new-terminal",
+   "source": "offshoreenergy",
+   "published": "2026-11-05T15:52:21Z",
+   "seen": "2026-11-05T19:00:50Z",
+   "lang": "en",
+   "excerpt": "Excelerate Energy and AxDo Bahamas have sealed an 11-year LNG supply agreement for a new offshore hub near Grand Bahama.",
+   "segments": [
+    "road",
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lng"
+   ],
+   "paywall": false
+  },
+  {
    "id": "2d03366d4fd0",
    "title": "Fem-tonns dieselkiller fra Jungheinrich",
    "link": "https://www.mtlogistikk.no/efg-5-elektriske-motvektstrucker-internlogistikk/fem-tonns-dieselkiller-fra-jungheinrich/1356121",
    "source": "mtlogistikk",
    "published": null,
    "seen": "2026-11-05T15:37:43Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "8b96221f08cf",
-   "title": "Rema sikrer treårig jernbaneavtale",
-   "link": "https://www.mtlogistikk.no/cargonet-dagligvarelogistikk-jernbanetransport/rema-sikrer-trearig-jernbaneavtale/1355727",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-05T15:22:43Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -350,6 +624,25 @@
     "bdi",
     "baltic-exchange"
    ],
+   "paywall": false
+  },
+  {
+   "id": "f8acc030acdd",
+   "title": "Americold raises full-year outlook as warehouse performance improves",
+   "link": "https://www.freightwaves.com/news/americold-raises-full-year-outlook-as-warehouse-performance-improves",
+   "source": "freightwaves",
+   "published": "2026-11-05T13:00:00Z",
+   "seen": "2026-11-05T19:00:50Z",
+   "lang": "en",
+   "excerpt": "Americold Realty Trust raised its full-year earnings outlook Thursday after reporting higher third-quarter revenue.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
    "paywall": false
   },
   {
@@ -17989,300 +18282,6 @@
    "policy": false,
    "level": "international",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "f599549d5f50",
-   "title": "F3: FreightWaves announces Shipper of Choice winners",
-   "link": "https://www.freightwaves.com/news/f3-freightwaves-announces-shipper-of-choice-winners",
-   "source": "freightwaves",
-   "published": "2026-10-28T15:31:42Z",
-   "seen": "2026-10-28T18:55:53Z",
-   "lang": "en",
-   "excerpt": "FreightWaves named 10 Shipper of Choice award winners at the F3: Future of Freight Festival, recognizing companies for their carrier relationships, operational efficiency and shipping practices.",
-   "segments": [
-    "road",
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "shipper-consignee"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "ba0c4f671ba4",
-   "title": "Stolen shoes on eBay lead police to $1 million in missing BNSF train cargo",
-   "link": "https://www.freightwaves.com/news/stolen-shoes-on-ebay-lead-police-to-1-million-in-missing-bnsf-train-cargo",
-   "source": "freightwaves",
-   "published": "2026-10-28T15:02:31Z",
-   "seen": "2026-10-28T15:57:29Z",
-   "lang": "en",
-   "excerpt": "An eBay listing for stolen shoes exposed a $1 million cargo recovery in Los Angeles. Investigators arrested the business owner, but questions remain about where the merchandise originated.",
-   "segments": [
-    "road",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lou"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "a6646aa028a7",
-   "title": "FMCSA removes 10,000-plus driver training providers amid safety push",
-   "link": "https://www.freightwaves.com/news/fmcsa-removes-10000-plus-driver-training-providers-amid-safety-push",
-   "source": "freightwaves",
-   "published": "2026-10-28T14:36:44Z",
-   "seen": "2026-10-28T15:57:29Z",
-   "lang": "en",
-   "excerpt": "The Federal Motor Carrier Safety Administration has removed more than 10,000 training providers from its registry since December 2025, officials said.",
-   "segments": [
-    "road",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "90dd9b72bcc4",
-   "title": "First-of-its-kind marine robotics test and development center opens in Norway",
-   "link": "https://offshore-energy.biz/2026/10/28/first-of-its-kind-marine-robotics-test-and-development-center-opens-in-norway",
-   "source": "offshoreenergy",
-   "published": "2026-10-28T14:21:42Z",
-   "seen": "2026-10-28T15:57:29Z",
-   "lang": "en",
-   "excerpt": "Equinor has opened a new, dedicated facility in Norway for the testing, qualification and development of marine robotic technologies, such as...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "c72dff2902e3",
-   "title": "Russia To Begin Year-Round Arctic Northern Sea Route Shipping in Early 2027",
-   "link": "https://gcaptain.com/russia-to-begin-year-round-arctic-northern-sea-route-shipping-in-early-2027/",
-   "source": "gcaptain",
-   "published": "2026-10-28T14:07:56Z",
-   "seen": "2026-10-28T13:01:46Z",
-   "lang": "en",
-   "excerpt": "Russia expects to begin regular year-round eastbound shipping along the Northern Sea Route in early 2027, as additional nuclear icebreaker capacity, newer ice-class LNG carriers and pressure to redirect energy exports toward Asia bring the …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng-carrier"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "ae5844daa6cb",
-   "title": "Drones Hit Container Ship off Bulgaria, Crew Safe and Ashore",
-   "link": "https://gcaptain.com/drones-hit-container-ship-off-bulgaria-crew-safe-and-ashore/",
-   "source": "gcaptain",
-   "published": "2026-10-28T14:05:00Z",
-   "seen": "2026-10-28T15:57:29Z",
-   "lang": "en",
-   "excerpt": "Sea drones struck a container ship off Bulgaria's Black Sea coast on Wednesday, the ship's owner and the government said, the latest in a string of attacks that have raised concerns about the growing scope of Russia's war in Ukraine.",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "liner"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "e15bcbdf43f0",
-   "title": "Backlog grows as 35,000 containers await rail service at LA–Long Beach",
-   "link": "https://www.freightwaves.com/news/backlog-grows-as-35000-containers-await-rail-service-at-la-long-beach",
-   "source": "freightwaves",
-   "published": "2026-10-28T14:01:08Z",
-   "seen": "2026-10-28T15:57:29Z",
-   "lang": "en",
-   "excerpt": "Nearly 35,700 import containers were waiting for on-dock trains at the ports of Los Angeles and Long Beach, as record cargo volumes, reported railcar shortages slowed inland traffic.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "backlog"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "d43fc5a98393",
-   "title": "Diesel prices may stay elevated into spring 2027, fuel executives warn",
-   "link": "https://www.freightwaves.com/news/diesel-prices-may-stay-elevated-into-spring-2027-fuel-executives-warn",
-   "source": "freightwaves",
-   "published": "2026-10-28T13:30:00Z",
-   "seen": "2026-10-28T15:57:29Z",
-   "lang": "en",
-   "excerpt": "Energy and truck stop executives said limited refining and pipeline capacity could leave U.S. trucking fleets vulnerable to higher diesel prices in 2027.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "rest-area"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "7319e1684f5e",
-   "title": "Forward Air saves ‘significant portion’ of major customer account",
-   "link": "https://www.freightwaves.com/news/forward-air-saves-significant-portion-of-major-customer-account",
-   "source": "freightwaves",
-   "published": "2026-10-28T13:29:49Z",
-   "seen": "2026-10-28T15:57:29Z",
-   "lang": "en",
-   "excerpt": "Forward Air has finalized a two-year deal to preserve a major share of the business from a contract logistics customer it had earlier warned it could lose.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "3pl"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "9ec30d6b3e1c",
-   "title": "Strike threat by port security workers at Los Angeles–Long Beach",
-   "link": "https://www.freightwaves.com/news/strike-threat-by-port-security-workers-at-los-angeles-long-beach",
-   "source": "freightwaves",
-   "published": "2026-10-28T13:23:00Z",
-   "seen": "2026-10-28T18:55:53Z",
-   "lang": "en",
-   "excerpt": "About 250 security workers could walk out Nov. 1, potentially disrupting terminals at the busiest U.S. port complex.",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "615a47b60681",
-   "title": "CMA CGM announces new Asia-Africa surcharges for November",
-   "link": "https://container-news.com/cma-cgm-announces-new-asia-africa-surcharges-for-november/",
-   "source": "containernews",
-   "published": "2026-10-28T13:00:11Z",
-   "seen": "2026-10-28T13:01:46Z",
-   "lang": "en",
-   "excerpt": "CMA CGM has announced a series of Peak Season Surcharge (PSS) updates covering shipments from Asia to several African destinations, with charges reaching US$900 per TEU on selected routes from China to West Africa.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "teu"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "f76a57c6596b",
-   "title": "Germany’s SEFE firms up two-decade-long offtake deal with Canadian LNG project",
-   "link": "https://offshore-energy.biz/2026/10/28/germanys-sefe-firms-up-two-decade-long-offtake-deal-with-canadian-lng-project",
-   "source": "offshoreenergy",
-   "published": "2026-10-28T12:59:12Z",
-   "seen": "2026-10-28T15:57:29Z",
-   "lang": "en",
-   "excerpt": "A binding 20-year agreement has enabled Germany’s SEFE to secure 1 mtpa of Canadian LNG starting in the early 2030s.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "b161195133a8",
-   "title": "First look: almost all good news at C.H. Robinson in the third quarter",
-   "link": "https://www.freightwaves.com/news/frst-look-almost-all-good-news-at-c-h-robinson-in-the-third-quarter",
-   "source": "freightwaves",
-   "published": "2026-10-28T12:35:19Z",
-   "seen": "2026-10-28T13:01:46Z",
-   "lang": "en",
-   "excerpt": "The third quarter at C.H. Robinson might be remembered for both the highs and the lows. It was the period when Lipe vs. Lupus Superior came down, and just days after the quarter ended, the giant 3PL announced the almost $6 billion …",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "3pl"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "72ce0474f624",
-   "title": "Noble offloads idle drillship for $38m",
-   "link": "https://splash247.com/noble-offloads-idle-drillship-for-38m/",
-   "source": "splash",
-   "published": "2026-10-28T12:31:29Z",
-   "seen": "2026-10-28T13:01:46Z",
-   "lang": "en",
-   "excerpt": "US offshore drilling contractor Noble Corporation has agreed to sell its 2013-built, sixth-generation drillship, Noble Globetrotter II, for $38m as it continues to dispose of underutilised drilling assets.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "rig"
-   ],
    "paywall": false
   }
  ]
