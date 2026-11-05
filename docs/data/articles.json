@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T01:11:54Z",
+ "updated": "2026-11-05T03:59:47Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Fiskeri- og havministeren har møte med NHO Logistikk og Transport",
    "link": "https://www.regjeringen.no/no/aktuelt/mote-med-nho-logistikk-og-transport/id3190687/",
    "source": "regjeringen",
-   "published": "2026-11-05T01:11:54Z",
+   "published": "2026-11-05T03:59:47Z",
    "seen": "2026-11-02T10:13:09Z",
    "lang": "no",
    "excerpt": "Fiskeri- og havminister Marianne Sivertsen Næss har møte med NHO Logistikk og Transport.",
@@ -20,6 +20,27 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "1da4d46363f9",
+   "title": "Why carriers and ports are investing in terminals, inland links and smaller ships",
+   "link": "https://container-news.com/why-carriers-and-ports-are-investing-in-terminals-inland-links-and-smaller-ships/",
+   "source": "containernews",
+   "published": "2026-11-05T02:41:41Z",
+   "seen": "2026-11-05T03:59:47Z",
+   "lang": "en",
+   "excerpt": "For most of the container age, shipping’s investment decisions rested on a simple assumption: the shortest route would stay open. That assumption has gone.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
   },
   {
    "id": "58a0063443bd",
@@ -120,6 +141,42 @@
    "source": "mtlogistikk",
    "published": null,
    "seen": "2026-11-04T23:26:54Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "506de5f7c846",
+   "title": "Bodø-terminalen nærmer seg overtakelse",
+   "link": "https://www.mtlogistikk.no/bodo-bodo-havn-intermodal/bodo-terminalen-naermer-seg-overtakelse/1341807",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-04T22:59:47Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5ff70a28f29f",
+   "title": "Kinesisk lastebil får norsk importør",
+   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-holtan-holtan-bil/kinesisk-lastebil-far-norsk-importor/1239948",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-04T22:44:47Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -18212,62 +18269,6 @@
    ],
    "subs": [],
    "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "59ce408c6dde",
-   "title": "Trump Administration Awards $498 Million for U.S. Port Upgrades, Below Recent Funding Levels",
-   "link": "https://gcaptain.com/trump-administration-awards-498-million-for-u-s-port-upgrades-below-recent-funding-levels/",
-   "source": "gcaptain",
-   "published": "2026-10-27T19:35:58Z",
-   "seen": "2026-10-27T21:42:24Z",
-   "lang": "en",
-   "excerpt": "The Trump administration announced $498 million in federal grants Tuesday to modernize U.S. ports, funding 35 projects across 19 states ranging from aging dock replacements and cargo-handling equipment to fuel...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a8005a68dc4e",
-   "title": "Mexico truckers reach deal for talks after strike disrupts 19 states",
-   "link": "https://www.freightwaves.com/news/mexico-truckers-reach-deal-for-talks-after-strike-disrupts-19-states",
-   "source": "freightwaves",
-   "published": "2026-10-27T19:17:32Z",
-   "seen": "2026-10-27T21:42:24Z",
-   "lang": "en",
-   "excerpt": "Trucking organizations in Mexico have agreed to four negotiating sessions with federal officials after a nationwide strike disrupted highways and threatened freight movements across the country.",
-   "segments": [
-    "road",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "6f8c967a31a6",
-   "title": "EVI introduces AI safety camera mode to protect seafarer privacy",
-   "link": "https://container-news.com/evi-introduces-ai-safety-camera-mode-to-protect-seafarer-privacy/",
-   "source": "containernews",
-   "published": "2026-10-27T19:00:36Z",
-   "seen": "2026-10-27T21:42:24Z",
-   "lang": "en",
-   "excerpt": "EVI Safety Technology has launched Crew-First Mode, a new feature for its AI-powered onboard camera system. The technology aims to improve maritime safety while giving seafarers greater protection against routine remote monitoring.",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
    "level": "international",
    "terms": [],
    "paywall": false
