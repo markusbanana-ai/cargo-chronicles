@@ -1,13 +1,164 @@
 {
- "updated": "2026-11-05T07:25:56Z",
+ "updated": "2026-11-05T10:11:23Z",
  "sample": false,
  "articles": [
+  {
+   "id": "8b96221f08cf",
+   "title": "Rema sikrer treårig jernbaneavtale",
+   "link": "https://www.mtlogistikk.no/cargonet-dagligvarelogistikk-jernbanetransport/rema-sikrer-trearig-jernbaneavtale/1355727",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-05T10:11:23Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c2f9c7825e3c",
+   "title": "PIL orders seven methanol-ready feeder containerships in China",
+   "link": "https://container-news.com/pil-orders-seven-methanol-ready-feeder-containerships-in-china/",
+   "source": "containernews",
+   "published": "2026-11-05T10:00:40Z",
+   "seen": "2026-11-05T10:11:23Z",
+   "lang": "en",
+   "excerpt": "Pacific International Lines (PIL) has ordered seven new methanol-ready feeder containerships from Huanghai Shipbuilding in China, as part of its fleet renewal and expansion programme.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dual-fuel",
+    "transshipment",
+    "liner",
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "0c0f819aebf7",
+   "title": "Odfjell locks in two more tanker newbuilds for 2029",
+   "link": "https://splash247.com/odfjell-locks-in-two-more-tanker-newbuilds-for-2029/",
+   "source": "splash",
+   "published": "2026-11-05T10:00:00Z",
+   "seen": "2026-11-05T10:11:23Z",
+   "lang": "en",
+   "excerpt": "Norwegian chemical tanker owner Odfjell has lined up another two 40,000 dwt stainless steel newbuildings in Japan, extending its fleet renewal programme with additional long-term charter commitments.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "local",
+   "terms": [
+    "newbuilding",
+    "dwt"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "09cac1c1838d",
+   "title": "Fugro wins survey contract at UK offshore wind project",
+   "link": "https://splash247.com/fugro-wins-survey-contract-at-uk-offshore-wind-project/",
+   "source": "splash",
+   "published": "2026-11-05T09:45:00Z",
+   "seen": "2026-11-05T10:11:23Z",
+   "lang": "en",
+   "excerpt": "Dutch geo-data specialist Fugro has secured a contract from Danish offshore wind contractor Cadeler to carry out post-installation seabed surveys at the 960MW East Anglia Two offshore wind farm in the UK North Sea.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "offshore-wind"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "dba0f2019baa",
+   "title": "Ny merketeknologi skal kutte emballasjekostnader og etikettavfall",
+   "link": "https://www.mtlogistikk.no/act-logimark-blekkstraleskriver-emballasjemerking/ny-merketeknologi-skal-kutte-emballasjekostnader-og-etikettavfall/1355748",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-05T09:41:23Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4c74a9e7cff7",
+   "title": "Klaveness Combination Carriers clinches record-rate three-year tanker charter",
+   "link": "https://splash247.com/klaveness-combination-carriers-clinches-record-rate-three-year-tanker-charter/",
+   "source": "splash",
+   "published": "2026-11-05T09:29:00Z",
+   "seen": "2026-11-05T10:11:23Z",
+   "lang": "en",
+   "excerpt": "Norwegian shipowner Klaveness Combination Carriers (KCC) has secured a three-year time charter for one of its Cleanbu combination carriers, locking in a new contract as product tanker earnings remain exceptionally strong.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "time-charter",
+    "product-tanker"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "a7fc645ca6cf",
+   "title": "Maersk raises 2026 guidance as Ocean earnings surge in third quarter",
+   "link": "https://container-news.com/maersk-raises-2026-guidance-as-ocean-earnings-surge-in-third-quarter/",
+   "source": "containernews",
+   "published": "2026-11-05T09:00:05Z",
+   "seen": "2026-11-05T10:11:23Z",
+   "lang": "en",
+   "excerpt": "Maersk has raised its full-year 2026 earnings guidance following a strong third quarter, driven by higher ocean freight rates and continued supply chain disruptions that limited available shipping capacity.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ebitda"
+   ],
+   "paywall": false
+  },
   {
    "id": "0d5853fdc164",
    "title": "Fiskeri- og havministeren har møte med NHO Logistikk og Transport",
    "link": "https://www.regjeringen.no/no/aktuelt/mote-med-nho-logistikk-og-transport/id3190687/",
    "source": "regjeringen",
-   "published": "2026-11-05T07:25:56Z",
+   "published": "2026-11-05T09:00:00Z",
    "seen": "2026-11-02T10:13:09Z",
    "lang": "no",
    "excerpt": "Fiskeri- og havminister Marianne Sivertsen Næss har møte med NHO Logistikk og Transport.",
@@ -18,8 +169,172 @@
    "policy": false,
    "level": "national",
    "terms": [],
-   "paywall": false,
-   "upcoming": true
+   "paywall": false
+  },
+  {
+   "id": "fce5fda74e45",
+   "title": "Transpacific emerges as liner shipping’s golden trade",
+   "link": "https://splash247.com/transpacific-emerges-as-liner-shippings-golden-trade/",
+   "source": "splash",
+   "published": "2026-11-05T08:45:00Z",
+   "seen": "2026-11-04T21:55:03Z",
+   "lang": "en",
+   "excerpt": "The transpacific has become the most lucrative major container shipping trade in the world, with carriers generating five times more spot revenue per nautical mile on the Shanghai–Los Angeles route than on shipments to North Europe via the …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "d8afbe2c629f",
+   "title": "Aker Solutions scores multimillion-dollar job on oil field redevelopment offshore Qatar",
+   "link": "https://www.offshore-energy.biz/2026/11/05/aker-solutions-scores-multimillion-dollar-job-on-oil-field-redevelopment-offshore-qatar",
+   "source": "offshoreenergy",
+   "published": "2026-11-05T08:39:47Z",
+   "seen": "2026-11-05T10:11:23Z",
+   "lang": "en",
+   "excerpt": "Aker Solutions has been booked to undertake an assignment to extend the life of a field that has been producing oil since the mid-1960s.",
+   "segments": [
+    "road",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5d2f123608f2",
+   "title": "Evergreen’s Suez return leaves Zim increasingly isolated",
+   "link": "https://splash247.com/evergreens-suez-return-leaves-zim-increasingly-isolated/",
+   "source": "splash",
+   "published": "2026-11-05T08:26:30Z",
+   "seen": "2026-11-05T10:11:23Z",
+   "lang": "en",
+   "excerpt": "The container shipping industry’s long detour around southern Africa is rapidly coming to an end, with Taiwan’s Evergreen preparing to send its first ships through the Suez Canal after almost three years of avoiding the Red Sea.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "b72391d195b9",
+   "title": "PLSV owned by DOF and TechnipFMC to work longer for Petrobras",
+   "link": "https://www.offshore-energy.biz/2026/11/05/plsv-owned-by-dof-and-technipfmc-to-work-longer-for-petrobras",
+   "source": "offshoreenergy",
+   "published": "2026-11-05T08:16:04Z",
+   "seen": "2026-11-05T10:11:23Z",
+   "lang": "en",
+   "excerpt": "A pipe-laying support vessel (PLSV) owned by a joint venture between DOF Group and TechnipFMC has secured a new long-term contract extension with...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "353888040711",
+   "title": "ZIM’s ZX3 enters a Transpacific premium race already shaped by speed and landside access",
+   "link": "https://container-news.com/zims-zx3-enters-a-transpacific-premium-race-already-shaped-by-speed-and-landside-access/",
+   "source": "containernews",
+   "published": "2026-11-05T08:00:36Z",
+   "seen": "2026-11-05T10:11:23Z",
+   "lang": "en",
+   "excerpt": "ZIM’s planned ZX3 service between China and Los Angeles adds another competitor to the premium Transpacific market. But the significance of the launch extends beyond the advertised 12-day crossing from Shanghai.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4436b64f2c02",
+   "title": "US sanctions Indian couple behind fake flag empire serving Iran’s shadow fleet",
+   "link": "https://splash247.com/us-sanctions-indian-couple-behind-fake-flag-empire-serving-irans-shadow-fleet/",
+   "source": "splash",
+   "published": "2026-11-05T08:00:04Z",
+   "seen": "2026-11-05T10:11:23Z",
+   "lang": "en",
+   "excerpt": "Washington has sanctioned an India-based husband-and-wife operation accused of running a sprawling network of fake ship registries supplying flags and certificates to tankers moving Iranian oil.",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "sanctions",
+    "shadow-fleet"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "36225e3e4fbe",
+   "title": "Saipem7 closing in on its debut as Brazil clears Saipem-Subsea7 merger",
+   "link": "https://www.offshore-energy.biz/2026/11/05/saipem7-closing-in-on-its-debut-as-brazil-clears-saipem-subsea7-merger",
+   "source": "offshoreenergy",
+   "published": "2026-11-05T07:39:59Z",
+   "seen": "2026-11-05T10:11:23Z",
+   "lang": "en",
+   "excerpt": "The multibillion-dollar merger between Saipem and Subsea7 has secured Brazil’s blessing, pending divestment of a vessel.",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "mna"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "c9e1bb91bc0c",
+   "title": "EU court hands Russian Maritime Register partial sanctions victory",
+   "link": "https://splash247.com/eu-court-hands-russian-maritime-register-partial-sanctions-victory/",
+   "source": "splash",
+   "published": "2026-11-05T07:31:00Z",
+   "seen": "2026-11-05T10:11:23Z",
+   "lang": "en",
+   "excerpt": "Russia’s state-owned ship classification society has secured a partial legal victory against European Union sanctions, with judges overturning a decision to permanently withdraw its recognition while upholding the majority of restrictions …",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "sanctions",
+    "class-society"
+   ],
+   "paywall": false
   },
   {
    "id": "6c25c3a42681",
@@ -238,6 +553,29 @@
    "paywall": true
   },
   {
+   "id": "35e7302977b9",
+   "title": "Maersk upgrades profit outlook despite underperforming rivals",
+   "link": "https://splash247.com/maersk-upgrades-profit-outlook-despite-underperforming-rivals/",
+   "source": "splash",
+   "published": "2026-11-05T05:44:41Z",
+   "seen": "2026-11-05T10:11:23Z",
+   "lang": "en",
+   "excerpt": "Maersk has raised its full-year earnings guidance for the third time this year, with the Danish shipping giant continuing to benefit from extraordinary freight rates, resilient cargo demand and widespread supply chain disruption.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ebitda"
+   ],
+   "paywall": false
+  },
+  {
    "id": "b3c7abc293ac",
    "title": "Chile maintains environmental approval for San Antonio Outer Port",
    "link": "https://container-news.com/chile-maintains-environmental-approval-for-san-antonio-outer-port/",
@@ -276,25 +614,21 @@
    "paywall": false
   },
   {
-   "id": "fce5fda74e45",
-   "title": "Transpacific emerges as liner shipping’s golden trade",
-   "link": "https://splash247.com/transpacific-emerges-as-liner-shippings-golden-trade/",
+   "id": "0a104cef5e6e",
+   "title": "K Line doubles investment firepower with $8bn five-year plan",
+   "link": "https://splash247.com/k-line-doubles-investment-firepower-with-8bn-five-year-plan/",
    "source": "splash",
-   "published": "2026-11-05T04:31:00Z",
-   "seen": "2026-11-04T21:55:03Z",
+   "published": "2026-11-05T05:21:34Z",
+   "seen": "2026-11-05T10:11:23Z",
    "lang": "en",
-   "excerpt": "The transpacific has become the most lucrative major container shipping trade in the world, with carriers generating five times more spot revenue per nautical mile on the Shanghai–Los Angeles route than on shipments to North Europe via the …",
+   "excerpt": "Japanese shipping giant Kawasaki Kisen Kaisha (K Line) has unveiled a sweeping five-year investment programme worth approximately $8bn, more than doubling its previous spending commitments as it pushes into new maritime and energy …",
    "segments": [
-    "freight"
+    "finance"
    ],
-   "subs": [
-    "containers"
-   ],
+   "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [
-    "liner"
-   ],
+   "terms": [],
    "paywall": false
   },
   {
@@ -308,6 +642,42 @@
    "excerpt": "Expeditors International reported strong third-quarter results, supported by higher ocean and airfreight volumes and continued demand for customs and logistics services. Revenue increased by 42% year on year to US$4.1 billion.",
    "segments": [
     "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "137d6f7dba19",
+   "title": "Spain's Long-Awaited New Sub Torpedoes a Target Ship in Live-Fire Test",
+   "link": "https://maritime-executive.com/article/spain-s-long-awaited-new-sub-torpedoes-a-target-ship-in-live-fire-test",
+   "source": "marex",
+   "published": "2026-11-05T03:53:38Z",
+   "seen": "2026-11-05T10:11:23Z",
+   "lang": "en",
+   "excerpt": "The Spanish Navy's long-delayed attack sub S-81 sank a decommissioned patrol vessel with a single torpedo strike in a recent exercise, the service ann...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a105e71be52e",
+   "title": "IRClass Academy and PIP Makassar Strengthen Executive Maritime Capability",
+   "link": "https://maritime-executive.com/article/irclass-academy-and-pip-makassar-strengthen-executive-maritime-capability-through-impdp-2026",
+   "source": "marex",
+   "published": "2026-11-05T03:08:00Z",
+   "seen": "2026-11-05T10:11:23Z",
+   "lang": "en",
+   "excerpt": "Indian Register of Shipping (IRS), through its professional training and development arm IRClass Academy, has further strengthened its engagement in m...",
+   "segments": [
+    "freight"
    ],
    "subs": [],
    "policy": false,
@@ -1148,6 +1518,24 @@
    "paywall": false
   },
   {
+   "id": "efd1696b0f78",
+   "title": "Seafarer Experience Must Shape Maritime Technology",
+   "link": "https://maritime-executive.com/article/seafarer-experience-must-shape-maritime-technology-initial-steer-project-report-finds",
+   "source": "marex",
+   "published": "2026-11-04T20:06:00Z",
+   "seen": "2026-11-05T10:11:23Z",
+   "lang": "en",
+   "excerpt": "New research finds technology can shift rather than remove risk as The Nautical Institute, with support from Lloyd’s Register Foundation, calls for th...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
    "id": "d4d9501cfcb7",
    "title": "Port of Oakland reports considerable renewable and zero-carbon electricity supply",
    "link": "https://container-news.com/port-of-oakland-reports-considerable-renewable-and-zero-carbon-electricity-supply/",
@@ -1651,6 +2039,26 @@
    "policy": false,
    "level": "international",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f8aa982cba24",
+   "title": "Damen Wins KNVTS Ship of the Year Award with CSOV Windcat Rotterdam",
+   "link": "https://maritime-executive.com/article/damen-wins-knvts-ship-of-the-year-award-with-csov-windcat-rotterdam",
+   "source": "marex",
+   "published": "2026-11-04T16:31:18Z",
+   "seen": "2026-11-05T10:11:23Z",
+   "lang": "en",
+   "excerpt": "Damen Shipyards Group and Windcat are pleased to announce that Commissioning Service Operations Vessel (CSOV) Windcat Rotterdam has received the KNVTS...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "csov"
+   ],
    "paywall": false
   },
   {
@@ -4349,26 +4757,6 @@
    "policy": false,
    "level": "international",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "b5ec6411b110",
-   "title": "Damen wins KNVTS Ship of the Year Award with CSOV Windcat Rotterdam",
-   "link": "https://gcaptain.com/damen-wins-knvts-ship-of-the-year-award-with-csov-windcat-rotterdam/",
-   "source": "gcaptain",
-   "published": "2026-11-03T16:52:46Z",
-   "seen": "2026-11-03T18:58:56Z",
-   "lang": "en",
-   "excerpt": "Damen Shipyards Group and Windcat are pleased to announce that Commissioning Service Operations Vessel (CSOV) Windcat Rotterdam has received the KNVTS Ship of the Year Award. The award was presented at the Maritime Awards Gala...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "csov"
-   ],
    "paywall": false
   },
   {
@@ -17881,390 +18269,6 @@
    "subs": [],
    "policy": false,
    "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "88943834e737",
-   "title": "ADES jackup lines up work offshore Indonesia",
-   "link": "https://splash247.com/ades-jackup-lines-up-work-offshore-indonesia/",
-   "source": "splash",
-   "published": "2026-10-28T02:40:00Z",
-   "seen": "2026-10-28T09:55:14Z",
-   "lang": "en",
-   "excerpt": "Saudi offshore drilling contractor ADES Holding has secured a new contract from Pertamina for the Shelf Drilling Perseverance jackup offshore Indonesia. The agreement covers a firm period of 406 days, with an option for another 30 days.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "rig"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "64b2352a7577",
-   "title": "Electrified starter testingen",
-   "link": "https://www.mtlogistikk.no/electrified-elektrisk-lastebil-ervik-group/electrified-starter-testingen/1349893",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-28T02:21:41Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "df270948d56a",
-   "title": "Maritime Industry Advances Harmonisation of Digital Emissions Reporting",
-   "link": "https://maritime-executive.com/article/maritime-industry-advances-harmonisation-of-digital-emissions-reporting",
-   "source": "marex",
-   "published": "2026-10-28T02:03:00Z",
-   "seen": "2026-10-28T09:55:14Z",
-   "lang": "en",
-   "excerpt": "The Tripartite Joint Industry Working Group (JIWG) has released two new frameworks that can help improve the exchange of operations and emissions data...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "c509019e7033",
-   "title": "Samferdselsministeren deltar på arrangement i regi av Tine Meierier",
-   "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-deltar-pa-arrangement-i-regi-av-tine-meierier/id3183350/",
-   "source": "regjeringen",
-   "published": "2026-10-28T02:00:00Z",
-   "seen": "2026-10-26T09:52:05Z",
-   "lang": "no",
-   "excerpt": "Samferdselsminister Kamzy Gunaratnam deltar på arrangement i regi av Tine Meierier.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "5147c2285fbb",
-   "title": "Samferdselsministeren deltar på Kollektivkonferansen 2026",
-   "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-deltar-pa-kollektivkonferansen-2026/id3183349/",
-   "source": "regjeringen",
-   "published": "2026-10-28T02:00:00Z",
-   "seen": "2026-10-26T09:52:05Z",
-   "lang": "no",
-   "excerpt": "Samferdselsminister Kamzy Gunaratnam deltar på Kollektivkonferansen 2026.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "2ea302fdb8ad",
-   "title": "Port Everglades sets third consecutive cruise passenger record",
-   "link": "https://container-news.com/port-everglades-sets-third-consecutive-cruise-passenger-record/",
-   "source": "containernews",
-   "published": "2026-10-28T01:41:10Z",
-   "seen": "2026-10-28T03:51:41Z",
-   "lang": "en",
-   "excerpt": "Port Everglades in Fort Lauderdale, Florida, welcomed more than 5.38 million cruise passengers during fiscal year 2026, setting a new annual record for the third consecutive year.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "9867c9102f7b",
-   "title": "MARAD Awards $498M in Port Grants as AAPA Calls for New Appropriations",
-   "link": "https://maritime-executive.com/article/marad-awards-498m-in-port-grants-as-aapa-calls-for-new-appropriations",
-   "source": "marex",
-   "published": "2026-10-28T00:23:37Z",
-   "seen": "2026-10-28T01:04:55Z",
-   "lang": "en",
-   "excerpt": "The Maritime Administration (MARAD) announced the recipients of its annual Port Infrastructure Development Program (PIDP). While it is highlighted tha...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "53d0b1f07a0d",
-   "title": "Werner Enterprises sees cost headwinds lingering into Q1",
-   "link": "https://www.freightwaves.com/news/werner-enterprises-sees-cost-headwinds-lingering-into-q1",
-   "source": "freightwaves",
-   "published": "2026-10-28T00:10:03Z",
-   "seen": "2026-10-28T01:04:55Z",
-   "lang": "en",
-   "excerpt": "Werner Enterprises outlined a path back to mid-cycle margins on a Tuesday evening call, but noted cost headwinds—some transitory and some growth-related—could linger into the first quarter.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "f92b5b1bc75e",
-   "title": "ANNONSØRINNHOLD FOR COLOR LINE CARGO Slik sikrer de kritisk vareflyt mellom Norge og Europa",
-   "link": "https://www.mtlogistikk.no/color-fantasy-color-line-cargo-color-magic/slik-sikrer-de-kritisk-vareflyt-mellom-norge-og-europa/1344101",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-27T23:21:41Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "94d3dca4a388",
-   "title": "Japanese Integrate Ammonia System with Car Carriers, Supply and Bunkering",
-   "link": "https://maritime-executive.com/article/japanese-integrate-ammonia-system-with-car-carriers-supply-and-bunkering",
-   "source": "marex",
-   "published": "2026-10-27T23:12:10Z",
-   "seen": "2026-10-28T01:04:55Z",
-   "lang": "en",
-   "excerpt": "A partnership of Japanese companies plans to develop the first integrated system for the use of ammonia as a marine fuel. The system aligns the develo...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "car-carrier",
-    "bunkers"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "86d14ee03824",
-   "title": "VLCC transits climb at Hormuz; steady at Bab al-Mandab for second day",
-   "link": "https://www.hellenicshippingnews.com/vlcc-transits-climb-at-hormuz-steady-at-bab-al-mandab-for-second-day/",
-   "source": "hsn",
-   "published": "2026-10-27T22:00:59Z",
-   "seen": "2026-10-28T01:04:55Z",
-   "lang": "en",
-   "excerpt": "The Strait of Hormuz had six VLCC transits on Oct. 25, the most since Oct. 17, while the Bab al-Mandab Strait recorded one VLCC on both Oct. 24 and Oct. 25, S&P Global Commodities at Sea said in an Oct. 26 report.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "vlcc",
-    "chokepoint",
-    "sale-purchase"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "fe8fffa80915",
-   "title": "Russian Diesel Returns: A New Atlantic Trade Dynamic",
-   "link": "https://www.hellenicshippingnews.com/russian-diesel-returns-a-new-atlantic-trade-dynamic/",
-   "source": "hsn",
-   "published": "2026-10-27T22:00:59Z",
-   "seen": "2026-10-28T01:04:55Z",
-   "lang": "en",
-   "excerpt": "A new market development for tankers could be shaping up, after the latest agreement between US and Russia, regarding diesel exports across the Atlantic.",
-   "segments": [
-    "road",
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "shipbroker",
-    "product-tanker"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "865f4d94d7f2",
-   "title": "IUMI’s annual Stats Report highlights modest market development amid continued soft conditions across all main business lines",
-   "link": "https://www.hellenicshippingnews.com/iumis-annual-stats-report-highlights-modest-market-development-amid-continued-soft-conditions-across-all-main-business-lines/",
-   "source": "hsn",
-   "published": "2026-10-27T22:00:57Z",
-   "seen": "2026-10-28T01:04:55Z",
-   "lang": "en",
-   "excerpt": "The International Union of Marine Insurance (IUMI) has, today, released its 2026 analysis of the global marine insurance market – the IUMI “Stats Report”.",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "864e0f664932",
-   "title": "Baltic Dry Index Falls to 1-Week Low",
-   "link": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-1-week-low/",
-   "source": "hsn",
-   "published": "2026-10-27T22:00:53Z",
-   "seen": "2026-10-28T01:04:55Z",
-   "lang": "en",
-   "excerpt": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, declined for a third session on Tuesday, falling roughly 1% to its lowest since October 20 at 2,603 points.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bdi",
-    "baltic-exchange",
-    "dry-bulk",
-    "capesize"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "f143c3b63bc7",
-   "title": "Tanker owners can’t call a $140m ship too old to upgrade, says BAR Technologies",
-   "link": "https://www.hellenicshippingnews.com/tanker-owners-cant-call-a-140m-ship-too-old-to-upgrade-says-bar-technologies/",
-   "source": "hsn",
-   "published": "2026-10-27T22:00:51Z",
-   "seen": "2026-10-28T01:04:55Z",
-   "lang": "en",
-   "excerpt": "With new VLCCs ordered today won’t be delivering until 2029, most of the ships that will carry the world’s oil this decade are already trading. Portsmouth, UK, 20 October 2026.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "vlcc"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "1b76d68f71dd",
-   "title": "Banchero Costa Weekly Market Report, Week 43 2026",
-   "link": "https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-43-2026/",
-   "source": "hsn",
-   "published": "2026-10-27T22:00:50Z",
-   "seen": "2026-10-29T09:56:42Z",
-   "lang": "en",
-   "excerpt": "In Jan-Sep 2026, global seaborne coal loadings increased by +1.1% yo-y to 976.0 mln t (excluding cabotage), based on vessel tracking",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "reports"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "cabotage"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "a4d7c9735c10",
-   "title": "Intermodal Weekly Market Report Week 43 2026 Broker’s Insight",
-   "link": "https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-43-2026-brokers-insight/",
-   "source": "hsn",
-   "published": "2026-10-27T22:00:50Z",
-   "seen": "2026-10-29T09:56:42Z",
-   "lang": "en",
-   "excerpt": "Feeder containerships have emerged among the strongest segments of the container market in 2026, supported by expanding",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers",
-    "reports"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "intermodal",
-    "transshipment",
-    "liner"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "1e4cc4da8c96",
-   "title": "European Shipowners reiterate key asks for EU ETS negotiations in Council and Parliament",
-   "link": "https://www.hellenicshippingnews.com/european-shipowners-reiterate-key-asks-for-eu-ets-negotiations-in-council-and-parliament/",
-   "source": "hsn",
-   "published": "2026-10-27T22:00:49Z",
-   "seen": "2026-10-28T01:04:55Z",
-   "lang": "en",
-   "excerpt": "European shipping is a geopolitical asset for Europe, facilitating the export and import of goods, food and energy. While the EU represents around 15% of global GDP, the European fleet represents 34.5% of the world’s fleet in terms of …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "eu-ets"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "986eec8bdec7",
-   "title": "New Report Exposes Critical Need For Trusted Digital Seafarer Credentials",
-   "link": "https://www.hellenicshippingnews.com/new-report-exposes-critical-need-for-trusted-digital-seafarer-credentials/",
-   "source": "hsn",
-   "published": "2026-10-27T22:00:45Z",
-   "seen": "2026-10-28T01:04:55Z",
-   "lang": "en",
-   "excerpt": "A comprehensive new report entitled Securing Trust: The Transition to Digital Seafarer Credentials, published by maritime technology research firm Thetius in partnership with Maritime Passport, reveals that the global shipping industry’s …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
    "terms": [],
    "paywall": false
   }
