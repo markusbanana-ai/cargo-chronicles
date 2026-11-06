@@ -1,14 +1,267 @@
 {
- "updated": "2026-11-06T03:58:15Z",
+ "updated": "2026-11-06T07:22:52Z",
  "sample": false,
  "articles": [
   {
-   "id": "62746d8ca62d",
-   "title": "420 millioner kroner til batteribytte og elektriske bulkskip",
-   "link": "https://www.mtlogistikk.no/batteribytte-elektriske-bulkskip-enova/420-millioner-kroner-til-batteribytte-og-elektriske-bulkskip/1355970",
+   "id": "1c7075b6dc4d",
+   "title": "Hapag-Lloyd completes acquisition of 25% stake in APM Terminals Maasvlakte II",
+   "link": "https://container-news.com/hapag-lloyd-completes-acquisition-of-25-stake-in-apm-terminals-maasvlakte-ii/",
+   "source": "containernews",
+   "published": "2026-11-06T07:00:49Z",
+   "seen": "2026-11-06T07:22:52Z",
+   "lang": "en",
+   "excerpt": "Hapag-Lloyd has completed the acquisition of a 25% stake in APM Terminals Maasvlakte II in Rotterdam, following unconditional approval from the relevant antitrust authorities.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "fc24b4df5f5c",
+   "title": "West to apply 5% General Increase; says that inflationary pressures persist",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/west-to-apply-5-general-increase-says-that-inflationary-pressures-persist/",
+   "source": "imn",
+   "published": "2026-11-06T06:43:06Z",
+   "seen": "2026-11-06T07:22:52Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "call"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "4692e21386de",
+   "title": "Panama Canal to name shortlisted bidders for terminal project by year-end",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/panama-canal-to-name-shortlisted-bidders-for-terminal-project-by-year-end/",
+   "source": "imn",
+   "published": "2026-11-06T06:41:14Z",
+   "seen": "2026-11-06T07:22:52Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "5262d4d63ae7",
+   "title": "Shipping has a coffee problem",
+   "link": "https://splash247.com/shipping-has-a-coffee-problem/",
+   "source": "splash",
+   "published": "2026-11-06T06:41:03Z",
+   "seen": "2026-11-06T07:22:52Z",
+   "lang": "en",
+   "excerpt": "From Posidonia to Geneva Dry, the shipping industry’s favourite pastime appears to be arranging coffee meetings that may or may not actually happen. Mike Darby from Merchant Recruitment makes the case for the Baltic Flat White Index.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bunkers"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "a8597dca6ca2",
+   "title": "Tanker hit by drone attack in Black Sea breaks towline",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/tanker-hit-by-drone-attack-in-black-sea-breaks-towline/",
+   "source": "imn",
+   "published": "2026-11-06T06:40:01Z",
+   "seen": "2026-11-06T07:22:52Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "4fddbcb6a46e",
+   "title": "Equinor North Sea platform temporarily closed after electrical fire",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/equinor-north-sea-platform-temporarily-closed-after-electrical-fire/",
+   "source": "imn",
+   "published": "2026-11-06T06:39:03Z",
+   "seen": "2026-11-06T07:22:52Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "366bdfe5f395",
+   "title": "EU Court of Justice upholds restrictions on Russian Maritime Register",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/eu-court-of-justice-upholds-restrictions-on-russian-maritime-register/",
+   "source": "imn",
+   "published": "2026-11-06T06:37:21Z",
+   "seen": "2026-11-06T07:22:52Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "c41f19619829",
+   "title": "OFAC takes aim at fraudulent ship registries",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/ofac-takes-aim-at-fraudulent-ship-registries/",
+   "source": "imn",
+   "published": "2026-11-06T06:36:01Z",
+   "seen": "2026-11-06T07:22:52Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "sanctions"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "2e0cc347c7c1",
+   "title": "New Jersey Governor warns ports against handling Russian diesel",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/new-jersey-governor-warns-ports-against-handling-russian-diesel/",
+   "source": "imn",
+   "published": "2026-11-06T06:34:22Z",
+   "seen": "2026-11-06T07:22:52Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "road",
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "72e183326e2d",
+   "title": "Mein Schiff 3 enters yard for repairs",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/mein-schiff-3-enters-yard-for-repairs/",
+   "source": "imn",
+   "published": "2026-11-06T06:33:23Z",
+   "seen": "2026-11-06T07:22:52Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "46a9c9db883c",
+   "title": "New investigation announced by MAIB",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/new-investigation-announced-by-maib/",
+   "source": "imn",
+   "published": "2026-11-06T06:32:17Z",
+   "seen": "2026-11-06T07:22:52Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "fdd9eb34a24b",
+   "title": "Marine round-up : 6th November 2026",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/marine-round-up-6th-november-2026/",
+   "source": "imn",
+   "published": "2026-11-06T06:30:48Z",
+   "seen": "2026-11-06T07:22:52Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "3264c4df1b3c",
+   "title": "AskChief expands maritime AI platform after surpassing 100 vessels",
+   "link": "https://container-news.com/askchief-expands-maritime-ai-platform-after-surpassing-100-vessels/",
+   "source": "containernews",
+   "published": "2026-11-06T06:00:09Z",
+   "seen": "2026-11-06T07:22:52Z",
+   "lang": "en",
+   "excerpt": "Maritime artificial intelligence company AskChief has opened its specialised AI platform to the wider shipping market after surpassing 100 vessels in less than a year of live use with shipowners and ship managers.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "e8d35e41450c",
+   "title": "Spår mye billigere sjøfrakt i 2027",
+   "link": "https://www.mtlogistikk.no/sjofrakt-xeneta-okonomi/spar-mye-billigere-sjofrakt-i-2027/1356256",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-06T03:58:15Z",
+   "seen": "2026-11-06T05:52:52Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -21,12 +274,49 @@
    "paywall": false
   },
   {
-   "id": "23bed933defd",
+   "id": "05707eec2d8d",
+   "title": "Uke 45: Rederienes prisoffensiv møter motvind",
+   "link": "https://www.mtlogistikk.no/drewry-sjofrakt-spotpris/uke-45-rederienes-prisoffensiv-moter-motvind/1356218",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-06T05:37:52Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "775ba981d769",
+   "title": "Axess Logistics varsler nedbemanning",
+   "link": "https://www.mtlogistikk.no/axess-logistics/axess-logistics-varsler-nedbemanning/1356285",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-06T05:22:52Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "e7325f94289d",
    "title": "Kan bli en av Norges største",
-   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356089",
+   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356197",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-06T03:43:15Z",
+   "seen": "2026-11-06T05:07:52Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -39,12 +329,12 @@
    "paywall": false
   },
   {
-   "id": "8b96221f08cf",
-   "title": "Rema sikrer treårig jernbaneavtale",
-   "link": "https://www.mtlogistikk.no/cargonet-dagligvarelogistikk-jernbanetransport/rema-sikrer-trearig-jernbaneavtale/1355727",
+   "id": "7f8a976395c8",
+   "title": "420 millioner kroner til batteribytte og elektriske bulkskip",
+   "link": "https://www.mtlogistikk.no/batteribytte-elektriske-bulkskip-enova/420-millioner-kroner-til-batteribytte-og-elektriske-bulkskip/1356177",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-06T03:13:15Z",
+   "seen": "2026-11-06T04:52:52Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -54,6 +344,45 @@
    "policy": false,
    "level": "national",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5ae825f6578e",
+   "title": "Rema sikrer treårig jernbaneavtale",
+   "link": "https://www.mtlogistikk.no/cargonet-dagligvarelogistikk-jernbanetransport/rema-sikrer-trearig-jernbaneavtale/1355679",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-06T04:22:52Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "7f36ea0aee9b",
+   "title": "U.S. State Department Expands Sanctions on Cuban Shipping",
+   "link": "https://maritime-executive.com/article/u-s-state-department-expands-sanctions-on-cuban-shipping",
+   "source": "marex",
+   "published": "2026-11-06T03:10:48Z",
+   "seen": "2026-11-06T07:22:52Z",
+   "lang": "en",
+   "excerpt": "The Trump administration has sanctioned five ships and two people for allegedly serving Cuba's oil shipping network, and has rolled out broad sectoral...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "sanctions"
+   ],
    "paywall": false
   },
   {
@@ -77,6 +406,27 @@
    "paywall": false
   },
   {
+   "id": "5db6c2a783ed",
+   "title": "LD Armateurs buys three PSVs for cable-layer conversions",
+   "link": "https://splash247.com/ld-armateurs-buys-three-psvs-for-cable-layer-conversions/",
+   "source": "splash",
+   "published": "2026-11-06T02:40:00Z",
+   "seen": "2026-11-06T07:22:52Z",
+   "lang": "en",
+   "excerpt": "French shipowner LD Armateurs (LDA) has acquired three platform supply vessels currently under construction for conversion into cable-laying ships as it looks to expand its presence in the subsea telecommunications market.",
+   "segments": [
+    "finance",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "psv"
+   ],
+   "paywall": false
+  },
+  {
    "id": "2ffd8fe096ba",
    "title": "EXCLUSIVE: ‘Humor is good,’ Union Pacific CEO says of video rate threat",
    "link": "https://www.freightwaves.com/news/exclusive-humor-is-good-union-pacific-ceo-says-of-video-rate-threat",
@@ -93,6 +443,65 @@
    "level": "international",
    "terms": [
     "shipper-consignee"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "75b84cb973b9",
+   "title": "SLB OneSubsea picks up subsea deal for Aker BP’s North Sea project",
+   "link": "https://splash247.com/slb-onesubsea-picks-up-subsea-deal-for-aker-bps-north-sea-project/",
+   "source": "splash",
+   "published": "2026-11-06T02:30:00Z",
+   "seen": "2026-11-06T07:22:52Z",
+   "lang": "en",
+   "excerpt": "SLB’s OneSubsea joint venture has secured a contract from Aker BP to supply subsea production systems, umbilicals, and associated services for the Lyra oilfield development in the Norwegian North Sea.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "34a782950d3c",
+   "title": "HEA Energy snaps up Subsea7’s six-ship heavy transport business",
+   "link": "https://splash247.com/hea-energy-snaps-up-subsea7s-six-ship-heavy-transport-business/",
+   "source": "splash",
+   "published": "2026-11-06T02:20:54Z",
+   "seen": "2026-11-05T13:17:38Z",
+   "lang": "en",
+   "excerpt": "Abu Dhabi-based HEA Energy has struck a deal to acquire Subsea7’s heavy transportation business, adding a six-vessel operation to its growing offshore fleet.",
+   "segments": [
+    "finance",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "rig"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "eb2fb54358e9",
+   "title": "Fugro lands German offshore wind survey contract",
+   "link": "https://splash247.com/fugro-lands-german-offshore-wind-survey-contract/",
+   "source": "splash",
+   "published": "2026-11-06T02:10:00Z",
+   "seen": "2026-11-06T07:22:52Z",
+   "lang": "en",
+   "excerpt": "Dutch marine survey specialist Fugro has secured a multi-year framework agreement with Germany’s Federal Maritime and Hydrographic Agency (BSH) for geotechnical site investigations in the German North Sea.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "offshore-wind"
    ],
    "paywall": false
   },
@@ -1706,27 +2115,6 @@
    "policy": false,
    "level": "national",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "34a782950d3c",
-   "title": "HEA Energy snaps up Subsea7’s six-ship heavy transport business",
-   "link": "https://splash247.com/hea-energy-snaps-up-subsea7s-six-ship-heavy-transport-business/",
-   "source": "splash",
-   "published": "2026-11-05T11:25:54Z",
-   "seen": "2026-11-05T13:17:38Z",
-   "lang": "en",
-   "excerpt": "Abu Dhabi-based HEA Energy has struck a deal to acquire Subsea7’s heavy transportation business, adding a six-vessel operation to its growing offshore fleet.",
-   "segments": [
-    "finance",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "rig"
-   ],
    "paywall": false
   },
   {
@@ -6872,27 +7260,6 @@
    "terms": [
     "fuel-surcharge"
    ],
-   "paywall": false
-  },
-  {
-   "id": "a38f294632b5",
-   "title": "New Jersey Governor Warns Ports Against Handling Russian Diesel",
-   "link": "https://gcaptain.com/new-jersey-governor-warns-ports-against-handling-russian-diesel/",
-   "source": "gcaptain",
-   "published": "2026-11-03T17:03:13Z",
-   "seen": "2026-11-03T18:58:56Z",
-   "lang": "en",
-   "excerpt": "New Jersey Governor Mikie Sherrill is warning port and terminal operators not to accept Russian diesel shipments heading toward the U.S. East Coast, arguing that the Trump administration’s authorization of...",
-   "segments": [
-    "road",
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
    "paywall": false
   },
   {
@@ -17925,389 +18292,6 @@
     "fsru",
     "lng",
     "lng-carrier"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "d7f4f5535dec",
-   "title": "India greenlights $1bn drive to break China’s container manufacturing dominance",
-   "link": "https://splash247.com/india-greenlights-1bn-drive-to-break-chinas-container-manufacturing-dominance/",
-   "source": "splash",
-   "published": "2026-10-29T09:46:00Z",
-   "seen": "2026-10-29T09:56:42Z",
-   "lang": "en",
-   "excerpt": "India has approved a INR100bn ($1.05bn) programme to massively expand domestic shipping container manufacturing, targeting a tenfold increase in annual capacity as New Delhi seeks to challenge China’s near-monopoly over the industry.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "c917d93e40aa",
-   "title": "Kai - en digital driftsleder",
-   "link": "https://www.mtlogistikk.no/flatestyring-future-driver-kai/kai-en-digital-driftsleder/1349342",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-29T09:11:42Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "6aab512f20ad",
-   "title": "Costamare reports $89.4 million adjusted profit as charter backlog reaches $6 billion",
-   "link": "https://container-news.com/costamare-reports-89-4-million-adjusted-profit-as-charter-backlog-reaches-6-billion/",
-   "source": "containernews",
-   "published": "2026-10-29T09:00:57Z",
-   "seen": "2026-10-29T09:56:42Z",
-   "lang": "en",
-   "excerpt": "Costamare reported adjusted net income of $89.4 million for the third quarter of 2026, compared with $98 million in the same period last year.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "backlog",
-    "liner"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "fc296418d5e3",
-   "title": "Moderne Transportprisen til Jan Endre Vartdal og Marius Husabø Monsen",
-   "link": "https://www.mtlogistikk.no/moderne-transport-prisen-mowi-sjomatlogistikk/moderne-transportprisen-til-jan-endre-vartdal-og-marius-husabo-monsen/1339339",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-29T08:56:42Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "9e23f26c7a82",
-   "title": "Boluda strikes deal to acquire Samskip",
-   "link": "https://splash247.com/boluda-strikes-deal-to-acquire-samskip/",
-   "source": "splash",
-   "published": "2026-10-29T08:44:57Z",
-   "seen": "2026-10-29T09:56:42Z",
-   "lang": "en",
-   "excerpt": "Spanish shipping group Boluda has agreed to acquire Netherlands-headquartered multimodal operator Samskip, bringing together two major European shortsea businesses in a deal spanning 32 vessels and 18 routes.",
-   "segments": [
-    "freight",
-    "finance",
-    "insurance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "intermodal"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "9d9d77521286",
-   "title": "Hver tredje nye går på el eller gass",
-   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-gasslastebiler-lastebil/hver-tredje-nye-gar-pa-el-eller-gass/1349834",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-29T08:41:42Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "5b1825432305",
-   "title": "Contship charts liner comeback with Tarros deal",
-   "link": "https://splash247.com/contship-charts-liner-comeback-with-tarros-deal/",
-   "source": "splash",
-   "published": "2026-10-29T08:30:04Z",
-   "seen": "2026-10-29T07:01:54Z",
-   "lang": "en",
-   "excerpt": "Italian terminal operator Contship is getting back into the liner business, sealing a deal to acquire Italian shipping and logistics group Tarros through its subsidiary Sogemar, in a deal aimed at creating a major integrated transport …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "81ae5c8d444f",
-   "title": "Valgte norsk lager fremfor nordisk sentralisering",
-   "link": "https://www.mtlogistikk.no/askim-gant-norge-lagerdrift/valgte-norsk-lager-fremfor-nordisk-sentralisering/1321358",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-29T08:26:42Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "101765e94c00",
-   "title": "Maritime CEO Forum: Tanker owners see more upside",
-   "link": "https://splash247.com/maritime-ceo-forum-tanker-owners-see-more-upside/",
-   "source": "splash",
-   "published": "2026-10-29T08:15:32Z",
-   "seen": "2026-10-29T07:01:54Z",
-   "lang": "en",
-   "excerpt": "Tanker owners remain broadly bullish on the extraordinary freight market despite soaring asset prices, an ageing fleet and mounting geopolitical risks.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "18e7ad139ac4",
-   "title": "Plukkroboten tar nattskiftet hos Spedify",
-   "link": "https://www.mtlogistikk.no/autostore-lagerautomatisering-pickrai/plukkroboten-tar-nattskiftet-hos-spedify/1321472",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-29T08:11:42Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "173a910d172f",
-   "title": "CMA CGM launches dedicated rail service between Mombasa and Nairobi",
-   "link": "https://container-news.com/cma-cgm-launches-dedicated-rail-service-between-mombasa-and-nairobi/",
-   "source": "containernews",
-   "published": "2026-10-29T08:00:37Z",
-   "seen": "2026-10-29T09:56:42Z",
-   "lang": "en",
-   "excerpt": "CMA CGM has launched its first dedicated block train service between the Port of Mombasa and the Nairobi-Embakasi Inland Container Depot (ICD) in Kenya.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "e04b6984e3ab",
-   "title": "Drone-hit boxship sinks off Bulgaria",
-   "link": "https://splash247.com/drone-hit-boxship-sinks-off-bulgaria/",
-   "source": "splash",
-   "published": "2026-10-29T08:00:01Z",
-   "seen": "2026-10-29T09:56:42Z",
-   "lang": "en",
-   "excerpt": "The Greek-managed containership Contship Jet has sunk off Bulgaria after being struck by three sea drones yesterday, as Russia claims further attacks on merchant vessels heading towards Ukrainian ports.",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "liner"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "6a3a93a59544",
-   "title": "North Sea gas discovery twice as big after appraisal success with tie-back on the table",
-   "link": "https://offshore-energy.biz/2026/10/29/north-sea-gas-discovery-twice-as-big-after-appraisal-success-with-tie-back-on-the-table",
-   "source": "offshoreenergy",
-   "published": "2026-10-29T07:58:13Z",
-   "seen": "2026-10-29T09:56:42Z",
-   "lang": "en",
-   "excerpt": "Appraisal activities have doubled a North Sea gas discovery’s estimate, with a potential tie-back to existing infrastructure being contemplated.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "tieback"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "59738107240e",
-   "title": "Flyttet inn uten én eneste kunde – nå er lageret over halvfullt",
-   "link": "https://www.mtlogistikk.no/askim-lagerdrift-outsourcing/flyttet-inn-uten-en-eneste-kunde-na-er-lageret-over-halvfullt/1321380",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-29T07:56:42Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "7f23019bff96",
-   "title": "Tanker feared sinking off Oman after reported projectile strike",
-   "link": "https://splash247.com/tanker-feared-sinking-off-oman-after-reported-projectile-strike/",
-   "source": "splash",
-   "published": "2026-10-29T07:18:29Z",
-   "seen": "2026-10-29T09:56:42Z",
-   "lang": "en",
-   "excerpt": "A tanker has reportedly been left burning and largely submerged following a suspected projectile strike in the Strait of Hormuz, with UK maritime authorities confirming reports of a vessel on fire off the Omani coast.",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "45e38a14edfa",
-   "title": "Boluda Shipping signs agreement to acquire Samskip",
-   "link": "https://container-news.com/boluda-shipping-signs-agreement-to-acquire-samskip/",
-   "source": "containernews",
-   "published": "2026-10-29T07:00:50Z",
-   "seen": "2026-10-29T07:01:54Z",
-   "lang": "en",
-   "excerpt": "Boluda Shipping has signed an agreement to acquire Samskip, including all its assets and operations. The deal aims to create a major European short-sea shipping network connecting Northern Europe, Spain, the Canary Islands and West Africa.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "2b73cd329cfe",
-   "title": "Huge investment to keep first UK-France interconnector running until at least 2050",
-   "link": "https://offshore-energy.biz/2026/10/29/huge-investment-to-keep-first-uk-france-interconnector-running-until-at-least-2050",
-   "source": "offshoreenergy",
-   "published": "2026-10-29T06:40:22Z",
-   "seen": "2026-10-29T07:01:54Z",
-   "lang": "en",
-   "excerpt": "The UK's National Grid is investing up to £400 million (around €478 million) in the first cross-border electricity link between the UK and...",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a9be32f3c032",
-   "title": "Yingkou newcomer yard starts ten-ship series",
-   "link": "https://splash247.com/yingkou-newcomer-yard-starts-ten-ship-series/",
-   "source": "splash",
-   "published": "2026-10-29T06:39:01Z",
-   "seen": "2026-10-29T07:01:54Z",
-   "lang": "en",
-   "excerpt": "Another Chinese shipbuilder has entered the country’s booming newbuilding market, with Yingkou Huayin Shipbuilding opening its yard in Liaoning province and launching a programme to construct ten 8,700 dwt multipurpose vessels.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "newbuilding",
-    "dwt"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "41325b0f4f4a",
-   "title": "Interessen for elektriske lastebiler er rekordhøy",
-   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-enova/interessen-for-elektriske-lastebiler-er-rekordhoy/1349851",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-29T06:31:54Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "electric-truck"
    ],
    "paywall": false
   }
