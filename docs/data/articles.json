@@ -1,7 +1,343 @@
 {
- "updated": "2026-11-06T13:11:58Z",
+ "updated": "2026-11-06T15:55:35Z",
  "sample": false,
  "articles": [
+  {
+   "id": "00645a1dc701",
+   "title": "Samferdselsministeren - besøker Sporveien; selvkjørende trikk på Holtet i Oslo",
+   "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-besoker-sporveien-selvkjorende-trikk-pa-holtet-i-oslo/id3192007/",
+   "source": "regjeringen",
+   "published": "2026-11-06T15:55:35Z",
+   "seen": "2026-11-06T15:55:35Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false,
+   "upcoming": true
+  },
+  {
+   "id": "1b134a053542",
+   "title": "Samferdselsministeren - åpner gang- og sykkelvei langs ring 3 ved Ullevål",
+   "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-gang-og-sykkelvei-langs-ring-3-ved-ulleval/id3192008/",
+   "source": "regjeringen",
+   "published": "2026-11-06T15:55:35Z",
+   "seen": "2026-11-06T15:55:35Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false,
+   "upcoming": true
+  },
+  {
+   "id": "f381cf9cd8ee",
+   "title": "Samferdselsministeren - besøker Kuben videregående skole i Oslo",
+   "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-beslker-kuben-videregaende-skole-i-oslo/id3192006/",
+   "source": "regjeringen",
+   "published": "2026-11-06T15:55:35Z",
+   "seen": "2026-11-06T15:55:35Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false,
+   "upcoming": true
+  },
+  {
+   "id": "67f8aed9f3d7",
+   "title": "ANNONSØRINNHOLD FOR POSTNORD Må håndtere stort volum og strenge krav",
+   "link": "https://www.mtlogistikk.no/farmasiet-lager-lagerautomatisering/ma-handtere-stort-volum-og-strenge-krav/1354065",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-06T15:40:35Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "62746d8ca62d",
+   "title": "420 millioner kroner til batteribytte og elektriske bulkskip",
+   "link": "https://www.mtlogistikk.no/batteribytte-elektriske-bulkskip-enova/420-millioner-kroner-til-batteribytte-og-elektriske-bulkskip/1355970",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-06T15:25:35Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "428856a92ca8",
+   "title": "October truck transportation jobs = September truck transportation jobs",
+   "link": "https://www.freightwaves.com/news/october-truck-transportation-jobs-september-truck-transportation-jobs",
+   "source": "freightwaves",
+   "published": "2026-11-06T15:24:18Z",
+   "seen": "2026-11-06T15:55:35Z",
+   "lang": "en",
+   "excerpt": "The number of workers employed in truck transportation in October was unchanged from September. That end result in the October report from the Bureau of Labor Statistics, released Friday, came from two developments.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "1af9cc621b86",
+   "title": "Mexico widens US trade lead with record $96.3B September",
+   "link": "https://www.freightwaves.com/news/mexico-widens-us-trade-lead-with-record-96-3b-september",
+   "source": "freightwaves",
+   "published": "2026-11-06T15:19:33Z",
+   "seen": "2026-11-06T15:55:35Z",
+   "lang": "en",
+   "excerpt": "Mexico strengthened its position as the United States' top trading partner in September at $96 billion.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "23bed933defd",
+   "title": "Kan bli en av Norges største",
+   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356089",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-06T15:10:35Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "93998498da71",
+   "title": "North America container imports rise 9% as as freight pricing pressures mount",
+   "link": "https://www.freightwaves.com/news/north-america-container-imports-rise-9-as-as-freight-pricing-pressures-mount",
+   "source": "freightwaves",
+   "published": "2026-11-06T15:09:01Z",
+   "seen": "2026-11-06T15:55:35Z",
+   "lang": "en",
+   "excerpt": "Global container volumes surged in September despite mounting disruptions and rising freight prices.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "43b1bfaad26d",
+   "title": "Greek Maritime Forum 2027 Set to Make Waves in Athens with 800+ Industry Professionals",
+   "link": "https://container-news.com/greek-maritime-forum-2027-set-to-make-waves-in-athens-with-800-industry-professionals/",
+   "source": "containernews",
+   "published": "2026-11-06T15:08:29Z",
+   "seen": "2026-11-06T15:55:35Z",
+   "lang": "en",
+   "excerpt": "Athens is gearing up to become a hub for global maritime dialogue as the Greek Maritime Forum 2027 prepares to bring together more than 800 industry professionals, 60+ expert speakers, and over 50 exhibitors on May 25–26, 2027.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ed199d66dc03",
+   "title": "Port Freeport awarded federal grant to modernise bulk rice operations",
+   "link": "https://container-news.com/port-freeport-awarded-federal-grant-to-modernise-bulk-rice-operations/",
+   "source": "containernews",
+   "published": "2026-11-06T15:00:54Z",
+   "seen": "2026-11-06T15:55:35Z",
+   "lang": "en",
+   "excerpt": "Port Freeport has received a US$ 9,412,500 grant through the US Maritime Administration’s Port Infrastructure Development Program to modernise its bulk rice-handling facilities and the infrastructure supporting agricultural cargo.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8b96221f08cf",
+   "title": "Rema sikrer treårig jernbaneavtale",
+   "link": "https://www.mtlogistikk.no/cargonet-dagligvarelogistikk-jernbanetransport/rema-sikrer-trearig-jernbaneavtale/1355727",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-06T14:40:35Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "75f995eab39c",
+   "title": "Oil & gas quartet partners up to unlock over 6.5 trillion cubic feet of Asian gas",
+   "link": "https://www.offshore-energy.biz/2026/11/06/oil-and-gas-quartet-partners-up-to-unlock-over-65-trillion-cubic-feet-of-asian-gas",
+   "source": "offshoreenergy",
+   "published": "2026-11-06T14:30:17Z",
+   "seen": "2026-11-06T15:55:35Z",
+   "lang": "en",
+   "excerpt": "PTTEP, TotalEnergies, KUFPEC, and Petronas have sealed a deal to co-develop gas fields off the coast of Sarawak, Malaysia.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f3249ed34de6",
+   "title": "Ny merketeknologi skal kutte emballasjekostnader og etikettavfall",
+   "link": "https://www.mtlogistikk.no/act-logimark-blekkstraleskriver-emballasjemerking/ny-merketeknologi-skal-kutte-emballasjekostnader-og-etikettavfall/1357204",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-06T14:25:35Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "761924529b5d",
+   "title": "Mini kjølebil med 900 kg nyttelast",
+   "link": "https://www.mtlogistikk.no/goupil-kjoleaggregat-last-mile/mini-kjolebil-med-900-kg-nyttelast/1357187",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-06T14:10:35Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "7d9ae39c6c67",
+   "title": "Forventer opptil 20 prosent flere pakker",
+   "link": "https://www.mtlogistikk.no/hentepunkter-pakkevolumer-postnord/forventer-opptil-20-prosent-flere-pakker/1357166",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-06T13:55:35Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "3ab715c8466e",
+   "title": "Iran Oil Exports Near Zero But Peace Deal Not Likely, FGE Says",
+   "link": "https://gcaptain.com/iran-oil-exports-near-zero-but-peace-deal-not-likely-fge-says/",
+   "source": "gcaptain",
+   "published": "2026-11-06T13:06:54Z",
+   "seen": "2026-11-06T15:55:35Z",
+   "lang": "en",
+   "excerpt": "Iranian oil exports have dwindled to almost nothing under the US naval blockade, but the chance of an imminent deal between the two sides to end the war is low, according to FGE NexantECA.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "3c14b5ab8b15",
+   "title": "Baltic Dry Index climbs to 2805 up 65 points",
+   "link": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2805-up-65-points/",
+   "source": "hsn",
+   "published": "2026-11-06T13:00:57Z",
+   "seen": "2026-11-06T15:55:35Z",
+   "lang": "en",
+   "excerpt": "Today, Friday, November 6 2026, the Baltic Dry Index climbed 65 points, 2805 points. Baltic Dry Index is compiled by the London-based Baltic Exchange and covers prices for transported cargo such as coal, grain and iron ore.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bdi",
+    "baltic-exchange"
+   ],
+   "paywall": false
+  },
   {
    "id": "fd8a6b73618e",
    "title": "Ryder grows its FMS business with East Coast acquisition",
@@ -459,24 +795,6 @@
    "paywall": false
   },
   {
-   "id": "e7325f94289d",
-   "title": "Kan bli en av Norges største",
-   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356197",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-06T10:41:58Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "c9d3691e2adb",
    "title": "Turkish marine survey specialist secures work on country’s first offshore wind site investigation program",
    "link": "https://www.offshore-energy.biz/2026/11/06/turkish-marine-survey-specialist-secures-work-on-countrys-first-offshore-wind-site-investigation-program",
@@ -494,42 +812,6 @@
    "terms": [
     "offshore-wind"
    ],
-   "paywall": false
-  },
-  {
-   "id": "7f8a976395c8",
-   "title": "420 millioner kroner til batteribytte og elektriske bulkskip",
-   "link": "https://www.mtlogistikk.no/batteribytte-elektriske-bulkskip-enova/420-millioner-kroner-til-batteribytte-og-elektriske-bulkskip/1356177",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-06T10:26:58Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "ad9534f18a2f",
-   "title": "Forventer opptil 20 prosent flere pakker",
-   "link": "https://www.mtlogistikk.no/hentepunkter-pakkevolumer-postnord/forventer-opptil-20-prosent-flere-pakker/1356395",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-06T10:08:44Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -592,24 +874,6 @@
    "terms": [
     "lng"
    ],
-   "paywall": false
-  },
-  {
-   "id": "5ae825f6578e",
-   "title": "Rema sikrer treårig jernbaneavtale",
-   "link": "https://www.mtlogistikk.no/cargonet-dagligvarelogistikk-jernbanetransport/rema-sikrer-trearig-jernbaneavtale/1355679",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-06T09:56:58Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -1108,24 +1372,6 @@
    "source": "mtlogistikk",
    "published": null,
    "seen": "2026-11-06T05:52:52Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "3085c1fb9e1c",
-   "title": "Mini kjølebil med 900 kg nyttelast",
-   "link": "https://www.mtlogistikk.no/goupil-kjoleaggregat-last-mile/mini-kjolebil-med-900-kg-nyttelast/1356597",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-06T05:38:44Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -3515,24 +3761,6 @@
    "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "dba0f2019baa",
-   "title": "Ny merketeknologi skal kutte emballasjekostnader og etikettavfall",
-   "link": "https://www.mtlogistikk.no/act-logimark-blekkstraleskriver-emballasjemerking/ny-merketeknologi-skal-kutte-emballasjekostnader-og-etikettavfall/1355748",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-05T09:41:23Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18033,250 +18261,6 @@
     "freight"
    ],
    "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a2717951720c",
-   "title": "Shell and Total Post Highest Quarterly Profit Since 2022",
-   "link": "https://gcaptain.com/shell-and-total-post-highest-quarterly-profit-since-2022/",
-   "source": "gcaptain",
-   "published": "2026-10-29T16:45:23Z",
-   "seen": "2026-10-29T18:57:46Z",
-   "lang": "en",
-   "excerpt": "Shell and TotalEnergies reported on Thursday sharply higher third-quarter profits and raised share buybacks, as war-driven energy prices and record refining margins helped both beat expectations.",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "9ad029f8aae1",
-   "title": "RXO’s earnings still coming out, had solid profitable quarter",
-   "link": "https://www.freightwaves.com/news/rxos-earnings-still-coming-out-had-solid-profitable-quarter",
-   "source": "freightwaves",
-   "published": "2026-10-29T16:44:58Z",
-   "seen": "2026-10-29T18:57:46Z",
-   "lang": "en",
-   "excerpt": "RXO remains a publicly-traded company as it prepares to be acquired by C.H. Robinson, posting its earnings Thursday that showed mostly positive numbers in all key categories. Given the pending deal with C.H.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "4f3a95a1a24d",
-   "title": "Florida trucking CEO warns soaring diesel costs are squeezing carrier profits",
-   "link": "https://www.freightwaves.com/news/florida-trucking-ceo-warns-soaring-diesel-costs-are-squeezing-carrier-profits",
-   "source": "freightwaves",
-   "published": "2026-10-29T16:44:38Z",
-   "seen": "2026-10-29T18:57:46Z",
-   "lang": "en",
-   "excerpt": "Florida Trucking Association CEO Scott Perry said rising diesel, insurance and equipment costs are putting mounting financial pressure on motor carriers.",
-   "segments": [
-    "road",
-    "finance",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "8119841e8599",
-   "title": "U.S. Shipbuilding Delays Push Empire Wind’s First Power Into 2027",
-   "link": "https://gcaptain.com/u-s-shipbuilding-delays-push-empire-winds-first-power-into-2027/",
-   "source": "gcaptain",
-   "published": "2026-10-29T16:39:42Z",
-   "seen": "2026-10-29T18:57:46Z",
-   "lang": "en",
-   "excerpt": "Delays involving U.S.-built support vessels have pushed back turbine installation at Equinor’s Empire Wind offshore wind project off New York, with first power now expected in the first half of...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "offshore-wind"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "3a6a1ea03a36",
-   "title": "U.S. rail traffic up 7.8% as intermodal leads gainers",
-   "link": "https://www.freightwaves.com/news/u-s-rail-traffic-up-7-8-as-intermodal-leads-gainers",
-   "source": "freightwaves",
-   "published": "2026-10-29T16:31:48Z",
-   "seen": "2026-10-29T18:57:46Z",
-   "lang": "en",
-   "excerpt": "U.S. rail traffic rose in the latest week as gains across eight of 10 carload commodity groups showed broad — but uneven — growth.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "intermodal"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "207a411ba306",
-   "title": "COSCO Profit Jumps Most in Two Years as Turmoil Supports Rates",
-   "link": "https://gcaptain.com/cosco-profit-jumps-most-in-two-years-as-turmoil-supports-rates/",
-   "source": "gcaptain",
-   "published": "2026-10-29T16:31:44Z",
-   "seen": "2026-10-29T18:57:46Z",
-   "lang": "en",
-   "excerpt": "(Bloomberg) — Cosco Shipping Holdings Co. earnings jumped the most in two years as persistent geopolitical disruptions rerouted trade routes, tying up more of its vessels for longer while container...",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "10145793c17c",
-   "title": "Hapag-Lloyd introduces Pakistan–UAE reefer surcharge",
-   "link": "https://container-news.com/hapag-lloyd-introduces-pakistan-uae-reefer-surcharge/",
-   "source": "containernews",
-   "published": "2026-10-29T16:00:33Z",
-   "seen": "2026-10-29T18:57:46Z",
-   "lang": "en",
-   "excerpt": "Hapag-Lloyd will introduce a Peak Season Surcharge (PSS) on refrigerated cargo moving from Pakistan to selected ports in the United Arab Emirates. The surcharge will apply to sailings commencing from 1 November 2026.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "reefer"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "c7c2cf11ceff",
-   "title": "Cheniere LNG Shipments Surge as Iran War Reshapes Global Gas Trade",
-   "link": "https://gcaptain.com/cheniere-lng-shipments-surge-as-iran-war-reshapes-global-gas-trade/",
-   "source": "gcaptain",
-   "published": "2026-10-29T15:07:55Z",
-   "seen": "2026-10-29T18:57:46Z",
-   "lang": "en",
-   "excerpt": "U.S. LNG giant raises full-year earnings outlook as Middle East supply disruptions boost demand for American exports Cheniere Energy, the largest U.S. exporter of liquefied natural gas (LNG), reported a...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "dd686feddaef",
-   "title": "What the Mastio Rankings Actually Tell Shippers",
-   "link": "https://www.freightwaves.com/news/what-the-mastio-rankings-actually-tell-shippers",
-   "source": "freightwaves",
-   "published": "2026-10-29T14:41:03Z",
-   "seen": "2026-10-29T15:59:36Z",
-   "lang": "en",
-   "excerpt": "When a shipper puts an LTL lane out to bid, price is the number everyone can compare in five minutes. Price, however, doesn’t say much about what happens six months into the contract.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "shipper-consignee",
-    "ltl"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "07c61646e11d",
-   "title": "Fatal rig incident: Search still underway for two missing workers off Gabon",
-   "link": "https://offshore-energy.biz/2026/10/29/fatal-rig-incident-search-still-underway-for-two-missing-workers-off-gabon",
-   "source": "offshoreenergy",
-   "published": "2026-10-29T14:40:24Z",
-   "seen": "2026-10-29T15:59:36Z",
-   "lang": "en",
-   "excerpt": "Borr Drilling continues the search for two people who remain unaccounted for after its rig sank, while supporting affected personnel and families.",
-   "segments": [
-    "insurance",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "rig"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "89baec463308",
-   "title": "9 alleged Mexican Cartel associates arrested in California train theft ring",
-   "link": "https://www.freightwaves.com/news/9-alleged-mexican-cartel-associates-arrested-in-california-train-theft-ring",
-   "source": "freightwaves",
-   "published": "2026-10-29T14:09:44Z",
-   "seen": "2026-10-29T15:59:36Z",
-   "lang": "en",
-   "excerpt": "Nine men allegedly connected to Mexico's Sinaloa Cartel were arrested in Southern California as part of a cargo train theft operation.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lou"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "56dea509ec0e",
-   "title": "Maersk–APM signs concession for new Tanger Med 3 terminal",
-   "link": "https://container-news.com/maersk-apm-signs-concession-for-new-tanger-med-3-terminal/",
-   "source": "containernews",
-   "published": "2026-10-29T14:00:14Z",
-   "seen": "2026-10-29T15:59:36Z",
-   "lang": "en",
-   "excerpt": "Maersk–APM has signed a concession agreement to develop a new container terminal at Tanger Med 3 in Morocco. The agreement was announced by Morocco’s Royal Cabinet following a working session chaired by King Mohammed VI at the Royal Palace …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
    "policy": false,
    "level": "international",
    "terms": [],
