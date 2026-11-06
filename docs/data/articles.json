@@ -1,7 +1,375 @@
 {
- "updated": "2026-11-06T07:22:52Z",
+ "updated": "2026-11-06T10:08:44Z",
  "sample": false,
  "articles": [
+  {
+   "id": "ad9534f18a2f",
+   "title": "Forventer opptil 20 prosent flere pakker",
+   "link": "https://www.mtlogistikk.no/hentepunkter-pakkevolumer-postnord/forventer-opptil-20-prosent-flere-pakker/1356395",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-06T10:08:44Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "d8b94ad6ff85",
+   "title": "Evergreen schedules first Suez transits with own vessels",
+   "link": "https://container-news.com/evergreen-schedules-first-suez-transits-with-own-vessels/",
+   "source": "containernews",
+   "published": "2026-11-06T10:00:45Z",
+   "seen": "2026-11-06T10:08:44Z",
+   "lang": "en",
+   "excerpt": "Evergreen has scheduled its first sailings into the Red Sea and through the Suez Canal using its own vessels, according to DynaLiners.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "370ece3714ea",
+   "title": "EnerMech picks up Chevron pipeline work off Equatorial Guinea",
+   "link": "https://splash247.com/enermech-picks-up-chevron-pipeline-work-off-equatorial-guinea/",
+   "source": "splash",
+   "published": "2026-11-06T10:00:00Z",
+   "seen": "2026-11-06T10:08:44Z",
+   "lang": "en",
+   "excerpt": "UK-headquartered oilfield services specialist EnerMech has secured a contract from Chevron for pipeline pre-commissioning services on the Aseng gas development offshore Equatorial Guinea.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "62746d8ca62d",
+   "title": "420 millioner kroner til batteribytte og elektriske bulkskip",
+   "link": "https://www.mtlogistikk.no/batteribytte-elektriske-bulkskip-enova/420-millioner-kroner-til-batteribytte-og-elektriske-bulkskip/1355970",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-06T09:53:44Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "23bed933defd",
+   "title": "Kan bli en av Norges største",
+   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356089",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-06T09:38:44Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "2f9245197d2f",
+   "title": "Fugro nets multi-year offshore wind contract in Germany",
+   "link": "https://www.offshore-energy.biz/2026/11/06/fugro-nets-multi-year-offshore-wind-contract-in-germany",
+   "source": "offshoreenergy",
+   "published": "2026-11-06T09:35:22Z",
+   "seen": "2026-11-06T10:08:44Z",
+   "lang": "en",
+   "excerpt": "Germany’s Federal Maritime and Hydrographic Agency (BSH) has awarded Fugro a multi-year framework agreement to carry out geotechnical site...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "offshore-wind"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "362dd4c5d258",
+   "title": "Alfa Laval makes $700m NAVTOR bet",
+   "link": "https://splash247.com/alfa-laval-makes-700m-navtor-bet/",
+   "source": "splash",
+   "published": "2026-11-06T09:27:35Z",
+   "seen": "2026-11-06T10:08:44Z",
+   "lang": "en",
+   "excerpt": "Swedish industrial group Alfa Laval has struck a $700m all-cash deal to acquire Norwegian maritime software specialist NAVTOR, significantly expanding a digital shipping portfolio that already includes StormGeo and Portchain.",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "043eb7e33fdc",
+   "title": "Indian ship recycling breakthrough hits Brussels roadblock",
+   "link": "https://splash247.com/indian-ship-recycling-breakthrough-hits-brussels-roadblock/",
+   "source": "splash",
+   "published": "2026-11-06T09:20:01Z",
+   "seen": "2026-11-06T10:08:44Z",
+   "lang": "en",
+   "excerpt": "A European Parliament committee has voted against allowing two Indian shipbreaking yards onto the EU’s approved recycling list, dealing a setback to shipowners pushing for greater access to South Asian dismantling capacity.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "recycling"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "24e87d7d3b2f",
+   "title": "Venergy doubles VLCC order at Hengli",
+   "link": "https://splash247.com/venergy-doubles-vlcc-order-at-hengli/",
+   "source": "splash",
+   "published": "2026-11-06T09:19:00Z",
+   "seen": "2026-11-06T10:08:44Z",
+   "lang": "en",
+   "excerpt": "Greek shipowner Vyron Vasileiadis has firmed up another two VLCCs at China’s Hengli Heavy Industries, doubling Venergy Maritime’s debut supertanker order to four vessels.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "vlcc",
+    "dwt"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "695989f04fc4",
+   "title": "Brazilian field revitalization inches closer with green light for Petrobras’ FPSO concept",
+   "link": "https://www.offshore-energy.biz/2026/11/06/brazilian-field-revitalization-inches-closer-with-green-light-for-petrobras-fpso-concept",
+   "source": "offshoreenergy",
+   "published": "2026-11-06T09:18:12Z",
+   "seen": "2026-11-06T10:08:44Z",
+   "lang": "en",
+   "excerpt": "Petrobras has received the go-ahead from Lloyd’s Register for the conceptual design of its proposed FPSO destined for a redevelopment project.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "fpso"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "1986f92b6434",
+   "title": "Capital Tankers scores up to $82m suezmax fixture",
+   "link": "https://splash247.com/capital-tankers-scores-up-to-82m-suezmax-fixture/",
+   "source": "splash",
+   "published": "2026-11-06T09:16:00Z",
+   "seen": "2026-11-06T10:08:44Z",
+   "lang": "en",
+   "excerpt": "Evangelos Marinakis-backed Capital Tankers has secured a 15-month charter for one of its modern suezmaxes in a deal expected to generate between $73.1m and $82.2m in revenue.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "suezmax",
+    "fixture",
+    "dwt"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "8b96221f08cf",
+   "title": "Rema sikrer treårig jernbaneavtale",
+   "link": "https://www.mtlogistikk.no/cargonet-dagligvarelogistikk-jernbanetransport/rema-sikrer-trearig-jernbaneavtale/1355727",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-06T09:08:44Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a43a113e575e",
+   "title": "Tailwind returns Panda Express service to Suez Canal",
+   "link": "https://container-news.com/tailwind-returns-panda-express-service-to-suez-canal/",
+   "source": "containernews",
+   "published": "2026-11-06T09:00:58Z",
+   "seen": "2026-11-06T10:08:44Z",
+   "lang": "en",
+   "excerpt": "Tailwind Shipping Lines will return its Far East–Mediterranean Panda Express (PAX) service to the Suez Canal route later in November, according to DynaLiners.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "a3a391f8b480",
+   "title": "Shipbuilding boom heads for 2028 delivery crunch",
+   "link": "https://splash247.com/shipbuilding-boom-heads-for-2028-delivery-crunch/",
+   "source": "splash",
+   "published": "2026-11-06T08:30:33Z",
+   "seen": "2026-11-06T10:08:44Z",
+   "lang": "en",
+   "excerpt": "The global shipbuilding orderbook has expanded three and a half times since 2020, while yard capacity has grown by just 30%, setting the stage for an extraordinary delivery squeeze over the next two years.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "orderbook"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "1924ccd86856",
+   "title": "Seafarer missing in Gulf tanker strike as Iran redraws Hormuz blacklist",
+   "link": "https://splash247.com/seafarer-missing-in-gulf-tanker-strike-as-iran-redraws-hormuz-blacklist/",
+   "source": "splash",
+   "published": "2026-11-06T08:15:00Z",
+   "seen": "2026-11-06T10:08:44Z",
+   "lang": "en",
+   "excerpt": "A seafarer is missing following a missile-suspected attack on a Greek-operated tanker deep inside the Arabian Gulf, while Iran has reshuffled its growing Strait of Hormuz blacklist and fresh security warnings point to continuing threats to …",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint",
+    "dwt",
+    "product-tanker"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "bb90e18a4579",
+   "title": "OOCL to launch new FCS4 service connecting Malaysia and East India",
+   "link": "https://container-news.com/oocl-to-launch-new-fcs4-service-connecting-malaysia-and-east-india/",
+   "source": "containernews",
+   "published": "2026-11-06T08:00:20Z",
+   "seen": "2026-11-06T10:08:44Z",
+   "lang": "en",
+   "excerpt": "Orient Overseas Container Line (OOCL) has announced the launch of its new Far East–Chennai Service (FCS4), strengthening container shipping connectivity between Malaysia and the east coast of India.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "5262d4d63ae7",
+   "title": "Shipping has a coffee problem",
+   "link": "https://splash247.com/shipping-has-a-coffee-problem/",
+   "source": "splash",
+   "published": "2026-11-06T08:00:03Z",
+   "seen": "2026-11-06T07:22:52Z",
+   "lang": "en",
+   "excerpt": "From Posidonia to Geneva Dry, the shipping industry’s favourite pastime appears to be arranging coffee meetings that may or may not actually happen. Mike Darby from Merchant Recruitment makes the case for the Baltic Flat White Index.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bunkers"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "14de15be0716",
+   "title": "Splash Wrap: The great shipbuilding squeeze",
+   "link": "https://splash247.com/splash-wrap-the-great-shipbuilding-squeeze/",
+   "source": "splash",
+   "published": "2026-11-06T07:45:33Z",
+   "seen": "2026-11-06T10:08:44Z",
+   "lang": "en",
+   "excerpt": "Remarkable statistics relating to today’s record shipbuilding boom led coverage on Monday and Friday this week. The global orderbook had reached a record 226.1m compensated gross tonnes (cgt), surpassing the previous peak of 225.5m cgt set …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers",
+    "drybulk",
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "orderbook"
+   ],
+   "paywall": false
+  },
   {
    "id": "1c7075b6dc4d",
    "title": "Hapag-Lloyd completes acquisition of 25% stake in APM Terminals Maasvlakte II",
@@ -63,26 +431,6 @@
     "chokepoint"
    ],
    "paywall": true
-  },
-  {
-   "id": "5262d4d63ae7",
-   "title": "Shipping has a coffee problem",
-   "link": "https://splash247.com/shipping-has-a-coffee-problem/",
-   "source": "splash",
-   "published": "2026-11-06T06:41:03Z",
-   "seen": "2026-11-06T07:22:52Z",
-   "lang": "en",
-   "excerpt": "From Posidonia to Geneva Dry, the shipping industry’s favourite pastime appears to be arranging coffee meetings that may or may not actually happen. Mike Darby from Merchant Recruitment makes the case for the Baltic Flat White Index.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bunkers"
-   ],
-   "paywall": false
   },
   {
    "id": "a8597dca6ca2",
@@ -274,6 +622,24 @@
    "paywall": false
   },
   {
+   "id": "3085c1fb9e1c",
+   "title": "Mini kjølebil med 900 kg nyttelast",
+   "link": "https://www.mtlogistikk.no/goupil-kjoleaggregat-last-mile/mini-kjolebil-med-900-kg-nyttelast/1356597",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-06T05:38:44Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
    "id": "05707eec2d8d",
    "title": "Uke 45: Rederienes prisoffensiv møter motvind",
    "link": "https://www.mtlogistikk.no/drewry-sjofrakt-spotpris/uke-45-rederienes-prisoffensiv-moter-motvind/1356218",
@@ -311,16 +677,16 @@
    "paywall": false
   },
   {
-   "id": "e7325f94289d",
-   "title": "Kan bli en av Norges største",
-   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356197",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-06T05:07:52Z",
-   "lang": "no",
-   "excerpt": "",
+   "id": "e36093e99c82",
+   "title": "Kongsberg Maritime Unveils New Logo and Tagline",
+   "link": "https://maritime-executive.com/article/kongsberg-maritime-unveils-new-logo-and-tagline-2",
+   "source": "marex",
+   "published": "2026-11-06T04:12:00Z",
+   "seen": "2026-11-06T10:08:44Z",
+   "lang": "en",
+   "excerpt": "Kongsberg Maritime has unveiled its new logo and tagline, ‘Beyond begins here’. This is the company’s first independent visual identity following its...",
    "segments": [
-    "road"
+    "freight"
    ],
    "subs": [],
    "policy": false,
@@ -329,12 +695,12 @@
    "paywall": false
   },
   {
-   "id": "7f8a976395c8",
-   "title": "420 millioner kroner til batteribytte og elektriske bulkskip",
-   "link": "https://www.mtlogistikk.no/batteribytte-elektriske-bulkskip-enova/420-millioner-kroner-til-batteribytte-og-elektriske-bulkskip/1356177",
+   "id": "41325b0f4f4a",
+   "title": "Interessen for elektriske lastebiler er rekordhøy",
+   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-enova/interessen-for-elektriske-lastebiler-er-rekordhoy/1349851",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-06T04:52:52Z",
+   "seen": "2026-11-06T03:23:44Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -343,25 +709,9 @@
    "subs": [],
    "policy": false,
    "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "5ae825f6578e",
-   "title": "Rema sikrer treårig jernbaneavtale",
-   "link": "https://www.mtlogistikk.no/cargonet-dagligvarelogistikk-jernbanetransport/rema-sikrer-trearig-jernbaneavtale/1355679",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-06T04:22:52Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
+   "terms": [
+    "electric-truck"
    ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -383,6 +733,42 @@
    "terms": [
     "sanctions"
    ],
+   "paywall": false
+  },
+  {
+   "id": "9d9d77521286",
+   "title": "Hver tredje nye går på el eller gass",
+   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-gasslastebiler-lastebil/hver-tredje-nye-gar-pa-el-eller-gass/1349834",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-06T03:08:44Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c917d93e40aa",
+   "title": "Kai - en digital driftsleder",
+   "link": "https://www.mtlogistikk.no/flatestyring-future-driver-kai/kai-en-digital-driftsleder/1349342",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-06T02:53:44Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
    "paywall": false
   },
   {
@@ -424,6 +810,24 @@
    "terms": [
     "psv"
    ],
+   "paywall": false
+  },
+  {
+   "id": "fc296418d5e3",
+   "title": "Moderne Transportprisen til Jan Endre Vartdal og Marius Husabø Monsen",
+   "link": "https://www.mtlogistikk.no/moderne-transport-prisen-mowi-sjomatlogistikk/moderne-transportprisen-til-jan-endre-vartdal-og-marius-husabo-monsen/1339339",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-06T02:38:44Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
    "paywall": false
   },
   {
@@ -1237,24 +1641,6 @@
    "terms": [
     "offshore-wind"
    ],
-   "paywall": false
-  },
-  {
-   "id": "3e2c74513d92",
-   "title": "Kongsberg Maritime Unveils New Logo and Tagline",
-   "link": "https://maritime-executive.com/article/kongsberg-maritime-unveils-new-logo-and-tagline",
-   "source": "marex",
-   "published": "2026-11-05T19:47:06Z",
-   "seen": "2026-11-05T19:00:50Z",
-   "lang": "en",
-   "excerpt": "Kongsberg Maritime has unveiled its new logo and tagline, ‘Beyond begins here’. This is the company’s first independent visual identity following its...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -17904,395 +18290,6 @@
    "policy": false,
    "level": "international",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "bfafb773a5c7",
-   "title": "Scorpio Tankers Inc. Announces Financial Results for the Third Quarter of 2026 and An Increase to its Quarterly Dividend",
-   "link": "https://www.hellenicshippingnews.com/scorpio-tankers-inc-announces-financial-results-for-the-third-quarter-of-2026-and-an-increase-to-its-quarterly-dividend/",
-   "source": "hsn",
-   "published": "2026-10-29T11:00:47Z",
-   "seen": "2026-10-29T13:03:01Z",
-   "lang": "en",
-   "excerpt": "Scorpio Tankers Inc. reported its results for the three and nine months ended September 30, 2026. The Company also announced that its board of directors (the “Board of Directors”) has declared a quarterly cash dividend on its common shares …",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "9d5057a4827b",
-   "title": "Spain’s bunker volumes jumped 18% on the year in September",
-   "link": "https://www.hellenicshippingnews.com/spains-bunker-volumes-jumped-18-on-the-year-in-september/",
-   "source": "hsn",
-   "published": "2026-10-29T11:00:45Z",
-   "seen": "2026-10-29T13:03:01Z",
-   "lang": "en",
-   "excerpt": "Suppliers sold 938,000 mt of bunker fuel at Spain’s ports last month, up 18% from a year earlier, as Algeciras alone added 104,000 mt, government data showed.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bunkers"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "dfe6c15e9b69",
-   "title": "Valenciaport makes progress on the construction of the new substation to strengthen the electrification of the Port of València",
-   "link": "https://www.hellenicshippingnews.com/valenciaport-makes-progress-on-the-construction-of-the-new-substation-to-strengthen-the-electrification-of-the-port-of-valencia/",
-   "source": "hsn",
-   "published": "2026-10-29T11:00:43Z",
-   "seen": "2026-10-29T13:03:01Z",
-   "lang": "en",
-   "excerpt": "The Port Authority of València (PAV) has launched the tender process for the construction of a new electrical substation at the Port of València, an infrastructure project that will enable Valenciaport to double the port’s electricity …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a20c370e7854",
-   "title": "Shenzhen Port crosses 30 million TEU mark three weeks earlier than last year, led by trade with APEC economies",
-   "link": "https://www.hellenicshippingnews.com/shenzhen-port-crosses-30-million-teu-mark-three-weeks-earlier-than-last-year-led-by-trade-with-apec-economies/",
-   "source": "hsn",
-   "published": "2026-10-29T11:00:41Z",
-   "seen": "2026-10-29T13:03:01Z",
-   "lang": "en",
-   "excerpt": "China’s southern Shenzhen Port has handled 30 million twenty-foot equivalent units (TEU) this year, reaching the milestone three weeks earlier than in 2025, the city’s transport authorities said, with APEC member economies accounting for …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "teu"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "5eebbb5c6507",
-   "title": "Iron Ore Gains as Steel Mill Output Improves",
-   "link": "https://www.hellenicshippingnews.com/iron-ore-gains-as-steel-mill-output-improves/",
-   "source": "hsn",
-   "published": "2026-10-29T11:00:37Z",
-   "seen": "2026-10-29T13:03:01Z",
-   "lang": "en",
-   "excerpt": "Iron ore futures climbed above CNY 680 per ton, recovering from four-year lows amid signs of strengthening demand in top consumer China.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "8ef0b4e86044",
-   "title": "MMI Daily Iron Ore Index Report October 29 2026",
-   "link": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-october-29-2026/",
-   "source": "hsn",
-   "published": "2026-10-29T11:00:36Z",
-   "seen": "2026-10-29T13:03:01Z",
-   "lang": "en",
-   "excerpt": "The price recovery continued today alongside a modest improvement in port inventories. DCE most traded closed at 682.0 yuan/mt, up 1.49%; the 61%, 58% and 65% port indices rose to 654, 608 and 817 yuan/wmt.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "ab0557e732a1",
-   "title": "Copper Retreats From Two-Week Highs",
-   "link": "https://www.hellenicshippingnews.com/copper-retreats-from-two-week-highs/",
-   "source": "hsn",
-   "published": "2026-10-29T11:00:33Z",
-   "seen": "2026-10-29T13:03:01Z",
-   "lang": "en",
-   "excerpt": "Copper futures fell to around $6.60 per pound on Thursday, ending a four-session winning streak as traders took profits following recent gains.",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "2245581f2c49",
-   "title": "Crude Oil Inventories Fall Less Than Expected, Impacting Oil Prices",
-   "link": "https://www.hellenicshippingnews.com/crude-oil-inventories-fall-less-than-expected-impacting-oil-prices/",
-   "source": "hsn",
-   "published": "2026-10-29T11:00:27Z",
-   "seen": "2026-10-29T13:03:01Z",
-   "lang": "en",
-   "excerpt": "In a closely watched report, the Energy Information Administration (EIA) released its latest data on U.S. crude oil inventories, revealing a decline that was less substantial than anticipated.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "6899488de071",
-   "title": "OOCL announces new CIS4 service linking China and Indonesia",
-   "link": "https://container-news.com/oocl-announces-new-cis4-service-linking-china-and-indonesia/",
-   "source": "containernews",
-   "published": "2026-10-29T11:00:25Z",
-   "seen": "2026-10-29T13:03:01Z",
-   "lang": "en",
-   "excerpt": "OOCL has announced the launch of its new China Indonesia Service (CIS4), strengthening container shipping connections between China and Indonesia. The service is scheduled to begin on 22 November 2026.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "b0fbedd02a19",
-   "title": "43% of shoppers plan to spend more this peak, Kenco finds",
-   "link": "https://www.freightwaves.com/news/kenco-survey-shoppers-plan-more-peak-spending",
-   "source": "freightwaves",
-   "published": "2026-10-29T11:00:00Z",
-   "seen": "2026-10-29T13:03:01Z",
-   "lang": "en",
-   "excerpt": "Kenco's 2026 Peak Season Consumer Report shows holiday budgets rising, with consumers expecting free shipping, two-day delivery and free returns on top",
-   "segments": [
-    "road",
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "47bd3d7e6bb6",
-   "title": "Jiahua Energy lines up $165m gas carrier at Jiangnan",
-   "link": "https://splash247.com/jiahua-energy-lines-up-165m-gas-carrier-at-jiangnan/",
-   "source": "splash",
-   "published": "2026-10-29T11:00:00Z",
-   "seen": "2026-10-29T13:03:01Z",
-   "lang": "en",
-   "excerpt": "Chinese chemicals group Jiahua Energy is stepping up its shipowning ambitions with plans to invest up to $165m in a 102,000 cu m liquefied hydrocarbon carrier at Jiangnan Shipyard.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "ba7b7b67492e",
-   "title": "Høring - fire EU-forordninger som utfyller og endrer lov om infrastruktur for alternativt drivstoff (AFIR)",
-   "link": "https://www.regjeringen.no/no/dokumenter/horing-fire-eu-forordninger-som-utfyller-og-endrer-lov-om-infrastruktur-for-alternativt-drivstoff-afir/id3186497/",
-   "source": "regjeringen",
-   "published": "2026-10-29T10:54:35Z",
-   "seen": "2026-10-29T13:03:01Z",
-   "lang": "no",
-   "excerpt": "Samferdselsdepartementet sender med dette på høring forslag til ny forskrift for gjennomføring av fire forordninger med utfyllende bestemmelser til lov om infrastruktur for alternativt drivstoff (AFIR).",
-   "segments": [
-    "road",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "10e9788d01b0",
-   "title": "COSCO turns to in-house yard for gas carrier expansion",
-   "link": "https://splash247.com/cosco-turns-to-in-house-yard-for-gas-carrier-expansion/",
-   "source": "splash",
-   "published": "2026-10-29T10:45:00Z",
-   "seen": "2026-10-29T13:03:01Z",
-   "lang": "en",
-   "excerpt": "China’s COSCO Shipping Energy Transportation is expanding its gas carrier business with a RMB335m ($50.2m) ethylene carrier newbuilding project at affiliated Dalian COSCO Shipping Heavy Industry.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers",
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "newbuilding"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "430eee6df201",
-   "title": "'Industry’s first’ energy construction vessel launches one year after construction start",
-   "link": "https://offshore-energy.biz/2026/10/29/industrys-first-energy-construction-vessel-launches-one-year-after-construction-start",
-   "source": "offshoreenergy",
-   "published": "2026-10-29T10:34:11Z",
-   "seen": "2026-10-29T13:03:01Z",
-   "lang": "en",
-   "excerpt": "VARD has launched the energy construction vessel (ECV) it is building for Norway's Wind Energy Construction, a company partly owned by the...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "380974729d35",
-   "title": "Aker Solutions braces for more job cuts",
-   "link": "https://splash247.com/aker-solutions-braces-for-more-job-cuts/",
-   "source": "splash",
-   "published": "2026-10-29T10:30:00Z",
-   "seen": "2026-10-29T13:03:01Z",
-   "lang": "en",
-   "excerpt": "Norwegian offshore engineering group Aker Solutions is preparing for another round of workforce reductions as a sharp decline in activity following the completion of major oil and gas projects threatens hundreds more jobs.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "3074e8298a4b",
-   "title": "QatarEnergy locks in more US LNG through 20-year deal with Woodside",
-   "link": "https://offshore-energy.biz/2026/10/29/qatarenergy-locks-in-more-us-lng-through-20-year-deal-with-woodside",
-   "source": "offshoreenergy",
-   "published": "2026-10-29T10:10:07Z",
-   "seen": "2026-10-29T13:03:01Z",
-   "lang": "en",
-   "excerpt": "Woodside has struck a two-decade-long supply agreement with QatarEnergy for LNG from its project in Louisiana, United States (U.S.).",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "75abde1b8902",
-   "title": "CPKC reports record revenue on strength of grain and intermodal traffic",
-   "link": "https://www.freightwaves.com/news/cpkc-reports-record-revenue-on-strength-of-grain-and-intermodal-traffic",
-   "source": "freightwaves",
-   "published": "2026-10-29T10:03:00Z",
-   "seen": "2026-10-29T15:59:36Z",
-   "lang": "en",
-   "excerpt": "CPKC turned in record 3Q revenue as the railway set records for domestic and international intermodal volumes, as well as for grain.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "intermodal"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "3dac0577d90d",
-   "title": "Freightos Weekly Update: Union approves LA/Long Beach port strike; container rates still under pressure",
-   "link": "https://container-news.com/freightos-weekly-update-union-approves-la-long-beach-port-strike-container-rates-still-under-pressure/",
-   "source": "containernews",
-   "published": "2026-10-29T10:00:42Z",
-   "seen": "2026-10-29T13:03:01Z",
-   "lang": "en",
-   "excerpt": "The container carrier march back through the Red Sea continues, with Alphaliner estimating nearly two-thirds of total Asia – Europe capacity is now restored.",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "c668575d608f",
-   "title": "MOL secures FSRU charter with Deutsche ReGas",
-   "link": "https://splash247.com/mol-secures-fsru-charter-with-deutsche-regas/",
-   "source": "splash",
-   "published": "2026-10-29T10:00:00Z",
-   "seen": "2026-10-29T13:03:01Z",
-   "lang": "en",
-   "excerpt": "Japanese shipping giant Mitsui OSK Lines (MOL) has signed a long-term charter agreement with Deutsche ReGas to supply a FSRU for the Deutsche Ostsee LNG import terminal in Mukran, Germany.",
-   "segments": [
-    "freight",
-    "offshore"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "fsru",
-    "lng",
-    "lng-carrier"
-   ],
    "paywall": false
   }
  ]
