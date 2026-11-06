@@ -1,7 +1,126 @@
 {
- "updated": "2026-11-06T01:16:28Z",
+ "updated": "2026-11-06T03:58:15Z",
  "sample": false,
  "articles": [
+  {
+   "id": "62746d8ca62d",
+   "title": "420 millioner kroner til batteribytte og elektriske bulkskip",
+   "link": "https://www.mtlogistikk.no/batteribytte-elektriske-bulkskip-enova/420-millioner-kroner-til-batteribytte-og-elektriske-bulkskip/1355970",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-06T03:58:15Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "23bed933defd",
+   "title": "Kan bli en av Norges største",
+   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356089",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-06T03:43:15Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8b96221f08cf",
+   "title": "Rema sikrer treårig jernbaneavtale",
+   "link": "https://www.mtlogistikk.no/cargonet-dagligvarelogistikk-jernbanetransport/rema-sikrer-trearig-jernbaneavtale/1355727",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-06T03:13:15Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "90a29b7bb522",
+   "title": "South Korea Plans to Deploy Naval Assets Closer to Hormuz",
+   "link": "https://maritime-executive.com/article/south-korea-plans-to-deploy-naval-assets-closer-to-hormuz",
+   "source": "marex",
+   "published": "2026-11-06T02:50:47Z",
+   "seen": "2026-11-06T03:58:15Z",
+   "lang": "en",
+   "excerpt": "South Korea's government wants to deploy naval assets somewhat closer to the Strait of Hormuz, eight months after the start of the U.S.-Iran conflict....",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "2ffd8fe096ba",
+   "title": "EXCLUSIVE: ‘Humor is good,’ Union Pacific CEO says of video rate threat",
+   "link": "https://www.freightwaves.com/news/exclusive-humor-is-good-union-pacific-ceo-says-of-video-rate-threat",
+   "source": "freightwaves",
+   "published": "2026-11-06T02:35:19Z",
+   "seen": "2026-11-06T03:58:15Z",
+   "lang": "en",
+   "excerpt": "Union Pacific CEO said his threat to raise rates on shippers in a now-released video was an attempt at humor.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "shipper-consignee"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "d83e509d7c4f",
+   "title": "Suez Canal Authority Tows Sanctioned Russian Tanker to Safety",
+   "link": "https://maritime-executive.com/article/suez-canal-authority-tows-sanctioned-russian-tanker-to-safety",
+   "source": "marex",
+   "published": "2026-11-06T01:47:13Z",
+   "seen": "2026-11-06T03:58:15Z",
+   "lang": "en",
+   "excerpt": "The Suez Canal Authority is highlighting its broad salvage capabilities available to shipping beyond the canal, including regional waters around Egypt...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "chokepoint",
+    "sanctions",
+    "salvage"
+   ],
+   "paywall": false
+  },
   {
    "id": "f3987ab9760c",
    "title": "What the Transpacific boom means for operations",
@@ -69,42 +188,6 @@
    "paywall": false
   },
   {
-   "id": "e7325f94289d",
-   "title": "Kan bli en av Norges største",
-   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356197",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-05T23:46:28Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "7f8a976395c8",
-   "title": "420 millioner kroner til batteribytte og elektriske bulkskip",
-   "link": "https://www.mtlogistikk.no/batteribytte-elektriske-bulkskip-enova/420-millioner-kroner-til-batteribytte-og-elektriske-bulkskip/1356177",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-05T23:31:28Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "ea83aebf2dd3",
    "title": "Hapag-Lloyd announces export gate-in restrictions at APMT Valencia",
    "link": "https://container-news.com/hapag-lloyd-announces-export-gate-in-restrictions-at-apmt-valencia/",
@@ -124,24 +207,6 @@
    "terms": [
     "congestion"
    ],
-   "paywall": false
-  },
-  {
-   "id": "5ae825f6578e",
-   "title": "Rema sikrer treårig jernbaneavtale",
-   "link": "https://www.mtlogistikk.no/cargonet-dagligvarelogistikk-jernbanetransport/rema-sikrer-trearig-jernbaneavtale/1355679",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-05T23:01:28Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -691,26 +756,6 @@
    "paywall": false
   },
   {
-   "id": "118f2afd6402",
-   "title": "Brazilian builds boat from rubbish to collect more rubbish",
-   "link": "https://splash247.com/brazilian-builds-boat-from-rubbish-to-collect-more-rubbish/",
-   "source": "splash",
-   "published": "2026-11-05T20:17:00Z",
-   "seen": "2026-11-05T21:52:54Z",
-   "lang": "en",
-   "excerpt": "A former Brazilian ocean canoeing champion has taken recycling to a floating extreme, constructing a boat from 230 discarded plastic containers so he can collect even more rubbish from the sea.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "978fcf599e28",
    "title": "Mexico cargo thieves shift tactics as Q3 truck parking thefts surge",
    "link": "https://www.freightwaves.com/news/mexico-cargo-thieves-shift-tactics-as-q3-truck-parking-thefts-surge",
@@ -1123,6 +1168,26 @@
     "road"
    ],
    "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "118f2afd6402",
+   "title": "Brazilian builds boat from rubbish to collect more rubbish",
+   "link": "https://splash247.com/brazilian-builds-boat-from-rubbish-to-collect-more-rubbish/",
+   "source": "splash",
+   "published": "2026-11-05T17:17:00Z",
+   "seen": "2026-11-05T21:52:54Z",
+   "lang": "en",
+   "excerpt": "A former Brazilian ocean canoeing champion has taken recycling to a floating extreme, constructing a boat from 230 discarded plastic containers so he can collect even more rubbish from the sea.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
    "policy": false,
    "level": "international",
    "terms": [],
@@ -18245,67 +18310,6 @@
     "electric-truck"
    ],
    "paywall": false
-  },
-  {
-   "id": "5b437bd8fa74",
-   "title": "Three drones reported to have hit containership in Black Sea off Bulgaria",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/three-drones-reported-to-have-hit-containership-in-black-sea-off-bulgaria/",
-   "source": "imn",
-   "published": "2026-10-29T06:11:38Z",
-   "seen": "2026-10-29T07:01:54Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "liner"
-   ],
-   "paywall": true
-  },
-  {
-   "id": "5d640e07a281",
-   "title": "NTSB calls for new rules for uncrewed vessels after Lake Erie collision",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/ntsb-calls-for-new-rules-for-uncrewed-vessels-after-lake-erie-collision/",
-   "source": "imn",
-   "published": "2026-10-29T06:10:36Z",
-   "seen": "2026-10-29T07:01:54Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "35b04b40899b",
-   "title": "Falvey Insurance expands cargo underwriting team",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/falvey-insurance-expands-cargo-underwriting-team/",
-   "source": "imn",
-   "published": "2026-10-29T06:08:58Z",
-   "seen": "2026-10-29T07:01:54Z",
-   "lang": "en",
-   "excerpt": "Falvey Insurance Group, which specializes in marine and cargo risks, has announced several changes to its senior leadership, cargo underwriting team and Board of Directors.",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "underwriter"
-   ],
-   "paywall": true
   }
  ]
 }
