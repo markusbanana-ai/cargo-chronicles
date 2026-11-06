@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T18:58:24Z",
+ "updated": "2026-11-06T21:46:57Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren - besøker Sporveien; selvkjørende trikk på Holtet i Oslo",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-besoker-sporveien-selvkjorende-trikk-pa-holtet-i-oslo/id3192007/",
    "source": "regjeringen",
-   "published": "2026-11-06T18:58:24Z",
+   "published": "2026-11-06T21:46:57Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren - åpner gang- og sykkelvei langs ring 3 ved Ullevål",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-gang-og-sykkelvei-langs-ring-3-ved-ulleval/id3192008/",
    "source": "regjeringen",
-   "published": "2026-11-06T18:58:24Z",
+   "published": "2026-11-06T21:46:57Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -45,7 +45,7 @@
    "title": "Samferdselsministeren - besøker Kuben videregående skole i Oslo",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-beslker-kuben-videregaende-skole-i-oslo/id3192006/",
    "source": "regjeringen",
-   "published": "2026-11-06T18:58:24Z",
+   "published": "2026-11-06T21:46:57Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -60,12 +60,12 @@
    "upcoming": true
   },
   {
-   "id": "ad9534f18a2f",
-   "title": "Forventer opptil 20 prosent flere pakker",
-   "link": "https://www.mtlogistikk.no/hentepunkter-pakkevolumer-postnord/forventer-opptil-20-prosent-flere-pakker/1356395",
+   "id": "62746d8ca62d",
+   "title": "420 millioner kroner til batteribytte og elektriske bulkskip",
+   "link": "https://www.mtlogistikk.no/batteribytte-elektriske-bulkskip-enova/420-millioner-kroner-til-batteribytte-og-elektriske-bulkskip/1355970",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-06T18:58:24Z",
+   "seen": "2026-11-06T21:16:57Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -74,6 +74,187 @@
    "subs": [],
    "policy": false,
    "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "23bed933defd",
+   "title": "Kan bli en av Norges største",
+   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356089",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-06T21:01:57Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a19381afe33c",
+   "title": "Hapag-Lloyd extends Pakistan reefer PSS across Arabian Gulf",
+   "link": "https://container-news.com/hapag-lloyd-extends-pakistan-reefer-pss-across-arabian-gulf/",
+   "source": "containernews",
+   "published": "2026-11-06T21:00:27Z",
+   "seen": "2026-11-06T21:46:57Z",
+   "lang": "en",
+   "excerpt": "Hapag-Lloyd will apply a Peak Season Surcharge to refrigerated containers moving from Pakistan to selected destinations across the Arabian Gulf. The surcharge will cover sailings from Karachi and Port Qasim between 16 and 30 November 2026.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "reefer"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "761924529b5d",
+   "title": "Mini kjølebil med 900 kg nyttelast",
+   "link": "https://www.mtlogistikk.no/goupil-kjoleaggregat-last-mile/mini-kjolebil-med-900-kg-nyttelast/1357187",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-06T20:01:57Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "2aa12ca9b51d",
+   "title": "Why Aviation Automation Still Hasn’t Reached Small Planes",
+   "link": "https://www.freightwaves.com/news/why-aviation-automation-still-hasnt-reached-small-planes",
+   "source": "freightwaves",
+   "published": "2026-11-06T20:01:15Z",
+   "seen": "2026-11-06T21:46:57Z",
+   "lang": "en",
+   "excerpt": "Self-flying planes are closer than most aviation and freight pros think. Reliable Robotics CEO Robert Rose breaks down why small aircraft still operate with outdated systems, what true aviation automation requires, and where autonomous …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "d1856089ddab",
+   "title": "Maersk reportedly nears order for up to 24 megamax ships",
+   "link": "https://container-news.com/maersk-reportedly-nears-order-for-up-to-24-megamax-ships/",
+   "source": "containernews",
+   "published": "2026-11-06T20:00:11Z",
+   "seen": "2026-11-06T21:46:57Z",
+   "lang": "en",
+   "excerpt": "Maersk is reportedly moving closer to ordering twelve container ships of 24,000 TEUs, with options for another twelve vessels, according to DynaLiners.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner",
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "7d9ae39c6c67",
+   "title": "Forventer opptil 20 prosent flere pakker",
+   "link": "https://www.mtlogistikk.no/hentepunkter-pakkevolumer-postnord/forventer-opptil-20-prosent-flere-pakker/1357166",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-06T19:46:57Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f361ac8d22db",
+   "title": "Salvage of the MSC Baltic III Wreck Prepares to Remove Final Stern Sections",
+   "link": "https://maritime-executive.com/article/salvage-of-the-msc-baltic-iii-wreck-prepares-to-remove-final-stern-sections",
+   "source": "marex",
+   "published": "2026-11-06T19:15:14Z",
+   "seen": "2026-11-06T21:46:57Z",
+   "lang": "en",
+   "excerpt": "The salvage efforts in Newfoundland, Canada, to clear the wreck of the containership MSC Baltic III continue to report strong progress. In the latest...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "salvage",
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "453a3154198f",
+   "title": "Alfa Laval agrees to acquire NAVTOR for US$700 million",
+   "link": "https://container-news.com/alfa-laval-agrees-to-acquire-navtor-for-us700-million/",
+   "source": "containernews",
+   "published": "2026-11-06T19:00:52Z",
+   "seen": "2026-11-06T21:46:57Z",
+   "lang": "en",
+   "excerpt": "Alfa Laval has entered into a definitive agreement to acquire Norwegian maritime software company NAVTOR for US$700 million in an all-cash transaction, expanding its digital technology portfolio for the shipping industry.",
+   "segments": [
+    "road",
+    "freight",
+    "finance",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8a2b2dbd2ff5",
+   "title": "Adani Ports Makes Major Push Into Europe With $2.9 Billion Evos Acquisition",
+   "link": "https://gcaptain.com/adani-ports-makes-major-push-into-europe-with-2-9-billion-evos-acquisition/",
+   "source": "gcaptain",
+   "published": "2026-11-06T18:43:25Z",
+   "seen": "2026-11-06T21:46:57Z",
+   "lang": "en",
+   "excerpt": "India’s Adani Ports and Special Economic Zone (APSEZ) has agreed to acquire Netherlands-based liquid storage operator Evos B.V. in a €2.56 billion ($2.88 billion) deal that will give the company...",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
    "terms": [],
    "paywall": false
   },
@@ -270,6 +451,29 @@
    "paywall": false
   },
   {
+   "id": "96564a777694",
+   "title": "CLARKSONS HELLAS – SnP WEEKLY",
+   "link": "https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-17/",
+   "source": "hsn",
+   "published": "2026-11-06T18:00:41Z",
+   "seen": "2026-11-06T21:46:57Z",
+   "lang": "en",
+   "excerpt": "The main discussion over the past few months has consistently been the significant increase in Hormuz crude oil flows and the associated surge in tanker earnings.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "reports",
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
    "id": "90e87dfea2b1",
    "title": "DP World revises Türkiye–Georgia service",
    "link": "https://container-news.com/dp-world-revises-turkiye-georgia-service/",
@@ -441,6 +645,24 @@
    "paywall": false
   },
   {
+   "id": "815617dc396a",
+   "title": "STB signals broader protection for rail-served projects against state and local restrictions",
+   "link": "https://www.freightwaves.com/news/stb-signals-broader-protection-for-rail-served-projects-against-state-and-local-restrictions",
+   "source": "freightwaves",
+   "published": "2026-11-06T17:25:00Z",
+   "seen": "2026-11-06T21:46:57Z",
+   "lang": "en",
+   "excerpt": "New policy statement questions earlier decisions involving customer-owned terminals and outlines stronger arguments against taking railroad property.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
    "id": "d4e19c502735",
    "title": "U.S. Targets Cuba’s Oil Tanker Fleet in New Sanctions Crackdown",
    "link": "https://gcaptain.com/u-s-targets-cubas-oil-tanker-fleet-in-new-sanctions-crackdown/",
@@ -505,6 +727,24 @@
     "dry-bulk",
     "bunkers"
    ],
+   "paywall": false
+  },
+  {
+   "id": "dba0f2019baa",
+   "title": "Ny merketeknologi skal kutte emballasjekostnader og etikettavfall",
+   "link": "https://www.mtlogistikk.no/act-logimark-blekkstraleskriver-emballasjemerking/ny-merketeknologi-skal-kutte-emballasjekostnader-og-etikettavfall/1355748",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-06T16:46:57Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
    "paywall": false
   },
   {
@@ -574,24 +814,6 @@
    "paywall": false
   },
   {
-   "id": "e7325f94289d",
-   "title": "Kan bli en av Norges største",
-   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356197",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-06T15:43:24Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "67f8aed9f3d7",
    "title": "ANNONSØRINNHOLD FOR POSTNORD Må håndtere stort volum og strenge krav",
    "link": "https://www.mtlogistikk.no/farmasiet-lager-lagerautomatisering/ma-handtere-stort-volum-og-strenge-krav/1354065",
@@ -627,24 +849,6 @@
    "terms": [
     "forwarder"
    ],
-   "paywall": false
-  },
-  {
-   "id": "7f8a976395c8",
-   "title": "420 millioner kroner til batteribytte og elektriske bulkskip",
-   "link": "https://www.mtlogistikk.no/batteribytte-elektriske-bulkskip-enova/420-millioner-kroner-til-batteribytte-og-elektriske-bulkskip/1356177",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-06T15:28:24Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -793,42 +997,6 @@
    "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "f3249ed34de6",
-   "title": "Ny merketeknologi skal kutte emballasjekostnader og etikettavfall",
-   "link": "https://www.mtlogistikk.no/act-logimark-blekkstraleskriver-emballasjemerking/ny-merketeknologi-skal-kutte-emballasjekostnader-og-etikettavfall/1357204",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-06T14:25:35Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "3085c1fb9e1c",
-   "title": "Mini kjølebil med 900 kg nyttelast",
-   "link": "https://www.mtlogistikk.no/goupil-kjoleaggregat-last-mile/mini-kjolebil-med-900-kg-nyttelast/1356597",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-06T14:13:24Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -15857,32 +16025,6 @@
    "paywall": false
   },
   {
-   "id": "1116675bc05b",
-   "title": "CLARKSONS HELLAS – SnP WEEKLY",
-   "link": "https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-16/",
-   "source": "hsn",
-   "published": "2026-10-30T18:00:20Z",
-   "seen": "2026-10-30T21:44:40Z",
-   "lang": "en",
-   "excerpt": "This week, tanker activity has increased compared with the previous few weeks across most segments. VLCC spot rates appear to have established a near-term floor of around $500,000/day, with the global average across the mainstream roots …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "reports",
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "vlcc",
-    "spot-market",
-    "product-tanker",
-    "tce"
-   ],
-   "paywall": false
-  },
-  {
    "id": "91cb069eeaec",
    "title": "Five Rescued, One Died in Tugboat Fire off Japan",
    "link": "https://maritime-executive.com/article/five-rescued-one-died-in-tugboat-fire-off-japan",
@@ -18130,150 +18272,6 @@
    ],
    "subs": [],
    "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "3c027eb89a0e",
-   "title": "Boluda Shipping signs agreement to acquire Samskip and jointly build Europe’s leading short-sea network",
-   "link": "https://www.hellenicshippingnews.com/boluda-shipping-signs-agreement-to-acquire-samskip-and-jointly-build-europes-leading-short-sea-network/",
-   "source": "hsn",
-   "published": "2026-10-29T22:00:35Z",
-   "seen": "2026-10-30T01:04:33Z",
-   "lang": "en",
-   "excerpt": "Boluda Shipping and Samskip have signed an agreement under which Boluda Shipping will acquire Samskip. The acquisition will pave the way for Europe’s most comprehensive short-sea shipping network, connecting Northern Europe with the …",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "71d1905bebc3",
-   "title": "NatPower Marine and ZEBOX partner to accelerate the deployment of maritime energy infrastructure",
-   "link": "https://www.hellenicshippingnews.com/natpower-marine-and-zebox-partner-to-accelerate-the-deployment-of-maritime-energy-infrastructure/",
-   "source": "hsn",
-   "published": "2026-10-29T22:00:33Z",
-   "seen": "2026-10-30T01:04:33Z",
-   "lang": "en",
-   "excerpt": "ZEBOX and NatPower Marine announce a strategic partnership to accelerate the development and deployment of energy infrastructure supporting the decarbonization and electrification of ports and maritime transport.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "ce2f14a0576b",
-   "title": "FuelTech launches next-generation Gas Valve Train Mk V for LNG propulsion",
-   "link": "https://www.hellenicshippingnews.com/fueltech-launches-next-generation-gas-valve-train-mk-v-for-lng-propulsion/",
-   "source": "hsn",
-   "published": "2026-10-29T22:00:31Z",
-   "seen": "2026-10-30T01:04:33Z",
-   "lang": "en",
-   "excerpt": "Developed for Everllence’s ME-GI 10.7 engine platform, the new Gas Valve Train Mk V builds on more than a decade of commercial GVT experience, introducing higher pressure capability alongside improvements in reliability and serviceability.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "3e9452946af1",
-   "title": "COSCO SHIPPING Ports Announces 2026 Third Quarter Results",
-   "link": "https://www.hellenicshippingnews.com/cosco-shipping-ports-announces-2026-third-quarter-results/",
-   "source": "hsn",
-   "published": "2026-10-29T22:00:29Z",
-   "seen": "2026-10-30T01:04:33Z",
-   "lang": "en",
-   "excerpt": "COSCO SHIPPING Ports Limited, the world’s leading ports logistics service provider, today announced the results of the Company and its subsidiaries (the ‘Group’) for the 3 months and 9 months ended 30 September 2026.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "teu"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "73b77a0df8f0",
-   "title": "First look: TFI Truckload sparkles, but OR at LTL slips",
-   "link": "https://www.freightwaves.com/news/first-look-tfi-truckload-sparkles-but-or-at-ltl-slips",
-   "source": "freightwaves",
-   "published": "2026-10-29T21:38:24Z",
-   "seen": "2026-10-29T21:50:04Z",
-   "lang": "en",
-   "excerpt": "TFI International has tried to get investors to take notice of its Truckload operations, which are substantial but smaller than its more better-known LTL segment.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "ftl",
-    "ltl"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "b3a9702decc5",
-   "title": "First look: Covenant Logistics’ Q3 freight revenue surges 68%",
-   "link": "https://www.freightwaves.com/news/first-look-covenant-logistics-q3-freight-revenue-surges-68",
-   "source": "freightwaves",
-   "published": "2026-10-29T21:15:36Z",
-   "seen": "2026-10-29T21:50:04Z",
-   "lang": "en",
-   "excerpt": "Covenant Logistics Group reported a 19.2% increase in third-quarter revenue to $353.9 million, fueled by rapid growth in its managed freight segment.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "covenant"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "609c8ff4e9e9",
-   "title": "Southern Tyrrhenian and Ionian Sea port authority approves 2027 budget",
-   "link": "https://container-news.com/southern-tyrrhenian-and-ionian-sea-port-authority-approves-2027-budget/",
-   "source": "containernews",
-   "published": "2026-10-29T21:00:35Z",
-   "seen": "2026-10-29T21:50:04Z",
-   "lang": "en",
-   "excerpt": "The Management Committee of the Southern Tyrrhenian and Ionian Sea Port System Authority has adopted the 2027 Budget forecast and the 2027-2029 Three-Year Public Works Programme, outlining a significant investment programme across the …",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [],
-   "policy": true,
    "level": "international",
    "terms": [],
    "paywall": false
