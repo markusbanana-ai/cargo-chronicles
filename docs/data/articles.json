@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T01:04:31Z",
+ "updated": "2026-11-07T03:55:33Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren - besøker Sporveien; selvkjørende trikk på Holtet i Oslo",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-besoker-sporveien-selvkjorende-trikk-pa-holtet-i-oslo/id3192007/",
    "source": "regjeringen",
-   "published": "2026-11-07T01:04:31Z",
+   "published": "2026-11-07T03:55:33Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren - åpner gang- og sykkelvei langs ring 3 ved Ullevål",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-gang-og-sykkelvei-langs-ring-3-ved-ulleval/id3192008/",
    "source": "regjeringen",
-   "published": "2026-11-07T01:04:31Z",
+   "published": "2026-11-07T03:55:33Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -45,7 +45,7 @@
    "title": "Samferdselsministeren - besøker Kuben videregående skole i Oslo",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-beslker-kuben-videregaende-skole-i-oslo/id3192006/",
    "source": "regjeringen",
-   "published": "2026-11-07T01:04:31Z",
+   "published": "2026-11-07T03:55:33Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -60,12 +60,66 @@
    "upcoming": true
   },
   {
-   "id": "ad9534f18a2f",
-   "title": "Forventer opptil 20 prosent flere pakker",
-   "link": "https://www.mtlogistikk.no/hentepunkter-pakkevolumer-postnord/forventer-opptil-20-prosent-flere-pakker/1356395",
+   "id": "23bed933defd",
+   "title": "Kan bli en av Norges største",
+   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356089",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-07T01:04:31Z",
+   "seen": "2026-11-07T03:10:33Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "0602954f7203",
+   "title": "Singapore and Norway launch third joint research grant call on greener shipping",
+   "link": "https://container-news.com/singapore-and-norway-launch-third-joint-research-grant-call-on-greener-shipping/",
+   "source": "containernews",
+   "published": "2026-11-07T02:10:59Z",
+   "seen": "2026-11-07T03:55:33Z",
+   "lang": "en",
+   "excerpt": "The Maritime and Port Authority of Singapore, the Research Council of Norway and the Singapore Maritime Institute have launched a joint research grant call to develop solutions supporting the decarbonisation of international shipping.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "761924529b5d",
+   "title": "Mini kjølebil med 900 kg nyttelast",
+   "link": "https://www.mtlogistikk.no/goupil-kjoleaggregat-last-mile/mini-kjolebil-med-900-kg-nyttelast/1357187",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-07T01:40:33Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "7d9ae39c6c67",
+   "title": "Forventer opptil 20 prosent flere pakker",
+   "link": "https://www.mtlogistikk.no/hentepunkter-pakkevolumer-postnord/forventer-opptil-20-prosent-flere-pakker/1357166",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-07T01:25:33Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -618,24 +672,6 @@
    "paywall": false
   },
   {
-   "id": "e7325f94289d",
-   "title": "Kan bli en av Norges største",
-   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356197",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-06T21:19:31Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "62746d8ca62d",
    "title": "420 millioner kroner til batteribytte og elektriske bulkskip",
    "link": "https://www.mtlogistikk.no/batteribytte-elektriske-bulkskip-enova/420-millioner-kroner-til-batteribytte-og-elektriske-bulkskip/1355970",
@@ -673,24 +709,6 @@
    "terms": [
     "reefer"
    ],
-   "paywall": false
-  },
-  {
-   "id": "3085c1fb9e1c",
-   "title": "Mini kjølebil med 900 kg nyttelast",
-   "link": "https://www.mtlogistikk.no/goupil-kjoleaggregat-last-mile/mini-kjolebil-med-900-kg-nyttelast/1356597",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-06T20:19:31Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -1266,6 +1284,27 @@
     "dual-fuel",
     "dry-bulk",
     "bunkers"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "0809da6ccb40",
+   "title": "RINA & Petrobras €11M Contract for Subsea Engineering & Decommissioning",
+   "link": "https://maritime-executive.com/article/rina-petrobras-11m-contract-for-subsea-engineering-decommissioning",
+   "source": "marex",
+   "published": "2026-11-06T16:52:01Z",
+   "seen": "2026-11-05T19:00:50Z",
+   "lang": "en",
+   "excerpt": "RINA, the global inspection, certification and consulting engineering multinational group, has signed a three-year €11 million contract with Petrobras...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "class-society",
+    "decommissioning"
    ],
    "paywall": false
   },
@@ -4044,27 +4083,6 @@
    "level": "international",
    "terms": [
     "imo"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "0809da6ccb40",
-   "title": "RINA & Petrobras €11M Contract for Subsea Engineering & Decommissioning",
-   "link": "https://maritime-executive.com/article/rina-petrobras-11m-contract-for-subsea-engineering-decommissioning",
-   "source": "marex",
-   "published": "2026-11-05T16:52:01Z",
-   "seen": "2026-11-05T19:00:50Z",
-   "lang": "en",
-   "excerpt": "RINA, the global inspection, certification and consulting engineering multinational group, has signed a three-year €11 million contract with Petrobras...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "class-society",
-    "decommissioning"
    ],
    "paywall": false
   },
@@ -18258,24 +18276,6 @@
     "baltic-exchange",
     "dwt"
    ],
-   "paywall": false
-  },
-  {
-   "id": "324ea57d4494",
-   "title": "Port of NY/NJ appoints PATH leadership team",
-   "link": "https://container-news.com/port-of-ny-nj-appoints-path-leadership-team/",
-   "source": "containernews",
-   "published": "2026-10-30T02:55:09Z",
-   "seen": "2026-10-30T03:53:41Z",
-   "lang": "en",
-   "excerpt": "The Port Authority of New York and New Jersey has announced that PATH Director and General Manager Clarelle DeGraffe will retire at the end of 2026 after more than 37 years with the agency, the last seven leading the PATH rail transit …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
    "paywall": false
   }
  ]
