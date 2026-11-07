@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T12:56:33Z",
+ "updated": "2026-11-07T15:45:07Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren - besøker Sporveien; selvkjørende trikk på Holtet i Oslo",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-besoker-sporveien-selvkjorende-trikk-pa-holtet-i-oslo/id3192007/",
    "source": "regjeringen",
-   "published": "2026-11-07T12:56:33Z",
+   "published": "2026-11-07T15:45:07Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren - åpner gang- og sykkelvei langs ring 3 ved Ullevål",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-gang-og-sykkelvei-langs-ring-3-ved-ulleval/id3192008/",
    "source": "regjeringen",
-   "published": "2026-11-07T12:56:33Z",
+   "published": "2026-11-07T15:45:07Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -45,7 +45,7 @@
    "title": "Samferdselsministeren - besøker Kuben videregående skole i Oslo",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-beslker-kuben-videregaende-skole-i-oslo/id3192006/",
    "source": "regjeringen",
-   "published": "2026-11-07T12:56:33Z",
+   "published": "2026-11-07T15:45:07Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -60,12 +60,12 @@
    "upcoming": true
   },
   {
-   "id": "ad9534f18a2f",
-   "title": "Forventer opptil 20 prosent flere pakker",
-   "link": "https://www.mtlogistikk.no/hentepunkter-pakkevolumer-postnord/forventer-opptil-20-prosent-flere-pakker/1356395",
+   "id": "23bed933defd",
+   "title": "Kan bli en av Norges største",
+   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356089",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-07T12:56:33Z",
+   "seen": "2026-11-07T15:00:07Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -74,6 +74,119 @@
    "subs": [],
    "policy": false,
    "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4aa5fda1a795",
+   "title": "LA Port Strike Threat Deferred Again As Labor Talks Drag On",
+   "link": "https://gcaptain.com/la-port-strike-threat-deferred-again-as-labor-talks-drag-on/",
+   "source": "gcaptain",
+   "published": "2026-11-07T13:57:29Z",
+   "seen": "2026-11-07T15:45:07Z",
+   "lang": "en",
+   "excerpt": "By Laura Curtis Nov 7, 2026 (Bloomberg) –The union representing about 250 security workers at the US’s busiest ports agreed to continue negotiations on a new labor contract for two more...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f3249ed34de6",
+   "title": "Ny merketeknologi skal kutte emballasjekostnader og etikettavfall",
+   "link": "https://www.mtlogistikk.no/act-logimark-blekkstraleskriver-emballasjemerking/ny-merketeknologi-skal-kutte-emballasjekostnader-og-etikettavfall/1357204",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-07T13:45:07Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "82f9d2a32c3d",
+   "title": "Soaring Freight Rates Give US Refiners Edge As Crude Discounts Widen",
+   "link": "https://gcaptain.com/soaring-freight-rates-give-us-refiners-edge-as-crude-discounts-widen/",
+   "source": "gcaptain",
+   "published": "2026-11-07T13:36:17Z",
+   "seen": "2026-11-07T15:45:07Z",
+   "lang": "en",
+   "excerpt": "By Vallari Srivastava and Sumit Saha Nov 6 (Reuters) – The Iran conflict has sent tanker rates soaring, forcing sellers to deepen discounts on heavy crude grades and giving US Gulf Coast...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "761924529b5d",
+   "title": "Mini kjølebil med 900 kg nyttelast",
+   "link": "https://www.mtlogistikk.no/goupil-kjoleaggregat-last-mile/mini-kjolebil-med-900-kg-nyttelast/1357187",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-07T13:30:07Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "7d9ae39c6c67",
+   "title": "Forventer opptil 20 prosent flere pakker",
+   "link": "https://www.mtlogistikk.no/hentepunkter-pakkevolumer-postnord/forventer-opptil-20-prosent-flere-pakker/1357166",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-07T13:15:07Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "d2900cada0ec",
+   "title": "Big carriers keep FMCSA’s crackdown alive, Fuller says",
+   "link": "https://www.freightwaves.com/news/fuller-big-carriers-fmcsa-crackdown-permanent",
+   "source": "freightwaves",
+   "published": "2026-11-07T13:00:00Z",
+   "seen": "2026-11-07T15:45:07Z",
+   "lang": "en",
+   "excerpt": "FreightWaves' CEO told Optym Convergence non-domiciled CDL holders were probably the main reason the downturn dragged on, and that enforcement will outlast any change in Washingto",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
    "terms": [],
    "paywall": false
   },
@@ -142,42 +255,6 @@
    "paywall": false
   },
   {
-   "id": "e7325f94289d",
-   "title": "Kan bli en av Norges største",
-   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356197",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-07T09:11:33Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "3085c1fb9e1c",
-   "title": "Mini kjølebil med 900 kg nyttelast",
-   "link": "https://www.mtlogistikk.no/goupil-kjoleaggregat-last-mile/mini-kjolebil-med-900-kg-nyttelast/1356597",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-07T08:11:33Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "88b90842ef38",
    "title": "GT LINES strengthens UAE–China shipping cooperation",
    "link": "https://container-news.com/gt-lines-strengthens-uae-china-shipping-cooperation/",
@@ -194,24 +271,6 @@
    ],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "dba0f2019baa",
-   "title": "Ny merketeknologi skal kutte emballasjekostnader og etikettavfall",
-   "link": "https://www.mtlogistikk.no/act-logimark-blekkstraleskriver-emballasjemerking/ny-merketeknologi-skal-kutte-emballasjekostnader-og-etikettavfall/1355748",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-07T07:56:33Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18215,65 +18274,6 @@
    "level": "international",
    "terms": [
     "chokepoint"
-   ],
-   "paywall": true
-  },
-  {
-   "id": "d1e34c342bce",
-   "title": "US Senator says Trump ending ban on Russian diesel imports is not valid",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/us-senator-says-trump-ending-ban-on-russian-diesel-imports-is-not-valid/",
-   "source": "imn",
-   "published": "2026-10-30T06:42:25Z",
-   "seen": "2026-10-30T07:02:55Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "road",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "65c542ddf7e5",
-   "title": "Institute of Chartered Shipbrokers appoints first female president",
-   "link": "https://splash247.com/institute-of-chartered-shipbrokers-appoints-first-female-president/",
-   "source": "splash",
-   "published": "2026-10-30T06:42:21Z",
-   "seen": "2026-10-30T07:02:55Z",
-   "lang": "en",
-   "excerpt": "Greek shipping education specialist Natalia Margioli-Komninou has become the first woman to lead the Institute of Chartered Shipbrokers (ICS) in its 115-year history.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "shipbroker"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "715593805460",
-   "title": "Newbuilds, “revitalize”, or redeploy? Cruise companies strategize for next few years",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/newbuilds-revitalize-or-redeploy-cruise-companies-strategize-for-next-few-years/",
-   "source": "imn",
-   "published": "2026-10-30T06:41:32Z",
-   "seen": "2026-10-30T07:02:55Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "newbuilding"
    ],
    "paywall": true
   }
