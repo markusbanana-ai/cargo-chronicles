@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T07:03:53Z",
+ "updated": "2026-11-07T09:52:57Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren - besøker Sporveien; selvkjørende trikk på Holtet i Oslo",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-besoker-sporveien-selvkjorende-trikk-pa-holtet-i-oslo/id3192007/",
    "source": "regjeringen",
-   "published": "2026-11-07T07:03:53Z",
+   "published": "2026-11-07T09:52:57Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren - åpner gang- og sykkelvei langs ring 3 ved Ullevål",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-gang-og-sykkelvei-langs-ring-3-ved-ulleval/id3192008/",
    "source": "regjeringen",
-   "published": "2026-11-07T07:03:53Z",
+   "published": "2026-11-07T09:52:57Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -45,7 +45,7 @@
    "title": "Samferdselsministeren - besøker Kuben videregående skole i Oslo",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-beslker-kuben-videregaende-skole-i-oslo/id3192006/",
    "source": "regjeringen",
-   "published": "2026-11-07T07:03:53Z",
+   "published": "2026-11-07T09:52:57Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -60,12 +60,86 @@
    "upcoming": true
   },
   {
-   "id": "ad9534f18a2f",
-   "title": "Forventer opptil 20 prosent flere pakker",
-   "link": "https://www.mtlogistikk.no/hentepunkter-pakkevolumer-postnord/forventer-opptil-20-prosent-flere-pakker/1356395",
+   "id": "23bed933defd",
+   "title": "Kan bli en av Norges største",
+   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356089",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-07T07:03:53Z",
+   "seen": "2026-11-07T09:07:57Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "88b90842ef38",
+   "title": "GT LINES strengthens UAE–China shipping cooperation",
+   "link": "https://container-news.com/gt-lines-strengthens-uae-china-shipping-cooperation/",
+   "source": "containernews",
+   "published": "2026-11-07T08:00:45Z",
+   "seen": "2026-11-07T09:52:57Z",
+   "lang": "en",
+   "excerpt": "GT LINES, the container shipping division of Gulftainer Group, has expanded cooperation with leading Chinese shipping companies to reinforce supply chain continuity and connectivity between Asia and the Middle East.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f3249ed34de6",
+   "title": "Ny merketeknologi skal kutte emballasjekostnader og etikettavfall",
+   "link": "https://www.mtlogistikk.no/act-logimark-blekkstraleskriver-emballasjemerking/ny-merketeknologi-skal-kutte-emballasjekostnader-og-etikettavfall/1357204",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-07T07:52:57Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "761924529b5d",
+   "title": "Mini kjølebil med 900 kg nyttelast",
+   "link": "https://www.mtlogistikk.no/goupil-kjoleaggregat-last-mile/mini-kjolebil-med-900-kg-nyttelast/1357187",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-07T07:37:57Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "7d9ae39c6c67",
+   "title": "Forventer opptil 20 prosent flere pakker",
+   "link": "https://www.mtlogistikk.no/hentepunkter-pakkevolumer-postnord/forventer-opptil-20-prosent-flere-pakker/1357166",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-07T07:22:57Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -99,42 +173,6 @@
    "paywall": false
   },
   {
-   "id": "e7325f94289d",
-   "title": "Kan bli en av Norges største",
-   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356197",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-07T03:18:53Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "3085c1fb9e1c",
-   "title": "Mini kjølebil med 900 kg nyttelast",
-   "link": "https://www.mtlogistikk.no/goupil-kjoleaggregat-last-mile/mini-kjolebil-med-900-kg-nyttelast/1356597",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-07T02:18:53Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "0602954f7203",
    "title": "Singapore and Norway launch third joint research grant call on greener shipping",
    "link": "https://container-news.com/singapore-and-norway-launch-third-joint-research-grant-call-on-greener-shipping/",
@@ -145,24 +183,6 @@
    "excerpt": "The Maritime and Port Authority of Singapore, the Research Council of Norway and the Singapore Maritime Institute have launched a joint research grant call to develop solutions supporting the decarbonisation of international shipping.",
    "segments": [
     "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "dba0f2019baa",
-   "title": "Ny merketeknologi skal kutte emballasjekostnader og etikettavfall",
-   "link": "https://www.mtlogistikk.no/act-logimark-blekkstraleskriver-emballasjemerking/ny-merketeknologi-skal-kutte-emballasjekostnader-og-etikettavfall/1355748",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-07T02:03:53Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
    ],
    "subs": [],
    "policy": false,
@@ -18247,29 +18267,6 @@
    "level": "international",
    "terms": [
     "mna"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "e31a08238fce",
-   "title": "Texas Offshore LNG Terminal Speeds Towards Development",
-   "link": "https://maritime-executive.com/article/texas-offshore-lng-terminal-speeds-towards-development",
-   "source": "marex",
-   "published": "2026-10-30T03:22:33Z",
-   "seen": "2026-10-30T09:56:48Z",
-   "lang": "en",
-   "excerpt": "A proposed LNG terminal slated for development off the coast of Texas could be the fastest-moving project of its kind in the United States. ST LNG, a...",
-   "segments": [
-    "freight",
-    "offshore"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng"
    ],
    "paywall": false
   }
