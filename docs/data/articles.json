@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T09:52:57Z",
+ "updated": "2026-11-07T12:56:33Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren - besøker Sporveien; selvkjørende trikk på Holtet i Oslo",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-besoker-sporveien-selvkjorende-trikk-pa-holtet-i-oslo/id3192007/",
    "source": "regjeringen",
-   "published": "2026-11-07T09:52:57Z",
+   "published": "2026-11-07T12:56:33Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren - åpner gang- og sykkelvei langs ring 3 ved Ullevål",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-gang-og-sykkelvei-langs-ring-3-ved-ulleval/id3192008/",
    "source": "regjeringen",
-   "published": "2026-11-07T09:52:57Z",
+   "published": "2026-11-07T12:56:33Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -45,7 +45,7 @@
    "title": "Samferdselsministeren - besøker Kuben videregående skole i Oslo",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-beslker-kuben-videregaende-skole-i-oslo/id3192006/",
    "source": "regjeringen",
-   "published": "2026-11-07T09:52:57Z",
+   "published": "2026-11-07T12:56:33Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -60,12 +60,112 @@
    "upcoming": true
   },
   {
-   "id": "23bed933defd",
-   "title": "Kan bli en av Norges største",
-   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356089",
+   "id": "ad9534f18a2f",
+   "title": "Forventer opptil 20 prosent flere pakker",
+   "link": "https://www.mtlogistikk.no/hentepunkter-pakkevolumer-postnord/forventer-opptil-20-prosent-flere-pakker/1356395",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-07T09:07:57Z",
+   "seen": "2026-11-07T12:56:33Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "53941493809e",
+   "title": "Compromised communications linked to 40% of stolen loads in Highway fraud report",
+   "link": "https://www.freightwaves.com/news/compromised-communications-linked-to-40-of-stolen-loads-in-highway-fraud-report",
+   "source": "freightwaves",
+   "published": "2026-11-07T12:16:29Z",
+   "seen": "2026-11-07T12:56:33Z",
+   "lang": "en",
+   "excerpt": "A new freight fraud report identifies a striking license-related pattern among direct theft incidents. Meanwhile, fraudulent calls surged 90%, and carrier ownership reports more than doubled.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "e65cf5a5ad36",
+   "title": "Two new quay cranes strengthen port Botany’s capability",
+   "link": "https://container-news.com/two-new-quay-cranes-strengthen-port-botanys-capability/",
+   "source": "containernews",
+   "published": "2026-11-07T12:00:07Z",
+   "seen": "2026-11-07T12:56:33Z",
+   "lang": "en",
+   "excerpt": "Hutchison Ports Sydney is now operating two new ship-to-shore cranes at its Port Botany terminal. The cranes are designed to serve vessels carrying more than 15,000 TEU, with each able to reach across ships up to 23 containers wide and to …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "40e655bb5f08",
+   "title": "PIL replaces Djibouti with Jeddah on IR5 service",
+   "link": "https://container-news.com/pil-replaces-djibouti-with-jeddah-on-ir5-service/",
+   "source": "containernews",
+   "published": "2026-11-07T10:00:05Z",
+   "seen": "2026-11-07T12:56:33Z",
+   "lang": "en",
+   "excerpt": "Pacific International Lines (PIL) will replace Djibouti with Jeddah on its intra-Red Sea IR5 service, according to DynaLiners. The weekly service connects Saudi Arabia with Sudan and Yemen.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint",
+    "liner",
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "e7325f94289d",
+   "title": "Kan bli en av Norges største",
+   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356197",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-07T09:11:33Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "3085c1fb9e1c",
+   "title": "Mini kjølebil med 900 kg nyttelast",
+   "link": "https://www.mtlogistikk.no/goupil-kjoleaggregat-last-mile/mini-kjolebil-med-900-kg-nyttelast/1356597",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-07T08:11:33Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -98,48 +198,12 @@
    "paywall": false
   },
   {
-   "id": "f3249ed34de6",
+   "id": "dba0f2019baa",
    "title": "Ny merketeknologi skal kutte emballasjekostnader og etikettavfall",
-   "link": "https://www.mtlogistikk.no/act-logimark-blekkstraleskriver-emballasjemerking/ny-merketeknologi-skal-kutte-emballasjekostnader-og-etikettavfall/1357204",
+   "link": "https://www.mtlogistikk.no/act-logimark-blekkstraleskriver-emballasjemerking/ny-merketeknologi-skal-kutte-emballasjekostnader-og-etikettavfall/1355748",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-07T07:52:57Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "761924529b5d",
-   "title": "Mini kjølebil med 900 kg nyttelast",
-   "link": "https://www.mtlogistikk.no/goupil-kjoleaggregat-last-mile/mini-kjolebil-med-900-kg-nyttelast/1357187",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-07T07:37:57Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "7d9ae39c6c67",
-   "title": "Forventer opptil 20 prosent flere pakker",
-   "link": "https://www.mtlogistikk.no/hentepunkter-pakkevolumer-postnord/forventer-opptil-20-prosent-flere-pakker/1357166",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-07T07:22:57Z",
+   "seen": "2026-11-07T07:56:33Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -18212,63 +18276,6 @@
     "newbuilding"
    ],
    "paywall": true
-  },
-  {
-   "id": "47a2684affe1",
-   "title": "DP World looking to develop trade through Churchill in northern Canada",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/dp-world-looking-to-develop-trade-through-churchill-in-northern-canada/",
-   "source": "imn",
-   "published": "2026-10-30T06:40:36Z",
-   "seen": "2026-10-30T07:02:55Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "f50ad3671058",
-   "title": "CVC takes majority stake in Spanish ship repair yard Cernaval",
-   "link": "https://splash247.com/cvc-takes-majority-stake-in-spanish-ship-repair-yard-cernaval/",
-   "source": "splash",
-   "published": "2026-10-30T06:13:54Z",
-   "seen": "2026-10-30T09:56:48Z",
-   "lang": "en",
-   "excerpt": "Infrastructure investor CVC DIF has completed the acquisition of a majority stake in Spanish ship repair specialist Cernaval, giving the private equity group a foothold in one of Europe’s busiest maritime crossroads.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "b4ff4c8405a6",
-   "title": "ABP strengthens Humber logistics capabilities",
-   "link": "https://container-news.com/abp-strengthens-humber-logistics-capabilities/",
-   "source": "containernews",
-   "published": "2026-10-30T06:00:13Z",
-   "seen": "2026-10-30T07:02:55Z",
-   "lang": "en",
-   "excerpt": "Associated British Ports has acquired Global Shipping Services, a leading provider of stevedoring, warehousing, storage and port agency services across the Humber region, extending the range of integrated solutions ABP can offer customers …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "mna"
-   ],
-   "paywall": false
   }
  ]
 }
