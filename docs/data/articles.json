@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T03:55:33Z",
+ "updated": "2026-11-07T07:03:53Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren - besøker Sporveien; selvkjørende trikk på Holtet i Oslo",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-besoker-sporveien-selvkjorende-trikk-pa-holtet-i-oslo/id3192007/",
    "source": "regjeringen",
-   "published": "2026-11-07T03:55:33Z",
+   "published": "2026-11-07T07:03:53Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren - åpner gang- og sykkelvei langs ring 3 ved Ullevål",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-gang-og-sykkelvei-langs-ring-3-ved-ulleval/id3192008/",
    "source": "regjeringen",
-   "published": "2026-11-07T03:55:33Z",
+   "published": "2026-11-07T07:03:53Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -45,7 +45,7 @@
    "title": "Samferdselsministeren - besøker Kuben videregående skole i Oslo",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-beslker-kuben-videregaende-skole-i-oslo/id3192006/",
    "source": "regjeringen",
-   "published": "2026-11-07T03:55:33Z",
+   "published": "2026-11-07T07:03:53Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -60,12 +60,69 @@
    "upcoming": true
   },
   {
-   "id": "23bed933defd",
-   "title": "Kan bli en av Norges største",
-   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356089",
+   "id": "ad9534f18a2f",
+   "title": "Forventer opptil 20 prosent flere pakker",
+   "link": "https://www.mtlogistikk.no/hentepunkter-pakkevolumer-postnord/forventer-opptil-20-prosent-flere-pakker/1356395",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-07T03:10:33Z",
+   "seen": "2026-11-07T07:03:53Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "e4acda11fe27",
+   "title": "APSEZ to acquire Evos B.V. liquid storage operator",
+   "link": "https://container-news.com/apsez-to-acquire-evos-b-v-liquid-storage-operator/",
+   "source": "containernews",
+   "published": "2026-11-07T04:03:01Z",
+   "seen": "2026-11-07T07:03:53Z",
+   "lang": "en",
+   "excerpt": "Adani Ports and Special Economic Zone has agreed to acquire 100% of Netherlands-headquartered Evos B.V. from Igneo Infrastructure Partners in an all-cash transaction at an enterprise value of EUR 2.56 billion.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ebitda"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "e7325f94289d",
+   "title": "Kan bli en av Norges største",
+   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356197",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-07T03:18:53Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "3085c1fb9e1c",
+   "title": "Mini kjølebil med 900 kg nyttelast",
+   "link": "https://www.mtlogistikk.no/goupil-kjoleaggregat-last-mile/mini-kjolebil-med-900-kg-nyttelast/1356597",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-07T02:18:53Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -96,30 +153,12 @@
    "paywall": false
   },
   {
-   "id": "761924529b5d",
-   "title": "Mini kjølebil med 900 kg nyttelast",
-   "link": "https://www.mtlogistikk.no/goupil-kjoleaggregat-last-mile/mini-kjolebil-med-900-kg-nyttelast/1357187",
+   "id": "dba0f2019baa",
+   "title": "Ny merketeknologi skal kutte emballasjekostnader og etikettavfall",
+   "link": "https://www.mtlogistikk.no/act-logimark-blekkstraleskriver-emballasjemerking/ny-merketeknologi-skal-kutte-emballasjekostnader-og-etikettavfall/1355748",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-07T01:40:33Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "7d9ae39c6c67",
-   "title": "Forventer opptil 20 prosent flere pakker",
-   "link": "https://www.mtlogistikk.no/hentepunkter-pakkevolumer-postnord/forventer-opptil-20-prosent-flere-pakker/1357166",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-07T01:25:33Z",
+   "seen": "2026-11-07T02:03:53Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -215,24 +254,6 @@
    "source": "mtlogistikk",
    "published": null,
    "seen": "2026-11-06T23:19:31Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "f3249ed34de6",
-   "title": "Ny merketeknologi skal kutte emballasjekostnader og etikettavfall",
-   "link": "https://www.mtlogistikk.no/act-logimark-blekkstraleskriver-emballasjemerking/ny-merketeknologi-skal-kutte-emballasjekostnader-og-etikettavfall/1357204",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-06T23:04:31Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -18249,32 +18270,6 @@
    "level": "international",
    "terms": [
     "lng"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "559e5887574e",
-   "title": "The morning after: what December’s IMO vote means for a fixture",
-   "link": "https://splash247.com/the-morning-after-what-decembers-imo-vote-means-for-a-fixture/",
-   "source": "splash",
-   "published": "2026-10-30T03:00:00Z",
-   "seen": "2026-10-29T21:50:04Z",
-   "lang": "en",
-   "excerpt": "Whatever the IMO decides in December, a broker will price a dry bulk trip the next morning. The vote changes which line of that fixture carries the carbon, and how much. Argyris Zafeiropoulos from Resilience & Compliance Advisory explains.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "imo",
-    "fixture",
-    "dry-bulk",
-    "baltic-exchange",
-    "dwt"
    ],
    "paywall": false
   }
