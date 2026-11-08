@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T12:57:26Z",
+ "updated": "2026-11-08T15:43:44Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren - besøker Sporveien; selvkjørende trikk på Holtet i Oslo",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-besoker-sporveien-selvkjorende-trikk-pa-holtet-i-oslo/id3192007/",
    "source": "regjeringen",
-   "published": "2026-11-08T12:57:26Z",
+   "published": "2026-11-08T15:43:44Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren - åpner gang- og sykkelvei langs ring 3 ved Ullevål",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-gang-og-sykkelvei-langs-ring-3-ved-ulleval/id3192008/",
    "source": "regjeringen",
-   "published": "2026-11-08T12:57:26Z",
+   "published": "2026-11-08T15:43:44Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -45,7 +45,7 @@
    "title": "Samferdselsministeren - besøker Kuben videregående skole i Oslo",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-beslker-kuben-videregaende-skole-i-oslo/id3192006/",
    "source": "regjeringen",
-   "published": "2026-11-08T12:57:26Z",
+   "published": "2026-11-08T15:43:44Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -60,12 +60,12 @@
    "upcoming": true
   },
   {
-   "id": "ad9534f18a2f",
-   "title": "Forventer opptil 20 prosent flere pakker",
-   "link": "https://www.mtlogistikk.no/hentepunkter-pakkevolumer-postnord/forventer-opptil-20-prosent-flere-pakker/1356395",
+   "id": "23bed933defd",
+   "title": "Kan bli en av Norges største",
+   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356089",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-08T12:57:26Z",
+   "seen": "2026-11-08T14:58:44Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -75,6 +75,125 @@
    "policy": false,
    "level": "national",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "e198d6e0d8bb",
+   "title": "Egypt Deepens Gas Cuts To Fertilizer Makers As Energy Squeeze Tightens",
+   "link": "https://gcaptain.com/egypt-deepens-gas-cuts-to-fertilizer-makers-as-energy-squeeze-tightens/",
+   "source": "gcaptain",
+   "published": "2026-11-08T14:13:19Z",
+   "seen": "2026-11-08T15:43:44Z",
+   "lang": "en",
+   "excerpt": "CAIRO, Nov 8 (Reuters) – Egyptian fertilizer producers have been notified of a new 33% reduction in their natural gas supplies, a company statement and industry officials said on Sunday, as the...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f3249ed34de6",
+   "title": "Ny merketeknologi skal kutte emballasjekostnader og etikettavfall",
+   "link": "https://www.mtlogistikk.no/act-logimark-blekkstraleskriver-emballasjemerking/ny-merketeknologi-skal-kutte-emballasjekostnader-og-etikettavfall/1357204",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-08T13:43:44Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f265b845cf6a",
+   "title": "Oil Traders In Talks With US To Get Sanctioned Ships Back To Sea",
+   "link": "https://gcaptain.com/oil-traders-in-talks-with-us-to-get-sanctioned-ships-back-to-sea/",
+   "source": "gcaptain",
+   "published": "2026-11-08T13:40:32Z",
+   "seen": "2026-11-08T15:43:44Z",
+   "lang": "en",
+   "excerpt": "By Lucia Kassai, Devika Krishna Kumar, Charles Gorrivan and Archie Hunter Nov 8, 2026 (Bloomberg) –Oil traders are seeking approval from the US government to use some tankers that were sanctioned...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "sanctions"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "761924529b5d",
+   "title": "Mini kjølebil med 900 kg nyttelast",
+   "link": "https://www.mtlogistikk.no/goupil-kjoleaggregat-last-mile/mini-kjolebil-med-900-kg-nyttelast/1357187",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-08T13:28:44Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "7d9ae39c6c67",
+   "title": "Forventer opptil 20 prosent flere pakker",
+   "link": "https://www.mtlogistikk.no/hentepunkter-pakkevolumer-postnord/forventer-opptil-20-prosent-flere-pakker/1357166",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-08T13:13:44Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a84aece704a7",
+   "title": "Maersk revises PSS from Indian Subcontinent to North America",
+   "link": "https://container-news.com/maersk-revises-pss-from-indian-subcontinent-to-north-america/",
+   "source": "containernews",
+   "published": "2026-11-08T13:00:59Z",
+   "seen": "2026-11-08T15:43:44Z",
+   "lang": "en",
+   "excerpt": "Maersk will revise its Peak Season Surcharge for shipments from the Indian Subcontinent to the US and Canadian East and Gulf coasts. The new levels will apply from 8 November 2026 to dry and reefer containers.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "reefer"
+   ],
    "paywall": false
   },
   {
@@ -137,60 +256,6 @@
    "paywall": false
   },
   {
-   "id": "e7325f94289d",
-   "title": "Kan bli en av Norges største",
-   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356197",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-08T09:12:26Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "3085c1fb9e1c",
-   "title": "Mini kjølebil med 900 kg nyttelast",
-   "link": "https://www.mtlogistikk.no/goupil-kjoleaggregat-last-mile/mini-kjolebil-med-900-kg-nyttelast/1356597",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-08T08:12:26Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "dba0f2019baa",
-   "title": "Ny merketeknologi skal kutte emballasjekostnader og etikettavfall",
-   "link": "https://www.mtlogistikk.no/act-logimark-blekkstraleskriver-emballasjemerking/ny-merketeknologi-skal-kutte-emballasjekostnader-og-etikettavfall/1355748",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-08T07:57:26Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "ab343b453b24",
    "title": "Hapag-Lloyd suspends scrap bookings to Thailand",
    "link": "https://container-news.com/hapag-lloyd-suspends-scrap-bookings-to-thailand/",
@@ -209,6 +274,29 @@
    "level": "international",
    "terms": [],
    "paywall": false
+  },
+  {
+   "id": "63f2974df279",
+   "title": "Canadian Coast Guard reports strong progress in salvage of MSC Baltic III",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/canadian-coast-guard-reports-strong-progress-in-salvage-of-msc-baltic-iii/",
+   "source": "imn",
+   "published": "2026-11-08T07:00:07Z",
+   "seen": "2026-11-08T15:43:44Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "salvage"
+   ],
+   "paywall": true
   },
   {
    "id": "74a7c0e75d88",
@@ -2095,26 +2183,6 @@
    "paywall": false
   },
   {
-   "id": "6ee813941099",
-   "title": "DenAr takes on Turkey’s first offshore wind seabed survey campaign",
-   "link": "https://splash247.com/denar-takes-on-turkeys-first-offshore-wind-seabed-survey-campaign/",
-   "source": "splash",
-   "published": "2026-11-06T12:00:00Z",
-   "seen": "2026-11-06T13:11:58Z",
-   "lang": "en",
-   "excerpt": "Turkish marine survey specialist DenAr Ocean Engineering Services has been selected by the country’s Ministry of Energy and Natural Resources to carry out geophysical and geotechnical seabed investigations for Turkey’s first offshore wind …",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "offshore-wind"
-   ],
-   "paywall": false
-  },
-  {
    "id": "af37f52d044f",
    "title": "Worley on EPC duty at Venture Global's US LNG expansion project",
    "link": "https://www.offshore-energy.biz/2026/11/06/worley-on-epc-duty-at-venture-globals-us-lng-expansion-project",
@@ -2488,6 +2556,26 @@
     "lng",
     "dual-fuel",
     "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "6ee813941099",
+   "title": "DenAr takes on Turkey’s first offshore wind seabed survey campaign",
+   "link": "https://splash247.com/denar-takes-on-turkeys-first-offshore-wind-seabed-survey-campaign/",
+   "source": "splash",
+   "published": "2026-11-06T11:00:00Z",
+   "seen": "2026-11-06T13:11:58Z",
+   "lang": "en",
+   "excerpt": "Turkish marine survey specialist DenAr Ocean Engineering Services has been selected by the country’s Ministry of Energy and Natural Resources to carry out geophysical and geotechnical seabed investigations for Turkey’s first offshore wind …",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "offshore-wind"
    ],
    "paywall": false
   },
@@ -18175,91 +18263,6 @@
    "policy": false,
    "level": "international",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "e106a4f0736a",
-   "title": "Tror på el-regnestykket – tviler på ladingen",
-   "link": "https://www.mtlogistikk.no/daimler-truck-elektrisk-lastebil-gronn-omstilling/tror-pa-el-regnestykket-tviler-pa-ladingen/1351477",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-10-30T08:26:48Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "1ee95c41f050",
-   "title": "Oil majors count the cost of runaway tanker rates",
-   "link": "https://splash247.com/oil-majors-count-the-cost-of-runaway-tanker-rates/",
-   "source": "splash",
-   "published": "2026-10-30T08:26:28Z",
-   "seen": "2026-10-30T09:56:48Z",
-   "lang": "en",
-   "excerpt": "Soaring tanker freight rates are taking an increasingly heavy toll on the world’s oil majors, with the latest quarterly results revealing billions of dollars in additional shipping-related liabilities, squeezed refining margins and losses …",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lease"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "0a1354f3bd6a",
-   "title": "Maritime CEO Forum: When to leave the party",
-   "link": "https://splash247.com/maritime-ceo-forum-when-to-leave-the-party/",
-   "source": "splash",
-   "published": "2026-10-30T08:07:29Z",
-   "seen": "2026-10-30T09:56:48Z",
-   "lang": "en",
-   "excerpt": "Shipping investors are enjoying extraordinary returns but face increasingly difficult decisions over when to cash out, with industry leaders warning that geopolitical disruption is masking underlying market risks and encouraging …",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "45a055ab1e97",
-   "title": "Splash Wrap: New networks, old faultlines",
-   "link": "https://splash247.com/splash-wrap-new-networks-old-faultlines/",
-   "source": "splash",
-   "published": "2026-10-30T08:00:49Z",
-   "seen": "2026-10-30T09:56:48Z",
-   "lang": "en",
-   "excerpt": "Two significant European consolidation deals this week illustrated the shipping industry’s appetite for greater control over supply chains.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers",
-    "drybulk",
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "intermodal"
-   ],
    "paywall": false
   }
  ]
