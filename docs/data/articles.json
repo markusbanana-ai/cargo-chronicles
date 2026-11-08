@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T03:57:49Z",
+ "updated": "2026-11-08T07:07:08Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren - besøker Sporveien; selvkjørende trikk på Holtet i Oslo",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-besoker-sporveien-selvkjorende-trikk-pa-holtet-i-oslo/id3192007/",
    "source": "regjeringen",
-   "published": "2026-11-08T03:57:49Z",
+   "published": "2026-11-08T07:07:08Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren - åpner gang- og sykkelvei langs ring 3 ved Ullevål",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-gang-og-sykkelvei-langs-ring-3-ved-ulleval/id3192008/",
    "source": "regjeringen",
-   "published": "2026-11-08T03:57:49Z",
+   "published": "2026-11-08T07:07:08Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -45,7 +45,7 @@
    "title": "Samferdselsministeren - besøker Kuben videregående skole i Oslo",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-beslker-kuben-videregaende-skole-i-oslo/id3192006/",
    "source": "regjeringen",
-   "published": "2026-11-08T03:57:49Z",
+   "published": "2026-11-08T07:07:08Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -58,6 +58,47 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "ad9534f18a2f",
+   "title": "Forventer opptil 20 prosent flere pakker",
+   "link": "https://www.mtlogistikk.no/hentepunkter-pakkevolumer-postnord/forventer-opptil-20-prosent-flere-pakker/1356395",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-08T07:07:08Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "74a7c0e75d88",
+   "title": "MSC expands Zephyr service into Red Sea",
+   "link": "https://container-news.com/msc-expands-zephyr-service-into-red-sea/",
+   "source": "containernews",
+   "published": "2026-11-08T05:38:02Z",
+   "seen": "2026-11-08T07:07:08Z",
+   "lang": "en",
+   "excerpt": "MSC will extend its Zephyr service into the Red Sea by adding calls at King Abdullah Port and Jeddah, according to DynaLiners. The carrier will simultaneously remove Salalah from the service, which currently links Colombo with Djibouti.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint",
+    "teu"
+   ],
+   "paywall": false
   },
   {
    "id": "6665d9295356",
@@ -80,12 +121,12 @@
    "paywall": false
   },
   {
-   "id": "23bed933defd",
+   "id": "e7325f94289d",
    "title": "Kan bli en av Norges største",
-   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356089",
+   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356197",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-08T03:12:49Z",
+   "seen": "2026-11-08T03:22:08Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -98,30 +139,30 @@
    "paywall": false
   },
   {
-   "id": "f3249ed34de6",
-   "title": "Ny merketeknologi skal kutte emballasjekostnader og etikettavfall",
-   "link": "https://www.mtlogistikk.no/act-logimark-blekkstraleskriver-emballasjemerking/ny-merketeknologi-skal-kutte-emballasjekostnader-og-etikettavfall/1357204",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-08T01:57:49Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "761924529b5d",
+   "id": "3085c1fb9e1c",
    "title": "Mini kjølebil med 900 kg nyttelast",
-   "link": "https://www.mtlogistikk.no/goupil-kjoleaggregat-last-mile/mini-kjolebil-med-900-kg-nyttelast/1357187",
+   "link": "https://www.mtlogistikk.no/goupil-kjoleaggregat-last-mile/mini-kjolebil-med-900-kg-nyttelast/1356597",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-08T01:42:49Z",
+   "seen": "2026-11-08T02:22:08Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "dba0f2019baa",
+   "title": "Ny merketeknologi skal kutte emballasjekostnader og etikettavfall",
+   "link": "https://www.mtlogistikk.no/act-logimark-blekkstraleskriver-emballasjemerking/ny-merketeknologi-skal-kutte-emballasjekostnader-og-etikettavfall/1355748",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-08T02:07:08Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -152,24 +193,6 @@
     "intermodal",
     "fuel-surcharge"
    ],
-   "paywall": false
-  },
-  {
-   "id": "7d9ae39c6c67",
-   "title": "Forventer opptil 20 prosent flere pakker",
-   "link": "https://www.mtlogistikk.no/hentepunkter-pakkevolumer-postnord/forventer-opptil-20-prosent-flere-pakker/1357166",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-08T01:27:49Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -18247,27 +18270,6 @@
    "policy": false,
    "level": "international",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "1b390f4761c5",
-   "title": "Hengli leaps from fifth to first in global shipbuilding rankings",
-   "link": "https://splash247.com/hengli-leaps-from-fifth-to-first-in-global-shipbuilding-rankings/",
-   "source": "splash",
-   "published": "2026-10-30T07:00:00Z",
-   "seen": "2026-10-30T09:56:48Z",
-   "lang": "en",
-   "excerpt": "Hengli Heavy Industry has captured almost a quarter of global newbuilding business this year, an extraordinary achievement for a Chinese shipyard that was brought back from the dead just four years ago.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "newbuilding",
-    "shipbroker"
-   ],
    "paywall": false
   }
  ]
