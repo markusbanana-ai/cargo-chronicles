@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T07:07:08Z",
+ "updated": "2026-11-08T09:53:04Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren - besøker Sporveien; selvkjørende trikk på Holtet i Oslo",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-besoker-sporveien-selvkjorende-trikk-pa-holtet-i-oslo/id3192007/",
    "source": "regjeringen",
-   "published": "2026-11-08T07:07:08Z",
+   "published": "2026-11-08T09:53:04Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren - åpner gang- og sykkelvei langs ring 3 ved Ullevål",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-gang-og-sykkelvei-langs-ring-3-ved-ulleval/id3192008/",
    "source": "regjeringen",
-   "published": "2026-11-08T07:07:08Z",
+   "published": "2026-11-08T09:53:04Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -45,7 +45,7 @@
    "title": "Samferdselsministeren - besøker Kuben videregående skole i Oslo",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-beslker-kuben-videregaende-skole-i-oslo/id3192006/",
    "source": "regjeringen",
-   "published": "2026-11-08T07:07:08Z",
+   "published": "2026-11-08T09:53:04Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -60,12 +60,107 @@
    "upcoming": true
   },
   {
-   "id": "ad9534f18a2f",
-   "title": "Forventer opptil 20 prosent flere pakker",
-   "link": "https://www.mtlogistikk.no/hentepunkter-pakkevolumer-postnord/forventer-opptil-20-prosent-flere-pakker/1356395",
+   "id": "e3fa6b7c3d12",
+   "title": "The sea stays open, but shipping starts saying no",
+   "link": "https://container-news.com/the-sea-stays-open-but-shipping-starts-saying-no/",
+   "source": "containernews",
+   "published": "2026-11-08T09:22:06Z",
+   "seen": "2026-11-08T09:53:04Z",
+   "lang": "en",
+   "excerpt": "Drone strikes off Romania and Bulgaria are pushing owners from pricing war risk to refusing it, with consequences that reach beyond the freight market to NATO’s southeastern flank.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "war-risk"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "23bed933defd",
+   "title": "Kan bli en av Norges største",
+   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356089",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-08T07:07:08Z",
+   "seen": "2026-11-08T09:08:04Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f3249ed34de6",
+   "title": "Ny merketeknologi skal kutte emballasjekostnader og etikettavfall",
+   "link": "https://www.mtlogistikk.no/act-logimark-blekkstraleskriver-emballasjemerking/ny-merketeknologi-skal-kutte-emballasjekostnader-og-etikettavfall/1357204",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-08T07:53:04Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "761924529b5d",
+   "title": "Mini kjølebil med 900 kg nyttelast",
+   "link": "https://www.mtlogistikk.no/goupil-kjoleaggregat-last-mile/mini-kjolebil-med-900-kg-nyttelast/1357187",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-08T07:38:04Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ab343b453b24",
+   "title": "Hapag-Lloyd suspends scrap bookings to Thailand",
+   "link": "https://container-news.com/hapag-lloyd-suspends-scrap-bookings-to-thailand/",
+   "source": "containernews",
+   "published": "2026-11-08T07:30:22Z",
+   "seen": "2026-11-08T09:53:04Z",
+   "lang": "en",
+   "excerpt": "Hapag-Lloyd has temporarily suspended new bookings for selected metal and rubber scrap shipments to Thailand. The suspension takes effect immediately and will remain in place until further notice.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "7d9ae39c6c67",
+   "title": "Forventer opptil 20 prosent flere pakker",
+   "link": "https://www.mtlogistikk.no/hentepunkter-pakkevolumer-postnord/forventer-opptil-20-prosent-flere-pakker/1357166",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-08T07:23:04Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -117,60 +212,6 @@
    ],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "e7325f94289d",
-   "title": "Kan bli en av Norges største",
-   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356197",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-08T03:22:08Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "3085c1fb9e1c",
-   "title": "Mini kjølebil med 900 kg nyttelast",
-   "link": "https://www.mtlogistikk.no/goupil-kjoleaggregat-last-mile/mini-kjolebil-med-900-kg-nyttelast/1356597",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-08T02:22:08Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "dba0f2019baa",
-   "title": "Ny merketeknologi skal kutte emballasjekostnader og etikettavfall",
-   "link": "https://www.mtlogistikk.no/act-logimark-blekkstraleskriver-emballasjemerking/ny-merketeknologi-skal-kutte-emballasjekostnader-og-etikettavfall/1355748",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-08T02:07:08Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18228,48 +18269,6 @@
     "chokepoint",
     "dwt"
    ],
-   "paywall": false
-  },
-  {
-   "id": "57eef362bed1",
-   "title": "SBM Offshore tasks Seatrium with multimillion-dollar South American FPSO job",
-   "link": "https://offshore-energy.biz/2026/10/30/sbm-offshore-tasks-seatrium-with-multimillion-dollar-south-american-fpso-job",
-   "source": "offshoreenergy",
-   "published": "2026-10-30T07:44:19Z",
-   "seen": "2026-10-30T09:56:48Z",
-   "lang": "en",
-   "excerpt": "Seatrium has lined up an FPSO integration deal with SBM Offshore, enabling it to play a role in powering upcoming energy projects in South America.",
-   "segments": [
-    "road",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "fpso"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "c1c41287df00",
-   "title": "Maersk separates Finnish port charges from inland haulage rates",
-   "link": "https://container-news.com/maersk-separates-finnish-port-charges-from-inland-haulage-rates/",
-   "source": "containernews",
-   "published": "2026-10-30T07:00:15Z",
-   "seen": "2026-10-30T07:02:55Z",
-   "lang": "en",
-   "excerpt": "Maersk has changed the cost structure of its inland haulage services for import and export shipments in Finland. Effective from 1 October 2026, Arex charges and port dues are no longer included in the carrier’s inland haulage rates.",
-   "segments": [
-    "road",
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
    "paywall": false
   }
  ]
