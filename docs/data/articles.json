@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T09:53:04Z",
+ "updated": "2026-11-08T12:57:26Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren - besøker Sporveien; selvkjørende trikk på Holtet i Oslo",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-besoker-sporveien-selvkjorende-trikk-pa-holtet-i-oslo/id3192007/",
    "source": "regjeringen",
-   "published": "2026-11-08T09:53:04Z",
+   "published": "2026-11-08T12:57:26Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren - åpner gang- og sykkelvei langs ring 3 ved Ullevål",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-gang-og-sykkelvei-langs-ring-3-ved-ulleval/id3192008/",
    "source": "regjeringen",
-   "published": "2026-11-08T09:53:04Z",
+   "published": "2026-11-08T12:57:26Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -45,7 +45,7 @@
    "title": "Samferdselsministeren - besøker Kuben videregående skole i Oslo",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-beslker-kuben-videregaende-skole-i-oslo/id3192006/",
    "source": "regjeringen",
-   "published": "2026-11-08T09:53:04Z",
+   "published": "2026-11-08T12:57:26Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -58,6 +58,62 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "ad9534f18a2f",
+   "title": "Forventer opptil 20 prosent flere pakker",
+   "link": "https://www.mtlogistikk.no/hentepunkter-pakkevolumer-postnord/forventer-opptil-20-prosent-flere-pakker/1356395",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-08T12:57:26Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "e6ea608f5ca4",
+   "title": "Borderlands Mexico: US foreign-trade zones push to fix USMCA tariff obstacles",
+   "link": "https://www.freightwaves.com/news/borderlands-mexico-us-foreign-trade-zones-push-to-fix-usmca-tariff-obstacles",
+   "source": "freightwaves",
+   "published": "2026-11-08T12:00:00Z",
+   "seen": "2026-11-08T12:57:26Z",
+   "lang": "en",
+   "excerpt": "This week in Borderlands Mexico: US foreign-trade zones push to fix USMCA tariff obstacles; Mexico to deploy 826 National Guard officers to boost highway security; and Ametek to invest $25M in Mexico border expansions, add 650 jobs.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "91f2397c89b7",
+   "title": "Ellerman integrates Viasea into European shortsea network",
+   "link": "https://container-news.com/ellerman-integrates-viasea-into-european-shortsea-network/",
+   "source": "containernews",
+   "published": "2026-11-08T11:00:24Z",
+   "seen": "2026-11-08T12:57:26Z",
+   "lang": "en",
+   "excerpt": "Ellerman City Liners has integrated Viasea Shipping into its European shortsea operations, bringing the two companies under a unified operational framework.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
   },
   {
    "id": "e3fa6b7c3d12",
@@ -81,12 +137,12 @@
    "paywall": false
   },
   {
-   "id": "23bed933defd",
+   "id": "e7325f94289d",
    "title": "Kan bli en av Norges største",
-   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356089",
+   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356197",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-08T09:08:04Z",
+   "seen": "2026-11-08T09:12:26Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -99,30 +155,30 @@
    "paywall": false
   },
   {
-   "id": "f3249ed34de6",
-   "title": "Ny merketeknologi skal kutte emballasjekostnader og etikettavfall",
-   "link": "https://www.mtlogistikk.no/act-logimark-blekkstraleskriver-emballasjemerking/ny-merketeknologi-skal-kutte-emballasjekostnader-og-etikettavfall/1357204",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-08T07:53:04Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "761924529b5d",
+   "id": "3085c1fb9e1c",
    "title": "Mini kjølebil med 900 kg nyttelast",
-   "link": "https://www.mtlogistikk.no/goupil-kjoleaggregat-last-mile/mini-kjolebil-med-900-kg-nyttelast/1357187",
+   "link": "https://www.mtlogistikk.no/goupil-kjoleaggregat-last-mile/mini-kjolebil-med-900-kg-nyttelast/1356597",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-08T07:38:04Z",
+   "seen": "2026-11-08T08:12:26Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "dba0f2019baa",
+   "title": "Ny merketeknologi skal kutte emballasjekostnader og etikettavfall",
+   "link": "https://www.mtlogistikk.no/act-logimark-blekkstraleskriver-emballasjemerking/ny-merketeknologi-skal-kutte-emballasjekostnader-og-etikettavfall/1355748",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-08T07:57:26Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -151,24 +207,6 @@
    ],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "7d9ae39c6c67",
-   "title": "Forventer opptil 20 prosent flere pakker",
-   "link": "https://www.mtlogistikk.no/hentepunkter-pakkevolumer-postnord/forventer-opptil-20-prosent-flere-pakker/1357166",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-08T07:23:04Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18221,53 +18259,6 @@
    "level": "international",
    "terms": [
     "intermodal"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "921e7ff5364c",
-   "title": "San Pedro Bay identifies LNG and methanol as near-term priorities",
-   "link": "https://container-news.com/san-pedro-bay-identifies-lng-and-methanol-as-near-term-priorities/",
-   "source": "containernews",
-   "published": "2026-10-30T08:00:43Z",
-   "seen": "2026-10-30T09:56:48Z",
-   "lang": "en",
-   "excerpt": "The ports of Long Beach and Los Angeles have released a comprehensive Clean Marine Fuel Feasibility Assessment identifying the most promising alternative marine fuels for oceangoing vessels calling at the nation’s busiest port complex …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng",
-    "bunkers"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "f45c9e6206f3",
-   "title": "Tanker targeted with hull-mounted explosives in Hormuz",
-   "link": "https://splash247.com/tanker-targeted-with-hull-mounted-explosives-in-hormuz/",
-   "source": "splash",
-   "published": "2026-10-30T07:49:48Z",
-   "seen": "2026-10-30T07:02:55Z",
-   "lang": "en",
-   "excerpt": "A tanker has been set ablaze in the Strait of Hormuz after attackers aboard a small boat attached explosives directly to its hull, marking a worrying new tactic in the campaign against commercial shipping.",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint",
-    "dwt"
    ],
    "paywall": false
   }
