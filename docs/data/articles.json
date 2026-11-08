@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T21:43:25Z",
+ "updated": "2026-11-08T01:11:29Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren - besøker Sporveien; selvkjørende trikk på Holtet i Oslo",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-besoker-sporveien-selvkjorende-trikk-pa-holtet-i-oslo/id3192007/",
    "source": "regjeringen",
-   "published": "2026-11-07T21:43:25Z",
+   "published": "2026-11-08T01:11:29Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren - åpner gang- og sykkelvei langs ring 3 ved Ullevål",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-gang-og-sykkelvei-langs-ring-3-ved-ulleval/id3192008/",
    "source": "regjeringen",
-   "published": "2026-11-07T21:43:25Z",
+   "published": "2026-11-08T01:11:29Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -45,7 +45,7 @@
    "title": "Samferdselsministeren - besøker Kuben videregående skole i Oslo",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-beslker-kuben-videregaende-skole-i-oslo/id3192006/",
    "source": "regjeringen",
-   "published": "2026-11-07T21:43:25Z",
+   "published": "2026-11-08T01:11:29Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -60,12 +60,112 @@
    "upcoming": true
   },
   {
-   "id": "23bed933defd",
-   "title": "Kan bli en av Norges største",
-   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356089",
+   "id": "ad9534f18a2f",
+   "title": "Forventer opptil 20 prosent flere pakker",
+   "link": "https://www.mtlogistikk.no/hentepunkter-pakkevolumer-postnord/forventer-opptil-20-prosent-flere-pakker/1356395",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-07T20:58:25Z",
+   "seen": "2026-11-08T01:11:29Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "e9b8c848e692",
+   "title": "Cavotec reports record order backlog as Q3 revenue rises",
+   "link": "https://container-news.com/cavotec-reports-record-order-backlog-as-q3-revenue-rises/",
+   "source": "containernews",
+   "published": "2026-11-08T01:00:31Z",
+   "seen": "2026-11-08T01:11:29Z",
+   "lang": "en",
+   "excerpt": "Cavotec reported a record order backlog of €160 million at the end of September 2026, supported by growing demand for shore power systems and motorised cable reels across the maritime, ports and industrial sectors.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "backlog"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "45729726221b",
+   "title": "US Forces Disable First Cargo Ship in a Month Sailing from Iranian Port",
+   "link": "https://maritime-executive.com/article/us-forces-disable-first-cargo-ship-in-a-month-sailing-from-iranian-port",
+   "source": "marex",
+   "published": "2026-11-07T23:15:35Z",
+   "seen": "2026-11-08T01:11:29Z",
+   "lang": "en",
+   "excerpt": "For the first time in a month, U.S. Forces on Saturday fired on and disabled a cargo ship attempting to breach the blockade of Iranian ports. U.S. Cen...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "169217a99fae",
+   "title": "Great White Fleet splits Central America–US service",
+   "link": "https://container-news.com/great-white-fleet-splits-central-america-us-service/",
+   "source": "containernews",
+   "published": "2026-11-07T22:34:45Z",
+   "seen": "2026-11-08T01:11:29Z",
+   "lang": "en",
+   "excerpt": "Chiquita’s Great White Fleet will restructure its Central America–United States network from December, according to DynaLiners. The carrier will remove Port Everglades from its USSE service and transfer the Florida call to the new Port …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner",
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "e7325f94289d",
+   "title": "Kan bli en av Norges største",
+   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356197",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-07T21:26:29Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "3085c1fb9e1c",
+   "title": "Mini kjølebil med 900 kg nyttelast",
+   "link": "https://www.mtlogistikk.no/goupil-kjoleaggregat-last-mile/mini-kjolebil-med-900-kg-nyttelast/1356597",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-07T20:26:29Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -100,12 +200,12 @@
    "paywall": false
   },
   {
-   "id": "f3249ed34de6",
+   "id": "dba0f2019baa",
    "title": "Ny merketeknologi skal kutte emballasjekostnader og etikettavfall",
-   "link": "https://www.mtlogistikk.no/act-logimark-blekkstraleskriver-emballasjemerking/ny-merketeknologi-skal-kutte-emballasjekostnader-og-etikettavfall/1357204",
+   "link": "https://www.mtlogistikk.no/act-logimark-blekkstraleskriver-emballasjemerking/ny-merketeknologi-skal-kutte-emballasjekostnader-og-etikettavfall/1355748",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-07T19:43:25Z",
+   "seen": "2026-11-07T20:11:29Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -118,39 +218,24 @@
    "paywall": false
   },
   {
-   "id": "761924529b5d",
-   "title": "Mini kjølebil med 900 kg nyttelast",
-   "link": "https://www.mtlogistikk.no/goupil-kjoleaggregat-last-mile/mini-kjolebil-med-900-kg-nyttelast/1357187",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-07T19:28:25Z",
-   "lang": "no",
-   "excerpt": "",
+   "id": "0809da6ccb40",
+   "title": "RINA & Petrobras €11M Contract for Subsea Engineering & Decommissioning",
+   "link": "https://maritime-executive.com/article/rina-petrobras-11m-contract-for-subsea-engineering-decommissioning",
+   "source": "marex",
+   "published": "2026-11-07T18:52:01Z",
+   "seen": "2026-11-05T19:00:50Z",
+   "lang": "en",
+   "excerpt": "RINA, the global inspection, certification and consulting engineering multinational group, has signed a three-year €11 million contract with Petrobras...",
    "segments": [
-    "road"
+    "offshore"
    ],
    "subs": [],
    "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "7d9ae39c6c67",
-   "title": "Forventer opptil 20 prosent flere pakker",
-   "link": "https://www.mtlogistikk.no/hentepunkter-pakkevolumer-postnord/forventer-opptil-20-prosent-flere-pakker/1357166",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-07T19:13:25Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
+   "level": "international",
+   "terms": [
+    "class-society",
+    "decommissioning"
    ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -396,7 +481,7 @@
   },
   {
    "id": "d2cfd2bfdd30",
-   "title": "Lawsuit Seeks to Stop Planned Sinking of S.S. United States",
+   "title": "Judge Rejects Efforts to Stop Planned Sinking of S.S. United States",
    "link": "https://maritime-executive.com/article/lawsuit-seeks-to-stop-planned-sinking-of-s-s-united-states",
    "source": "marex",
    "published": "2026-11-06T23:56:15Z",
@@ -1488,27 +1573,6 @@
     "dual-fuel",
     "dry-bulk",
     "bunkers"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "0809da6ccb40",
-   "title": "RINA & Petrobras €11M Contract for Subsea Engineering & Decommissioning",
-   "link": "https://maritime-executive.com/article/rina-petrobras-11m-contract-for-subsea-engineering-decommissioning",
-   "source": "marex",
-   "published": "2026-11-06T16:52:01Z",
-   "seen": "2026-11-05T19:00:50Z",
-   "lang": "en",
-   "excerpt": "RINA, the global inspection, certification and consulting engineering multinational group, has signed a three-year €11 million contract with Petrobras...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "class-society",
-    "decommissioning"
    ],
    "paywall": false
   },
@@ -18206,71 +18270,6 @@
    "policy": false,
    "level": "international",
    "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "4899c73dd3e6",
-   "title": "Bodies found in Prospector 5 jack-up rig",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/bodies-found-in-prospector-5-jack-up-rig/",
-   "source": "imn",
-   "published": "2026-10-30T06:47:21Z",
-   "seen": "2026-10-30T07:02:55Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "rig"
-   ],
-   "paywall": true
-  },
-  {
-   "id": "82d6d5178f44",
-   "title": "Investigations continue in Mein Schiff 3 / MSC Victorine accident",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/investigations-continue-in-mein-schiff-3-msc-victorine-accident/",
-   "source": "imn",
-   "published": "2026-10-30T06:46:21Z",
-   "seen": "2026-10-30T07:02:55Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "319558a4b7ed",
-   "title": "Crew safe after drones sink containership off Bulgaria",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/crew-safe-after-drones-sink-containership-off-bulgaria/",
-   "source": "imn",
-   "published": "2026-10-30T06:45:13Z",
-   "seen": "2026-10-30T07:02:55Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "liner"
-   ],
    "paywall": true
   }
  ]
