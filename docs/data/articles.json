@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T15:43:44Z",
+ "updated": "2026-11-08T18:50:51Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren - besøker Sporveien; selvkjørende trikk på Holtet i Oslo",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-besoker-sporveien-selvkjorende-trikk-pa-holtet-i-oslo/id3192007/",
    "source": "regjeringen",
-   "published": "2026-11-08T15:43:44Z",
+   "published": "2026-11-08T18:50:51Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren - åpner gang- og sykkelvei langs ring 3 ved Ullevål",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-gang-og-sykkelvei-langs-ring-3-ved-ulleval/id3192008/",
    "source": "regjeringen",
-   "published": "2026-11-08T15:43:44Z",
+   "published": "2026-11-08T18:50:51Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -45,7 +45,7 @@
    "title": "Samferdselsministeren - besøker Kuben videregående skole i Oslo",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-beslker-kuben-videregaende-skole-i-oslo/id3192006/",
    "source": "regjeringen",
-   "published": "2026-11-08T15:43:44Z",
+   "published": "2026-11-08T18:50:51Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -60,12 +60,12 @@
    "upcoming": true
   },
   {
-   "id": "23bed933defd",
-   "title": "Kan bli en av Norges største",
-   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356089",
+   "id": "ad9534f18a2f",
+   "title": "Forventer opptil 20 prosent flere pakker",
+   "link": "https://www.mtlogistikk.no/hentepunkter-pakkevolumer-postnord/forventer-opptil-20-prosent-flere-pakker/1356395",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-08T14:58:44Z",
+   "seen": "2026-11-08T18:50:51Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -74,6 +74,62 @@
    "subs": [],
    "policy": false,
    "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "feda1652c162",
+   "title": "MSC adds Ambarli to North Europe–Marmara service",
+   "link": "https://container-news.com/msc-adds-ambarli-to-north-europe-marmara-service/",
+   "source": "containernews",
+   "published": "2026-11-08T17:30:02Z",
+   "seen": "2026-11-08T18:50:51Z",
+   "lang": "en",
+   "excerpt": "MSC will add Istanbul’s Ambarli port to its North Europe–Türkiye Marmara Service. The change follows the recent removal of Ambarli from the carrier’s North Europe–Türkiye Main Service.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "e7325f94289d",
+   "title": "Kan bli en av Norges største",
+   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356197",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-08T15:05:51Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f22019fa9ffb",
+   "title": "Iran Suggests Blasts Are Not US Attacks As Both Sides Report Ships Hit",
+   "link": "https://gcaptain.com/iran-suggests-blasts-are-not-us-attacks-as-both-sides-report-ships-hit/",
+   "source": "gcaptain",
+   "published": "2026-11-08T14:44:08Z",
+   "seen": "2026-11-08T18:50:51Z",
+   "lang": "en",
+   "excerpt": "CAIRO, Nov 8 (Reuters) – Iranian media suggested explosions in southern Iran on Saturday evening were related to Iranian military activities rather than US strikes while both sides reported that shipping had been hit...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
    "terms": [],
    "paywall": false
   },
@@ -98,12 +154,30 @@
    "paywall": false
   },
   {
-   "id": "f3249ed34de6",
-   "title": "Ny merketeknologi skal kutte emballasjekostnader og etikettavfall",
-   "link": "https://www.mtlogistikk.no/act-logimark-blekkstraleskriver-emballasjemerking/ny-merketeknologi-skal-kutte-emballasjekostnader-og-etikettavfall/1357204",
+   "id": "3085c1fb9e1c",
+   "title": "Mini kjølebil med 900 kg nyttelast",
+   "link": "https://www.mtlogistikk.no/goupil-kjoleaggregat-last-mile/mini-kjolebil-med-900-kg-nyttelast/1356597",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-08T13:43:44Z",
+   "seen": "2026-11-08T14:05:51Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "dba0f2019baa",
+   "title": "Ny merketeknologi skal kutte emballasjekostnader og etikettavfall",
+   "link": "https://www.mtlogistikk.no/act-logimark-blekkstraleskriver-emballasjemerking/ny-merketeknologi-skal-kutte-emballasjekostnader-og-etikettavfall/1355748",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-08T13:50:51Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -136,42 +210,6 @@
    "terms": [
     "sanctions"
    ],
-   "paywall": false
-  },
-  {
-   "id": "761924529b5d",
-   "title": "Mini kjølebil med 900 kg nyttelast",
-   "link": "https://www.mtlogistikk.no/goupil-kjoleaggregat-last-mile/mini-kjolebil-med-900-kg-nyttelast/1357187",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-08T13:28:44Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "7d9ae39c6c67",
-   "title": "Forventer opptil 20 prosent flere pakker",
-   "link": "https://www.mtlogistikk.no/hentepunkter-pakkevolumer-postnord/forventer-opptil-20-prosent-flere-pakker/1357166",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-08T13:13:44Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -18225,43 +18263,6 @@
    "subs": [],
    "policy": false,
    "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "aed1d8fe79ae",
-   "title": "Dockworkers unite across 113 ports in global anti-war protest",
-   "link": "https://splash247.com/dockworkers-unite-across-113-ports-in-global-anti-war-protest/",
-   "source": "splash",
-   "published": "2026-10-30T08:45:01Z",
-   "seen": "2026-10-30T09:56:48Z",
-   "lang": "en",
-   "excerpt": "One of the largest coordinated port labour mobilisations in history is underway today, with more than 25 unions staging strikes and demonstrations at 113 ports across 22 countries and territories.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "84b34756b6ee",
-   "title": "Petrobras hits paydirt for third time in ultra-deep Amapá waters as Equatorial Margin’s oil arsenal grows",
-   "link": "https://offshore-energy.biz/2026/10/30/petrobras-hits-paydirt-for-third-time-in-ultra-deep-amapa-waters-as-equatorial-margins-oil-arsenal-grows",
-   "source": "offshoreenergy",
-   "published": "2026-10-30T08:41:43Z",
-   "seen": "2026-10-30T09:56:48Z",
-   "lang": "en",
-   "excerpt": "Petrobras' third discovery off the coast of Amapá has strengthened Equatorial Margin's emerging oil frontier.",
-   "segments": [
-    "finance",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
    "terms": [],
    "paywall": false
   }
