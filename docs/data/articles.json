@@ -1,7 +1,81 @@
 {
- "updated": "2026-11-09T01:14:06Z",
+ "updated": "2026-11-09T04:01:15Z",
  "sample": false,
  "articles": [
+  {
+   "id": "00645a1dc701",
+   "title": "Samferdselsministeren - besøker Sporveien; selvkjørende trikk på Holtet i Oslo",
+   "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-besoker-sporveien-selvkjorende-trikk-pa-holtet-i-oslo/id3192007/",
+   "source": "regjeringen",
+   "published": "2026-11-09T04:01:15Z",
+   "seen": "2026-11-06T15:55:35Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false,
+   "upcoming": true
+  },
+  {
+   "id": "1b134a053542",
+   "title": "Samferdselsministeren - åpner gang- og sykkelvei langs ring 3 ved Ullevål",
+   "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-gang-og-sykkelvei-langs-ring-3-ved-ulleval/id3192008/",
+   "source": "regjeringen",
+   "published": "2026-11-09T04:01:15Z",
+   "seen": "2026-11-06T15:55:35Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false,
+   "upcoming": true
+  },
+  {
+   "id": "23bed933defd",
+   "title": "Kan bli en av Norges største",
+   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356089",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-09T03:16:15Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f3249ed34de6",
+   "title": "Ny merketeknologi skal kutte emballasjekostnader og etikettavfall",
+   "link": "https://www.mtlogistikk.no/act-logimark-blekkstraleskriver-emballasjemerking/ny-merketeknologi-skal-kutte-emballasjekostnader-og-etikettavfall/1357204",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-09T02:01:15Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
   {
    "id": "f381cf9cd8ee",
    "title": "Samferdselsministeren - besøker Kuben videregående skole i Oslo",
@@ -21,50 +95,30 @@
    "paywall": false
   },
   {
-   "id": "00645a1dc701",
-   "title": "Samferdselsministeren - besøker Sporveien; selvkjørende trikk på Holtet i Oslo",
-   "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-besoker-sporveien-selvkjorende-trikk-pa-holtet-i-oslo/id3192007/",
-   "source": "regjeringen",
-   "published": "2026-11-09T01:14:06Z",
-   "seen": "2026-11-06T15:55:35Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false,
-   "upcoming": true
-  },
-  {
-   "id": "1b134a053542",
-   "title": "Samferdselsministeren - åpner gang- og sykkelvei langs ring 3 ved Ullevål",
-   "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-gang-og-sykkelvei-langs-ring-3-ved-ulleval/id3192008/",
-   "source": "regjeringen",
-   "published": "2026-11-09T01:14:06Z",
-   "seen": "2026-11-06T15:55:35Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false,
-   "upcoming": true
-  },
-  {
-   "id": "ad9534f18a2f",
-   "title": "Forventer opptil 20 prosent flere pakker",
-   "link": "https://www.mtlogistikk.no/hentepunkter-pakkevolumer-postnord/forventer-opptil-20-prosent-flere-pakker/1356395",
+   "id": "761924529b5d",
+   "title": "Mini kjølebil med 900 kg nyttelast",
+   "link": "https://www.mtlogistikk.no/goupil-kjoleaggregat-last-mile/mini-kjolebil-med-900-kg-nyttelast/1357187",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-09T01:14:06Z",
+   "seen": "2026-11-09T01:46:15Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "7d9ae39c6c67",
+   "title": "Forventer opptil 20 prosent flere pakker",
+   "link": "https://www.mtlogistikk.no/hentepunkter-pakkevolumer-postnord/forventer-opptil-20-prosent-flere-pakker/1357166",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-09T01:31:15Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -576,24 +630,6 @@
    "paywall": false
   },
   {
-   "id": "e7325f94289d",
-   "title": "Kan bli en av Norges største",
-   "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356197",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-08T21:29:06Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "3ecad78a6e8c",
    "title": "Tanker Burns After Strike in Strait of Hormuz",
    "link": "https://maritime-executive.com/article/tanker-burns-after-strike-in-strait-of-hormuz",
@@ -614,42 +650,6 @@
    "terms": [
     "chokepoint"
    ],
-   "paywall": false
-  },
-  {
-   "id": "3085c1fb9e1c",
-   "title": "Mini kjølebil med 900 kg nyttelast",
-   "link": "https://www.mtlogistikk.no/goupil-kjoleaggregat-last-mile/mini-kjolebil-med-900-kg-nyttelast/1356597",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-08T20:29:06Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "dba0f2019baa",
-   "title": "Ny merketeknologi skal kutte emballasjekostnader og etikettavfall",
-   "link": "https://www.mtlogistikk.no/act-logimark-blekkstraleskriver-emballasjemerking/ny-merketeknologi-skal-kutte-emballasjekostnader-og-etikettavfall/1355748",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-08T20:14:06Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
