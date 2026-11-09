@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T07:33:23Z",
+ "updated": "2026-11-09T10:05:47Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren - besøker Sporveien; selvkjørende trikk på Holtet i Oslo",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-besoker-sporveien-selvkjorende-trikk-pa-holtet-i-oslo/id3192007/",
    "source": "regjeringen",
-   "published": "2026-11-09T07:33:23Z",
+   "published": "2026-11-09T10:05:47Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren - åpner gang- og sykkelvei langs ring 3 ved Ullevål",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-gang-og-sykkelvei-langs-ring-3-ved-ulleval/id3192008/",
    "source": "regjeringen",
-   "published": "2026-11-09T07:33:23Z",
+   "published": "2026-11-09T10:05:47Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -41,12 +41,339 @@
    "upcoming": true
   },
   {
-   "id": "597dfa37566a",
+   "id": "fe32648ae5ee",
+   "title": "Boluda buys Dutch offshore towage specialist",
+   "link": "https://splash247.com/boluda-buys-dutch-offshore-towage-specialist/",
+   "source": "splash",
+   "published": "2026-11-09T10:00:00Z",
+   "seen": "2026-11-09T10:05:47Z",
+   "lang": "en",
+   "excerpt": "Spanish towage giant Boluda has acquired Dutch offshore towage and heavy transport specialist Muller Dordrecht, adding 16 tugs and eight barges to its growing global fleet.",
+   "segments": [
+    "finance",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "mna",
+    "rig",
+    "ahts",
+    "offshore-wind"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "f32e526b01cf",
+   "title": "Hunter’s VLCC charter dispute balloons to $86m",
+   "link": "https://splash247.com/hunters-vlcc-charter-dispute-balloons-to-86m/",
+   "source": "splash",
+   "published": "2026-11-09T09:49:00Z",
+   "seen": "2026-11-09T10:05:47Z",
+   "lang": "en",
+   "excerpt": "Norwegian shipping investment company Hunter Group’s long-running dispute with a VLCC charter counterparty has escalated further, with unpaid hire now exceeding $86m after the largest monthly shortfall reported since the row began.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "vlcc"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "d6498523dec6",
+   "title": "Container News attends SK Congress maritime conference in Athens",
+   "link": "https://container-news.com/container-news-attends-sk-congress-maritime-conference-in-athens/",
+   "source": "containernews",
+   "published": "2026-11-09T09:30:42Z",
+   "seen": "2026-11-09T10:05:47Z",
+   "lang": "en",
+   "excerpt": "Container News participated as an official Media Partner in the international maritime conference “Shipping at the Historic Turning Point of 2030”, organised by SK Congress on 5 November 2026 at the InterContinental Athens.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "56b6784035a1",
+   "title": "DOF's 2017-built AHTS vessel lands contract extension through Q3 2028",
+   "link": "https://www.offshore-energy.biz/2026/11/09/dofs-2017-built-ahts-vessel-lands-contract-extension-through-q3-2028",
+   "source": "offshoreenergy",
+   "published": "2026-11-09T09:14:31Z",
+   "seen": "2026-11-09T10:05:47Z",
+   "lang": "en",
+   "excerpt": "DOF Group has secured a contract extension for its 2017-built anchor handling tug supply (AHTS) vessel that will keep the vessel busy until the...",
+   "segments": [
+    "finance",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "ahts"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "89e3cc45f255",
+   "title": "Record supply growth pushes container fleet towards 50m teu by 2030",
+   "link": "https://splash247.com/record-supply-growth-pushes-container-fleet-towards-50m-teu-by-2030/",
+   "source": "splash",
+   "published": "2026-11-09T08:44:30Z",
+   "seen": "2026-11-09T10:05:47Z",
+   "lang": "en",
+   "excerpt": "The global containership fleet is heading towards an unprecedented 50m teu by 2030, setting the stage for a potentially devastating oversupply crisis and enormous downward pressure on freight rates.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "ebf1ce681fd7",
+   "title": "SSE secures grid connection consent for third phase of 4.1 GW offshore wind project",
+   "link": "https://www.offshore-energy.biz/2026/11/09/sse-secures-grid-connection-consent-for-third-phase-of-41-gw-offshore-wind-project",
+   "source": "offshoreenergy",
+   "published": "2026-11-09T08:38:43Z",
+   "seen": "2026-11-09T10:05:47Z",
+   "lang": "en",
+   "excerpt": "SSE Renewables has secured a marine licence from the UK’s Marine Management Organisation (MMO) for the export cable infrastructure of its Berwick...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "offshore-wind",
+    "inter-array"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "1234791cb4b1",
    "title": "Åpner for elvarebiler i kollektivfeltene",
-   "link": "https://www.mtlogistikk.no/elektriske-lastebiler-elektriske-varebiler-kollektivfelt/apner-for-elvarebiler-i-kollektivfeltene/1357603",
+   "link": "https://www.mtlogistikk.no/elektriske-lastebiler-elektriske-varebiler-kollektivfelt/apner-for-elvarebiler-i-kollektivfeltene/1357780",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-09T07:33:23Z",
+   "seen": "2026-11-09T08:35:47Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f5abf5a6946d",
+   "title": "Black Sea shipping reels from fresh attacks and record insurance costs",
+   "link": "https://splash247.com/black-sea-shipping-reels-from-fresh-attacks-and-record-insurance-costs/",
+   "source": "splash",
+   "published": "2026-11-09T08:30:31Z",
+   "seen": "2026-11-09T10:05:47Z",
+   "lang": "en",
+   "excerpt": "The Black Sea has experienced another violent weekend, with Russia claiming fresh strikes on merchant ships, human remains discovered aboard a damaged tanker in Bulgaria and war-risk insurance premiums reaching an extraordinary 20% of hull …",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers",
+    "drybulk",
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "war-risk"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "059c9f5c1163",
+   "title": "QatarEnergy buying 25% interest in Namibian offshore exploration license from Chevron",
+   "link": "https://www.offshore-energy.biz/2026/11/09/qatarenergy-buying-25percent-interest-in-namibian-offshore-exploration-license-from-chevron",
+   "source": "offshoreenergy",
+   "published": "2026-11-09T08:21:12Z",
+   "seen": "2026-11-09T10:05:47Z",
+   "lang": "en",
+   "excerpt": "Qatar’s state-owned oil & gas firm QatarEnergy has entered into an agreement with Chevron's Namibian subsidiary for the acquisition of a...",
+   "segments": [
+    "finance",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "da6bc9540a65",
+   "title": "Venter stabilt tungbilmarked",
+   "link": "https://www.mtlogistikk.no/daf-kvartalsrapport-paccar/venter-stabilt-tungbilmarked/1357565",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-09T08:20:47Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "dc84c4f5c85a",
+   "title": "Hai An prepares to take over 2,702 TEU Green View",
+   "link": "https://container-news.com/hai-an-prepares-to-take-over-2702-teu-green-view/",
+   "source": "containernews",
+   "published": "2026-11-09T08:19:53Z",
+   "seen": "2026-11-09T10:05:47Z",
+   "lang": "en",
+   "excerpt": "Hai An is preparing to take over the 2,702 TEU container vessel Green View before deploying the ship on a regional service connecting Vietnam, China and Thailand.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "974f2be94a13",
+   "title": "Hormuz suffers weekend of fire",
+   "link": "https://splash247.com/hormuz-suffers-weekend-of-fire/",
+   "source": "splash",
+   "published": "2026-11-09T08:15:45Z",
+   "seen": "2026-11-09T10:05:47Z",
+   "lang": "en",
+   "excerpt": "Merchant shipping has been caught in an extraordinary escalation of the war around the Strait of Hormuz over the past 72 hours, with tankers set ablaze, the US military bombing a bulk carrier, fresh Iranian warnings about naval mines and …",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers",
+    "drybulk",
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint",
+    "dry-bulk"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "58b3c663417b",
+   "title": "Ravi Mehrotra returns to shipyards with $470m VLAC order",
+   "link": "https://splash247.com/ravi-mehrotra-returns-to-shipyards-with-470m-vlac-order/",
+   "source": "splash",
+   "published": "2026-11-09T08:00:00Z",
+   "seen": "2026-11-09T10:05:47Z",
+   "lang": "en",
+   "excerpt": "Ravi Mehrotra’s Foresight Group is returning to the newbuilding market after a decade-long absence, with the London-based shipowner linked to a $470m order for four very large ammonia carriers (VLACs) at South Korea’s HD Hyundai Heavy …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lpg",
+    "newbuilding",
+    "shipbroker"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "69f60d17025c",
+   "title": "Leon Shipping makes dry bulk debut with Hengli order",
+   "link": "https://splash247.com/leon-shipping-makes-dry-bulk-debut-with-hengli-order/",
+   "source": "splash",
+   "published": "2026-11-09T07:26:45Z",
+   "seen": "2026-11-09T10:05:47Z",
+   "lang": "en",
+   "excerpt": "Greek shipowner Panos Efthimiadis is making his first move into dry bulk shipping, with his Leon Shipping & Trading linked to a kamsarmax newbuilding at China’s Hengli Heavy Industries as its orderbook grows to five vessels.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk",
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dry-bulk",
+    "panamax",
+    "newbuilding",
+    "orderbook",
+    "product-tanker"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "f3249ed34de6",
+   "title": "Ny merketeknologi skal kutte emballasjekostnader og etikettavfall",
+   "link": "https://www.mtlogistikk.no/act-logimark-blekkstraleskriver-emballasjemerking/ny-merketeknologi-skal-kutte-emballasjekostnader-og-etikettavfall/1357204",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-09T07:20:47Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "761924529b5d",
+   "title": "Mini kjølebil med 900 kg nyttelast",
+   "link": "https://www.mtlogistikk.no/goupil-kjoleaggregat-last-mile/mini-kjolebil-med-900-kg-nyttelast/1357187",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-09T07:05:47Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -236,6 +563,29 @@
    "paywall": true
   },
   {
+   "id": "a1204deb6502",
+   "title": "Lila Global adds third vintage LNG carrier with Diamond deal",
+   "link": "https://splash247.com/lila-global-adds-third-vintage-lng-carrier-with-diamond-deal/",
+   "source": "splash",
+   "published": "2026-11-09T07:00:33Z",
+   "seen": "2026-11-09T10:05:47Z",
+   "lang": "en",
+   "excerpt": "Lila Global, GMS’s shipowning arm, is expanding its presence in the ageing LNG carrier market, adding its third LNG carrier since September.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lng-carrier",
+    "dual-fuel"
+   ],
+   "paywall": false
+  },
+  {
    "id": "4fe1d9583588",
    "title": "US targets Cuba’s oil tanker fleet with another round of sanctions",
    "link": "https://insurancemarinenews.com/insurance-marine-news/us-targets-cubas-oil-tanker-fleet-with-another-round-of-sanctions/",
@@ -277,24 +627,6 @@
    "paywall": true
   },
   {
-   "id": "3085c1fb9e1c",
-   "title": "Mini kjølebil med 900 kg nyttelast",
-   "link": "https://www.mtlogistikk.no/goupil-kjoleaggregat-last-mile/mini-kjolebil-med-900-kg-nyttelast/1356597",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-09T06:48:23Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "4ee75fd2c683",
    "title": "Vil løse problemet med de siste meterne av leveransen",
    "link": "https://www.mtlogistikk.no/budleveranser-happypath-navigasjon/vil-lose-problemet-med-de-siste-meterne-av-leveransen/1356902",
@@ -310,6 +642,28 @@
    "policy": false,
    "level": "national",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6a36ddde6bb2",
+   "title": "Khalid Hashim set to pass the baton at Precious Shipping",
+   "link": "https://splash247.com/khalid-hashim-set-to-pass-the-baton-at-precious-shipping/",
+   "source": "splash",
+   "published": "2026-11-09T06:02:21Z",
+   "seen": "2026-11-06T13:11:58Z",
+   "lang": "en",
+   "excerpt": "Thailand’s Precious Shipping is preparing a change at the top, with longtime managing director Khalid Moinuddin Hashim moving to executive vice chairman and finance chief Gautam Khurana taking over the running of the Bangkok-listed dry …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dry-bulk"
+   ],
    "paywall": false
   },
   {
@@ -330,6 +684,45 @@
    "policy": false,
    "level": "international",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "e36093e99c82",
+   "title": "Kongsberg Maritime Unveils New Logo and Tagline",
+   "link": "https://maritime-executive.com/article/kongsberg-maritime-unveils-new-logo-and-tagline-2",
+   "source": "marex",
+   "published": "2026-11-09T04:12:00Z",
+   "seen": "2026-11-06T10:08:44Z",
+   "lang": "en",
+   "excerpt": "Kongsberg Maritime has unveiled its new logo and tagline, ‘Beyond begins here’. This is the company’s first independent visual identity following its...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5cda6cea3143",
+   "title": "Kongsberg Maritime Secures Contract for Equinor's Wisting Field Development",
+   "link": "https://maritime-executive.com/article/kongsberg-maritime-secures-automation-and-safety-systems-contract-for-equinor-s-wisting-field-development",
+   "source": "marex",
+   "published": "2026-11-09T04:10:00Z",
+   "seen": "2026-11-09T10:05:47Z",
+   "lang": "en",
+   "excerpt": "Kongsberg Maritime has been awarded a contract to provide the Safety and Automation System for Equinor’s Wisting Floating Production, Storage and Offl...",
+   "segments": [
+    "freight",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "fpso"
+   ],
    "paywall": false
   },
   {
@@ -373,6 +766,24 @@
    "paywall": false
   },
   {
+   "id": "4929beeba0c1",
+   "title": "In the Know 82: Solving the Shipyard Data Challenge With Oxalis",
+   "link": "https://maritime-executive.com/article/in-the-know-82-solving-the-shipyard-data-challenge-with-oxalis",
+   "source": "marex",
+   "published": "2026-11-09T03:35:46Z",
+   "seen": "2026-11-09T10:05:47Z",
+   "lang": "en",
+   "excerpt": "In this episode of In the Know, TME caught up with Sasha Trifunac, chief commercial officer of Oxalis Solutions, a consulting firm that provides data...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
    "id": "23bed933defd",
    "title": "Kan bli en av Norges største",
    "link": "https://www.mtlogistikk.no/alunskiferdeponi-dognhvileplasser-ladestasjoner/kan-bli-en-av-norges-storste/1356089",
@@ -388,6 +799,29 @@
    "policy": false,
    "level": "national",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8f3fa60f44f8",
+   "title": "Notorious dark fleet VLCC ends colourful career on Bangladesh’s beaches",
+   "link": "https://splash247.com/notorious-dark-fleet-vlcc-ends-colourful-career-on-bangladeshs-beaches/",
+   "source": "splash",
+   "published": "2026-11-09T03:00:41Z",
+   "seen": "2026-11-09T10:05:47Z",
+   "lang": "en",
+   "excerpt": "One of the world’s most notorious dark fleet VLCCs has closed a chapter in its history under its last and final name, Era, at the Chattogram shipbreaking yard.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "shadow-fleet",
+    "vlcc"
+   ],
    "paywall": false
   },
   {
@@ -410,24 +844,6 @@
    "terms": [
     "restructuring"
    ],
-   "paywall": false
-  },
-  {
-   "id": "dba0f2019baa",
-   "title": "Ny merketeknologi skal kutte emballasjekostnader og etikettavfall",
-   "link": "https://www.mtlogistikk.no/act-logimark-blekkstraleskriver-emballasjemerking/ny-merketeknologi-skal-kutte-emballasjekostnader-og-etikettavfall/1355748",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-09T02:33:23Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -1032,6 +1448,27 @@
    "paywall": false
   },
   {
+   "id": "0809da6ccb40",
+   "title": "RINA & Petrobras €11M Contract for Subsea Engineering & Decommissioning",
+   "link": "https://maritime-executive.com/article/rina-petrobras-11m-contract-for-subsea-engineering-decommissioning",
+   "source": "marex",
+   "published": "2026-11-08T18:52:01Z",
+   "seen": "2026-11-05T19:00:50Z",
+   "lang": "en",
+   "excerpt": "RINA, the global inspection, certification and consulting engineering multinational group, has signed a three-year €11 million contract with Petrobras...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "class-society",
+    "decommissioning"
+   ],
+   "paywall": false
+  },
+  {
    "id": "2edaaeb7459d",
    "title": "Hong Kong Market Report 2026",
    "link": "https://splash247.com/magazine/hong-kong-market-report-2026/",
@@ -1421,27 +1858,6 @@
    "level": "international",
    "terms": [
     "liner"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "0809da6ccb40",
-   "title": "RINA & Petrobras €11M Contract for Subsea Engineering & Decommissioning",
-   "link": "https://maritime-executive.com/article/rina-petrobras-11m-contract-for-subsea-engineering-decommissioning",
-   "source": "marex",
-   "published": "2026-11-07T18:52:01Z",
-   "seen": "2026-11-05T19:00:50Z",
-   "lang": "en",
-   "excerpt": "RINA, the global inspection, certification and consulting engineering multinational group, has signed a three-year €11 million contract with Petrobras...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "class-society",
-    "decommissioning"
    ],
    "paywall": false
   },
@@ -3202,28 +3618,6 @@
    "paywall": false
   },
   {
-   "id": "6a36ddde6bb2",
-   "title": "Khalid Hashim set to pass the baton at Precious Shipping",
-   "link": "https://splash247.com/khalid-hashim-set-to-pass-the-baton-at-precious-shipping/",
-   "source": "splash",
-   "published": "2026-11-06T11:02:21Z",
-   "seen": "2026-11-06T13:11:58Z",
-   "lang": "en",
-   "excerpt": "Thailand’s Precious Shipping is preparing a change at the top, with longtime managing director Khalid Moinuddin Hashim moving to executive vice chairman and finance chief Gautam Khurana taking over the running of the Bangkok-listed dry …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "dry-bulk"
-   ],
-   "paywall": false
-  },
-  {
    "id": "b43381addbd9",
    "title": "IMO launches survey on Maritime Single Windows",
    "link": "https://www.hellenicshippingnews.com/imo-launches-survey-on-maritime-single-windows/",
@@ -4174,24 +4568,6 @@
    "excerpt": "",
    "segments": [
     "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "e36093e99c82",
-   "title": "Kongsberg Maritime Unveils New Logo and Tagline",
-   "link": "https://maritime-executive.com/article/kongsberg-maritime-unveils-new-logo-and-tagline-2",
-   "source": "marex",
-   "published": "2026-11-06T04:12:00Z",
-   "seen": "2026-11-06T10:08:44Z",
-   "lang": "en",
-   "excerpt": "Kongsberg Maritime has unveiled its new logo and tagline, ‘Beyond begins here’. This is the company’s first independent visual identity following its...",
-   "segments": [
-    "freight"
    ],
    "subs": [],
    "policy": false,
@@ -17934,344 +18310,6 @@
    "level": "international",
    "terms": [
     "intermodal"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "9a2fe740fceb",
-   "title": "GDP up by 0.4% in the euro area and by 0.5% in the EU",
-   "link": "https://www.hellenicshippingnews.com/gdp-up-by-0-4-in-the-euro-area-and-by-0-5-in-the-eu/",
-   "source": "hsn",
-   "published": "2026-10-30T18:00:47Z",
-   "seen": "2026-10-30T18:52:57Z",
-   "lang": "en",
-   "excerpt": "Overview In the third quarter of 2026, seasonally adjusted GDP increased by 0.4% in the euro area and by 0.5% in the EU, compared with the previous quarter, according to a preliminary flash estimate published by Eurostat, the statistical …",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "586f2e7f18bc",
-   "title": "Lion Shipbrokers Weekly Market Report, Week 44 2026",
-   "link": "https://www.hellenicshippingnews.com/lion-shipbrokers-weekly-market-report-week-44-2026/",
-   "source": "hsn",
-   "published": "2026-10-30T18:00:41Z",
-   "seen": "2026-10-30T18:52:57Z",
-   "lang": "en",
-   "excerpt": "Sale & Purchase: The second-hand market was busy this week, with fifteen vessels reported sold or committed for further trading, nine dry",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "reports"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "shipbroker",
-    "sale-purchase"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "5aea504b54d9",
-   "title": "Toyo Construction wins Sihanoukville container terminal contract",
-   "link": "https://container-news.com/toyo-construction-wins-sihanoukville-container-terminal-contract/",
-   "source": "containernews",
-   "published": "2026-10-30T18:00:37Z",
-   "seen": "2026-10-30T18:52:57Z",
-   "lang": "en",
-   "excerpt": "Toyo Construction has secured a ¥26.2 billion contract to build the second new container terminal at Sihanoukville Port in Cambodia. The Port Authority of Sihanoukville awarded the Japanese contractor Package 1, which covers the civil …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "91cb069eeaec",
-   "title": "Five Rescued, One Died in Tugboat Fire off Japan",
-   "link": "https://maritime-executive.com/article/five-rescued-one-died-in-tugboat-fire-off-japan",
-   "source": "marex",
-   "published": "2026-10-30T17:49:09Z",
-   "seen": "2026-10-30T18:52:57Z",
-   "lang": "en",
-   "excerpt": "[Brief] The Japanese Coast Guard received reports Friday morning of a fire aboard a tugboat located approximately 20 nautical miles north of Miyako...",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "0150bccc6710",
-   "title": "European postal operators gear up for surge in holiday volume",
-   "link": "https://www.freightwaves.com/news/european-postal-operators-gear-up-for-surge-in-holiday-volume",
-   "source": "freightwaves",
-   "published": "2026-10-30T17:44:55Z",
-   "seen": "2026-10-30T18:52:57Z",
-   "lang": "en",
-   "excerpt": "Posten Bring in Norway and Deutsche Post in Germany are beefing up locker networks and taking other steps to ensure smooth delivery service for the holidays.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "bde6e47fbb0f",
-   "title": "How MARAD Cut Years Off Deepwater Port Reviews Without Changing Environmental Standards",
-   "link": "https://gcaptain.com/how-marad-cut-years-off-deepwater-port-reviews-without-changing-environmental-standards/",
-   "source": "gcaptain",
-   "published": "2026-10-30T17:36:50Z",
-   "seen": "2026-10-30T18:52:57Z",
-   "lang": "en",
-   "excerpt": "As gCaptain reported earlier this week, the Maritime Administration (MARAD) announced its approval of the $8.2 billion Texas ST LNG export port application, a major development for U.S. energy production.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "5b1776ad3300",
-   "title": "Covenant Logistics CEO expects double-digit truckload rate hikes in 2027",
-   "link": "https://www.freightwaves.com/news/covenant-logistics-ceo-expects-double-digit-truckload-rate-hikes-in-2027",
-   "source": "freightwaves",
-   "published": "2026-10-30T17:32:06Z",
-   "seen": "2026-10-30T18:52:57Z",
-   "lang": "en",
-   "excerpt": "Covenant Logistics CEO David Parker expects another year of substantial truckload contract rate increases in 2027.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "covenant",
-    "ftl"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "d496d99ccea8",
-   "title": "Hanwha Philly Shipyard Selected by TOTE to Build First Medium Landing Ship",
-   "link": "https://maritime-executive.com/article/hanwha-philly-shipyard-selected-by-tote-to-build-first-medium-landing-ship",
-   "source": "marex",
-   "published": "2026-10-30T17:25:52Z",
-   "seen": "2026-10-30T18:52:57Z",
-   "lang": "en",
-   "excerpt": "Hanwha Defense USA was officially named as the first shipbuilder selected by TOTE Services to build a Medium Landing Ship (LSM) for the U.S. Navy and...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "9c31054ba821",
-   "title": "SFL acquires two 8,800 TEU container ships",
-   "link": "https://container-news.com/sfl-acquires-two-8800-teu-container-ships/",
-   "source": "containernews",
-   "published": "2026-10-30T17:00:40Z",
-   "seen": "2026-10-30T18:52:57Z",
-   "lang": "en",
-   "excerpt": "SFL Corporation has agreed to acquire two 8,800 TEU container vessels scheduled for delivery in 2027. The company will also acquire a 93,000-cubic-metre dual-fuel Very Large Ammonia Carrier, which is due for delivery in 2028.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "teu",
-    "liner",
-    "dual-fuel",
-    "time-charter"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "90d67d094b5a",
-   "title": "Hanwha Philly Shipyard Wins $269 Million U.S. Navy Landing Ship Contract",
-   "link": "https://gcaptain.com/hanwha-philly-shipyard-wins-269-million-u-s-navy-landing-ship-contract/",
-   "source": "gcaptain",
-   "published": "2026-10-30T16:46:58Z",
-   "seen": "2026-10-30T18:52:57Z",
-   "lang": "en",
-   "excerpt": "Hanwha Philly Shipyard has secured a $269 million contract to build a Medium Landing Ship (LSM) for the U.S. Navy and Marine Corps, marking a major milestone in the South...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "1de8e82db173",
-   "title": "ReCAAP ISC and Ministry of Oceans and Fisheries Hold Anti-Piracy Workshop",
-   "link": "https://maritime-executive.com/article/recaap-isc-and-ministry-of-oceans-and-fisheries-co-organise-regional-capacity-building-workshop-to-strengthen-information-sharing-and-response-against-piracy-and-sea-robbery-in-asia",
-   "source": "marex",
-   "published": "2026-10-30T16:43:00Z",
-   "seen": "2026-10-30T09:56:48Z",
-   "lang": "en",
-   "excerpt": "The ReCAAP Information Sharing Centre (ISC), with the support of Korea’s Ministry of Oceans and Fisheries (MOF), today concluded a 4-day Capacity Buil...",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "0f54761529f8",
-   "title": "Grimaldi Warns U.S. Port Fees Could Force Ships Out of American Trades",
-   "link": "https://gcaptain.com/grimaldi-warns-u-s-port-fees-could-force-ships-out-of-american-trades/",
-   "source": "gcaptain",
-   "published": "2026-10-30T16:18:17Z",
-   "seen": "2026-10-30T18:52:57Z",
-   "lang": "en",
-   "excerpt": "Italian shipping giant Grimaldi Group is warning that reinstating U.S. port fees on foreign-built vehicle carriers could force it to redeploy vessels away from American trades, potentially disrupting shipping services...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "car-carrier"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "4acc2a829468",
-   "title": "Anti-War Protests Spread Across Global Ports as Dockworkers Target Arms Trade",
-   "link": "https://gcaptain.com/anti-war-protests-spread-across-global-ports-as-dockworkers-target-arms-trade/",
-   "source": "gcaptain",
-   "published": "2026-10-30T16:02:58Z",
-   "seen": "2026-10-30T18:52:57Z",
-   "lang": "en",
-   "excerpt": "Dockworkers across 113 ports in 22 countries staged coordinated strikes and protests Friday, disrupting cargo operations and ferry services as part of a global campaign opposing arms shipments to Israel...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "fb99248323b0",
-   "title": "What the shrinking US port budget says about the contest with China",
-   "link": "https://container-news.com/what-the-shrinking-us-port-budget-says-about-the-contest-with-china/",
-   "source": "containernews",
-   "published": "2026-10-30T16:00:38Z",
-   "seen": "2026-10-30T18:52:57Z",
-   "lang": "en",
-   "excerpt": "The latest MARAD round is the smallest in five years. The bigger problem is that America funds its maritime revival one grant at a time, while China runs it as a five-year plan.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "e5af62d600df",
-   "title": "Jett McCandless named first FreightTech Vanguard Award winner at F3",
-   "link": "https://www.freightwaves.com/news/jett-mccandless-named-first-freighttech-vanguard-award-winner-at-f3",
-   "source": "freightwaves",
-   "published": "2026-10-30T15:22:26Z",
-   "seen": "2026-10-30T15:56:25Z",
-   "lang": "en",
-   "excerpt": "Jett McCandless, founder and CEO of project44 and LSP44, received the first FreightTech Vanguard Award at FreightWaves’ F3 Awards Dinner in Chattanooga, recognizing his contributions to logistics technology and innovation.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "f1a246f3d36f",
-   "title": "Safety Technology Is Only as Good as the Trust Behind It",
-   "link": "https://www.freightwaves.com/news/safety-technology-is-only-as-good-as-the-trust-behind-it",
-   "source": "freightwaves",
-   "published": "2026-10-30T15:19:58Z",
-   "seen": "2026-10-30T15:56:25Z",
-   "lang": "en",
-   "excerpt": "Every carrier with a safety technology program eventually learns the same lesson: the hardware is the easy part. Cameras can be mounted, collision mitigation can be specified on new tractors, and telematics can be switched on.",
-   "segments": [
-    "road",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "1ffcb7ba918b",
-   "title": "Tanker Hit by Limpet Mines in Strait of Hormuz as New Threat to Shipping Emerges",
-   "link": "https://gcaptain.com/tanker-hit-by-limpet-mines-in-strait-of-hormuz-as-new-threat-to-shipping-emerges/",
-   "source": "gcaptain",
-   "published": "2026-10-30T15:16:54Z",
-   "seen": "2026-10-30T18:52:57Z",
-   "lang": "en",
-   "excerpt": "A tanker transiting the Strait of Hormuz was attacked by a small boat that attached two explosive devices to its hull, triggering an engine room fire and temporarily disabling the...",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
    ],
    "paywall": false
   }
