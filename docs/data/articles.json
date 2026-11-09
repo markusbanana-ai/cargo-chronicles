@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T19:00:05Z",
+ "updated": "2026-11-09T21:53:58Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Samferdselsministeren - besøker Sporveien; selvkjørende trikk på Holtet i Oslo",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-besoker-sporveien-selvkjorende-trikk-pa-holtet-i-oslo/id3192007/",
    "source": "regjeringen",
-   "published": "2026-11-09T19:00:05Z",
+   "published": "2026-11-09T21:53:58Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -26,7 +26,7 @@
    "title": "Samferdselsministeren - åpner gang- og sykkelvei langs ring 3 ved Ullevål",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-apner-gang-og-sykkelvei-langs-ring-3-ved-ulleval/id3192008/",
    "source": "regjeringen",
-   "published": "2026-11-09T19:00:05Z",
+   "published": "2026-11-09T21:53:58Z",
    "seen": "2026-11-06T15:55:35Z",
    "lang": "no",
    "excerpt": "",
@@ -45,7 +45,7 @@
    "title": "Fiskeri- og havministeren har møte med Maritime Cleantech",
    "link": "https://www.regjeringen.no/no/aktuelt/fiskeri-og-havministeren-har-mote-med-maritime-cleantech/id3192108/",
    "source": "regjeringen",
-   "published": "2026-11-09T19:00:05Z",
+   "published": "2026-11-09T21:53:58Z",
    "seen": "2026-11-09T13:20:42Z",
    "lang": "no",
    "excerpt": "Fiskeri- og havminister Marianne Sivertsen Næss har møte med Maritime Cleantech.",
@@ -60,12 +60,156 @@
    "upcoming": true
   },
   {
-   "id": "597dfa37566a",
+   "id": "8e1292e56c9a",
+   "title": "Hapag-Lloyd and Inmarsat Maritime: a case study in connected shipping",
+   "link": "https://container-news.com/hapag-lloyd-and-inmarsat-maritime-a-case-study-in-connected-shipping/",
+   "source": "containernews",
+   "published": "2026-11-09T21:32:22Z",
+   "seen": "2026-11-09T21:53:58Z",
+   "lang": "en",
+   "excerpt": "Hapag-Lloyd, the world’s fifth-largest container carrier, operates 300 vessels on 133 liner services, transporting 13.5 million twenty-foot-equivalent units a year between 600 ports worldwide.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "09bd332d152a",
+   "title": "USCG Medevacs Four Tanker Crewmembers With Food Poisoning",
+   "link": "https://maritime-executive.com/article/uscg-medevacs-four-tanker-crewmembers-with-food-poisoning",
+   "source": "marex",
+   "published": "2026-11-09T21:16:00Z",
+   "seen": "2026-11-09T21:53:58Z",
+   "lang": "en",
+   "excerpt": "On Sunday morning, the U.S. Coast Guard conducted a medevac to airlift the crew of a product tanker off Puerto Rico after a reported food-poisoning in...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "product-tanker"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "9944e0d93512",
+   "title": "Gulftainer launches bonded corridor linking Fujairah and Sharjah",
+   "link": "https://container-news.com/gulftainer-launches-bonded-corridor-linking-fujairah-and-sharjah/",
+   "source": "containernews",
+   "published": "2026-11-09T20:31:29Z",
+   "seen": "2026-11-09T21:53:58Z",
+   "lang": "en",
+   "excerpt": "Gulftainer has launched a new bonded logistics corridor connecting Fujairah Terminal with Sharjah Dry Ports in Sajaa, United Arab Emirates, expanding inland cargo movement options between the two locations.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "bond",
+    "customs-transit"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "22b013272001",
+   "title": "Splash Crew launches to put seafarers at the heart of maritime news",
+   "link": "https://splash247.com/splash-crew-launches-to-put-seafarers-at-the-heart-of-maritime-news/",
+   "source": "splash",
+   "published": "2026-11-09T20:00:00Z",
+   "seen": "2026-11-09T21:53:58Z",
+   "lang": "en",
+   "excerpt": "Splash Maritime Group has unveiled Splash Crew, its latest specialist news platform, with the ambition of becoming essential daily reading for seafarers, crewing professionals, shipmanagers, regulators and maritime technology companies …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "17b2d95a5754",
+   "title": "G7 Launches Global Port Security Network to Combat Drug Trafficking",
+   "link": "https://gcaptain.com/g7-launches-global-port-security-network-to-combat-drug-trafficking/",
+   "source": "gcaptain",
+   "published": "2026-11-09T19:43:47Z",
+   "seen": "2026-11-09T21:53:58Z",
+   "lang": "en",
+   "excerpt": "France on Monday laurched a new G7-backed network linking major seaports, customs authorities and international organizations in an effort to crack down on drug trafficking through global maritime supply chains....",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6dab9c39fc11",
+   "title": "Jacobs’ ‘playbook’ will target new industry, to be determined",
+   "link": "https://www.freightwaves.com/news/jacobs-playbook-will-target-new-industry-to-be-determined",
+   "source": "freightwaves",
+   "published": "2026-11-09T19:34:18Z",
+   "seen": "2026-11-09T21:53:58Z",
+   "lang": "en",
+   "excerpt": "Billionaire entrepreneur Brad Jacobs, who launched LTL carrier XPO and its later spinoffs, is turning to what he calls his “playbook” once again to seek out opportunities in a different sector. The sector?",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ltl"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "a7eb230cafe7",
+   "title": "How the container glut will reshape shipping’s balance of power",
+   "link": "https://container-news.com/how-the-container-glut-will-reshape-shippings-balance-of-power/",
+   "source": "containernews",
+   "published": "2026-11-09T19:30:47Z",
+   "seen": "2026-11-09T21:53:58Z",
+   "lang": "en",
+   "excerpt": "The global container fleet is about to grow faster than at any point in its history as new analysis from Sea-Intelligence found showing capacity rising from today’s 34 million TEU to 40 million by mid-2028 and 50 million by the third …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "1234791cb4b1",
    "title": "Åpner for elvarebiler i kollektivfeltene",
-   "link": "https://www.mtlogistikk.no/elektriske-lastebiler-elektriske-varebiler-kollektivfelt/apner-for-elvarebiler-i-kollektivfeltene/1357603",
+   "link": "https://www.mtlogistikk.no/elektriske-lastebiler-elektriske-varebiler-kollektivfelt/apner-for-elvarebiler-i-kollektivfeltene/1357780",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-09T19:00:05Z",
+   "seen": "2026-11-09T19:23:58Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -75,6 +219,107 @@
    "policy": false,
    "level": "national",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "21273e7d9bab",
+   "title": "Oil Offload Imminent for Wrecked Tanker Caroline Bezengi",
+   "link": "https://maritime-executive.com/article/oil-offload-imminent-for-wrecked-tanker-caroline-bezengi",
+   "source": "marex",
+   "published": "2026-11-09T19:10:00Z",
+   "seen": "2026-11-09T21:53:58Z",
+   "lang": "en",
+   "excerpt": "An offload operation appears to be imminent at the site of the shipwrecked tanker Caroline Bezengi, which is stranded on the rocks off the southwester...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4c078faddcb6",
+   "title": "Cosco profit rockets 81% as ocean freight revenue climbs in Q3",
+   "link": "https://www.freightwaves.com/news/cosco-profit-rockets-81-as-ocean-freight-revenue-climbs-in-q3",
+   "source": "freightwaves",
+   "published": "2026-11-09T19:06:59Z",
+   "seen": "2026-11-09T21:53:58Z",
+   "lang": "en",
+   "excerpt": "Stronger trans-Pacific trade helps lift Cosco nine-month earnings, while geopolitical disruption clouds the outlook.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "e1b0e713eacf",
+   "title": "AI in Logistics: How to Get Real ROI, Not Just Hype",
+   "link": "https://www.freightwaves.com/news/ai-in-logistics-how-to-get-real-roi-not-just-hype",
+   "source": "freightwaves",
+   "published": "2026-11-09T19:03:09Z",
+   "seen": "2026-11-09T21:53:58Z",
+   "lang": "en",
+   "excerpt": "The world of global trade is in constant flux, from shifting political landscapes to unexpected disruptions like drone attacks. In this dynamic environment, how can logistics professionals leverage AI to not just survive, but thrive?",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f53caa3c740e",
+   "title": "SELF-DRIVING Trucks Are HERE: Venti CEO Reveals US Fleet Operations",
+   "link": "https://www.freightwaves.com/news/self-driving-trucks-are-here-venti-ceo-reveals-us-fleet-operations",
+   "source": "freightwaves",
+   "published": "2026-11-09T19:01:39Z",
+   "seen": "2026-11-09T21:53:58Z",
+   "lang": "en",
+   "excerpt": "Venti’s CEO Heidi Wyle shares how their autonomous truck fleets are already running 24/7 in US intermodal yards. These self-driving solutions are recreating supply chain logistics, exceeding human productivity in controlled environments.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "intermodal"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "65568eff6144",
+   "title": "Freight Demand Jumps 5% as Spot Rates Climb",
+   "link": "https://www.freightwaves.com/news/freight-demand-jumps-5-as-spot-rates-climb",
+   "source": "freightwaves",
+   "published": "2026-11-09T19:00:13Z",
+   "seen": "2026-11-09T21:53:58Z",
+   "lang": "en",
+   "excerpt": "Freight demand is up nearly 5% week over week, and spot rates are still climbing. In this SONAR update, we break down tender rejections near 13%, rising van contract and spot rates, flatbed conditions and new LTL National Insights data.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "spot-market",
+    "ltl"
+   ],
    "paywall": false
   },
   {
@@ -150,6 +395,24 @@
    "source": "mtlogistikk",
    "published": null,
    "seen": "2026-11-09T18:15:05Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f3249ed34de6",
+   "title": "Ny merketeknologi skal kutte emballasjekostnader og etikettavfall",
+   "link": "https://www.mtlogistikk.no/act-logimark-blekkstraleskriver-emballasjemerking/ny-merketeknologi-skal-kutte-emballasjekostnader-og-etikettavfall/1357204",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-09T18:08:58Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -681,24 +944,6 @@
    "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "dba0f2019baa",
-   "title": "Ny merketeknologi skal kutte emballasjekostnader og etikettavfall",
-   "link": "https://www.mtlogistikk.no/act-logimark-blekkstraleskriver-emballasjemerking/ny-merketeknologi-skal-kutte-emballasjekostnader-og-etikettavfall/1355748",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-09T14:15:05Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18050,249 +18295,6 @@
    "terms": [
     "chokepoint",
     "teu"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "67e487946393",
-   "title": "Norsk sensorteknologi skal sikre uavbrutt palletering i krevende industrimiljøer",
-   "link": "https://www.mtlogistikk.no/berobox-palletering-robotsikkerhet/norsk-sensorteknologi-skal-sikre-uavbrutt-palletering-i-krevende-industrimiljoer/1344306",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-01T20:00:12Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "64bcf69b9bc1",
-   "title": "Arken Intermodal Terminal achieves near-doubled yard capacity",
-   "link": "https://container-news.com/arken-intermodal-terminal-achieves-near-doubled-yard-capacity/",
-   "source": "containernews",
-   "published": "2026-11-01T20:00:04Z",
-   "seen": "2026-11-01T21:42:15Z",
-   "lang": "en",
-   "excerpt": "The Port of Gothenburg has significantly increased yard capacity at Arken Intermodal Terminal through a reconfiguration of the railway track layout, freeing up approximately 4,000 square metres of additional yard space for trailers and …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "intermodal"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "c1ee29aeb021",
-   "title": "Kenya Progresses With a Port Concession Plan Worth $1 Billion",
-   "link": "https://maritime-executive.com/article/kenya-progresses-with-a-port-concession-plan-worth-1-billion",
-   "source": "marex",
-   "published": "2026-11-01T18:47:02Z",
-   "seen": "2026-11-01T21:42:15Z",
-   "lang": "en",
-   "excerpt": "Kenya is set to lease out key port assets after its National Treasury approved a feasibility study on the privatization plan. For over a decade now, t...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "f600b21eaf3f",
-   "title": "Divers Find Wreck of WWII Steamship SS Cornwallis",
-   "link": "https://maritime-executive.com/article/divers-find-wreck-of-wwii-steamship-ss-cornwallis",
-   "source": "marex",
-   "published": "2026-11-01T18:42:56Z",
-   "seen": "2026-11-02T10:13:09Z",
-   "lang": "en",
-   "excerpt": "The wreck of a Canadian steam merchant ship sunk by a German submarine during World War II has been discovered in the Gulf of Maine, nearly 82 years a...",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "5dc71843d094",
-   "title": "Emirates Shipping restructures India–Red Sea network",
-   "link": "https://container-news.com/emirates-shipping-restructures-india-red-sea-network/",
-   "source": "containernews",
-   "published": "2026-11-01T18:00:02Z",
-   "seen": "2026-11-01T18:50:22Z",
-   "lang": "en",
-   "excerpt": "Emirates Shipping Line will reorganise its services between India and the Red Sea, according to DynaLiners. The carrier’s South Red Sea Service (SRS) will become a dedicated shuttle between Nhava Sheva and Jeddah.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint",
-    "teu"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "aa468bdebe02",
-   "title": "EU Retreats From Arctic Oil Ban Language In Strategy Draft",
-   "link": "https://gcaptain.com/eu-retreats-from-arctic-oil-ban-language-in-strategy-draft/",
-   "source": "gcaptain",
-   "published": "2026-11-01T16:15:09Z",
-   "seen": "2026-11-01T18:50:22Z",
-   "lang": "en",
-   "excerpt": "By Heidi Taksdal Skjeseth and Alberto Nardelli Oct 19, 2026 (Bloomberg) –The European Union looks to be relaxing its opposition to oil and gas production in polar areas, while still calling...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "eba55ff205c7",
-   "title": "Cefetra signs agreement with ABP at port of Immingham",
-   "link": "https://container-news.com/cefetra-signs-agreement-with-abp-at-port-of-immingham/",
-   "source": "containernews",
-   "published": "2026-11-01T16:00:59Z",
-   "seen": "2026-11-01T18:50:22Z",
-   "lang": "en",
-   "excerpt": "Cefetra has signed a ten-year agreement with Associated British Ports at the Port of Immingham, securing substantial storage space at the UK’s largest port by tonnage volume and reinforcing a partnership that spans nearly three decades.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "695eaaa6fdca",
-   "title": "Venture Global Begins Supplying Plaquemines Customers Under Long-Term LNG Contracts",
-   "link": "https://gcaptain.com/venture-global-begins-supplying-plaquemines-customers-under-long-term-lng-contracts/",
-   "source": "gcaptain",
-   "published": "2026-11-01T15:27:41Z",
-   "seen": "2026-11-01T18:50:22Z",
-   "lang": "en",
-   "excerpt": "By Curtis Williams HOUSTON, Nov 1 (Reuters) – Energy major Shell SHEL.L was the first customer to receive LNG under a long-term sales contract from Venture Global’s VG.N Plaquemines export plant in Louisiana, after it completed Phase 1 …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "5cc55001f02a",
-   "title": "Messina Line drops second Misurata call from West Med service",
-   "link": "https://container-news.com/messina-line-drops-second-misurata-call-from-west-med-service/",
-   "source": "containernews",
-   "published": "2026-11-01T15:00:32Z",
-   "seen": "2026-11-01T15:41:21Z",
-   "lang": "en",
-   "excerpt": "Messina Line will remove the second Misurata call from its West Med Line, according to DynaLiners. The service currently calls at the Libyan port twice during each rotation.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "teu"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "5ca7e554789e",
-   "title": "KMTC places first overseas newbuilding order",
-   "link": "https://container-news.com/kmtc-places-first-overseas-newbuilding-order/",
-   "source": "containernews",
-   "published": "2026-11-01T14:00:47Z",
-   "seen": "2026-11-01T15:41:21Z",
-   "lang": "en",
-   "excerpt": "Korea Marine Transport Company (KMTC) has signed a contract for six 3,100 TEU container ships at CSSC Huangpu Wenchong Shipbuilding in China, according to DynaLiners.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "newbuilding",
-    "teu",
-    "liner"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "de2a7eee6cba",
-   "title": "Kongsberg Maritime reports record order backlog amid strong newbuild demand",
-   "link": "https://container-news.com/kongsberg-maritime-reports-record-order-backlog-amid-strong-newbuild-demand/",
-   "source": "containernews",
-   "published": "2026-11-01T12:00:08Z",
-   "seen": "2026-11-01T12:55:22Z",
-   "lang": "en",
-   "excerpt": "Kongsberg Maritime reported a record order backlog of NOK 29.75 billion in the third quarter of 2026, supported by strong demand for newbuild vessels across several shipping segments.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "backlog",
-    "newbuilding"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "e0ce649b8486",
-   "title": "Borderlands Mexico: Cabotage enforcements threatening cross-border trucking",
-   "link": "https://www.freightwaves.com/news/borderlands-mexico-cabotage-enforcements-threatening-cross-border-trucking",
-   "source": "freightwaves",
-   "published": "2026-11-01T12:00:00Z",
-   "seen": "2026-11-01T12:55:22Z",
-   "lang": "en",
-   "excerpt": "This week in Borderlands Mexico: Cabotage enforcements threatening cross-border trucking; Nuevo León slashes Colombia Bridge toll fees 50% to boost cross-border trucking; and Walmart plans $400M distribution center near San Antonio …",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "cabotage"
    ],
    "paywall": false
   }
