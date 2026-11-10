@@ -1,7 +1,340 @@
 {
- "updated": "2026-11-10T03:57:10Z",
+ "updated": "2026-11-10T07:15:53Z",
  "sample": false,
  "articles": [
+  {
+   "id": "76c875eb4cab",
+   "title": "Fiskeri- og havministeren har møte med Maritime Cleantech",
+   "link": "https://www.regjeringen.no/no/aktuelt/fiskeri-og-havministeren-har-mote-med-maritime-cleantech/id3192108/",
+   "source": "regjeringen",
+   "published": "2026-11-10T07:15:53Z",
+   "seen": "2026-11-09T13:20:42Z",
+   "lang": "no",
+   "excerpt": "Fiskeri- og havminister Marianne Sivertsen Næss har møte med Maritime Cleantech.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false,
+   "upcoming": true
+  },
+  {
+   "id": "597dfa37566a",
+   "title": "Åpner for elvarebiler i kollektivfeltene",
+   "link": "https://www.mtlogistikk.no/elektriske-lastebiler-elektriske-varebiler-kollektivfelt/apner-for-elvarebiler-i-kollektivfeltene/1357603",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-10T07:15:53Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "573c69f8f24d",
+   "title": "Insurance Marine News – Tuesday November 10th 2026",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/insurance-marine-news-tuesday-november-10th-2026/",
+   "source": "imn",
+   "published": "2026-11-10T07:02:14Z",
+   "seen": "2026-11-10T07:15:53Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "2d3643a2886c",
+   "title": "China extends suspension of port fees on US-linked ships",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/china-extends-suspension-of-port-fees-on-us-linked-ships/",
+   "source": "imn",
+   "published": "2026-11-10T07:01:51Z",
+   "seen": "2026-11-10T07:15:53Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "92ef64231aef",
+   "title": "Russia claims three Black Sea attacks at weekend",
+   "link": "https://insurancemarinenews.com/cargo/russia-claims-three-black-sea-attacks-at-weekend/",
+   "source": "imn",
+   "published": "2026-11-10T07:01:42Z",
+   "seen": "2026-11-10T07:15:53Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "2992eafb055c",
+   "title": "Evergreen joins return to Red Sea shipping",
+   "link": "https://insurancemarinenews.com/cargo/68105/",
+   "source": "imn",
+   "published": "2026-11-10T07:01:29Z",
+   "seen": "2026-11-10T07:15:53Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "33280bbbc172",
+   "title": "Gard to apply 4% average targeted increase, OGD of 10% announced",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/gard-to-apply-4-average-targeted-increase-ogd-of-10-announced/",
+   "source": "imn",
+   "published": "2026-11-10T07:01:17Z",
+   "seen": "2026-11-10T07:15:53Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "pi-club"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "6e84f3625a03",
+   "title": "UAE city of Khor Fakkan shuts beach after detecting oil spill",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/uae-city-of-khor-fakkan-shuts-beach-after-detecting-oil-spill/",
+   "source": "imn",
+   "published": "2026-11-10T07:01:04Z",
+   "seen": "2026-11-10T07:15:53Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "311bbe6ff218",
+   "title": "Get your data in order and set a course for greener shipping",
+   "link": "https://container-news.com/get-your-data-in-order-and-set-a-course-for-greener-shipping/",
+   "source": "containernews",
+   "published": "2026-11-10T07:00:47Z",
+   "seen": "2026-11-10T07:15:53Z",
+   "lang": "en",
+   "excerpt": "There is cause for optimism in the shipping sector, and we are seeing more and more initiatives aimed at making shipping greener. Shipowners are now far more willing to reduce emissions from ships than they were just a few years ago.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "e48a36019776",
+   "title": "Sequence of attacks in Strait of Hormuz",
+   "link": "https://insurancemarinenews.com/cargo/sequence-of-attacks-in-strait-of-hormuz/",
+   "source": "imn",
+   "published": "2026-11-10T07:00:43Z",
+   "seen": "2026-11-10T07:15:53Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "2f941ef3e344",
+   "title": "MSIG UK launches Construction and Marine Cargo classes",
+   "link": "https://insurancemarinenews.com/cargo/68096/",
+   "source": "imn",
+   "published": "2026-11-10T07:00:41Z",
+   "seen": "2026-11-10T07:15:53Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "069b032c944c",
+   "title": "Optio acquires Norwegian aquaculture MGA SAFE Forsikring",
+   "link": "https://insurancemarinenews.com/keep/optio-acquires-norwegian-aquaculture-mga-safe-forsikring/",
+   "source": "imn",
+   "published": "2026-11-10T07:00:21Z",
+   "seen": "2026-11-10T07:15:53Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "finance",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "e780cb729172",
+   "title": "LA Port strike threat deferred again as labour talks continue",
+   "link": "https://insurancemarinenews.com/cargo/la-port-strike-threat-deferred-again-as-labour-talks-continue/",
+   "source": "imn",
+   "published": "2026-11-10T07:00:13Z",
+   "seen": "2026-11-10T07:15:53Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "c87bf0449cf9",
+   "title": "The dirty secret of shipping’s clean hull ambitions",
+   "link": "https://splash247.com/the-dirty-secret-of-shippings-clean-hull-ambitions/",
+   "source": "splash",
+   "published": "2026-11-10T06:18:04Z",
+   "seen": "2026-11-10T07:15:53Z",
+   "lang": "en",
+   "excerpt": "Hull fouling drives up fuel bills and emissions, yet ports increasingly restrict the very cleaning operations needed to tackle it. The missing piece is a global network of places where ships can safely get cleaned.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5b34ad9151f8",
+   "title": "South Korea clears Sinar Mas takeover of Hyundai LNG Shipping",
+   "link": "https://splash247.com/south-korea-clears-sinar-mas-takeover-of-hyundai-lng-shipping/",
+   "source": "splash",
+   "published": "2026-11-10T06:15:04Z",
+   "seen": "2026-11-10T07:15:53Z",
+   "lang": "en",
+   "excerpt": "South Korea has given conditional approval for the sale of Hyundai LNG Shipping to Indonesia’s Sinar Mas Group, removing the final regulatory hurdle in a deal that has been held up for months by national energy security concerns.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "mna",
+    "lng-carrier"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "cf1482d438a5",
+   "title": "Best Oasis becomes second cash buyer to secure US sanctions clearance",
+   "link": "https://splash247.com/best-oasis-becomes-second-cash-buyer-to-secure-us-sanctions-clearance/",
+   "source": "splash",
+   "published": "2026-11-10T06:13:59Z",
+   "seen": "2026-11-10T07:15:53Z",
+   "lang": "en",
+   "excerpt": "Dubai-based ship recycling cash buyer Best Oasis has secured authorisation from the US Treasury’s Office of Foreign Assets Control (OFAC) to negotiate deals involving sanctioned vessels, becoming the second company after GMS to receive …",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "recycling",
+    "sanctions"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "71683c83f6ca",
+   "title": "Container freight rates weaken as WCI and FBX extend declines",
+   "link": "https://container-news.com/container-freight-rates-weaken-as-wci-and-fbx-extend-declines/",
+   "source": "containernews",
+   "published": "2026-11-10T06:00:02Z",
+   "seen": "2026-11-10T07:15:53Z",
+   "lang": "en",
+   "excerpt": "Global container freight rates remained under pressure in the latest weekly assessments, with Drewry’s World Container Index (WCI) and the Freightos Baltic Index (FBX) recording further declines, while Chinese freight benchmarks and …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "container-index"
+   ],
+   "paywall": false
+  },
   {
    "id": "00645a1dc701",
    "title": "Samferdselsministeren - besøker Sporveien; selvkjørende trikk på Holtet i Oslo",
@@ -21,25 +354,6 @@
    "paywall": false
   },
   {
-   "id": "76c875eb4cab",
-   "title": "Fiskeri- og havministeren har møte med Maritime Cleantech",
-   "link": "https://www.regjeringen.no/no/aktuelt/fiskeri-og-havministeren-har-mote-med-maritime-cleantech/id3192108/",
-   "source": "regjeringen",
-   "published": "2026-11-10T03:57:10Z",
-   "seen": "2026-11-09T13:20:42Z",
-   "lang": "no",
-   "excerpt": "Fiskeri- og havminister Marianne Sivertsen Næss har møte med Maritime Cleantech.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false,
-   "upcoming": true
-  },
-  {
    "id": "52a530a8d668",
    "title": "Explainer: The role of insurers in the Black Sea",
    "link": "https://container-news.com/explainer-the-role-of-insurers-in-the-black-sea/",
@@ -57,6 +371,27 @@
    "terms": [
     "war-risk"
    ],
+   "paywall": false
+  },
+  {
+   "id": "d62b3d758f14",
+   "title": "Famed Ocean Liner SS United States to be Sunk on Veterans Day",
+   "link": "https://maritime-executive.com/article/famed-ocean-liner-ss-united-states-to-be-sunk-on-veterans-day",
+   "source": "marex",
+   "published": "2026-11-10T02:01:00Z",
+   "seen": "2026-11-10T07:15:53Z",
+   "lang": "en",
+   "excerpt": "On Monday, the storied ocean liner SS United States departed Mobile, Alabama for her final journey to an artificial reef site off the coast of Florida...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
    "paywall": false
   },
   {
@@ -133,24 +468,6 @@
    "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "1234791cb4b1",
-   "title": "Åpner for elvarebiler i kollektivfeltene",
-   "link": "https://www.mtlogistikk.no/elektriske-lastebiler-elektriske-varebiler-kollektivfelt/apner-for-elvarebiler-i-kollektivfeltene/1357780",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-10T01:12:10Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -324,6 +641,24 @@
    "subs": [],
    "policy": false,
    "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "60007f92afb2",
+   "title": "68 tonn utslippsfri hybrid",
+   "link": "https://www.mtlogistikk.no/batterielektrisk-elektrisk-lastebil-hybrid-lastebil/68-tonn-utslippsfri-hybrid/1346775",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-09T22:30:53Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -17939,345 +18274,6 @@
    ],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "5f6ec365a9b1",
-   "title": "Four fatalities as search for missing worker continues: Independent investigation into tragic rig incident underway",
-   "link": "https://offshore-energy.biz/2026/11/02/four-fatalities-as-search-for-missing-worker-continues-independent-investigation-into-tragic-rig-incident-underway",
-   "source": "offshoreenergy",
-   "published": "2026-11-02T07:34:15Z",
-   "seen": "2026-11-02T10:13:09Z",
-   "lang": "en",
-   "excerpt": "Borr Drilling has confirmed the fourth fatality after the tragic rig incident offshore Gabon, with search efforts ongoing to find the missing worker.",
-   "segments": [
-    "insurance",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "rig"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "8aed8cdad6ca",
-   "title": "Hormuz attacks spread deeper into the Gulf",
-   "link": "https://splash247.com/hormuz-attacks-spread-deeper-into-the-gulf/",
-   "source": "splash",
-   "published": "2026-11-02T07:29:57Z",
-   "seen": "2026-11-02T07:32:07Z",
-   "lang": "en",
-   "excerpt": "Commercial shipping has come under renewed attack in and around the Strait of Hormuz over the weekend, with tankers and an LNG carrier targeted as Washington and Tehran exchange increasingly belligerent warnings despite fresh diplomatic …",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint",
-    "lng-carrier"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "5e449b65943e",
-   "title": "Maritime CEO Forum: Dry bulk owners eye generational rate rally",
-   "link": "https://splash247.com/maritime-ceo-forum-dry-bulk-owners-eye-generational-rate-rally/",
-   "source": "splash",
-   "published": "2026-11-02T07:15:18Z",
-   "seen": "2026-11-02T07:32:07Z",
-   "lang": "en",
-   "excerpt": "Dry bulk shipping could be approaching a generational freight rate rally as surging West African mineral exports transform tonne-mile demand, according to shipowners speaking at last week’s Maritime CEO Forum in Monaco, although concerns …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "dry-bulk",
-    "ton-miles"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "29db3e4743cd",
-   "title": "Din stemme teller - Svar på NLFs konjunkturundersøkelse nå",
-   "link": "https://lastebil.no/aktuelt/nyheter/din-stemme-teller-svar-paa-nlfs-konjunkturundersoekelse-naa",
-   "source": "lastebil",
-   "published": "2026-11-02T07:02:58Z",
-   "seen": "2026-11-02T07:32:07Z",
-   "lang": "no",
-   "excerpt": "Konjunkturundersøkelsen er ikke bare et skjema som havner i en skuff. Den er NLFs faktagrunnlag når vi skal snakke bransjens sak, og tallene dine brukes i flere sammenhenger.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "1e1fb24b259c",
-   "title": "COSCO’s windfall quarter hides a longer game",
-   "link": "https://container-news.com/coscos-windfall-quarter-hides-a-longer-game/",
-   "source": "containernews",
-   "published": "2026-11-02T07:00:58Z",
-   "seen": "2026-11-02T07:32:07Z",
-   "lang": "en",
-   "excerpt": "Chinese state carrier’s 81% profit jump is borrowed from global disruption but the cash is being turned into structural power.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "836b4f5b17c6",
-   "title": "Global shipbuilding orderbook breaks 2008 record with output heading for new peak",
-   "link": "https://splash247.com/global-shipbuilding-orderbook-breaks-2008-record-with-output-heading-for-new-peak/",
-   "source": "splash",
-   "published": "2026-11-02T06:56:57Z",
-   "seen": "2026-11-02T07:32:07Z",
-   "lang": "en",
-   "excerpt": "The global shipbuilding orderbook has surpassed its pre-financial crisis record, with the world’s yards set to eclipse their previous production peak next year and expand output still further in 2028.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "orderbook",
-    "backlog"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "41670a9910a6",
-   "title": "Bulgaria sends corvette to sink capsized Khoryv",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/bulgaria-sends-corvette-to-sink-capsized-khoryv/",
-   "source": "imn",
-   "published": "2026-11-02T06:13:38Z",
-   "seen": "2026-11-02T07:32:07Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "4fd190afa98a",
-   "title": "UAE says oil leak from Gem No. 2 has been stopped",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/uae-says-oil-leak-from-gem-no-2-has-been-stopped/",
-   "source": "imn",
-   "published": "2026-11-02T06:12:31Z",
-   "seen": "2026-11-02T07:32:07Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "09a303a896d9",
-   "title": "Tanker in Strait of Hormuz hit by limpet mines, security sources say",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/tanker-in-strait-of-hormuz-hit-by-limpet-mines-security-sources-say/",
-   "source": "imn",
-   "published": "2026-11-02T06:11:44Z",
-   "seen": "2026-11-02T07:32:07Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": true
-  },
-  {
-   "id": "0a252c940b51",
-   "title": "Iran claims four attacks on Friday",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/iran-claims-four-attacks-on-friday/",
-   "source": "imn",
-   "published": "2026-11-02T06:10:49Z",
-   "seen": "2026-11-02T07:32:07Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "0d0e03f6bc42",
-   "title": "Recent attacks in SoH, more details",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/recent-attacks-in-soh-more-details/",
-   "source": "imn",
-   "published": "2026-11-02T06:09:57Z",
-   "seen": "2026-11-02T07:32:07Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "5432dcc71f0a",
-   "title": "Oman rescues 25 crew members from burning tanker off Musandam",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/oman-rescues-25-crew-members-from-burning-tanker-off-musandam/",
-   "source": "imn",
-   "published": "2026-11-02T06:08:40Z",
-   "seen": "2026-11-02T07:32:07Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "3b9dd85e22f1",
-   "title": "Dockworkers at more than 100 ports worldwide strike against arms shipments",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/dockworkers-at-more-than-100-ports-worldwide-strike-against-arms-shipments/",
-   "source": "imn",
-   "published": "2026-11-02T06:07:30Z",
-   "seen": "2026-11-02T07:32:07Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "e945820c7f45",
-   "title": "Bulgaria demands two-hours’ notice for any ships entering its waters",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/bulgaria-demands-two-hours-notice-for-any-ships-entering-its-waters/",
-   "source": "imn",
-   "published": "2026-11-02T06:06:11Z",
-   "seen": "2026-11-02T07:32:07Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "5fdc99063ae6",
-   "title": "Marine round-up : 2nd November 2026",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/marine-round-up-2nd-november-2026/",
-   "source": "imn",
-   "published": "2026-11-02T06:02:36Z",
-   "seen": "2026-11-02T07:32:07Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "59fffe5fbe12",
-   "title": "Readers Speak: Maersk’s Suez return divides expectations over March deadline",
-   "link": "https://container-news.com/readers-speak-maersks-suez-return-divides-expectations-over-march-deadline/",
-   "source": "containernews",
-   "published": "2026-11-02T06:00:31Z",
-   "seen": "2026-11-02T07:32:07Z",
-   "lang": "en",
-   "excerpt": "The prospect of Maersk completing its return to the Suez Canal by March 2027 has generated differing expectations across the container shipping industry, reflecting uncertainty over the pace at which services may resume using the route.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "bba1ab876b42",
-   "title": "Samferdselsministeren til Buskerud, Vestfold og Telemark",
-   "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-til-buskerud-vestfold-og-telemark/id3190650/",
-   "source": "regjeringen",
-   "published": "2026-11-02T06:00:00Z",
-   "seen": "2026-11-02T07:32:07Z",
-   "lang": "no",
-   "excerpt": "Samferdselsminister Kamzy Gunaratnam skal på fylkestur til Buskerud, Vestfold og Telemark mandag 2. november. Hun besøker Drammen, Sandefjord og Langangen.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   }
