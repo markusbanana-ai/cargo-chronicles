@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T13:09:40Z",
+ "updated": "2026-11-10T15:55:21Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Fiskeri- og havministeren har møte med Maritime Cleantech",
    "link": "https://www.regjeringen.no/no/aktuelt/fiskeri-og-havministeren-har-mote-med-maritime-cleantech/id3192108/",
    "source": "regjeringen",
-   "published": "2026-11-10T13:09:40Z",
+   "published": "2026-11-10T15:55:21Z",
    "seen": "2026-11-09T13:20:42Z",
    "lang": "no",
    "excerpt": "Fiskeri- og havminister Marianne Sivertsen Næss har møte med Maritime Cleantech.",
@@ -22,12 +22,12 @@
    "upcoming": true
   },
   {
-   "id": "ef9067f401ab",
-   "title": "Har faset ut diesel i Trøndelag",
-   "link": "https://www.mtlogistikk.no/asko-asko-midt-norge-distribusjon/har-faset-ut-diesel-i-trondelag/1358813",
+   "id": "9d949c386660",
+   "title": "Slo julerekorden allerede i oktober",
+   "link": "https://www.mtlogistikk.no/elektrisk-varetransport-pakkebokser-pakketerminalen-i-moss/slo-julerekorden-allerede-i-oktober/1358383",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-10T13:09:40Z",
+   "seen": "2026-11-10T15:25:21Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -37,6 +37,415 @@
    "policy": false,
    "level": "national",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "2de166c11df7",
+   "title": "Kollegahjelpens dag: En telefon eller en kopp kaffe kan bety mer enn du tror",
+   "link": "https://lastebil.no/aktuelt/nyheter/2026/kollegahjelpens-dag-en-telefon-eller-en-kopp-kaffe-kan-bety-mer-enn-du-tror",
+   "source": "lastebil",
+   "published": "2026-11-10T15:12:23Z",
+   "seen": "2026-11-10T15:55:21Z",
+   "lang": "no",
+   "excerpt": "12. november markerer NLF Kollegahjelpens dag. NLF oppfordrer hele transportnæringen til å tenke på en kollega som har vært gjennom en alvorlig ulykke.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "0582f0de732e",
+   "title": "Where Trucking Capacity Sits Right Now, And What The Fleet-Size Split Might Be Signaling",
+   "link": "https://www.freightwaves.com/news/where-trucking-capacity-sits-right-now-and-what-the-fleet-size-split-might-be-signaling",
+   "source": "freightwaves",
+   "published": "2026-11-10T15:05:00Z",
+   "seen": "2026-11-10T15:55:21Z",
+   "lang": "en",
+   "excerpt": "How much trucking capacity is on the road right now depends almost entirely on which carriers you are counting, because the national fleet is really several different markets stacked together, the owner-operators running a truck or two …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "d1f48b707a95",
+   "title": "Boluda Shipping signs agreement for Matrans Terminal in Rotterdam",
+   "link": "https://container-news.com/boluda-shipping-signs-agreement-for-matrans-terminal-in-rotterdam/",
+   "source": "containernews",
+   "published": "2026-11-10T15:00:20Z",
+   "seen": "2026-11-10T15:55:21Z",
+   "lang": "en",
+   "excerpt": "Boluda Shipping has signed an agreement to acquire Matrans Terminal in Rotterdam, strengthening its planned expansion into Northern Europe.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "597dfa37566a",
+   "title": "Åpner for elvarebiler i kollektivfeltene",
+   "link": "https://www.mtlogistikk.no/elektriske-lastebiler-elektriske-varebiler-kollektivfelt/apner-for-elvarebiler-i-kollektivfeltene/1357603",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-10T14:55:21Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c5bf7896b1ab",
+   "title": "Iran claims two oil tankers are burning in Strait of Hormuz",
+   "link": "https://container-news.com/iran-claims-two-oil-tankers-are-burning-in-strait-of-hormuz/",
+   "source": "containernews",
+   "published": "2026-11-10T14:49:44Z",
+   "seen": "2026-11-10T15:55:21Z",
+   "lang": "en",
+   "excerpt": "Iran’s Islamic Revolutionary Guard Corps (IRGC) said on Tuesday, 10 November, that two oil tankers had caught fire following explosions while attempting to transit the Strait of Hormuz through routes not authorised by Tehran.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint",
+    "vlcc"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "a6d421efc458",
+   "title": "Retailers forecast U.S. imports to stay elevated through 2026 after breakout peak season",
+   "link": "https://www.freightwaves.com/news/retailers-forecast-u-s-imports-to-stay-elevated-through-2026-after-breakout-peak-season",
+   "source": "freightwaves",
+   "published": "2026-11-10T14:36:47Z",
+   "seen": "2026-11-10T15:55:21Z",
+   "lang": "en",
+   "excerpt": "U.S. port imports are expected to slow through year-end after peaking in September, NRF says.",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "59ecec17103f",
+   "title": "World Maritime Forum 2027 Schedules “The Most Important Edition Yet”",
+   "link": "https://maritime-executive.com/article/world-maritime-forum-2027-schedules-the-most-important-edition-yet",
+   "source": "marex",
+   "published": "2026-11-10T14:27:45Z",
+   "seen": "2026-11-10T15:55:21Z",
+   "lang": "en",
+   "excerpt": "The global maritime community will convene on February 23-24, 2027, for the 5th edition of the World Maritime Forum, set to be the largest and most s...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "fd924f269368",
+   "title": "Blir ny hovedeier – satser på anlegg",
+   "link": "https://www.mtlogistikk.no/anlegg-lindsethmo-transport-mergers-and-acquisitions/blir-ny-hovedeier-satser-pa-anlegg/1359069",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-10T14:25:21Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f4939db24b5f",
+   "title": "Shelfless utvider automasjonslager",
+   "link": "https://www.mtlogistikk.no/autostore-bring-shelfless-lagerautomatisering/shelfless-utvider-automasjonslager/1359018",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-10T14:10:21Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c579d6325e96",
+   "title": "Multi-license awards open Eastern Mediterranean doors for Murphy Oil",
+   "link": "https://www.offshore-energy.biz/2026/11/10/multi-license-awards-open-eastern-mediterranean-doors-for-murphy-oil",
+   "source": "offshoreenergy",
+   "published": "2026-11-10T14:07:49Z",
+   "seen": "2026-11-10T15:55:21Z",
+   "lang": "en",
+   "excerpt": "Murphy Oil has made its first foray into the Eastern Mediterranean by securing six offshore exploration licenses close to a giant gas field.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8aa90b423c4a",
+   "title": "Wing to invest $125M in drone manufacturing plant",
+   "link": "https://www.freightwaves.com/news/wing-to-invest-125m-in-drone-manufacturing-plant",
+   "source": "freightwaves",
+   "published": "2026-11-10T14:06:41Z",
+   "seen": "2026-11-10T15:55:21Z",
+   "lang": "en",
+   "excerpt": "Drone delivery company Wing plans to build an aircraft factory to support demand from Walmart and other customers.",
+   "segments": [
+    "road",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "fc7cb4f382c3",
+   "title": "Go Shipping receives GDP affirmation for pharmaceutical logistics",
+   "link": "https://container-news.com/go-shipping-receives-gdp-affirmation-for-pharmaceutical-logistics/",
+   "source": "containernews",
+   "published": "2026-11-10T14:00:27Z",
+   "seen": "2026-11-10T15:55:21Z",
+   "lang": "en",
+   "excerpt": "Go Shipping has received an affirmation from TÜV AUSTRIA HELLAS covering its freight-forwarding procedures for pharmaceutical products.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "forwarder"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "18455ddce141",
+   "title": "Digitalt medlemsmøte: Fylkesveier, fiskeavrenning, hjemmelading og sjåførhelse",
+   "link": "https://lastebil.no/aktuelt/nyheter/2026/digitalt-medlemsmoete-fylkesveier-fiskeavrenning-hjemmelading-og-sjaafoerhelse",
+   "source": "lastebil",
+   "published": "2026-11-10T13:59:53Z",
+   "seen": "2026-11-10T15:55:21Z",
+   "lang": "no",
+   "excerpt": "Hvordan står det egentlig til med fylkesveiene, hva går pengene til, og hvor nær er vi gode løsninger for hjemmelading av lastebiler? Og hva skjer med fiskeavrenningsproblematikken?",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "32d35bc74f1f",
+   "title": "Har faset ut diesel i Trøndelag",
+   "link": "https://www.mtlogistikk.no/asko-asko-midt-norge-distribusjon/har-faset-ut-diesel-i-trondelag/1358177",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-10T13:40:21Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "9cd63de8b953",
+   "title": "SONAR launches MCP, bringing freight market intelligence inside your AI assistant",
+   "link": "https://www.freightwaves.com/news/sonar-launches-mcp-bringing-freight-market-intelligence-inside-your-ai-assistant",
+   "source": "freightwaves",
+   "published": "2026-11-10T13:28:00Z",
+   "seen": "2026-11-10T15:55:21Z",
+   "lang": "en",
+   "excerpt": "SONAR MCP connects compatible AI assistants like Claude and Copilot to SONAR data.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "e041b1db23cd",
+   "title": "South Korea Looks to Position Jinhae New Port as Arctic Shipping Hub",
+   "link": "https://gcaptain.com/south-korea-looks-to-position-jinhae-new-port-as-arctic-shipping-hub/",
+   "source": "gcaptain",
+   "published": "2026-11-10T13:24:53Z",
+   "seen": "2026-11-10T15:55:21Z",
+   "lang": "en",
+   "excerpt": "The South Korean city of Changwon is seeking to position the planned Jinhae New Port as a future hub for Arctic shipping, linking the major port development project with the region’s established shipbuilding, machinery, and defense …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "566f9b2dac63",
+   "title": "First oil from Southeast Asian offshore project flows sooner than expected",
+   "link": "https://www.offshore-energy.biz/2026/11/10/first-oil-from-southeast-asian-offshore-project-flows-sooner-than-expected",
+   "source": "offshoreenergy",
+   "published": "2026-11-10T13:15:27Z",
+   "seen": "2026-11-10T15:55:21Z",
+   "lang": "en",
+   "excerpt": "The start of production from an offshore platform at an oil field in Vietnamese waters comes 36 days ahead of schedule.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a93fa874f6f5",
+   "title": "Baltic Dry Index climbs to 2862 up 8 points",
+   "link": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2862-up-8-points/",
+   "source": "hsn",
+   "published": "2026-11-10T13:00:49Z",
+   "seen": "2026-11-10T15:55:21Z",
+   "lang": "en",
+   "excerpt": "Today, Tuesday, November 10 2026, the Baltic Dry Index climbed 8 points, 2862 points. Baltic Dry Index is compiled by the London-based Baltic Exchange and covers prices for transported cargo such as coal, grain and iron ore.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bdi",
+    "baltic-exchange"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "9954326a1feb",
+   "title": "Suez return could limit November freight rate increases, Sogese warns",
+   "link": "https://container-news.com/suez-return-could-limit-november-freight-rate-increases-sogese-warns/",
+   "source": "containernews",
+   "published": "2026-11-10T13:00:49Z",
+   "seen": "2026-11-10T15:55:21Z",
+   "lang": "en",
+   "excerpt": "Container shipping lines may struggle to secure the full freight rate increases announced for November as more vessel capacity returns to the Asia–Europe trade through the Suez Canal, according to a new market report from Italian logistics …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "24576e502d45",
+   "title": "Recent Ukrainian Attacks Have Reduced Russia’s Oil Processing Capacity By 30%, Sources Say",
+   "link": "https://gcaptain.com/recent-ukrainian-attacks-have-reduced-russias-oil-processing-capacity-by-30-sources-say/",
+   "source": "gcaptain",
+   "published": "2026-11-10T12:51:05Z",
+   "seen": "2026-11-10T15:55:21Z",
+   "lang": "en",
+   "excerpt": "Renewed Ukrainian drone attacks on Russian oil refineries since late October have reduced Russia's oil refining capacity by about 30%, two industry sources said.",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a7933df69639",
+   "title": "Qatar LNG Loadings Pick Up to Around Half of Pre-War Levels",
+   "link": "https://gcaptain.com/qatar-lng-loadings-pick-up-to-around-half-of-pre-war-levels/",
+   "source": "gcaptain",
+   "published": "2026-11-10T12:48:01Z",
+   "seen": "2026-11-10T15:55:21Z",
+   "lang": "en",
+   "excerpt": "Liquefied natural gas loadings onto tankers from Qatar have picked up over the past few weeks, suggesting the major exporter is seeking to get more cargoes to the global market despite ongoing disruptions in the Strait of Hormuz.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lng",
+    "chokepoint"
+   ],
    "paywall": false
   },
   {
@@ -59,8 +468,26 @@
    "paywall": false
   },
   {
+   "id": "03d09a0bbcab",
+   "title": "Iceland appeals court upholds dismissal of Alcoa claim against Eimskip and Samskip",
+   "link": "https://container-news.com/iceland-appeals-court-upholds-dismissal-of-alcoa-claim-against-eimskip-and-samskip/",
+   "source": "containernews",
+   "published": "2026-11-10T12:00:11Z",
+   "seen": "2026-11-10T15:55:21Z",
+   "lang": "en",
+   "excerpt": "Iceland’s Court of Appeal has upheld the dismissal of Alcoa Fjarðaál’s second tort case against Eimskip, Samskip and their related companies.",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
    "id": "9afdaec3c392",
-   "title": "That RICO suit vs. Robinson/TQL? Jury selection starts in ’28",
+   "title": "That RICO suit vs. Robinson, TQL? Jury selection starts in ’28",
    "link": "https://www.freightwaves.com/news/that-rico-suit-vs-robinson-tql-jury-selection-starts-in-28",
    "source": "freightwaves",
    "published": "2026-11-10T12:00:00Z",
@@ -117,20 +544,22 @@
    "paywall": false
   },
   {
-   "id": "ccab32f328e9",
-   "title": "Slo julerekorden allerede i oktober",
-   "link": "https://www.mtlogistikk.no/elektrisk-varetransport-pakkebokser-pakketerminalen-i-moss/slo-julerekorden-allerede-i-oktober/1358456",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-10T11:39:40Z",
-   "lang": "no",
-   "excerpt": "",
+   "id": "d6498523dec6",
+   "title": "Container News attends SK Congress maritime conference in Athens",
+   "link": "https://container-news.com/container-news-attends-sk-congress-maritime-conference-in-athens/",
+   "source": "containernews",
+   "published": "2026-11-10T11:30:42Z",
+   "seen": "2026-11-09T10:05:47Z",
+   "lang": "en",
+   "excerpt": "Container News participated as an official Media Partner in the international maritime conference “Shipping at the Historic Turning Point of 2030”, organised by SK Congress on 5 November 2026 at the InterContinental Athens.",
    "segments": [
-    "road"
+    "freight"
    ],
-   "subs": [],
+   "subs": [
+    "containers"
+   ],
    "policy": false,
-   "level": "national",
+   "level": "international",
    "terms": [],
    "paywall": false
   },
@@ -405,6 +834,28 @@
    "paywall": false
   },
   {
+   "id": "80ede7ab6e63",
+   "title": "Asia–Mediterranean freight pricing: The costs beyond headline rates",
+   "link": "https://container-news.com/asia-mediterranean-freight-pricing-the-costs-beyond-headline-rates/",
+   "source": "containernews",
+   "published": "2026-11-10T11:00:30Z",
+   "seen": "2026-11-10T15:55:21Z",
+   "lang": "en",
+   "excerpt": "Asia Mediterranean freight rates are entering a new adjustment period in November, with higher published tariffs and renewed surcharges adding complexity to the cost calculations facing cargo owners and freight forwarders.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "forwarder"
+   ],
+   "paywall": false
+  },
+  {
    "id": "ee1d611cc1c9",
    "title": "Refineries have shifted production away from gasoline to middle distillates",
    "link": "https://www.hellenicshippingnews.com/refineries-have-shifted-production-away-from-gasoline-to-middle-distillates/",
@@ -576,20 +1027,22 @@
    "paywall": false
   },
   {
-   "id": "1234791cb4b1",
-   "title": "Åpner for elvarebiler i kollektivfeltene",
-   "link": "https://www.mtlogistikk.no/elektriske-lastebiler-elektriske-varebiler-kollektivfelt/apner-for-elvarebiler-i-kollektivfeltene/1357780",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-10T10:09:40Z",
-   "lang": "no",
-   "excerpt": "",
+   "id": "95ac78585a7f",
+   "title": "Hapag-Lloyd raises North Europe–South Asia tariff rates",
+   "link": "https://container-news.com/hapag-lloyd-raises-north-europe-south-asia-tariff-rates/",
+   "source": "containernews",
+   "published": "2026-11-10T10:00:51Z",
+   "seen": "2026-11-10T15:55:21Z",
+   "lang": "en",
+   "excerpt": "Hapag-Lloyd will increase its ocean tariff rates from North Europe to South-East India, Sri Lanka and Bangladesh. The revised rates will apply to sailings beginning on 1 December 2026 and remain valid until further notice.",
    "segments": [
-    "road"
+    "freight"
    ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
+   "subs": [
+    "containers"
+   ],
+   "policy": true,
+   "level": "international",
    "terms": [],
    "paywall": false
   },
@@ -632,24 +1085,6 @@
    "terms": [
     "rig"
    ],
-   "paywall": false
-  },
-  {
-   "id": "0d93c9e6c3c3",
-   "title": "Shelfless utvider automasjonslager",
-   "link": "https://www.mtlogistikk.no/autostore-bring-shelfless-lagerautomatisering/shelfless-utvider-automasjonslager/1358512",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-10T09:29:33Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -713,6 +1148,24 @@
    ],
    "policy": false,
    "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "79daa4666817",
+   "title": "Rekordmye tonnasje i det norske skipsregisteret",
+   "link": "https://www.mtlogistikk.no/norsk-internasjonalt-skipsregister-sjofartsdirektoratet-sjotransport/rekordmye-tonnasje-i-det-norske-skipsregisteret/1351147",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-10T08:40:21Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -3579,26 +4032,6 @@
    "terms": [
     "vlcc"
    ],
-   "paywall": false
-  },
-  {
-   "id": "d6498523dec6",
-   "title": "Container News attends SK Congress maritime conference in Athens",
-   "link": "https://container-news.com/container-news-attends-sk-congress-maritime-conference-in-athens/",
-   "source": "containernews",
-   "published": "2026-11-09T09:30:42Z",
-   "seen": "2026-11-09T10:05:47Z",
-   "lang": "en",
-   "excerpt": "Container News participated as an official Media Partner in the international maritime conference “Shipping at the Historic Turning Point of 2030”, organised by SK Congress on 5 November 2026 at the InterContinental Athens.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
    "paywall": false
   },
   {
@@ -17839,442 +18272,6 @@
    ],
    "subs": [],
    "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "788229f8e3b5",
-   "title": "ISM coasters and mini bulkers – Week 44",
-   "link": "https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-44-3/",
-   "source": "hsn",
-   "published": "2026-11-02T18:00:13Z",
-   "seen": "2026-11-02T19:00:22Z",
-   "lang": "en",
-   "excerpt": "Black Sea freights keep tending upwards despite an about 30% increase in the region’s vessel count. The shortage of tonnage available for",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk",
-    "reports"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "ism",
-    "dry-bulk"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "06dbe58a8cc1",
-   "title": "Dobler antall turer med nye biler",
-   "link": "https://www.mtlogistikk.no/elektriske-tippbiler-kalktransport-scania-45-r/dobler-antall-turer-med-nye-biler/1353596",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-02T17:30:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "811c33b7856a",
-   "title": "Høye tømmerpriser ga mer hogst",
-   "link": "https://www.mtlogistikk.no/skog/hoye-tommerpriser-ga-mer-hogst/1353580",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-02T17:15:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "175f2f27e838",
-   "title": "Hormuz: permanent risk or alarm for renewed war?",
-   "link": "https://container-news.com/hormuz-permanent-risk-or-alarm-for-renewed-war/",
-   "source": "containernews",
-   "published": "2026-11-02T17:00:40Z",
-   "seen": "2026-11-03T01:09:03Z",
-   "lang": "en",
-   "excerpt": "Iran’s harassing fire makes Hormuz risk durable. The threat of renewed war comes from somewhere else, and it would probably not end that risk.",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "f612e5a93edc",
-   "title": "Dieselvarebilen kan overleve 2035",
-   "link": "https://www.mtlogistikk.no/diesel-elektrisk-drift-elektrisk-varebil/dieselvarebilen-kan-overleve-2035/1353556",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-02T17:00:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "0d72d0fa1ade",
-   "title": "Alternative-Fuel Ship Orders Up 57% in 2026 as LNG Continues to Dominate",
-   "link": "https://gcaptain.com/alternative-fuel-ship-orders-up-57-in-2026-as-lng-continues-to-dominate/",
-   "source": "gcaptain",
-   "published": "2026-11-02T16:51:54Z",
-   "seen": "2026-11-02T19:00:22Z",
-   "lang": "en",
-   "excerpt": "Orders for alternative-fueled ships are running 57% ahead of last year, with LNG-powered containerships and car carriers driving much of the growth, according to new figures from classification society DNV....",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "lng",
-    "liner",
-    "car-carrier",
-    "class-society"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "2d85b18b9359",
-   "title": "Grow Your Brokerage. Keep Profitability in Focus.",
-   "link": "https://www.freightwaves.com/news/grow-your-brokerage-keep-profitability-in-focus",
-   "source": "freightwaves",
-   "published": "2026-11-02T16:43:38Z",
-   "seen": "2026-11-02T19:00:22Z",
-   "lang": "en",
-   "excerpt": "More customers. More loads. More decisions that affect your bottom line. As your brokerage grows, it becomes harder to know whether the additional volume is delivering the profit you expect.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "32b3751e8895",
-   "title": "October’s 55.5 manufacturing PMI beats expectations",
-   "link": "https://www.freightwaves.com/news/octobers-55-5-manufacturing-pmi-beats-expectations",
-   "source": "freightwaves",
-   "published": "2026-11-02T16:41:27Z",
-   "seen": "2026-11-02T19:00:22Z",
-   "lang": "en",
-   "excerpt": "In line with recent demand commentary from public less-than-truckload carriers expressing cautious optimism, U.S. manufacturing grew for its 10th straight month in October.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "ltl"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "6238608cb8e8",
-   "title": "TrashLab raises $12M to automate waste haulers’ back offices",
-   "link": "https://www.freightwaves.com/news/trashlab-raises-12m-ai-waste-haulers",
-   "source": "freightwaves",
-   "published": "2026-11-02T16:11:32Z",
-   "seen": "2026-11-02T19:00:22Z",
-   "lang": "en",
-   "excerpt": "TrashLab closed a $12 million round led by Ventana and plans to extend AI agents into dispatch, billing and collections, with rollout planned through 2027.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "718b62248246",
-   "title": "Mexico destroys 52 tons of avocados after pest discovery raises export concerns",
-   "link": "https://www.freightwaves.com/news/mexico-destroys-52-tons-of-avocados-after-pest-discovery-raises-export-concerns",
-   "source": "freightwaves",
-   "published": "2026-11-02T16:04:02Z",
-   "seen": "2026-11-02T19:00:22Z",
-   "lang": "en",
-   "excerpt": "Mexican authorities recently destroyed over 52 tons of avocados after discovering the presence of destructive agricultural pests in shipments due for international export.",
-   "segments": [
-    "road",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "5cbd93c723d0",
-   "title": "New Wave of Attacks Hits Tankers and LNG Carrier in Strait of Hormuz and Persian Gulf",
-   "link": "https://gcaptain.com/new-wave-of-attacks-hits-tankers-and-lng-carrier-in-strait-of-hormuz-and-persian-gulf/",
-   "source": "gcaptain",
-   "published": "2026-11-02T16:00:49Z",
-   "seen": "2026-11-02T19:00:22Z",
-   "lang": "en",
-   "excerpt": "A tanker was struck by two unidentified projectiles in the Persian Gulf late Sunday, marking the latest in a series of attacks on commercial shipping in and around the Strait...",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "gas",
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng-carrier",
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "a47b67ab2723",
-   "title": "ONE expands container reuse services to Switzerland with Avantida",
-   "link": "https://container-news.com/one-expands-container-reuse-services-to-switzerland-with-avantida/",
-   "source": "containernews",
-   "published": "2026-11-02T16:00:21Z",
-   "seen": "2026-11-02T16:06:40Z",
-   "lang": "en",
-   "excerpt": "Ocean Network Express (ONE) has introduced container reuse services in Switzerland through its collaboration with Avantida, allowing transport operators to reuse import containers for export shipments.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "6fb2b0ee131f",
-   "title": "Brukte reoler kan gi innovasjonspris",
-   "link": "https://www.mtlogistikk.no/areol-innredninger-gjenbruk-av-lagerreoler-innovasjonsprisen-i-gardermoregionen/brukte-reoler-kan-gi-innovasjonspris/1351621",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-02T15:36:40Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "c08ef736e135",
-   "title": "Boeing secures lessor order for 767 passenger-to-freighter conversion",
-   "link": "https://www.freightwaves.com/news/boeing-secures-lessor-order-for-767-passenger-to-freighter-conversion",
-   "source": "freightwaves",
-   "published": "2026-11-02T15:30:16Z",
-   "seen": "2026-11-02T16:06:40Z",
-   "lang": "en",
-   "excerpt": "Icelease has reserved a production slot with Boeing to convert a 767 passenger jet to cargo configuration.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "sale-leaseback"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "3adf5b8725e2",
-   "title": "Krever tiltak for varelevering i ny mobilitetsplan",
-   "link": "https://www.mtlogistikk.no/bylogistikk-oslo-handelsstands-forening-regional-areal-og-mobilitetsplan/krever-tiltak-for-varelevering-i-ny-mobilitetsplan/1351252",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-02T15:06:40Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a1cd2d20ec10",
-   "title": "Maersk introduces dry port surcharges for Virochannagar",
-   "link": "https://container-news.com/maersk-introduces-dry-port-surcharges-for-virochannagar/",
-   "source": "containernews",
-   "published": "2026-11-02T15:00:57Z",
-   "seen": "2026-11-02T16:06:40Z",
-   "lang": "en",
-   "excerpt": "Maersk has introduced new export and import dry port surcharges for shipments moving between Virochannagar, India, and worldwide destinations. The new charges took effect on 1 November 2026 for non-regulated countries.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "5e15fe093859",
-   "title": "ESL expands Far East-Africa network with FAX2 and FAX3 services",
-   "link": "https://container-news.com/esl-expands-far-east-africa-network-with-fax2-and-fax3-services/",
-   "source": "containernews",
-   "published": "2026-11-02T14:00:27Z",
-   "seen": "2026-11-02T16:06:40Z",
-   "lang": "en",
-   "excerpt": "Emirates Shipping Line (ESL) will launch two new services connecting major Chinese ports with East and southeastern Africa. The new Far East Africa Express 2 (FAX2) and Far East Africa Express 3 (FAX3) services will complement ESL’s …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "e0477aa5d9ac",
-   "title": "TotalEnergies sheds partial stake ahead of appraisal ops at Nigerian block",
-   "link": "https://offshore-energy.biz/2026/11/02/totalenergies-sheds-partial-stake-ahead-of-appraisal-ops-at-nigerian-block",
-   "source": "offshoreenergy",
-   "published": "2026-11-02T13:52:25Z",
-   "seen": "2026-11-02T16:06:40Z",
-   "lang": "en",
-   "excerpt": "TotalEnergies has set the wheels in motion to sell a partial interest in an offshore block to SAPETRO to fast-track the appraisal of a Nigerian field.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "ce99776a65e8",
-   "title": "Strike at busiest US port just days away as talks continue",
-   "link": "https://www.freightwaves.com/news/strike-at-busiest-us-port-just-days-away-as-talks-continue",
-   "source": "freightwaves",
-   "published": "2026-11-02T13:48:55Z",
-   "seen": "2026-11-02T16:06:40Z",
-   "lang": "en",
-   "excerpt": "Port employers and union watchmen in Southern California extend contract as negotiations continue.",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "27531010ed0c",
-   "title": "Shell and Hornbeck Offshore seal multiple deals for deepwater services",
-   "link": "https://offshore-energy.biz/2026/11/02/shell-and-hornbeck-offshore-seal-multiple-deals-for-deepwater-services",
-   "source": "offshoreenergy",
-   "published": "2026-11-02T13:30:46Z",
-   "seen": "2026-11-02T16:06:40Z",
-   "lang": "en",
-   "excerpt": "Hornbeck Offshore Services, which merged with Helix Energy Solutions two months ago, has entered into multiple agreements with Shell Offshore for...",
-   "segments": [
-    "road",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "5ae202445587",
-   "title": "Goldman Hikes Oil Forecasts on ‘Substantial’ Risks to Supply",
-   "link": "https://gcaptain.com/goldman-hikes-oil-forecasts-on-substantial-risks-to-supply/",
-   "source": "gcaptain",
-   "published": "2026-11-02T13:20:51Z",
-   "seen": "2026-11-02T16:06:40Z",
-   "lang": "en",
-   "excerpt": "Goldman Sachs Group Inc. raised oil-price forecasts for the year-end and 2027 on elevated risks to supplies, joining other banks in hiking their outlooks after months of war in the Middle East.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "f6812edc9d98",
-   "title": "UAE to Protect Energy Infrastructure, Invest in New Export Routes to Prepare for Iran War, Minister Says",
-   "link": "https://gcaptain.com/uae-to-protect-energy-infrastructure-invest-in-new-export-routes-to-prepare-for-iran-war-minister-says/",
-   "source": "gcaptain",
-   "published": "2026-11-02T13:18:50Z",
-   "seen": "2026-11-02T16:06:40Z",
-   "lang": "en",
-   "excerpt": "The UAE will protect its energy infrastructure and invest in new export routes, storage capacity abroad and shipping fleets to be better prepared for the US-Israeli war on Iran, its energy minister said on Monday.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": true,
    "level": "international",
    "terms": [],
    "paywall": false
