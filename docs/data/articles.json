@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T07:15:53Z",
+ "updated": "2026-11-10T09:59:33Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Fiskeri- og havministeren har møte med Maritime Cleantech",
    "link": "https://www.regjeringen.no/no/aktuelt/fiskeri-og-havministeren-har-mote-med-maritime-cleantech/id3192108/",
    "source": "regjeringen",
-   "published": "2026-11-10T07:15:53Z",
+   "published": "2026-11-10T09:59:33Z",
    "seen": "2026-11-09T13:20:42Z",
    "lang": "no",
    "excerpt": "Fiskeri- og havminister Marianne Sivertsen Næss har møte med Maritime Cleantech.",
@@ -20,6 +20,192 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "9d949c386660",
+   "title": "Slo julerekorden allerede i oktober",
+   "link": "https://www.mtlogistikk.no/elektrisk-varetransport-pakkebokser-pakketerminalen-i-moss/slo-julerekorden-allerede-i-oktober/1358383",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-10T09:59:33Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4c999da9f637",
+   "title": "Maersk boxship knocks down crane at Yantian",
+   "link": "https://splash247.com/maersk-boxship-knocks-down-crane-at-yantian/",
+   "source": "splash",
+   "published": "2026-11-10T09:57:46Z",
+   "seen": "2026-11-10T09:59:33Z",
+   "lang": "en",
+   "excerpt": "A Maersk-operated containership has brought down a ship-to-shore crane at China’s Yantian port after striking the structure while berthing.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner",
+    "lt-utc"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "0d93c9e6c3c3",
+   "title": "Shelfless utvider automasjonslager",
+   "link": "https://www.mtlogistikk.no/autostore-bring-shelfless-lagerautomatisering/shelfless-utvider-automasjonslager/1358512",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-10T09:29:33Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "61b5ed937efb",
+   "title": "ONE expands Levant presence with new shipping agent in Syria",
+   "link": "https://container-news.com/one-expands-levant-presence-with-new-shipping-agent-in-syria/",
+   "source": "containernews",
+   "published": "2026-11-10T09:00:58Z",
+   "seen": "2026-11-10T09:59:33Z",
+   "lang": "en",
+   "excerpt": "Ocean Network Express (ONE) has appointed Seanautics Maritime Services LLC as its official shipping agent in Syria. The move strengthens the carrier’s presence in the Levant region and expands its existing cooperation with Seanautics in …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c423c33a2cc6",
+   "title": "Odfjell Drilling firms up multi-year rig deal with Vår Energi",
+   "link": "https://www.offshore-energy.biz/2026/11/10/odfjell-drilling-firms-up-multi-year-rig-deal-with-var-energi",
+   "source": "offshoreenergy",
+   "published": "2026-11-10T08:06:00Z",
+   "seen": "2026-11-10T09:59:33Z",
+   "lang": "en",
+   "excerpt": "This secures firm work for the seven-year-old semi-submersible rig through 2031, with options extending to 2035.",
+   "segments": [
+    "road",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "rig"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "da4d8b2ae57b",
+   "title": "Global Ship Lease reports higher Q3 profit as charter backlog reaches $3.4 billion",
+   "link": "https://container-news.com/global-ship-lease-reports-higher-q3-profit-as-charter-backlog-reaches-3-4-billion/",
+   "source": "containernews",
+   "published": "2026-11-10T08:00:51Z",
+   "seen": "2026-11-10T09:59:33Z",
+   "lang": "en",
+   "excerpt": "Global Ship Lease (GSL) reported higher revenue and earnings for the third quarter of 2026, supported by stronger charter rates and continued demand for containership capacity.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "backlog",
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "22b013272001",
+   "title": "Splash Crew launches to put seafarers at the heart of maritime news",
+   "link": "https://splash247.com/splash-crew-launches-to-put-seafarers-at-the-heart-of-maritime-news/",
+   "source": "splash",
+   "published": "2026-11-10T08:00:00Z",
+   "seen": "2026-11-09T21:53:58Z",
+   "lang": "en",
+   "excerpt": "Splash Maritime Group has unveiled Splash Crew, its latest specialist news platform, with the ambition of becoming essential daily reading for seafarers, crewing professionals, shipmanagers, regulators and maritime technology companies …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "09ce0f3af78e",
+   "title": "G7 launches 14-port alliance to tackle global drug trafficking",
+   "link": "https://splash247.com/g7-launches-14-port-alliance-to-tackle-global-drug-trafficking/",
+   "source": "splash",
+   "published": "2026-11-10T07:19:12Z",
+   "seen": "2026-11-10T09:59:33Z",
+   "lang": "en",
+   "excerpt": "Fourteen major ports are joining forces in a new G7-backed initiative aimed at combating drug trafficking through international shipping networks, with artificial intelligence and closer intelligence sharing central to the programme.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "b6aa3592ff62",
+   "title": "COSCO unveils massive supertanker fleet push",
+   "link": "https://splash247.com/cosco-unveils-massive-supertanker-fleet-push/",
+   "source": "splash",
+   "published": "2026-11-10T07:15:56Z",
+   "seen": "2026-11-09T16:08:51Z",
+   "lang": "en",
+   "excerpt": "Chinese tanker giant COSCO Shipping Energy Transportation has unveiled a sweeping fleet expansion involving 24 VLCC newbuildings, signing contracts worth RMB9.48bn ($1.42bn) for ten supertankers and lining up another 14 through long-term …",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers",
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "vlcc",
+    "newbuilding",
+    "bareboat"
+   ],
+   "paywall": false
   },
   {
    "id": "597dfa37566a",
@@ -251,30 +437,11 @@
    "paywall": true
   },
   {
-   "id": "c87bf0449cf9",
-   "title": "The dirty secret of shipping’s clean hull ambitions",
-   "link": "https://splash247.com/the-dirty-secret-of-shippings-clean-hull-ambitions/",
-   "source": "splash",
-   "published": "2026-11-10T06:18:04Z",
-   "seen": "2026-11-10T07:15:53Z",
-   "lang": "en",
-   "excerpt": "Hull fouling drives up fuel bills and emissions, yet ports increasingly restrict the very cleaning operations needed to tackle it. The missing piece is a global network of places where ships can safely get cleaned.",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "5b34ad9151f8",
    "title": "South Korea clears Sinar Mas takeover of Hyundai LNG Shipping",
    "link": "https://splash247.com/south-korea-clears-sinar-mas-takeover-of-hyundai-lng-shipping/",
    "source": "splash",
-   "published": "2026-11-10T06:15:04Z",
+   "published": "2026-11-10T07:00:04Z",
    "seen": "2026-11-10T07:15:53Z",
    "lang": "en",
    "excerpt": "South Korea has given conditional approval for the sale of Hyundai LNG Shipping to Indonesia’s Sinar Mas Group, removing the final regulatory hurdle in a deal that has been held up for months by national energy security concerns.",
@@ -293,11 +460,60 @@
    "paywall": false
   },
   {
+   "id": "25a90c5fc520",
+   "title": "DHT doubles down at Hanwha with fresh VLCC order",
+   "link": "https://splash247.com/dht-doubles-down-at-hanwha-with-fresh-vlcc-order/",
+   "source": "splash",
+   "published": "2026-11-10T06:50:00Z",
+   "seen": "2026-11-10T09:59:33Z",
+   "lang": "en",
+   "excerpt": "New York-listed tanker owner DHT Holdings has returned to South Korea’s Hanwha Ocean for another VLCC, adding a second vessel to its current newbuilding programme.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "vlcc",
+    "newbuilding"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "bbe8252b0d6b",
+   "title": "RCL adds $213m boxship pair to growing orderbook",
+   "link": "https://splash247.com/rcl-adds-213m-boxship-pair-to-growing-orderbook/",
+   "source": "splash",
+   "published": "2026-11-10T06:45:41Z",
+   "seen": "2026-11-09T16:08:51Z",
+   "lang": "en",
+   "excerpt": "Thailand’s Regional Container Lines (RCL) has added another two neo-panamax containerships to its expanding newbuilding programme, committing around $213m for a pair of 9,200 teu vessels.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner",
+    "orderbook",
+    "panamax",
+    "newbuilding"
+   ],
+   "paywall": false
+  },
+  {
    "id": "cf1482d438a5",
    "title": "Best Oasis becomes second cash buyer to secure US sanctions clearance",
    "link": "https://splash247.com/best-oasis-becomes-second-cash-buyer-to-secure-us-sanctions-clearance/",
    "source": "splash",
-   "published": "2026-11-10T06:13:59Z",
+   "published": "2026-11-10T06:30:59Z",
    "seen": "2026-11-10T07:15:53Z",
    "lang": "en",
    "excerpt": "Dubai-based ship recycling cash buyer Best Oasis has secured authorisation from the US Treasury’s Office of Foreign Assets Control (OFAC) to negotiate deals involving sanctioned vessels, becoming the second company after GMS to receive …",
@@ -336,6 +552,24 @@
    "paywall": false
   },
   {
+   "id": "29ade395b5d6",
+   "title": "EU Puts Funding Into New Maritime Security Center for the Western Black Sea",
+   "link": "https://maritime-executive.com/article/eu-puts-funding-into-new-maritime-security-center-for-the-western-black-sea",
+   "source": "marex",
+   "published": "2026-11-10T04:05:00Z",
+   "seen": "2026-11-10T09:59:33Z",
+   "lang": "en",
+   "excerpt": "The European Union plans to invest EUR50 million to build a joint Romanian-Bulgarian maritime security hub for the Black Sea region. The plan responds...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
    "id": "00645a1dc701",
    "title": "Samferdselsministeren - besøker Sporveien; selvkjørende trikk på Holtet i Oslo",
    "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-besoker-sporveien-selvkjorende-trikk-pa-holtet-i-oslo/id3192007/",
@@ -351,6 +585,45 @@
    "policy": false,
    "level": "national",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c87bf0449cf9",
+   "title": "The dirty secret of shipping’s clean hull ambitions",
+   "link": "https://splash247.com/the-dirty-secret-of-shippings-clean-hull-ambitions/",
+   "source": "splash",
+   "published": "2026-11-10T03:00:04Z",
+   "seen": "2026-11-10T07:15:53Z",
+   "lang": "en",
+   "excerpt": "Hull fouling drives up fuel bills and emissions, yet ports increasingly restrict the very cleaning operations needed to tackle it. The missing piece is a global network of places where ships can safely get cleaned.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "7faf57f16253",
+   "title": "Odfjell Drilling seals $518m semisub deal",
+   "link": "https://splash247.com/odfjell-drilling-seals-518m-semisub-deal/",
+   "source": "splash",
+   "published": "2026-11-10T02:40:00Z",
+   "seen": "2026-11-10T09:59:33Z",
+   "lang": "en",
+   "excerpt": "Norwegian offshore rig owner Odfjell Drilling has formally signed a three-year contract with Vår Energi for its harsh-environment semisubmersible Deepsea Bergen, worth an estimated $518m.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "local",
+   "terms": [
+    "rig"
+   ],
    "paywall": false
   },
   {
@@ -1172,24 +1445,6 @@
    "paywall": false
   },
   {
-   "id": "22b013272001",
-   "title": "Splash Crew launches to put seafarers at the heart of maritime news",
-   "link": "https://splash247.com/splash-crew-launches-to-put-seafarers-at-the-heart-of-maritime-news/",
-   "source": "splash",
-   "published": "2026-11-09T20:00:00Z",
-   "seen": "2026-11-09T21:53:58Z",
-   "lang": "en",
-   "excerpt": "Splash Maritime Group has unveiled Splash Crew, its latest specialist news platform, with the ambition of becoming essential daily reading for seafarers, crewing professionals, shipmanagers, regulators and maritime technology companies …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "17b2d95a5754",
    "title": "G7 Launches Global Port Security Network to Combat Drug Trafficking",
    "link": "https://gcaptain.com/g7-launches-global-port-security-network-to-combat-drug-trafficking/",
@@ -1931,32 +2186,6 @@
    "paywall": false
   },
   {
-   "id": "b6aa3592ff62",
-   "title": "COSCO unveils massive supertanker fleet push",
-   "link": "https://splash247.com/cosco-unveils-massive-supertanker-fleet-push/",
-   "source": "splash",
-   "published": "2026-11-09T14:53:56Z",
-   "seen": "2026-11-09T16:08:51Z",
-   "lang": "en",
-   "excerpt": "Chinese tanker giant COSCO Shipping Energy Transportation has unveiled a sweeping fleet expansion involving 24 VLCC newbuildings, signing contracts worth RMB9.48bn ($1.42bn) for ten supertankers and lining up another 14 through long-term …",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers",
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "vlcc",
-    "newbuilding",
-    "bareboat"
-   ],
-   "paywall": false
-  },
-  {
    "id": "de9e22621adb",
    "title": "Lloyd’s Register and MAWANI sign agreement on Saudi port development",
    "link": "https://container-news.com/lloyds-register-and-mawani-sign-agreement-on-saudi-port-development/",
@@ -1991,31 +2220,6 @@
    "policy": false,
    "level": "international",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "bbe8252b0d6b",
-   "title": "RCL adds $213m boxship pair to growing orderbook",
-   "link": "https://splash247.com/rcl-adds-213m-boxship-pair-to-growing-orderbook/",
-   "source": "splash",
-   "published": "2026-11-09T14:07:41Z",
-   "seen": "2026-11-09T16:08:51Z",
-   "lang": "en",
-   "excerpt": "Thailand’s Regional Container Lines (RCL) has added another two neo-panamax containerships to its expanding newbuilding programme, committing around $213m for a pair of 9,200 teu vessels.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "liner",
-    "orderbook",
-    "panamax",
-    "newbuilding"
-   ],
    "paywall": false
   },
   {
@@ -18071,208 +18275,6 @@
    ],
    "subs": [],
    "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "3bd8e8562e9a",
-   "title": "Posten Bring åpner sin største pakketerminal",
-   "link": "https://www.mtlogistikk.no/moss-netthandel-posten-bring/posten-bring-apner-sin-storste-pakketerminal/1347775",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-02T10:21:40Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "db62f740395d",
-   "title": "Yangzijiang Maritime extends tanker buying spree at Haifeng",
-   "link": "https://splash247.com/yangzijiang-maritime-extends-tanker-buying-spree-at-haifeng/",
-   "source": "splash",
-   "published": "2026-11-02T10:10:00Z",
-   "seen": "2026-11-02T13:14:00Z",
-   "lang": "en",
-   "excerpt": "Singapore-listed Yangzijiang Maritime Development has signed a contract for four 50,000 dwt MR product tankers at Jiangsu Haifeng Shipbuilding, extending its extensive newbuilding programme in China.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "dwt",
-    "product-tanker",
-    "newbuilding"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "f4092e33b632",
-   "title": "CMA CGM introduces Black Sea war risk surcharge and updates Red Sea charges",
-   "link": "https://container-news.com/cma-cgm-introduces-black-sea-war-risk-surcharge-and-updates-red-sea-charges/",
-   "source": "containernews",
-   "published": "2026-11-02T10:00:45Z",
-   "seen": "2026-11-02T10:13:09Z",
-   "lang": "en",
-   "excerpt": "CMA CGM has announced a new War Risk Surcharge (WRS) for shipments to and from Black Sea countries. The carrier has also updated its Dangerous Goods Surcharge for selected routes connecting Europe, North Africa and the Red Sea.",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "war-risk",
-    "chokepoint",
-    "adr",
-    "teu"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "8c78cc50faac",
-   "title": "Subsea 7 lands North Sea subsea contract from Aker BP",
-   "link": "https://splash247.com/subsea-7-lands-north-sea-subsea-contract-from-aker-bp/",
-   "source": "splash",
-   "published": "2026-11-02T10:00:00Z",
-   "seen": "2026-11-02T13:14:00Z",
-   "lang": "en",
-   "excerpt": "Offshore engineering and construction specialist Subsea 7 has secured a contract worth between $150m and $300m from Aker BP for the fast-track development of the Lyra field in the Norwegian North Sea.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "ba278e5a48a6",
-   "title": "Odfjell Drilling-managed rig lands multi-well North Sea job with UK oil & gas operator",
-   "link": "https://offshore-energy.biz/2026/11/02/odfjell-drilling-managed-rig-lands-multi-well-north-sea-job-with-uk-oil-and-gas-operator",
-   "source": "offshoreenergy",
-   "published": "2026-11-02T09:50:12Z",
-   "seen": "2026-11-02T10:13:09Z",
-   "lang": "en",
-   "excerpt": "Serica Energy has booked an Odfjell Drilling-managed rig for a six-well drilling campaign on the UK Continental Shelf (UKCS).",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "rig"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "bc74dc547af5",
-   "title": "StormGeo acquires Portchain to expand voyage optimization capabilities",
-   "link": "https://container-news.com/stormgeo-acquires-portchain-to-expand-voyage-optimization-capabilities/",
-   "source": "containernews",
-   "published": "2026-11-02T09:00:04Z",
-   "seen": "2026-11-02T10:13:09Z",
-   "lang": "en",
-   "excerpt": "StormGeo, part of Alfa Laval, has acquired Danish maritime technology company Portchain, expanding its capabilities in voyage optimization and port call coordination.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "e30f857cd84f",
-   "title": "Balder Bulk konkurs – 154 ansatte berørt",
-   "link": "https://www.mtlogistikk.no/balder-bulk-konkurs-litra/balder-bulk-konkurs-154-ansatte-berort/1352996",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-02T08:43:09Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "5a8bf4969021",
-   "title": "Subsea7 wins EPCI contract for fast-track oil development off Norway",
-   "link": "https://offshore-energy.biz/2026/11/02/subsea7-wins-epci-contract-for-fast-track-oil-development-off-norway",
-   "source": "offshoreenergy",
-   "published": "2026-11-02T08:18:53Z",
-   "seen": "2026-11-02T10:13:09Z",
-   "lang": "en",
-   "excerpt": "Subsea7 has secured an engineering, procurement, construction and installation (EPCI) contract with Aker BP for the fast-track Lyra field...",
-   "segments": [
-    "road",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "f1f596171531",
-   "title": "Tenden testet kineser over Strynefjell en uke",
-   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-kinesisk-lastebil-thor-tenden-transport-as/tenden-testet-kineser-over-strynefjell-en-uke/1350297",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-02T08:13:09Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "805d68033c22",
-   "title": "ZIM launches new ZX3 express service connecting China and Los Angeles",
-   "link": "https://container-news.com/zim-launches-new-zx3-express-service-connecting-china-and-los-angeles/",
-   "source": "containernews",
-   "published": "2026-11-02T08:00:37Z",
-   "seen": "2026-11-02T10:13:09Z",
-   "lang": "en",
-   "excerpt": "ZIM Integrated Shipping Services has announced the launch of ZX3, a new premium express container service connecting Shanghai and Xiamen in China with Los Angeles on the US West Coast.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
    "level": "international",
    "terms": [],
    "paywall": false
