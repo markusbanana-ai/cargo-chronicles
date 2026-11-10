@@ -1,7 +1,64 @@
 {
- "updated": "2026-11-10T01:09:00Z",
+ "updated": "2026-11-10T03:57:10Z",
  "sample": false,
  "articles": [
+  {
+   "id": "00645a1dc701",
+   "title": "Samferdselsministeren - besøker Sporveien; selvkjørende trikk på Holtet i Oslo",
+   "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-besoker-sporveien-selvkjorende-trikk-pa-holtet-i-oslo/id3192007/",
+   "source": "regjeringen",
+   "published": "2026-11-10T04:00:00Z",
+   "seen": "2026-11-06T15:55:35Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "76c875eb4cab",
+   "title": "Fiskeri- og havministeren har møte med Maritime Cleantech",
+   "link": "https://www.regjeringen.no/no/aktuelt/fiskeri-og-havministeren-har-mote-med-maritime-cleantech/id3192108/",
+   "source": "regjeringen",
+   "published": "2026-11-10T03:57:10Z",
+   "seen": "2026-11-09T13:20:42Z",
+   "lang": "no",
+   "excerpt": "Fiskeri- og havminister Marianne Sivertsen Næss har møte med Maritime Cleantech.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false,
+   "upcoming": true
+  },
+  {
+   "id": "52a530a8d668",
+   "title": "Explainer: The role of insurers in the Black Sea",
+   "link": "https://container-news.com/explainer-the-role-of-insurers-in-the-black-sea/",
+   "source": "containernews",
+   "published": "2026-11-10T02:27:20Z",
+   "seen": "2026-11-10T03:57:10Z",
+   "lang": "en",
+   "excerpt": "In the Gulf, war-risk premiums priced ships off the route. In the Black Sea, owners are starting to refuse the route altogether.",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "war-risk"
+   ],
+   "paywall": false
+  },
   {
    "id": "1b134a053542",
    "title": "Samferdselsministeren - åpner gang- og sykkelvei langs ring 3 ved Ullevål",
@@ -21,50 +78,71 @@
    "paywall": false
   },
   {
-   "id": "00645a1dc701",
-   "title": "Samferdselsministeren - besøker Sporveien; selvkjørende trikk på Holtet i Oslo",
-   "link": "https://www.regjeringen.no/no/aktuelt/samferdselsministeren-besoker-sporveien-selvkjorende-trikk-pa-holtet-i-oslo/id3192007/",
-   "source": "regjeringen",
-   "published": "2026-11-10T01:09:00Z",
-   "seen": "2026-11-06T15:55:35Z",
-   "lang": "no",
-   "excerpt": "",
+   "id": "bd609e70083a",
+   "title": "Radiant Logistics touts enhanced credit facility, eyes larger M&A",
+   "link": "https://www.freightwaves.com/news/radiant-logistics-touts-expanded-credit-facility-eyes-larger-ma",
+   "source": "freightwaves",
+   "published": "2026-11-10T01:40:46Z",
+   "seen": "2026-11-10T03:57:10Z",
+   "lang": "en",
+   "excerpt": "Shares of Radiant Logistics jumped 12% in after-hours trading on Monday following the third-party logistics provider's better-than-expected quarterly report.",
    "segments": [
-    "road"
+    "road",
+    "finance"
    ],
    "subs": [],
    "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false,
-   "upcoming": true
+   "level": "international",
+   "terms": [
+    "syndicated-loan",
+    "3pl"
+   ],
+   "paywall": false
   },
   {
-   "id": "76c875eb4cab",
-   "title": "Fiskeri- og havministeren har møte med Maritime Cleantech",
-   "link": "https://www.regjeringen.no/no/aktuelt/fiskeri-og-havministeren-har-mote-med-maritime-cleantech/id3192108/",
-   "source": "regjeringen",
-   "published": "2026-11-10T01:09:00Z",
-   "seen": "2026-11-09T13:20:42Z",
-   "lang": "no",
-   "excerpt": "Fiskeri- og havminister Marianne Sivertsen Næss har møte med Maritime Cleantech.",
+   "id": "2ec1e32b85c3",
+   "title": "Saudi Arabia Confirms Strike on East-West Pipeline",
+   "link": "https://maritime-executive.com/article/saudi-arabia-confirms-strike-on-east-west-pipeline",
+   "source": "marex",
+   "published": "2026-11-10T01:39:13Z",
+   "seen": "2026-11-10T03:57:10Z",
+   "lang": "en",
+   "excerpt": "Saudi Arabia's energy ministry has confirmed another strike on the East-West Pipeline, which carries crude from the production hubs of the Arabian Gul...",
    "segments": [
-    "freight"
+    "insurance"
    ],
    "subs": [],
    "policy": false,
-   "level": "national",
+   "level": "international",
    "terms": [],
-   "paywall": false,
-   "upcoming": true
+   "paywall": false
   },
   {
-   "id": "597dfa37566a",
+   "id": "59920ad7557c",
+   "title": "Boluda Continues Growth with Acquisition of Dutch Offshore Towage Operation",
+   "link": "https://maritime-executive.com/article/boluda-continues-growth-with-acquisition-of-dutch-offshore-towage-operation",
+   "source": "marex",
+   "published": "2026-11-10T01:36:48Z",
+   "seen": "2026-11-10T03:57:10Z",
+   "lang": "en",
+   "excerpt": "Spain’s Boluda Corporación Marítima reported that it is making another acquisition to further expand its offshore towage capabilities, Boluda Towage....",
+   "segments": [
+    "finance",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "1234791cb4b1",
    "title": "Åpner for elvarebiler i kollektivfeltene",
-   "link": "https://www.mtlogistikk.no/elektriske-lastebiler-elektriske-varebiler-kollektivfelt/apner-for-elvarebiler-i-kollektivfeltene/1357603",
+   "link": "https://www.mtlogistikk.no/elektriske-lastebiler-elektriske-varebiler-kollektivfelt/apner-for-elvarebiler-i-kollektivfeltene/1357780",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-10T01:09:00Z",
+   "seen": "2026-11-10T01:12:10Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -935,6 +1013,42 @@
     "spot-market",
     "ltl"
    ],
+   "paywall": false
+  },
+  {
+   "id": "4e928f9d825b",
+   "title": "Har startet serieproduksjonen",
+   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-tesla-semi/har-startet-serieproduksjonen/1346751",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-09T18:57:10Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "b6075f22c6d5",
+   "title": "Åpner ubemannet pakkesentral med 400 rom i Bergen",
+   "link": "https://www.mtlogistikk.no/bergen-instabee-instabox/apner-ubemannet-pakkesentral-med-400-rom-i-bergen/1346113",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-09T18:42:10Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "local",
+   "terms": [],
    "paywall": false
   },
   {
@@ -18158,124 +18272,6 @@
    "seen": "2026-11-02T07:32:07Z",
    "lang": "no",
    "excerpt": "Samferdselsminister Kamzy Gunaratnam skal på fylkestur til Buskerud, Vestfold og Telemark mandag 2. november. Hun besøker Drammen, Sandefjord og Langangen.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "ff092afb6ca5",
-   "title": "ClassNK updates ship cyber security guidelines to simplify compliance",
-   "link": "https://container-news.com/classnk-updates-ship-cyber-security-guidelines-to-simplify-compliance/",
-   "source": "containernews",
-   "published": "2026-11-02T05:00:54Z",
-   "seen": "2026-11-02T07:32:07Z",
-   "lang": "en",
-   "excerpt": "ClassNK has released the second edition of its Guidelines for Cyber Security Management System for Ships, introducing clearer audit requirements and closer alignment with international cyber security standards.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "class-society"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "2e237327be37",
-   "title": "Saudi Forces Launch Airstrike on Port of Ras Isa, Yemen",
-   "link": "https://maritime-executive.com/article/saudi-forces-launch-airstrike-on-port-of-ras-isa-yemen",
-   "source": "marex",
-   "published": "2026-11-02T04:15:00Z",
-   "seen": "2026-11-02T10:13:09Z",
-   "lang": "en",
-   "excerpt": "Yemen's Houthi rebels have reported a Saudi airstrike on the port at Ras Isa, a petroleum product terminal located northwest of Hodeidah and a repeat...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "2a3f452ef597",
-   "title": "AIT Worldwide snaps up Australian forwarder involved in Big tech buildout",
-   "link": "https://www.freightwaves.com/news/ait-worldwide-snaps-up-australian-forwarder-involved-in-big-tech-buildout",
-   "source": "freightwaves",
-   "published": "2026-11-02T04:06:20Z",
-   "seen": "2026-11-02T07:32:07Z",
-   "lang": "en",
-   "excerpt": "AIT Worldwide Logistics is expanding more significantly in Oceania with a deal to buy Connor Anderson International.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "forwarder"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "6ff6450af7fa",
-   "title": "GEODIS deploys electric truck for container haulage at Port Botany",
-   "link": "https://container-news.com/geodis-deploys-electric-truck-for-container-haulage-at-port-botany/",
-   "source": "containernews",
-   "published": "2026-11-02T04:00:35Z",
-   "seen": "2026-11-02T07:32:07Z",
-   "lang": "en",
-   "excerpt": "GEODIS is expanding its electric vehicle operations in Australia with the addition of a Volvo FM Electric Prime Mover. The new truck will support container transportation between Sydney’s Port Botany and Volvo’s local warehouse.",
-   "segments": [
-    "road",
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "electric-truck"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "2026db5ac9f2",
-   "title": "Pirates Hijack Iranian Fishing Vessel off Somalia",
-   "link": "https://maritime-executive.com/article/pirates-hijack-iranian-fishing-vessel-off-somalia",
-   "source": "marex",
-   "published": "2026-11-02T03:39:54Z",
-   "seen": "2026-11-02T04:00:12Z",
-   "lang": "en",
-   "excerpt": "Pirates have hijacked an Iranian fishing vessel at a position off the northeastern coast of Somalia, according to EUNAVFOR's Maritime Security Centre...",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "60007f92afb2",
-   "title": "68 tonn utslippsfri hybrid",
-   "link": "https://www.mtlogistikk.no/batterielektrisk-elektrisk-lastebil-hybrid-lastebil/68-tonn-utslippsfri-hybrid/1346775",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-02T03:13:09Z",
-   "lang": "no",
-   "excerpt": "",
    "segments": [
     "road"
    ],
