@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T13:16:54Z",
+ "updated": "2026-11-11T15:57:28Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Fiskeri- og havministeren har møte med Maritime Cleantech",
    "link": "https://www.regjeringen.no/no/aktuelt/fiskeri-og-havministeren-har-mote-med-maritime-cleantech/id3192108/",
    "source": "regjeringen",
-   "published": "2026-11-11T13:16:54Z",
+   "published": "2026-11-11T15:57:28Z",
    "seen": "2026-11-09T13:20:42Z",
    "lang": "no",
    "excerpt": "Fiskeri- og havminister Marianne Sivertsen Næss har møte med Maritime Cleantech.",
@@ -20,6 +20,274 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "e949a4546624",
+   "title": "Gate stenges: Nytt kjøremønster i Oslo sentrum",
+   "link": "https://www.mtlogistikk.no/oslo-sentrum-ring-1-radhusgata/gate-stenges-nytt-kjoremonster-i-oslo-sentrum/1359336",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-11T15:42:28Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "2151209c1765",
+   "title": "Gi oss fakta politikerne ikke kan overse",
+   "link": "https://lastebil.no/aktuelt/nyheter/2026/gi-oss-fakta-politikerne-ikke-kan-overse",
+   "source": "lastebil",
+   "published": "2026-11-11T15:08:42Z",
+   "seen": "2026-11-11T15:57:28Z",
+   "lang": "no",
+   "excerpt": "15 minutter fra deg kan gi sterkere gjennomslag for hele næringen. Når du svarer på NLFs konjunkturundersøkelse, gir du oss fakta vi kan bruke som forhandlingsgrunnlag og til målrettet arbeid for bedre rammevilkår.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f80a825ee666",
+   "title": "Texas trucking owner indicted in scheme involving 57 unauthorized drivers",
+   "link": "https://www.freightwaves.com/news/texas-trucking-owner-indicted-in-scheme-involving-57-unauthorized-drivers",
+   "source": "freightwaves",
+   "published": "2026-11-11T15:04:26Z",
+   "seen": "2026-11-11T15:57:28Z",
+   "lang": "en",
+   "excerpt": "A Laredo trucking company owner faces federal charges for allegedly employing 57 unauthorized B-1 visa drivers to haul domestic freight across the U.S.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "cb2880c6cc59",
+   "title": "CMA CGM announces new surcharges for Mediterranean and Mauritius trades",
+   "link": "https://container-news.com/cma-cgm-announces-new-surcharges-for-mediterranean-and-mauritius-trades/",
+   "source": "containernews",
+   "published": "2026-11-11T15:00:45Z",
+   "seen": "2026-11-11T15:57:28Z",
+   "lang": "en",
+   "excerpt": "CMA CGM has announced new Peak Season Surcharges (PSS) for container shipments from Asia to the Mediterranean, North Africa and Mauritius, with implementation dates scheduled for mid-to-late November 2026.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ef9067f401ab",
+   "title": "Har faset ut diesel i Trøndelag",
+   "link": "https://www.mtlogistikk.no/asko-asko-midt-norge-distribusjon/har-faset-ut-diesel-i-trondelag/1358813",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-11T14:57:28Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6c45531cb0ef",
+   "title": "US rail traffic hits intermodal record as October freight gains signal economic resilience, says AAR",
+   "link": "https://www.freightwaves.com/news/us-rail-traffic-hits-intermodal-record-as-october-freight-gains-signal-economic-resilience-says-aar",
+   "source": "freightwaves",
+   "published": "2026-11-11T14:39:03Z",
+   "seen": "2026-11-11T15:57:28Z",
+   "lang": "en",
+   "excerpt": "Intermodal hits record mark as U.S. railroads see volumes increase across much of the freight economy, says AAR.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "intermodal"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "c9a74422df8f",
+   "title": "Reservoir upside ups Amplitude Energy’s East Coast gas ante",
+   "link": "https://www.offshore-energy.biz/2026/11/11/reservoir-upside-ups-amplitude-energys-east-coast-gas-ante",
+   "source": "offshoreenergy",
+   "published": "2026-11-11T14:30:00Z",
+   "seen": "2026-11-11T15:57:28Z",
+   "lang": "en",
+   "excerpt": "Amplitude Energy’s drilling activities have confirmed high-quality gas and strong resource potential, strengthening its Australian project.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "068a9970dfcc",
+   "title": "US Postal Service reduces annual operating loss by 12.7%",
+   "link": "https://www.freightwaves.com/news/us-postal-service-reduces-annual-operating-loss-by-12-7",
+   "source": "freightwaves",
+   "published": "2026-11-11T14:29:21Z",
+   "seen": "2026-11-11T15:57:28Z",
+   "lang": "en",
+   "excerpt": "The U.S. Postal Service lost much less money in fiscal year 2026, but still has a long road to financial stability.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "95b4224b397b",
+   "title": "Bygger gigantanlegg for over 640 millioner kroner",
+   "link": "https://www.mtlogistikk.no/arlanda-dhl-express-flyfraktgateway/bygger-gigantanlegg-for-over-640-millioner-kroner/1359965",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-11T14:27:28Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c55d75e8fec5",
+   "title": "Yang Ming reports strong Q3 profit amid higher freight rates",
+   "link": "https://container-news.com/yang-ming-reports-strong-q3-profit-amid-higher-freight-rates/",
+   "source": "containernews",
+   "published": "2026-11-11T14:00:09Z",
+   "seen": "2026-11-11T15:57:28Z",
+   "lang": "en",
+   "excerpt": "Yang Ming Marine Transport Corporation reported an after-tax net profit of NT$18.57 billion (US$584.75 million) for the third quarter of 2026, supported by stronger cargo demand, higher freight rates and continued capacity constraints …",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8faed82807e4",
+   "title": "High Diesel Prices Put Fleet Efficiency Under the Microscope",
+   "link": "https://www.freightwaves.com/news/high-diesel-prices-put-fleet-efficiency-under-the-microscope",
+   "source": "freightwaves",
+   "published": "2026-11-11T14:00:00Z",
+   "seen": "2026-11-11T15:57:28Z",
+   "lang": "en",
+   "excerpt": "Fleets can’t control diesel prices, but they can control fuel efficiency, safety, maintenance and compliance costs. J. J. Keller explains how.",
+   "segments": [
+    "road",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "669ea528ca92",
+   "title": "Germany to Set Up State Gas Reserve After Missing Winter Storage Targets",
+   "link": "https://gcaptain.com/germany-to-set-up-state-gas-reserve-after-missing-winter-storage-targets/",
+   "source": "gcaptain",
+   "published": "2026-11-11T13:30:38Z",
+   "seen": "2026-11-11T15:57:28Z",
+   "lang": "en",
+   "excerpt": "The German government will go ahead with a planned 24-terawatt-hour crisis gas reserve to be funded by user surcharges, the economy ministry said, following criticism over missed storage targets for the winter heating season this year.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "bd8842d36773",
+   "title": "Murphy Oil gains stronger foothold offshore Cameroon with block quartet",
+   "link": "https://www.offshore-energy.biz/2026/11/11/murphy-oil-gains-stronger-foothold-offshore-cameroon-with-block-quartet",
+   "source": "offshoreenergy",
+   "published": "2026-11-11T13:08:00Z",
+   "seen": "2026-11-11T15:57:28Z",
+   "lang": "en",
+   "excerpt": "Murphy Oil has signed four production sharing contracts (PSCs) for more offshore acreage in Cameroon.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "3bc2d03b16e6",
+   "title": "Qatar Loses First LNG Customer Since War Disrupted Flows",
+   "link": "https://gcaptain.com/qatar-loses-first-lng-customer-since-war-disrupted-flows/",
+   "source": "gcaptain",
+   "published": "2026-11-11T13:06:10Z",
+   "seen": "2026-11-11T15:57:28Z",
+   "lang": "en",
+   "excerpt": "Polish energy company Orlen SA terminated one of its long-term liquefied natural gas contracts with QatarEnergy, citing the export giant’s inability to deliver as the conflict in the Middle East disrupts shipments.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lng"
+   ],
+   "paywall": false
   },
   {
    "id": "2f9dd3946f1b",
@@ -68,6 +336,26 @@
    "paywall": false
   },
   {
+   "id": "359fe4d5d7fc",
+   "title": "Shippers running 2022-era bid playbooks face a tighter peak",
+   "link": "https://www.freightwaves.com/news/a-duie-pyle-peak-season-shipper-bids",
+   "source": "freightwaves",
+   "published": "2026-11-11T13:00:00Z",
+   "seen": "2026-11-11T15:57:28Z",
+   "lang": "en",
+   "excerpt": "Some shippers are heading into peak season with the bid strategy that carried them from 2022 through 2025: long rate locks, steep penalties and little flexibility.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "shipper-consignee"
+   ],
+   "paywall": false
+  },
+  {
    "id": "57fa6aeaed8e",
    "title": "Hydrogen trucks’ fuel cell is ready. Europe’s pumps aren’t",
    "link": "https://www.freightwaves.com/news/cellcentric-fuel-cell-hydrogen-stations-europe",
@@ -86,6 +374,24 @@
    "paywall": false
   },
   {
+   "id": "f4939db24b5f",
+   "title": "Shelfless utvider automasjonslager",
+   "link": "https://www.mtlogistikk.no/autostore-bring-shelfless-lagerautomatisering/shelfless-utvider-automasjonslager/1359018",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-11T12:27:28Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
    "id": "3d9778152386",
    "title": "WATCH: CETO parts start arriving at Port of Bilbao ahead of first stage water deployment",
    "link": "https://www.offshore-energy.biz/2026/11/11/watch-ceto-parts-start-arriving-at-port-of-bilbao-ahead-of-first-stage-water-deployment",
@@ -100,24 +406,6 @@
    "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "0d93c9e6c3c3",
-   "title": "Shelfless utvider automasjonslager",
-   "link": "https://www.mtlogistikk.no/autostore-bring-shelfless-lagerautomatisering/shelfless-utvider-automasjonslager/1358512",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-11T12:01:54Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -167,12 +455,12 @@
    "paywall": false
   },
   {
-   "id": "9d74cf310424",
-   "title": "Gate stenges: Nytt kjøremønster i Oslo sentrum",
-   "link": "https://www.mtlogistikk.no/oslo-sentrum-ring-1-radhusgata/gate-stenges-nytt-kjoremonster-i-oslo-sentrum/1359479",
+   "id": "9d949c386660",
+   "title": "Slo julerekorden allerede i oktober",
+   "link": "https://www.mtlogistikk.no/elektrisk-varetransport-pakkebokser-pakketerminalen-i-moss/slo-julerekorden-allerede-i-oktober/1358383",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-11T11:46:54Z",
+   "seen": "2026-11-11T11:27:28Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -708,60 +996,6 @@
    "paywall": false
   },
   {
-   "id": "ccab32f328e9",
-   "title": "Slo julerekorden allerede i oktober",
-   "link": "https://www.mtlogistikk.no/elektrisk-varetransport-pakkebokser-pakketerminalen-i-moss/slo-julerekorden-allerede-i-oktober/1358456",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-11T09:46:54Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "32d35bc74f1f",
-   "title": "Har faset ut diesel i Trøndelag",
-   "link": "https://www.mtlogistikk.no/asko-asko-midt-norge-distribusjon/har-faset-ut-diesel-i-trondelag/1358177",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-11T09:31:54Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "05c93b0429f7",
-   "title": "Bygger gigantanlegg for over 640 millioner kroner",
-   "link": "https://www.mtlogistikk.no/arlanda-dhl-express-flyfraktgateway/bygger-gigantanlegg-for-over-640-millioner-kroner/1359381",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-11T09:20:42Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "3897b6d74db8",
    "title": "Etablerer godskorridor fra Finland til Trondheim",
    "link": "https://www.mtlogistikk.no/godskorridor-merakerbanen-onrail/etablerer-godskorridor-fra-finland-til-trondheim/1359096",
@@ -990,6 +1224,27 @@
    "seen": "2026-11-11T07:22:00Z",
    "lang": "en",
    "excerpt": "New York Shipping Exchange (NYSHEX) has raised US$8.7 million in Series D funding to expand its NYSHEX Freight Index (NYFI) and strengthen its container shipping risk management services.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "04136828cfdc",
+   "title": "NYSHEX raises Series D funding to expand NYFI freight index",
+   "link": "https://container-news.com/nyshex-raises-series-d-funding-to-expand-nyfi-freight-index/",
+   "source": "containernews",
+   "published": "2026-11-11T07:00:17Z",
+   "seen": "2026-11-11T15:57:28Z",
+   "lang": "en",
+   "excerpt": "New York Shipping Exchange (NYSHEX) has secured Series D funding to expand its NYSHEX Freight Index (NYFI) and strengthen its container shipping risk management services.",
    "segments": [
     "freight",
     "finance"
@@ -18018,269 +18273,6 @@
    "policy": false,
    "level": "international",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "c847405004c2",
-   "title": "FedEx uses dedicated logistics teams to win aerospace, automotive business",
-   "link": "https://www.freightwaves.com/news/fedex-uses-dedicated-logistics-teams-to-win-aerospace-automotive-business",
-   "source": "freightwaves",
-   "published": "2026-11-03T16:56:02Z",
-   "seen": "2026-11-03T18:58:56Z",
-   "lang": "en",
-   "excerpt": "FedEx says its new strategy to provide premium logistics services for industrial companies has resulted in new contracts to move aircraft engines and auto parts.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "52845e13cfaf",
-   "title": "US targets alleged labor violations at 2 Mexican factories",
-   "link": "https://www.freightwaves.com/news/us-targets-alleged-labor-violations-at-2-mexican-factories",
-   "source": "freightwaves",
-   "published": "2026-11-03T16:35:57Z",
-   "seen": "2026-11-03T18:58:56Z",
-   "lang": "en",
-   "excerpt": "U.S. trade officials announced a new labor rights investigation into a Mexican packaging manufacturer and an agreement addressing labor violations at an ammunition factory.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "94c5be8d619d",
-   "title": "Australia Bans Bulk Carrier Over Repeated Falsification of Crew Rest Records",
-   "link": "https://gcaptain.com/australia-bans-bulk-carrier-over-repeated-falsification-of-crew-rest-records/",
-   "source": "gcaptain",
-   "published": "2026-11-03T16:25:54Z",
-   "seen": "2026-11-03T18:58:56Z",
-   "lang": "en",
-   "excerpt": "The Australian Maritime Safety Authority (AMSA) has banned a Marshall Islands-flagged bulk carrier from Australian ports for 90 days after inspectors discovered that crew work and rest records had been...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "dry-bulk"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "910801456261",
-   "title": "Hapag-Lloyd, ONE Warn Most Cargo Lost in Massive Containership Fire",
-   "link": "https://gcaptain.com/hapag-lloyd-one-warn-most-cargo-lost-in-massive-containership-fire/",
-   "source": "gcaptain",
-   "published": "2026-11-03T16:03:08Z",
-   "seen": "2026-11-03T18:58:56Z",
-   "lang": "en",
-   "excerpt": "Hapag-Lloyd and Ocean Network Express (ONE) are warning customers that most of the cargo aboard the fire-damaged containership Espirito Santo Express is likely severely damaged or a total loss, more...",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "liner",
-    "total-loss"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "22b100b08633",
-   "title": "Explainer:The UAE is buying control of the journey",
-   "link": "https://container-news.com/explainerthe-uae-is-buying-control-of-the-journey/",
-   "source": "containernews",
-   "published": "2026-11-03T16:00:22Z",
-   "seen": "2026-11-03T18:58:56Z",
-   "lang": "en",
-   "excerpt": "Abu Dhabi’s new export push widens its Hormuz bypass into a bid to control the whole journey of a barrel, and makes Fujairah the place where that ambition will be tested.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "0575b2445a17",
-   "title": "Successful quarter at Expeditors boosted by hyperscaler business",
-   "link": "https://www.freightwaves.com/news/successful-quarter-at-expeditors-boosted-by-hyperscaler-business",
-   "source": "freightwaves",
-   "published": "2026-11-03T15:48:13Z",
-   "seen": "2026-11-03T18:58:56Z",
-   "lang": "en",
-   "excerpt": "All the key numbers at Expeditors International pointed upward in the third quarter at the logistics and freight forwarding company. Revenue year-on-year was up 42%, to $4.1 billion at the asset-light customs broker and freight forwarder.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "forwarder"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "16abd0b12b54",
-   "title": "NLF har løsningen på budsjettfloka",
-   "link": "https://lastebil.no/aktuelt/nyheter/2026/nlf-har-loesningen-paa-budsjettfloka",
-   "source": "lastebil",
-   "published": "2026-11-03T15:28:08Z",
-   "seen": "2026-11-03T15:58:02Z",
-   "lang": "no",
-   "excerpt": "Mens dieselprisen skaper strid i budsjettforhandlingene, foreslår NLF en ordning som kan gi lastebilnæringen lavere drivstoffkostnader og samtidig kutte utslipp. Ordningen heter professional diesel.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "national",
-   "terms": [
-    "pro-diesel"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "0cb0e0584c56",
-   "title": "Hanwha Philly Shipyard secures first US Navy shipbuilding contract",
-   "link": "https://container-news.com/hanwha-philly-shipyard-secures-first-us-navy-shipbuilding-contract/",
-   "source": "containernews",
-   "published": "2026-11-03T15:00:07Z",
-   "seen": "2026-11-03T15:58:02Z",
-   "lang": "en",
-   "excerpt": "Hanwha Defense USA has secured its first US Navy shipbuilding contract after being selected by TOTE Services to construct a Medium Landing Ship (LSM) at Hanwha Philly Shipyard.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "2b33fd3eda9c",
-   "title": "New survey finds AI rush isn’t boosting ports earnings",
-   "link": "https://www.freightwaves.com/news/new-survey-finds-ai-rush-isnt-boosting-ports-earnings",
-   "source": "freightwaves",
-   "published": "2026-11-03T14:09:39Z",
-   "seen": "2026-11-03T15:58:02Z",
-   "lang": "en",
-   "excerpt": "A survey of industry experts finds that even as container ports deploy artificial intelligence, few are seeing measurable financial returns.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "70798886862b",
-   "title": "Contships reports US$33.3 million nine-month profit",
-   "link": "https://container-news.com/contships-reports-us33-3-million-nine-month-profit/",
-   "source": "containernews",
-   "published": "2026-11-03T14:00:45Z",
-   "seen": "2026-11-03T15:58:02Z",
-   "lang": "en",
-   "excerpt": "Contships Logistics reported a profit of US$33.3 million for the first nine months of 2026, supported by high fleet utilisation and firm charter rates.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "utilisation",
-    "time-charter"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "2cc4ca4b7398",
-   "title": "Første gebyr for fiskeavrenning er påklaget",
-   "link": "https://lastebil.no/aktuelt/nyheter/2026/foerste-gebyr-for-fiskeavrenning-er-paaklaget",
-   "source": "lastebil",
-   "published": "2026-11-03T13:43:23Z",
-   "seen": "2026-11-03T15:58:02Z",
-   "lang": "no",
-   "excerpt": "Det nye gebyret for avrenning fra fisketransport er knapt tatt i bruk før det møter motstand. Transportselskapet Nor-Log har påklaget gebyret på 20.000 kroner, som ble ilagt under en utekontroll på Magnor kontrollstasjon 14. oktober.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "e0617c43f527",
-   "title": "LS Cable, LS Marine secure production and installation capacity for 504 MW South Korean offshore wind farm",
-   "link": "https://offshore-energy.biz/2026/11/03/ls-cable-ls-marine-secure-production-and-installation-capacity-for-504-mw-south-korean-offshore-wind-farm",
-   "source": "offshoreenergy",
-   "published": "2026-11-03T13:20:22Z",
-   "seen": "2026-11-03T15:58:02Z",
-   "lang": "en",
-   "excerpt": "LS Cable & System and LS Marine Solution have signed a capacity reservation agreement (CRA) with Taean Wind Power for the supply and installation...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "offshore-wind"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "6636d6dc563b",
-   "title": "Baltic Dry Index falls to 2590 down 58 points",
-   "link": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-2590-down-58-points/",
-   "source": "hsn",
-   "published": "2026-11-03T13:02:23Z",
-   "seen": "2026-11-03T13:08:55Z",
-   "lang": "en",
-   "excerpt": "Today, Tuesday, Novenber 3 2026, the Baltic Dry Index decreased by 58 points, reaching 2590 points. Baltic Dry Index is compiled by the London-based Baltic Exchange and covers prices for transported cargo such as coal, grain and iron ore.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bdi",
-    "baltic-exchange"
-   ],
    "paywall": false
   }
  ]
