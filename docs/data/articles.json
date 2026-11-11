@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T01:11:12Z",
+ "updated": "2026-11-11T04:00:26Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Fiskeri- og havministeren har møte med Maritime Cleantech",
    "link": "https://www.regjeringen.no/no/aktuelt/fiskeri-og-havministeren-har-mote-med-maritime-cleantech/id3192108/",
    "source": "regjeringen",
-   "published": "2026-11-11T01:11:12Z",
+   "published": "2026-11-11T04:00:26Z",
    "seen": "2026-11-09T13:20:42Z",
    "lang": "no",
    "excerpt": "Fiskeri- og havminister Marianne Sivertsen Næss har møte med Maritime Cleantech.",
@@ -20,6 +20,81 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "9d949c386660",
+   "title": "Slo julerekorden allerede i oktober",
+   "link": "https://www.mtlogistikk.no/elektrisk-varetransport-pakkebokser-pakketerminalen-i-moss/slo-julerekorden-allerede-i-oktober/1358383",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-11T03:30:26Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4203821fd348",
+   "title": "Konecranes secures first overseas ESP.4 crane order in Bermuda",
+   "link": "https://container-news.com/konecranes-secures-first-overseas-esp-4-crane-order-in-bermuda/",
+   "source": "containernews",
+   "published": "2026-11-11T02:34:30Z",
+   "seen": "2026-11-11T04:00:26Z",
+   "lang": "en",
+   "excerpt": "Konecranes has secured an order for a Gottwald ESP.4 Mobile Harbor Crane from Stevedoring Services Limited (SSL) in Bermuda, marking the model’s first order outside Europe.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a3e0c42548b5",
+   "title": "Havnestriden i Kristiansand: Minst 150 millioner skiller partene",
+   "link": "https://www.mtlogistikk.no/kristiansand-havn/havnestriden-i-kristiansand-minst-150-millioner-skiller-partene/1359257",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-11T02:30:26Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f4939db24b5f",
+   "title": "Shelfless utvider automasjonslager",
+   "link": "https://www.mtlogistikk.no/autostore-bring-shelfless-lagerautomatisering/shelfless-utvider-automasjonslager/1359018",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-11T01:15:26Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
   },
   {
    "id": "ef9067f401ab",
@@ -60,24 +135,6 @@
    "paywall": false
   },
   {
-   "id": "0d93c9e6c3c3",
-   "title": "Shelfless utvider automasjonslager",
-   "link": "https://www.mtlogistikk.no/autostore-bring-shelfless-lagerautomatisering/shelfless-utvider-automasjonslager/1358512",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-11T00:26:12Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "b7a7bfafa755",
    "title": "Russian Diesel Tanker Awaits Orders Off U.S. Coast Amid Import Ban Dispute",
    "link": "https://gcaptain.com/russian-diesel-tanker-awaits-orders-off-u-s-coast-amid-import-ban-dispute/",
@@ -94,6 +151,24 @@
     "tankers"
    ],
    "policy": true,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "2c3f643c6ad3",
+   "title": "Vareeierundersøkelsen 2026 er nå tilgjengelig - last ned rapporten her",
+   "link": "https://www.mtlogistikk.no/forsyningskjeder-logistikk-norske-vareeiere/vareeierundersokelsen-2026-er-na-tilgjengelig/1271402",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-11T00:00:26Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
    "level": "national",
    "terms": [],
    "paywall": false
@@ -119,6 +194,24 @@
    "terms": [
     "chokepoint"
    ],
+   "paywall": false
+  },
+  {
+   "id": "0a2d94bb7c4f",
+   "title": "Få oversikt over alle logistikk-arrangement: Eventkalender logistikk 2026",
+   "link": "https://www.mtlogistikk.no/arangementer-konferanse-logistikk-25/eventkalender-logistikk-2025/1013111",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-10T23:45:26Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
    "paywall": false
   },
   {
@@ -240,24 +333,6 @@
    ],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "ccab32f328e9",
-   "title": "Slo julerekorden allerede i oktober",
-   "link": "https://www.mtlogistikk.no/elektrisk-varetransport-pakkebokser-pakketerminalen-i-moss/slo-julerekorden-allerede-i-oktober/1358456",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-10T22:26:12Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18177,90 +18252,6 @@
    "level": "international",
    "terms": [],
    "paywall": true
-  },
-  {
-   "id": "fdb6b4ac2d90",
-   "title": "Escalating attacks heighten level of uncertainty in dry bulk sector, says BIMCO",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/escalating-attacks-heighten-level-of-uncertainty-in-dry-bulk-sector-says-bimco/",
-   "source": "imn",
-   "published": "2026-11-03T06:31:22Z",
-   "seen": "2026-11-03T07:16:19Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "dry-bulk",
-    "bimco"
-   ],
-   "paywall": true
-  },
-  {
-   "id": "a1db77990e69",
-   "title": "Can a ship be unseaworthy because its Master or crew are incompetent?",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/can-a-ship-be-unseaworthy-because-its-master-or-crew-are-incompetent/",
-   "source": "imn",
-   "published": "2026-11-03T06:30:14Z",
-   "seen": "2026-11-03T07:16:19Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "seaworthiness"
-   ],
-   "paywall": true
-  },
-  {
-   "id": "2e067fbc3624",
-   "title": "Marine round-up : 3rd November 2026",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/marine-round-up-3rd-november-2026/",
-   "source": "imn",
-   "published": "2026-11-03T06:28:17Z",
-   "seen": "2026-11-03T07:16:19Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "a6005651ba9a",
-   "title": "Container freight rates diverge as NYFI rises and Drewry WCI falls",
-   "link": "https://container-news.com/container-freight-rates-diverge-as-nyfi-rises-and-drewry-wci-falls/",
-   "source": "containernews",
-   "published": "2026-11-03T06:00:37Z",
-   "seen": "2026-11-03T09:59:30Z",
-   "lang": "en",
-   "excerpt": "Global container freight rates presented a mixed picture in the latest weekly assessments, with the NYSHEX Freight Index (NYFI) recording increases across all five monitored trade lanes while Drewry’s World Container Index (WCI) and the …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "container-index"
-   ],
-   "paywall": false
   }
  ]
 }
