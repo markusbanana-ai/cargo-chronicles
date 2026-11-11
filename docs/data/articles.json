@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T07:22:00Z",
+ "updated": "2026-11-11T10:05:42Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Fiskeri- og havministeren har møte med Maritime Cleantech",
    "link": "https://www.regjeringen.no/no/aktuelt/fiskeri-og-havministeren-har-mote-med-maritime-cleantech/id3192108/",
    "source": "regjeringen",
-   "published": "2026-11-11T07:22:00Z",
+   "published": "2026-11-11T10:05:42Z",
    "seen": "2026-11-09T13:20:42Z",
    "lang": "no",
    "excerpt": "Fiskeri- og havminister Marianne Sivertsen Næss har møte med Maritime Cleantech.",
@@ -20,6 +20,253 @@
    "terms": [],
    "paywall": false,
    "upcoming": true
+  },
+  {
+   "id": "8ef47aace312",
+   "title": "Bygger ut sentrallageret for tredje gang",
+   "link": "https://www.mtlogistikk.no/logistikkeiendom-power-international/bygger-ut-sentrallageret-for-tredje-gang/1359319",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-11T10:05:42Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4d3894f963e6",
+   "title": "Monjasa seals biggest-ever fleet deal with five-tanker swoop",
+   "link": "https://splash247.com/monjasa-seals-biggest-ever-fleet-deal-with-five-tanker-swoop/",
+   "source": "splash",
+   "published": "2026-11-11T10:02:32Z",
+   "seen": "2026-11-11T10:05:42Z",
+   "lang": "en",
+   "excerpt": "Danish bunker supplier and shipowner Monjasa has acquired five sister product tankers from Germany’s Bernhard Schulte in its largest-ever fleet deal, strengthening its marine fuels operations in West Africa.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bunkers",
+    "product-tanker",
+    "dwt"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "82e2c1622523",
+   "title": "Hai An extends Vietnam container service to Tuticorin",
+   "link": "https://container-news.com/hai-an-extends-vietnam-container-service-to-tuticorin/",
+   "source": "containernews",
+   "published": "2026-11-11T10:00:19Z",
+   "seen": "2026-11-11T10:05:42Z",
+   "lang": "en",
+   "excerpt": "The service expansion began with the inaugural call of the 1,781 TEU containership HAIAN ALFA at Dakshin Bharat Gateway Terminal (DBGT) on 7 November 2026.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "teu",
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "d366ef6a4eac",
+   "title": "Elemental Energies wins offshore CCS deal from Harbour Energy",
+   "link": "https://splash247.com/elemental-energies-wins-offshore-ccs-deal-from-harbour-energy/",
+   "source": "splash",
+   "published": "2026-11-11T10:00:00Z",
+   "seen": "2026-11-11T10:05:42Z",
+   "lang": "en",
+   "excerpt": "Aberdeen-based well engineering specialist Elemental Energies has secured a two-year contract from Harbour Energy to support the expansion of the Viking carbon capture and storage (CCS) project in the UK southern North Sea.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ccs"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "318be17450f3",
+   "title": "Hartnoll’s Eastway makes $320m tanker comeback",
+   "link": "https://splash247.com/hartnolls-eastway-makes-320m-tanker-comeback/",
+   "source": "splash",
+   "published": "2026-11-11T09:56:00Z",
+   "seen": "2026-11-11T10:05:42Z",
+   "lang": "en",
+   "excerpt": "Eastway, the shipowning and shipmanagement arm of the Tim Hartnoll-controlled X-Press Feeders/Sea Consortium group, is returning to the tanker market, ordering four suezmax newbuildings in China in a deal worth an estimated $320m.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "transshipment",
+    "suezmax",
+    "newbuilding",
+    "dwt"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "e949a4546624",
+   "title": "Gate stenges: Nytt kjøremønster i Oslo sentrum",
+   "link": "https://www.mtlogistikk.no/oslo-sentrum-ring-1-radhusgata/gate-stenges-nytt-kjoremonster-i-oslo-sentrum/1359336",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-11T09:50:42Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "05c93b0429f7",
+   "title": "Bygger gigantanlegg for over 640 millioner kroner",
+   "link": "https://www.mtlogistikk.no/arlanda-dhl-express-flyfraktgateway/bygger-gigantanlegg-for-over-640-millioner-kroner/1359381",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-11T09:20:42Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ef9067f401ab",
+   "title": "Har faset ut diesel i Trøndelag",
+   "link": "https://www.mtlogistikk.no/asko-asko-midt-norge-distribusjon/har-faset-ut-diesel-i-trondelag/1358813",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-11T09:05:42Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "3897b6d74db8",
+   "title": "Etablerer godskorridor fra Finland til Trondheim",
+   "link": "https://www.mtlogistikk.no/godskorridor-merakerbanen-onrail/etablerer-godskorridor-fra-finland-til-trondheim/1359096",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-11T08:20:42Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "432641f81aab",
+   "title": "Ghana's oil & gas drilling yields hydrocarbons and first carbonate reservoir",
+   "link": "https://www.offshore-energy.biz/2026/11/11/ghanas-oil-and-gas-drilling-yields-hydrocarbons-and-first-carbonate-reservoir",
+   "source": "offshoreenergy",
+   "published": "2026-11-11T08:16:26Z",
+   "seen": "2026-11-11T10:05:42Z",
+   "lang": "en",
+   "excerpt": "This hydrocarbon discovery in a carbonate reservoir off Ghana's coast is unlocking new potential for the country’s upstream sector.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ep"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "f60598d974d1",
+   "title": "RCL posts higher Q3 profit and orders 12 containerships",
+   "link": "https://container-news.com/rcl-posts-higher-q3-profit-and-orders-12-containerships/",
+   "source": "containernews",
+   "published": "2026-11-11T08:00:37Z",
+   "seen": "2026-11-11T10:05:42Z",
+   "lang": "en",
+   "excerpt": "Regional Container Lines (RCL) reported a sharp increase in third-quarter profit as higher freight rates supported earnings despite lower container volumes.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "c8dc270b2f1b",
+   "title": "Coal’s new world order takes shape",
+   "link": "https://splash247.com/coals-new-world-order-takes-shape/",
+   "source": "splash",
+   "published": "2026-11-11T07:46:31Z",
+   "seen": "2026-11-11T07:22:00Z",
+   "lang": "en",
+   "excerpt": "Coal’s changing trade map is creating winners and losers across dry bulk shipping in 2026, with Indonesian exports retreating, southern African shipments setting records and Asian import demand increasingly fractured.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dry-bulk"
+   ],
+   "paywall": false
   },
   {
    "id": "550b2e6add90",
@@ -257,6 +504,24 @@
    "paywall": true
   },
   {
+   "id": "f4939db24b5f",
+   "title": "Shelfless utvider automasjonslager",
+   "link": "https://www.mtlogistikk.no/autostore-bring-shelfless-lagerautomatisering/shelfless-utvider-automasjonslager/1359018",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-11T06:50:42Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
    "id": "8f19b2f5c74e",
    "title": "Hormuz tanker attacks mount",
    "link": "https://splash247.com/hormuz-tanker-attacks-mount/",
@@ -276,28 +541,6 @@
    "level": "international",
    "terms": [
     "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "c8dc270b2f1b",
-   "title": "Coal’s new world order takes shape",
-   "link": "https://splash247.com/coals-new-world-order-takes-shape/",
-   "source": "splash",
-   "published": "2026-11-11T06:46:31Z",
-   "seen": "2026-11-11T07:22:00Z",
-   "lang": "en",
-   "excerpt": "Coal’s changing trade map is creating winners and losers across dry bulk shipping in 2026, with Indonesian exports retreating, southern African shipments setting records and Asian import demand increasingly fractured.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "dry-bulk"
    ],
    "paywall": false
   },
@@ -363,24 +606,6 @@
    "paywall": false
   },
   {
-   "id": "0d93c9e6c3c3",
-   "title": "Shelfless utvider automasjonslager",
-   "link": "https://www.mtlogistikk.no/autostore-bring-shelfless-lagerautomatisering/shelfless-utvider-automasjonslager/1358512",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-11T06:37:00Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "c8ddc37d4fc3",
    "title": "SITC CJV6 becomes first international liner service at Nansha Phase IV",
    "link": "https://container-news.com/sitc-cjv6-becomes-first-international-liner-service-at-nansha-phase-iv/",
@@ -403,12 +628,12 @@
    "paywall": false
   },
   {
-   "id": "ccab32f328e9",
+   "id": "9d949c386660",
    "title": "Slo julerekorden allerede i oktober",
-   "link": "https://www.mtlogistikk.no/elektrisk-varetransport-pakkebokser-pakketerminalen-i-moss/slo-julerekorden-allerede-i-oktober/1358456",
+   "link": "https://www.mtlogistikk.no/elektrisk-varetransport-pakkebokser-pakketerminalen-i-moss/slo-julerekorden-allerede-i-oktober/1358383",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-11T04:22:00Z",
+   "seen": "2026-11-11T05:35:42Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -421,20 +646,45 @@
    "paywall": false
   },
   {
-   "id": "32d35bc74f1f",
-   "title": "Har faset ut diesel i Trøndelag",
-   "link": "https://www.mtlogistikk.no/asko-asko-midt-norge-distribusjon/har-faset-ut-diesel-i-trondelag/1358177",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-11T04:07:00Z",
-   "lang": "no",
-   "excerpt": "",
+   "id": "b931707ef359",
+   "title": "Shipping heavyweights back Cetus $175m Oslo listing",
+   "link": "https://splash247.com/shipping-heavyweights-back-cetus-175m-oslo-listing/",
+   "source": "splash",
+   "published": "2026-11-11T04:59:36Z",
+   "seen": "2026-11-10T18:59:52Z",
+   "lang": "en",
+   "excerpt": "Hong Kong-based dry bulk owner Cetus Maritime has lined up some of shipping’s biggest investment names for a $175m private placement ahead of its planned Oslo listing later this month.",
    "segments": [
-    "road"
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "dry-bulk",
+    "private-placement"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "d7022b013440",
+   "title": "Video: Ukrainian Strike Causes Major Fire at Russian Oil Port of Ust-Luga",
+   "link": "https://maritime-executive.com/article/video-ukrainian-strike-causes-major-fire-at-russian-oil-port-of-ust-luga",
+   "source": "marex",
+   "published": "2026-11-11T04:45:00Z",
+   "seen": "2026-11-11T10:05:42Z",
+   "lang": "en",
+   "excerpt": "Russian officials have confirmed a major drone strike on the Baltic oil port of Ust-Luga, west of St. Petersburg. It has been hit many times by Ukrain...",
+   "segments": [
+    "freight",
+    "insurance"
    ],
    "subs": [],
    "policy": false,
-   "level": "national",
+   "level": "international",
    "terms": [],
    "paywall": false
   },
@@ -459,6 +709,25 @@
    "terms": [
     "ais"
    ],
+   "paywall": false
+  },
+  {
+   "id": "de1ca335aaf7",
+   "title": "Kuttet en halv milliard – vokser likevel",
+   "link": "https://www.mtlogistikk.no/jan-volsdal-kunstlig-intelligens-pakke-og-godstransport/kuttet-en-halv-milliard-vokser-likevel/1352956",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-11T03:05:42Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
    "paywall": false
   },
   {
@@ -1678,30 +1947,6 @@
    "policy": false,
    "level": "international",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "b931707ef359",
-   "title": "Shipping heavyweights back Cetus $175m Oslo listing",
-   "link": "https://splash247.com/shipping-heavyweights-back-cetus-175m-oslo-listing/",
-   "source": "splash",
-   "published": "2026-11-10T16:59:36Z",
-   "seen": "2026-11-10T18:59:52Z",
-   "lang": "en",
-   "excerpt": "Hong Kong-based dry bulk owner Cetus Maritime has lined up some of shipping’s biggest investment names for a $175m private placement ahead of its planned Oslo listing later this month.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "dry-bulk",
-    "private-placement"
-   ],
    "paywall": false
   },
   {
@@ -18018,239 +18263,6 @@
    "terms": [
     "rig",
     "bareboat"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "ee4bd4c96dc8",
-   "title": "Varsler politisk streik mot postkuttene",
-   "link": "https://www.mtlogistikk.no/posten/varsler-politisk-streik-mot-postkuttene/1353844",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-03T10:53:55Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "5af9ba5a1038",
-   "title": "Flytter lageret - kutter 80 ansatte",
-   "link": "https://www.mtlogistikk.no/distribusjonssenter-goeteborg-lagerautomatisering/flytter-lageret-kutter-80-ansatte/1347196",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-03T10:28:02Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "6b31d40777ad",
-   "title": "Kazakhstan and Azerbaijan sign agreements for Caspian ferry system and Baku terminal",
-   "link": "https://container-news.com/kazakhstan-and-azerbaijan-sign-agreements-for-caspian-ferry-system-and-baku-terminal/",
-   "source": "containernews",
-   "published": "2026-11-03T10:00:39Z",
-   "seen": "2026-11-03T13:08:55Z",
-   "lang": "en",
-   "excerpt": "Kazakhstan and Azerbaijan have signed two agreements to develop transport and logistics connections across the Caspian Sea, including a proposed ferry system and an intermodal cargo terminal at the Port of Baku.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "intermodal"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "801b0f23d20c",
-   "title": "BW Offshore gets Norwegian funding boost for floating wind ambitions",
-   "link": "https://splash247.com/bw-offshore-gets-norwegian-funding-boost-for-floating-wind-ambitions/",
-   "source": "splash",
-   "published": "2026-11-03T10:00:00Z",
-   "seen": "2026-11-03T13:08:55Z",
-   "lang": "en",
-   "excerpt": "Norwegian floater specialist BW Offshore is planning to deploy two of the world’s largest floating wind turbines on its BW Ideol foundations after its Fram Wind Solutions joint venture secured NOK1.94bn ($210m) in state funding support.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "offshore-wind"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "416ed1a05a3d",
-   "title": "Rolls-Royce Showcases Naval Diesel Engines at Euronaval 2026",
-   "link": "https://maritime-executive.com/article/rolls-royce-showcases-naval-diesel-engines-gas-turbines-and-automation-at-euronaval-2026",
-   "source": "marex",
-   "published": "2026-11-03T09:52:00Z",
-   "seen": "2026-11-04T13:11:13Z",
-   "lang": "en",
-   "excerpt": "Rolls-Royce presents its combined naval portfolio at Euronaval 2026 in Paris (3 to 6 November, Hall 6, Booth J46): well-established mtu diesel engines...",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "25e85679e266",
-   "title": "Speedcast Sells Teleport Infrastructure Business to SatPort Infrastructure",
-   "link": "https://maritime-executive.com/article/speedcast-accelerates-its-strategy-to-ai-enabled-edge-intelligence-with-completed-sale-of-teleport-infrastructure-business-to-satport-infrastructure",
-   "source": "marex",
-   "published": "2026-11-03T09:51:00Z",
-   "seen": "2026-11-04T13:11:13Z",
-   "lang": "en",
-   "excerpt": "Speedcast, a leading connectivity, IT services and edge intelligence provider for remote operations, announced today that it has completed the sale of...",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "ba56f64d3d79",
-   "title": "Ernst Russ offloads another feeder in fleet reshuffle",
-   "link": "https://splash247.com/ernst-russ-offloads-another-feeder-in-fleet-reshuffle/",
-   "source": "splash",
-   "published": "2026-11-03T09:42:00Z",
-   "seen": "2026-11-03T09:59:30Z",
-   "lang": "en",
-   "excerpt": "German shipowner Ernst Russ has sold another feeder containership, continuing to trim its older boxship exposure while building up its tanker and multipurpose fleet.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "transshipment",
-    "liner"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "074a0cb36321",
-   "title": "Efficiency and the new economics of shipping’s decarbonisation",
-   "link": "https://splash247.com/efficiency-and-the-new-economics-of-shippings-decarbonisation/",
-   "source": "splash",
-   "published": "2026-11-03T09:31:53Z",
-   "seen": "2026-11-03T09:59:30Z",
-   "lang": "en",
-   "excerpt": "Oskar Levander from Kongsberg Maritime writes for Splash today. For almost two decades, efficiency has been routine good practice in shipping. Owners have cut fuel burn and improved hull and propeller performance.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "35728edb7f62",
-   "title": "Åpner stort ladeanlegg for konkurrenter",
-   "link": "https://www.mtlogistikk.no/asko-vest-bergen-elektriske-lastebiler/apner-stort-ladeanlegg-for-konkurrenter/1342732",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-03T09:28:56Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a8bdb4c34008",
-   "title": "Contships locks in fresh CMA CGM and ONE feeder deals",
-   "link": "https://splash247.com/contships-locks-in-fresh-cma-cgm-and-one-feeder-deals/",
-   "source": "splash",
-   "published": "2026-11-03T09:23:01Z",
-   "seen": "2026-11-03T09:59:30Z",
-   "lang": "en",
-   "excerpt": "Greek feeder containership owner Contships Logistics has secured two new charter deals with CMA CGM and Ocean Network Express (ONE), adding contracted employment as it prepares for an extensive fleet renewal programme.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "transshipment",
-    "liner"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "6ff20f8b82cf",
-   "title": "DEME and Prysmian start cable installation for Dutch offshore grid connections",
-   "link": "https://offshore-energy.biz/2026/11/03/deme-and-prysmian-start-cable-installation-for-dutch-offshore-grid-connections",
-   "source": "offshoreenergy",
-   "published": "2026-11-03T09:10:22Z",
-   "seen": "2026-11-03T13:08:55Z",
-   "lang": "en",
-   "excerpt": "DEME and Prysmian have started installing high-voltage cables for grid operator TenneT in the Veerse Meer in the Netherlands, as part of the...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "2bb1743e8935",
-   "title": "Vår Energi comes up dry in the North Sea",
-   "link": "https://offshore-energy.biz/2026/11/03/var-energi-comes-up-dry-in-the-north-sea",
-   "source": "offshoreenergy",
-   "published": "2026-11-03T09:02:21Z",
-   "seen": "2026-11-03T09:59:30Z",
-   "lang": "en",
-   "excerpt": "Vår Energi’s drilling operations with COSL Drilling Europe’s rig in the Norwegian sector of the North Sea have not yielded hydrocarbons.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "rig"
    ],
    "paywall": false
   }
