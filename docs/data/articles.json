@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T01:19:47Z",
+ "updated": "2026-11-12T04:00:08Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Fiskeri- og havministeren har møte med Maritime Cleantech",
    "link": "https://www.regjeringen.no/no/aktuelt/fiskeri-og-havministeren-har-mote-med-maritime-cleantech/id3192108/",
    "source": "regjeringen",
-   "published": "2026-11-12T01:19:47Z",
+   "published": "2026-11-12T04:00:08Z",
    "seen": "2026-11-09T13:20:42Z",
    "lang": "no",
    "excerpt": "Fiskeri- og havminister Marianne Sivertsen Næss har møte med Maritime Cleantech.",
@@ -22,12 +22,132 @@
    "upcoming": true
   },
   {
-   "id": "e949a4546624",
-   "title": "Gate stenges: Nytt kjøremønster i Oslo sentrum",
-   "link": "https://www.mtlogistikk.no/oslo-sentrum-ring-1-radhusgata/gate-stenges-nytt-kjoremonster-i-oslo-sentrum/1359336",
+   "id": "05c93b0429f7",
+   "title": "Bygger gigantanlegg for over 640 millioner kroner",
+   "link": "https://www.mtlogistikk.no/arlanda-dhl-express-flyfraktgateway/bygger-gigantanlegg-for-over-640-millioner-kroner/1359381",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-12T01:04:47Z",
+   "seen": "2026-11-12T03:15:08Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "00e9bebe0f5e",
+   "title": "VIACHAIN and Star Solutions expand onboard connectivity for smart containers",
+   "link": "https://container-news.com/viachain-and-star-solutions-expand-onboard-connectivity-for-smart-containers/",
+   "source": "containernews",
+   "published": "2026-11-12T02:41:40Z",
+   "seen": "2026-11-12T04:00:08Z",
+   "lang": "en",
+   "excerpt": "VIACHAIN, an ORBCOMM company, and Star Solutions have formalized a strategic alliance to expand onboard connectivity for smart containers, strengthening cargo monitoring capabilities during ocean voyages.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "60b36ba82e1e",
+   "title": "MSC Cruises Makes History in Miami with Record 4 Ships Sailing this Winter",
+   "link": "https://maritime-executive.com/article/msc-cruises-makes-history-in-miami-with-record-4-ships-sailing-this-winter",
+   "source": "marex",
+   "published": "2026-11-12T02:26:54Z",
+   "seen": "2026-11-12T04:00:08Z",
+   "lang": "en",
+   "excerpt": "MSC Cruises is celebrating four ships sailing from the MSC Miami Cruise Terminal this winter, marking a new record for the cruise line’s operations at...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "cd0fab1f0e53",
+   "title": "Everllence Two-Stroke Dual-Fuel Technology Selected for Tanker Project",
+   "link": "https://maritime-executive.com/article/everllence-two-stroke-dual-fuel-technology-selected-for-tanker-project",
+   "source": "marex",
+   "published": "2026-11-12T02:22:44Z",
+   "seen": "2026-11-12T04:00:08Z",
+   "lang": "en",
+   "excerpt": "Everllence has received an order from Swan Defence and Heavy Industries Limited (SDHI), India’s largest shipbuilding and heavy engineering company, fo...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dual-fuel"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "540bf159cdb9",
+   "title": "IMO Calls for All Parties in Hormuz Crisis to Respect Seafarer Safety",
+   "link": "https://maritime-executive.com/article/imo-calls-for-all-parties-in-hormuz-crisis-to-respect-seafarer-safety",
+   "source": "marex",
+   "published": "2026-11-12T02:06:00Z",
+   "seen": "2026-11-12T04:00:08Z",
+   "lang": "en",
+   "excerpt": "The U.S.-Iran conflict has claimed the lives of at least 25 seafarers since February, and Iran's attacks on foreign-flag shipping continue nearly ever...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "imo",
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "22b161f2e331",
+   "title": "New cyber thief gang targets transports; Hunt, Ryder and Echo hit",
+   "link": "https://www.freightwaves.com/news/new-cyber-thief-gang-targets-transports-hunt-ryder-and-echo-hit",
+   "source": "freightwaves",
+   "published": "2026-11-12T01:59:44Z",
+   "seen": "2026-11-12T04:00:08Z",
+   "lang": "en",
+   "excerpt": "Actions by a relatively new group of cybercriminals that have targeted many transportation companies in turn have led to lawsuits filed by employees of three big names that have gotten caught up in the crook’s web.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "9d74cf310424",
+   "title": "Gate stenges: Nytt kjøremønster i Oslo sentrum",
+   "link": "https://www.mtlogistikk.no/oslo-sentrum-ring-1-radhusgata/gate-stenges-nytt-kjoremonster-i-oslo-sentrum/1359479",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-12T01:30:08Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -118,24 +238,6 @@
    "paywall": false
   },
   {
-   "id": "95b4224b397b",
-   "title": "Bygger gigantanlegg for over 640 millioner kroner",
-   "link": "https://www.mtlogistikk.no/arlanda-dhl-express-flyfraktgateway/bygger-gigantanlegg-for-over-640-millioner-kroner/1359965",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-11T23:04:47Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "827e54b21dfc",
    "title": "Why Owner-Operators Are Leaving The Small-Fleet Tier, And Where Their Trucks Go Next",
    "link": "https://www.freightwaves.com/news/why-owner-operators-are-leaving-the-small-fleet-tier-and-where-their-trucks-go-next",
@@ -155,13 +257,13 @@
   },
   {
    "id": "8998e64476ce",
-   "title": "Live: Sinking of Famed Ocean Liner SS United States Begins",
+   "title": "Video: Ocean Liner SS United States Sunk as a Reef Off Florida Panhandle",
    "link": "https://maritime-executive.com/article/live-sinking-of-famed-ocean-liner-ss-united-states-begins",
    "source": "marex",
    "published": "2026-11-11T22:36:00Z",
    "seen": "2026-11-12T01:19:47Z",
    "lang": "en",
-   "excerpt": "A team of marine contractors has begun the process of sinking the famed ocean liner SS United States, the fastest passenger ship ever to make a transa...",
+   "excerpt": "A team of marine contractors has completed the sinking of the famed ocean liner SS United States, the fastest passenger ship ever to make a transatlan...",
    "segments": [
     "freight",
     "insurance"
@@ -18183,103 +18285,6 @@
    "level": "international",
    "terms": [],
    "paywall": true
-  },
-  {
-   "id": "a24d7979633c",
-   "title": "Tog gjennom Femern først i 2035 – lastebilene kan få tre års forsprang",
-   "link": "https://www.mtlogistikk.no/danmark-fehmarn-baelt-femern/tog-gjennom-femern-forst-i-2035-lastebilene-kan-fa-tre-ars-forsprang/1354435",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-04T05:53:42Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "2948347e667c",
-   "title": "FedEx spisser satsingen – og løfter marginene",
-   "link": "https://www.mtlogistikk.no/fedex-kvartalsrapport-okonomi/fedex-spisser-satsingen-og-lofter-marginene/1354015",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-04T05:38:42Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "121a599fa5ed",
-   "title": "Vermont Eyes Nova Scotia's Offshore Wind Resources",
-   "link": "https://maritime-executive.com/article/vermont-eyes-nova-scotia-s-offshore-wind-resources",
-   "source": "marex",
-   "published": "2026-11-04T03:17:20Z",
-   "seen": "2026-11-04T03:58:50Z",
-   "lang": "en",
-   "excerpt": "Landlocked Vermont wants access to offshore wind power to diversify its grid supply, but the odds of procuring it from the U.S. Eastern Seaboard are l...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "offshore-wind"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "b3ffc922eb84",
-   "title": "ANNONSØRINNHOLD FOR FABRITIUS Valget som reduserer kostnader og gir vekstmuligheter",
-   "link": "https://www.mtlogistikk.no/eiendom-fabritius-lager/valget-som-reduserer-kostnader-og-gir-vekstmuligheter/1348736",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-04T03:13:50Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "abb2afa308b4",
-   "title": "Piraeus container throughput returns to growth in third quarter",
-   "link": "https://container-news.com/piraeus-container-throughput-returns-to-growth-in-third-quarter/",
-   "source": "containernews",
-   "published": "2026-11-04T03:00:16Z",
-   "seen": "2026-11-04T03:58:50Z",
-   "lang": "en",
-   "excerpt": "Container throughput at Pier I of the Port of Piraeus returned to growth during the third quarter of 2026, despite remaining significantly lower across the first nine months of the year.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "teu"
-   ],
-   "paywall": false
   }
  ]
 }
