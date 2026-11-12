@@ -1,13 +1,36 @@
 {
- "updated": "2026-11-12T07:27:13Z",
+ "updated": "2026-11-12T10:10:02Z",
  "sample": false,
  "articles": [
+  {
+   "id": "17f5a820a113",
+   "title": "ICTSI reports throughput increase and net income growth",
+   "link": "https://container-news.com/ictsi-reports-throughput-increase-and-net-income-growth/",
+   "source": "containernews",
+   "published": "2026-11-12T10:00:01Z",
+   "seen": "2026-11-12T10:10:02Z",
+   "lang": "en",
+   "excerpt": "International Container Terminal Services, Inc. reported double-digit growth in volumes, revenues and earnings for the first nine months of 2026. Consolidated volume reached 12,114,429 TEUs in the nine months, up 13% from 10,687,128 TEUs.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "teu"
+   ],
+   "paywall": false
+  },
   {
    "id": "76c875eb4cab",
    "title": "Fiskeri- og havministeren har møte med Maritime Cleantech",
    "link": "https://www.regjeringen.no/no/aktuelt/fiskeri-og-havministeren-har-mote-med-maritime-cleantech/id3192108/",
    "source": "regjeringen",
-   "published": "2026-11-12T07:27:13Z",
+   "published": "2026-11-12T10:00:00Z",
    "seen": "2026-11-09T13:20:42Z",
    "lang": "no",
    "excerpt": "Fiskeri- og havminister Marianne Sivertsen Næss har møte med Maritime Cleantech.",
@@ -18,16 +41,36 @@
    "policy": false,
    "level": "national",
    "terms": [],
-   "paywall": false,
-   "upcoming": true
+   "paywall": false
   },
   {
-   "id": "e949a4546624",
-   "title": "Gate stenges: Nytt kjøremønster i Oslo sentrum",
-   "link": "https://www.mtlogistikk.no/oslo-sentrum-ring-1-radhusgata/gate-stenges-nytt-kjoremonster-i-oslo-sentrum/1359336",
+   "id": "1c624e7feb6d",
+   "title": "TGS lands seismic contract offshore Namibia",
+   "link": "https://splash247.com/tgs-lands-seismic-contract-offshore-namibia/",
+   "source": "splash",
+   "published": "2026-11-12T10:00:00Z",
+   "seen": "2026-11-12T10:10:02Z",
+   "lang": "en",
+   "excerpt": "Oslo-listed seismic specialist TGS has secured an ocean bottom node contract offshore Namibia from an undisclosed repeat customer. A deepwater crew is scheduled to mobilise in the fourth quarter of 2026, with the survey expected to last …",
+   "segments": [
+    "finance",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "seismic"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "05c93b0429f7",
+   "title": "Bygger gigantanlegg for over 640 millioner kroner",
+   "link": "https://www.mtlogistikk.no/arlanda-dhl-express-flyfraktgateway/bygger-gigantanlegg-for-over-640-millioner-kroner/1359381",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-12T07:12:13Z",
+   "seen": "2026-11-12T09:25:02Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -37,6 +80,217 @@
    "policy": false,
    "level": "national",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "0258160d7f28",
+   "title": "Brazilian soybean exports smash records",
+   "link": "https://splash247.com/brazilian-soybean-exports-smash-records/",
+   "source": "splash",
+   "published": "2026-11-12T09:11:32Z",
+   "seen": "2026-11-12T10:10:02Z",
+   "lang": "en",
+   "excerpt": "Brazilian soybean exports have smashed all previous records, with shipments during the first ten months of 2026 already exceeding the whole of last year’s total, providing a significant boost to dry bulk shipping demand, primarily …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dry-bulk",
+    "panamax",
+    "supramax",
+    "shipbroker"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "80180a412f24",
+   "title": "HMM operating profit surges 370% in third quarter",
+   "link": "https://container-news.com/hmm-operating-profit-surges-370-in-third-quarter/",
+   "source": "containernews",
+   "published": "2026-11-12T09:00:49Z",
+   "seen": "2026-11-12T10:10:02Z",
+   "lang": "en",
+   "excerpt": "South Korean container shipping company HMM reported a sharp increase in earnings for the third quarter of 2026, with operating profit rising 370% year-on-year amid improvements in operational efficiency and profitability across its …",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "412a7d5fdc8e",
+   "title": "Why shipowners might be better off sharing profits than taking on debt",
+   "link": "https://splash247.com/why-shipowners-might-be-better-off-sharing-profits-than-taking-on-debt/",
+   "source": "splash",
+   "published": "2026-11-12T08:03:00Z",
+   "seen": "2026-11-12T10:10:02Z",
+   "lang": "en",
+   "excerpt": "Traditional loans demand repayments regardless of freight markets. Earnings-sharing structures offer a different proposition: investors participate in a vessel’s fortunes while owners retain control.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "25a3626d6d11",
+   "title": "Hapag-Lloyd nearly doubles Q3 EBITDA and raises 2026 outlook",
+   "link": "https://container-news.com/hapag-lloyd-nearly-doubles-q3-ebitda-and-raises-2026-outlook/",
+   "source": "containernews",
+   "published": "2026-11-12T08:00:27Z",
+   "seen": "2026-11-12T10:10:02Z",
+   "lang": "en",
+   "excerpt": "Hapag-Lloyd reported a sharp improvement in third-quarter earnings in 2026, supported by higher freight rates and strong vessel utilisation, while upgrading its full-year earnings outlook amid continued favourable market conditions.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ebitda",
+    "utilisation"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "4dd15844e813",
+   "title": "DOF rakes in up to $160 million for new vessel deal and 2009-built CSV’s job extension",
+   "link": "https://www.offshore-energy.biz/2026/11/12/dof-rakes-in-up-to-dollar160-million-for-new-vessel-deal-and-2009-built-csvs-job-extension",
+   "source": "offshoreenergy",
+   "published": "2026-11-12T07:53:39Z",
+   "seen": "2026-11-12T10:10:02Z",
+   "lang": "en",
+   "excerpt": "DOF has secured a seven-year assignment for a construction support vessel (CSV) and an extension of the charter for its 2009-built vessel.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "csv"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "333bd829ee83",
+   "title": "Maersk hit by fresh cyber breach",
+   "link": "https://splash247.com/maersk-hit-by-fresh-cyber-breach/",
+   "source": "splash",
+   "published": "2026-11-12T07:45:12Z",
+   "seen": "2026-11-11T19:03:51Z",
+   "lang": "en",
+   "excerpt": "Danish shipping giant AP Moller-Maersk has confirmed another cybersecurity breach after hackers gained access to an older IT system and extracted data, nearly a decade after the devastating NotPetya attack that cost the company up to …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "9d74cf310424",
+   "title": "Gate stenges: Nytt kjøremønster i Oslo sentrum",
+   "link": "https://www.mtlogistikk.no/oslo-sentrum-ring-1-radhusgata/gate-stenges-nytt-kjoremonster-i-oslo-sentrum/1359479",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-12T07:40:02Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "3fc9e67fab33",
+   "title": "Bunker prices plunge 20%",
+   "link": "https://splash247.com/bunker-prices-plunge-20/",
+   "source": "splash",
+   "published": "2026-11-12T07:27:04Z",
+   "seen": "2026-11-12T07:27:13Z",
+   "lang": "en",
+   "excerpt": "Bunker prices have plunged by as much as 20% in less than two weeks as hopes of an easing of the Iran conflict send oil markets tumbling, offering shipowners some relief from what is still expected to be the most expensive year for marine …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bunkers"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "d154bbbcb0e0",
+   "title": "Geneva Dry: Belships’ Ivar Hansson Myklebust on China’s changing commodities role",
+   "link": "https://splash247.com/geneva-dry-belships-ivar-hansson-myklebust-on-chinas-changing-commodities-role/",
+   "source": "splash",
+   "published": "2026-11-12T07:15:00Z",
+   "seen": "2026-11-12T01:19:47Z",
+   "lang": "en",
+   "excerpt": "Ivar Hansson Myklebust, chair and CEO of Norway’s Belships, believes the shipping industry continues to underestimate the growth potential of developing economies.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "9b7fd7fd5574",
+   "title": "NYK charts the great reshuffling of global commodity trades",
+   "link": "https://splash247.com/nyk-charts-the-great-reshuffling-of-global-commodity-trades/",
+   "source": "splash",
+   "published": "2026-11-12T07:10:00Z",
+   "seen": "2026-11-12T10:10:02Z",
+   "lang": "en",
+   "excerpt": "One of the world’s largest shipowners has given its take on where it sees the gas, dry bulk, and tanker markets heading in the coming years.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk",
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dry-bulk",
+    "vlcc"
+   ],
    "paywall": false
   },
   {
@@ -74,6 +328,27 @@
    "level": "international",
    "terms": [],
    "paywall": true
+  },
+  {
+   "id": "7010ebe89c46",
+   "title": "Singapore Strait robbery spike sparks fresh security warning",
+   "link": "https://splash247.com/singapore-strait-robbery-spike-sparks-fresh-security-warning/",
+   "source": "splash",
+   "published": "2026-11-12T07:00:58Z",
+   "seen": "2026-11-12T07:27:13Z",
+   "lang": "en",
+   "excerpt": "A sudden resurgence in robberies aboard merchant ships in the Singapore Strait has prompted regional maritime security authorities to issue an urgent warning, with three vessels boarded in nine days and one seafarer injured.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dry-bulk"
+   ],
+   "paywall": false
   },
   {
    "id": "272b50591454",
@@ -298,47 +573,6 @@
    "paywall": false
   },
   {
-   "id": "3fc9e67fab33",
-   "title": "Bunker prices plunge 20%",
-   "link": "https://splash247.com/bunker-prices-plunge-20/",
-   "source": "splash",
-   "published": "2026-11-12T06:27:04Z",
-   "seen": "2026-11-12T07:27:13Z",
-   "lang": "en",
-   "excerpt": "Bunker prices have plunged by as much as 20% in less than two weeks as hopes of an easing of the Iran conflict send oil markets tumbling, offering shipowners some relief from what is still expected to be the most expensive year for marine …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bunkers"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "7010ebe89c46",
-   "title": "Singapore Strait robbery spike sparks fresh security warning",
-   "link": "https://splash247.com/singapore-strait-robbery-spike-sparks-fresh-security-warning/",
-   "source": "splash",
-   "published": "2026-11-12T06:24:58Z",
-   "seen": "2026-11-12T07:27:13Z",
-   "lang": "en",
-   "excerpt": "A sudden resurgence in robberies aboard merchant ships in the Singapore Strait has prompted regional maritime security authorities to issue an urgent warning, with three vessels boarded in nine days and one seafarer injured.",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "dry-bulk"
-   ],
-   "paywall": false
-  },
-  {
    "id": "a79ba7a0287e",
    "title": "Agility Global reports revenue growth as logistics businesses expand",
    "link": "https://container-news.com/agility-global-reports-revenue-growth-as-logistics-businesses-expand/",
@@ -359,21 +593,29 @@
    "paywall": false
   },
   {
-   "id": "95b4224b397b",
-   "title": "Bygger gigantanlegg for over 640 millioner kroner",
-   "link": "https://www.mtlogistikk.no/arlanda-dhl-express-flyfraktgateway/bygger-gigantanlegg-for-over-640-millioner-kroner/1359965",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-12T05:12:13Z",
-   "lang": "no",
-   "excerpt": "",
+   "id": "aaf7762a3663",
+   "title": "Volare snaps up $210m VLCC in Trafigura-linked deal",
+   "link": "https://splash247.com/volare-snaps-up-210m-vlcc-in-trafigura-linked-deal/",
+   "source": "splash",
+   "published": "2026-11-12T06:00:00Z",
+   "seen": "2026-11-11T19:03:51Z",
+   "lang": "en",
+   "excerpt": "Trafigura-backed tanker owner Volare Shipping has agreed to acquire a VLCC newbuilding from an affiliate of its controlling shareholder for $210m, adding another supertanker to its expanding fleet just weeks after its Oslo market debut.",
    "segments": [
-    "road"
+    "freight",
+    "finance"
    ],
-   "subs": [],
+   "subs": [
+    "tankers"
+   ],
    "policy": false,
    "level": "national",
-   "terms": [],
+   "terms": [
+    "vlcc",
+    "newbuilding",
+    "ipo",
+    "scrubber"
+   ],
    "paywall": false
   },
   {
@@ -1196,26 +1438,6 @@
    "paywall": false
   },
   {
-   "id": "d154bbbcb0e0",
-   "title": "Geneva Dry: Belships’ Ivar Hansson Myklebust on China’s changing commodities role",
-   "link": "https://splash247.com/geneva-dry-belships-ivar-hansson-myklebust-on-chinas-changing-commodities-role/",
-   "source": "splash",
-   "published": "2026-11-11T20:12:00Z",
-   "seen": "2026-11-12T01:19:47Z",
-   "lang": "en",
-   "excerpt": "Ivar Hansson Myklebust, chair and CEO of Norway’s Belships, believes the shipping industry continues to underestimate the growth potential of developing economies.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "f30b56a381ff",
    "title": "Explainer: Suez Canal held hostage on a budget",
    "link": "https://container-news.com/explainer-suez-canal-held-hostage-on-a-budget/",
@@ -1663,26 +1885,6 @@
    "paywall": false
   },
   {
-   "id": "333bd829ee83",
-   "title": "Maersk hit by fresh cyber breach",
-   "link": "https://splash247.com/maersk-hit-by-fresh-cyber-breach/",
-   "source": "splash",
-   "published": "2026-11-11T16:41:12Z",
-   "seen": "2026-11-11T19:03:51Z",
-   "lang": "en",
-   "excerpt": "Danish shipping giant AP Moller-Maersk has confirmed another cybersecurity breach after hackers gained access to an older IT system and extracted data, nearly a decade after the devastating NotPetya attack that cost the company up to …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "4c49ca967b4b",
    "title": "Flex LNG lines up $145.5m leaseback",
    "link": "https://splash247.com/flex-lng-lines-up-145-5m-leaseback/",
@@ -1704,32 +1906,6 @@
     "lng",
     "sale-leaseback",
     "lng-carrier"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "aaf7762a3663",
-   "title": "Volare snaps up $210m VLCC in Trafigura-linked deal",
-   "link": "https://splash247.com/volare-snaps-up-210m-vlcc-in-trafigura-linked-deal/",
-   "source": "splash",
-   "published": "2026-11-11T16:39:00Z",
-   "seen": "2026-11-11T19:03:51Z",
-   "lang": "en",
-   "excerpt": "Trafigura-backed tanker owner Volare Shipping has agreed to acquire a VLCC newbuilding from an affiliate of its controlling shareholder for $210m, adding another supertanker to its expanding fleet just weeks after its Oslo market debut.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "vlcc",
-    "newbuilding",
-    "ipo",
-    "scrubber"
    ],
    "paywall": false
   },
@@ -18128,175 +18304,6 @@
    "policy": false,
    "level": "international",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "9c4ff08c84d6",
-   "title": "Iron ore enters its best three months, but Fortescue has a China problem",
-   "link": "https://www.hellenicshippingnews.com/iron-ore-enters-its-best-three-months-but-fortescue-has-a-china-problem/",
-   "source": "hsn",
-   "published": "2026-11-04T11:00:39Z",
-   "seen": "2026-11-04T13:11:13Z",
-   "lang": "en",
-   "excerpt": "Iron ore prices have struggled this year as China’s property slump drags on and construction activity contracts, while plentiful seaborne supply has pushed port stockpiles some 15% higher year-on-year.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "08a0e3c1df60",
-   "title": "Indonesia thermal coal tightness shifts from underground to above ground",
-   "link": "https://www.hellenicshippingnews.com/indonesia-thermal-coal-tightness-shifts-from-underground-to-above-ground/",
-   "source": "hsn",
-   "published": "2026-11-04T11:00:37Z",
-   "seen": "2026-11-04T13:11:13Z",
-   "lang": "en",
-   "excerpt": "Indonesia’s thermal coal output is expected to fall in 2026, but the decline in seaborne supply could prove more pronounced, highlighting a widening disconnect between headline production and the volume of coal actually available to …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "194000d00be5",
-   "title": "Oil inches higher as markets weigh U.S. election outcome, Iran war risks",
-   "link": "https://www.hellenicshippingnews.com/oil-inches-higher-as-markets-weigh-u-s-election-outcome-iran-war-risks/",
-   "source": "hsn",
-   "published": "2026-11-04T11:00:35Z",
-   "seen": "2026-11-04T13:11:13Z",
-   "lang": "en",
-   "excerpt": "Oil prices edged higher on Wednesday as investors assessed the implications of the U.S. midterm elections for the conflict in the Middle East, with Democrats capturing control of both chambers of Congress from President Donald Trump’s …",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "war-risk",
-    "lt-utc"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "6f59ffc99040",
-   "title": "U.S. Crude Stockpiles Fall Sharply, Surpassing Expectations",
-   "link": "https://www.hellenicshippingnews.com/u-s-crude-stockpiles-fall-sharply-surpassing-expectations/",
-   "source": "hsn",
-   "published": "2026-11-04T11:00:31Z",
-   "seen": "2026-11-04T13:11:13Z",
-   "lang": "en",
-   "excerpt": "The American Petroleum Institute (API) has released its latest data on U.S. crude oil inventories, revealing a significant decline in stock levels. According to the report, crude oil inventories fell by 5.267 million barrels.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "310c57fcfc87",
-   "title": "MMI Daily Iron Ore Index Report November 4 2026",
-   "link": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-november-4-2026/",
-   "source": "hsn",
-   "published": "2026-11-04T11:00:27Z",
-   "seen": "2026-11-04T13:11:13Z",
-   "lang": "en",
-   "excerpt": "Futures, port and seaborne prices recovered together today while production eased. DCE most-traded closed at 682.0 yuan/mt, up 1.64%, and the 61%, 58% and 65% port indices rose to 656, 607 and 818 yuan/wmt.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "258e2ebd5600",
-   "title": "Cameroon’s Gulfcam taps new chief to drive Camship expansion",
-   "link": "https://splash247.com/cameroons-gulfcam-taps-new-chief-to-drive-camship-expansion/",
-   "source": "splash",
-   "published": "2026-11-04T10:59:51Z",
-   "seen": "2026-11-04T13:11:13Z",
-   "lang": "en",
-   "excerpt": "Cameroon’s Gulfcam is pursuing plans to acquire six vessels to expand its coastal container shipping operations between Kribi and Douala, with a former Camship executive taking charge of the business.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "062afea262cf",
-   "title": "Ardmore trims ageing tonnage amid Chinese newbuild drive",
-   "link": "https://splash247.com/ardmore-trims-ageing-tonnage-amid-chinese-newbuild-drive/",
-   "source": "splash",
-   "published": "2026-11-04T10:55:00Z",
-   "seen": "2026-11-04T13:11:13Z",
-   "lang": "en",
-   "excerpt": "New York-listed Ardmore Shipping has sold another older product tanker, agreeing a $34.3m deal for the 2013-built Ardmore Endeavour as it continues to renew its fleet.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "newbuilding",
-    "product-tanker",
-    "dwt",
-    "scrubber"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "b827b51a3bd4",
-   "title": "Orkim books $38m product tanker pair in China",
-   "link": "https://splash247.com/orkim-books-38m-product-tanker-pair-in-china/",
-   "source": "splash",
-   "published": "2026-11-04T10:30:00Z",
-   "seen": "2026-11-04T13:11:13Z",
-   "lang": "en",
-   "excerpt": "Malaysian tanker owner Orkim has signed contracts for two more product tankers in China, committing about $37.6m as it presses ahead with fleet expansion following last year’s stock market listing.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "product-tanker"
-   ],
    "paywall": false
   }
  ]
