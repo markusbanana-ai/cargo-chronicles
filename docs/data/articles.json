@@ -1,14 +1,32 @@
 {
- "updated": "2026-11-12T19:01:55Z",
+ "updated": "2026-11-12T21:53:40Z",
  "sample": false,
  "articles": [
   {
-   "id": "e949a4546624",
-   "title": "Gate stenges: Nytt kjøremønster i Oslo sentrum",
-   "link": "https://www.mtlogistikk.no/oslo-sentrum-ring-1-radhusgata/gate-stenges-nytt-kjoremonster-i-oslo-sentrum/1359336",
+   "id": "3a39bc6a13c4",
+   "title": "What The B-1 Visa Lets A Foreign Truck Driver Legally Do In The United States",
+   "link": "https://www.freightwaves.com/news/what-the-b-1-visa-lets-a-foreign-truck-driver-legally-do-in-the-united-states",
+   "source": "freightwaves",
+   "published": "2026-11-12T21:32:41Z",
+   "seen": "2026-11-12T21:53:40Z",
+   "lang": "en",
+   "excerpt": "Foreign truck drivers have become one of the most contested subjects in American freight over the past two years, and most of the heat comes from a basic confusion about what a B-1 visa actually authorizes, because the visa lets a Mexican …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "05c93b0429f7",
+   "title": "Bygger gigantanlegg for over 640 millioner kroner",
+   "link": "https://www.mtlogistikk.no/arlanda-dhl-express-flyfraktgateway/bygger-gigantanlegg-for-over-640-millioner-kroner/1359381",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-12T18:46:55Z",
+   "seen": "2026-11-12T21:08:40Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -17,6 +35,166 @@
    "subs": [],
    "policy": false,
    "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "1b0b4ad59f04",
+   "title": "Euroports Rauma adopts Portchain Connect to improve berth planning",
+   "link": "https://container-news.com/euroports-rauma-adopts-portchain-connect-to-improve-berth-planning/",
+   "source": "containernews",
+   "published": "2026-11-12T21:00:44Z",
+   "seen": "2026-11-12T21:53:40Z",
+   "lang": "en",
+   "excerpt": "Euroports’ container terminal at the Port of Rauma in Finland is joining the Portchain Connect network to improve berth planning and coordination with shipping lines.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ec41554638c4",
+   "title": "Three Tankers Attacked in Two Days in Strait of Hormuz Crisis",
+   "link": "https://maritime-executive.com/article/three-tankers-attacked-in-two-days-in-strait-of-hormuz-crisis",
+   "source": "marex",
+   "published": "2026-11-12T20:39:00Z",
+   "seen": "2026-11-12T21:53:40Z",
+   "lang": "en",
+   "excerpt": "At least three VLCCs were hit by suspected Iranian attacks over the course of Tuesday and Wednesday, according to reporting from UK Maritime Trade Ope...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint",
+    "vlcc"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "6435e558e746",
+   "title": "New report identifies Hong Kong’s place in world shipping",
+   "link": "https://splash247.com/new-report-identifies-hong-kongs-place-in-world-shipping/",
+   "source": "splash",
+   "published": "2026-11-12T20:00:00Z",
+   "seen": "2026-11-12T21:53:40Z",
+   "lang": "en",
+   "excerpt": "Hong Kong Maritime Week is about to kick off. To celebrate the occasion, Splash today publishes a 48-page magazine on the city’s maritime hub credentials.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "753a27791a02",
+   "title": "Port of Los Angeles Sets October Cargo Record as Strike Threat and Rail Delays Loom",
+   "link": "https://gcaptain.com/port-of-los-angeles-sets-october-cargo-record-as-strike-threat-and-rail-delays-loom/",
+   "source": "gcaptain",
+   "published": "2026-11-12T19:58:00Z",
+   "seen": "2026-11-12T21:53:40Z",
+   "lang": "en",
+   "excerpt": "By Lori-Ann LaRocco The Port of Los Angeles handled a record 1,026,872 twenty-foot equivalent units (TEUs) in October, marking its second-busiest month ever and extending the strongest five-month cargo run...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "7bf3a6654f1a",
+   "title": "Saronic Awards $100 Million-Plus Contract for World’s Largest Shiplift at Texas Shipyard",
+   "link": "https://gcaptain.com/saronic-awards-100-million-plus-contract-for-worlds-largest-shiplift-at-texas-shipyard/",
+   "source": "gcaptain",
+   "published": "2026-11-12T19:44:23Z",
+   "seen": "2026-11-12T21:53:40Z",
+   "lang": "en",
+   "excerpt": "Saronic has awarded a contract worth more than $100 million to Norway’s Syncrolift to design and supply what the companies say will be the world’s largest shiplift at its planned...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "d8f4491eb513",
+   "title": "Mexico truck exports soar 159% as production jumps 130% in October",
+   "link": "https://www.freightwaves.com/news/mexico-truck-exports-soar-159-as-production-jumps-130-in-october",
+   "source": "freightwaves",
+   "published": "2026-11-12T19:03:15Z",
+   "seen": "2026-11-12T21:53:40Z",
+   "lang": "en",
+   "excerpt": "Mexico's heavy-duty vehicle exports surged 158.9% and production climbed 129.6% in October.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "9d74cf310424",
+   "title": "Gate stenges: Nytt kjøremønster i Oslo sentrum",
+   "link": "https://www.mtlogistikk.no/oslo-sentrum-ring-1-radhusgata/gate-stenges-nytt-kjoremonster-i-oslo-sentrum/1359479",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-12T18:53:40Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "dbd100eb3a5b",
+   "title": "Hapag-Lloyd profit jumps as stronger freight rates drive guidance upgrade",
+   "link": "https://www.freightwaves.com/news/hapag-lloyd-profit-jumps-as-stronger-freight-rates-drive-guidance-upgrade",
+   "source": "freightwaves",
+   "published": "2026-11-12T18:47:32Z",
+   "seen": "2026-11-12T21:53:40Z",
+   "lang": "en",
+   "excerpt": "Hapag-Lloyd reported third-quarter profit surged and lifted its full-year earnings forecast as freight rates strengthened despite broadly flat shipping volumes.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
    "terms": [],
    "paywall": false
   },
@@ -147,24 +325,6 @@
    "paywall": false
   },
   {
-   "id": "95b4224b397b",
-   "title": "Bygger gigantanlegg for over 640 millioner kroner",
-   "link": "https://www.mtlogistikk.no/arlanda-dhl-express-flyfraktgateway/bygger-gigantanlegg-for-over-640-millioner-kroner/1359965",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-12T16:16:55Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "e6abe230efad",
    "title": "Tractor Supply partners with Uber to offer on-demand delivery",
    "link": "https://www.freightwaves.com/news/tractor-supply-partners-with-uber-to-offer-on-demand-delivery",
@@ -283,7 +443,7 @@
    "published": "2026-11-12T14:59:53Z",
    "seen": "2026-11-12T19:01:55Z",
    "lang": "en",
-   "excerpt": "The legendary ocean liner, which still holds the transatlantic speed record, took roughly eight hours to sink off Florida’s Gulf Coast, ending a remarkable chapter in American maritime history. The...",
+   "excerpt": "The legendary ocean liner, which still holds the transatlantic speed record, took hours to sink off Florida’s Gulf Coast, ending a remarkable chapter in American maritime history. The SS United...",
    "segments": [
     "freight",
     "insurance"
@@ -18130,166 +18290,6 @@
    "policy": false,
    "level": "international",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "d4d9501cfcb7",
-   "title": "Port of Oakland reports considerable renewable and zero-carbon electricity supply",
-   "link": "https://container-news.com/port-of-oakland-reports-considerable-renewable-and-zero-carbon-electricity-supply/",
-   "source": "containernews",
-   "published": "2026-11-04T20:00:00Z",
-   "seen": "2026-11-04T21:55:03Z",
-   "lang": "en",
-   "excerpt": "The Port of Oakland has announced that 84% of the electricity delivered in 2025 by its publicly owned utility, Port Public Power, to port tenants and facilities came from renewable and zero-carbon sources.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "86dd2fcfbffe",
-   "title": "Iran Claims Strikes on Multiple Tankers, Emboldened After US Elections",
-   "link": "https://maritime-executive.com/article/iran-claims-strikes-on-multiple-tankers-emboldened-after-us-elections",
-   "source": "marex",
-   "published": "2026-11-04T19:45:03Z",
-   "seen": "2026-11-04T21:55:03Z",
-   "lang": "en",
-   "excerpt": "Iran’s Revolutionary Guard Navy continues to issue reports of multiple tankers being struck each day in the Strait of Hormuz. The latest reports came...",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "7504df10dc91",
-   "title": "Emirates rolls out enhanced air cargo service for data center operators",
-   "link": "https://www.freightwaves.com/news/emirates-rolls-out-enhanced-air-cargo-service-for-data-center-operators",
-   "source": "freightwaves",
-   "published": "2026-11-04T19:41:24Z",
-   "seen": "2026-11-04T21:55:03Z",
-   "lang": "en",
-   "excerpt": "Emirates is positioning itself to attract more air cargo business from hyperscalers and their suppliers.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "46503f9ff07e",
-   "title": "U.S. Targets Fraudulent Ship Registries Used by Iran’s Shadow Fleet",
-   "link": "https://gcaptain.com/u-s-targets-fraudulent-ship-registries-used-by-irans-shadow-fleet/",
-   "source": "gcaptain",
-   "published": "2026-11-04T19:27:44Z",
-   "seen": "2026-11-04T21:55:03Z",
-   "lang": "en",
-   "excerpt": "The United States on Wednesday sanctioned a network of individuals and companies accused of operating fraudulent ship registries that helped Iran’s shadow fleet evade sanctions, while issuing a new warning...",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "shadow-fleet",
-    "sanctions"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "813d8bc6299b",
-   "title": "Vance Blames His Own Administration’s Iran War for Republican Defeat",
-   "link": "https://gcaptain.com/vance-blames-his-own-administrations-iran-war-for-republican-defeat/",
-   "source": "gcaptain",
-   "published": "2026-11-04T18:53:44Z",
-   "seen": "2026-11-04T21:55:03Z",
-   "lang": "en",
-   "excerpt": "Vice President JD Vance on Wednesday blamed Republicans’ midterm election losses on the Trump administration’s eight-month war with Iran, which has driven up global energy prices and left commercial shipping...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "62549ed6d4fe",
-   "title": "Intermodal leads weekly gains as US rail traffic rises 3.5%, says AAR",
-   "link": "https://www.freightwaves.com/news/intermodal-leads-weekly-gains-as-us-rail-traffic-rises-3-5-says-aar",
-   "source": "freightwaves",
-   "published": "2026-11-04T18:52:17Z",
-   "seen": "2026-11-04T21:55:03Z",
-   "lang": "en",
-   "excerpt": "Rail freight on U.S. carriers continues to turn in strong results.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "intermodal"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "788a12d20c18",
-   "title": "Stronger revenue at Uber Freight, but profits still elusive",
-   "link": "https://www.freightwaves.com/news/stronger-revenue-at-uber-freight-but-profits-still-elusive",
-   "source": "freightwaves",
-   "published": "2026-11-04T18:42:16Z",
-   "seen": "2026-11-04T21:55:03Z",
-   "lang": "en",
-   "excerpt": "Uber Freight CEO Rebecca Tinucci took to LinkedIn to tout the company’s third quarter financial performance, which still is a long way from operating profitability.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "050fe12d695c",
-   "title": "Tanker Damaged by Russian Attack Breaks Towline Prompting SAR Operation",
-   "link": "https://maritime-executive.com/article/tanker-damaged-by-russian-attack-breaks-towline-prompting-sar-operation",
-   "source": "marex",
-   "published": "2026-11-04T18:05:28Z",
-   "seen": "2026-11-04T19:02:46Z",
-   "lang": "en",
-   "excerpt": "A product tanker damaged in September by a Russian attack has broken free of its tow, prompting a SAR operation and efforts to recapture the drifting...",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "product-tanker"
-   ],
    "paywall": false
   }
  ]
