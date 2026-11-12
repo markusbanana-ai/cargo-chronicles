@@ -1,14 +1,234 @@
 {
- "updated": "2026-11-12T13:20:15Z",
+ "updated": "2026-11-12T16:08:47Z",
  "sample": false,
  "articles": [
   {
-   "id": "e949a4546624",
-   "title": "Gate stenges: Nytt kjøremønster i Oslo sentrum",
-   "link": "https://www.mtlogistikk.no/oslo-sentrum-ring-1-radhusgata/gate-stenges-nytt-kjoremonster-i-oslo-sentrum/1359336",
+   "id": "9288b9a553e6",
+   "title": "Konecranes secures mobile harbor crane order for Peru’s Port of Matarani",
+   "link": "https://container-news.com/konecranes-secures-mobile-harbor-crane-order-for-perus-port-of-matarani/",
+   "source": "containernews",
+   "published": "2026-11-12T16:00:25Z",
+   "seen": "2026-11-12T16:08:47Z",
+   "lang": "en",
+   "excerpt": "Konecranes has received an order from Terminal Internacional del Sur (Tisur) for a new mobile harbor crane at the Port of Matarani in southern Peru. The order marks the company’s first sale of a factory-new mobile harbor crane in Peru.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "7eb26440cc45",
+   "title": "BLET ends Wheeling & Lake Erie strike",
+   "link": "https://www.freightwaves.com/news/blet-ends-wheeling-lake-erie-strike",
+   "source": "freightwaves",
+   "published": "2026-11-12T15:39:34Z",
+   "seen": "2026-11-12T16:08:47Z",
+   "lang": "en",
+   "excerpt": "BLET said it ended its strike against Wheeling & Lake Erie after securing an agreement protecting union conductors’ work.",
+   "segments": [
+    "road",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "05c93b0429f7",
+   "title": "Bygger gigantanlegg for over 640 millioner kroner",
+   "link": "https://www.mtlogistikk.no/arlanda-dhl-express-flyfraktgateway/bygger-gigantanlegg-for-over-640-millioner-kroner/1359381",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-12T13:05:15Z",
+   "seen": "2026-11-12T15:23:47Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f14801e4a35a",
+   "title": "Trondheim Havn blir knutepunkt mellom øst og vest",
+   "link": "https://www.mtlogistikk.no/godstogrute-onrail-sjotransport/trondheim-havn-blir-knutepunkt-mellom-ost-og-vest/1360675",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-12T14:38:47Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "2ffb4ac1c799",
+   "title": "US midterm shift adds trade uncertainty as trans-Pacific ocean freight rates stay elevated",
+   "link": "https://www.freightwaves.com/news/us-midterm-shift-adds-trade-uncertainty-as-trans-pacific-ocean-freight-rates-stay-elevated",
+   "source": "freightwaves",
+   "published": "2026-11-12T14:25:28Z",
+   "seen": "2026-11-12T16:08:47Z",
+   "lang": "en",
+   "excerpt": "Democrats’ victories in both chambers of Congress has added uncertainty to the trade outlook as ocean imports ease from a near-record peak.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "03646d503d33",
+   "title": "Diesel 101: Why Truck Stop Diesel Is Still Above $6 a Gallon as Crude Falls",
+   "link": "https://www.freightwaves.com/news/diesel-101-why-truck-stop-diesel-is-still-above-6-a-gallon-as-crude-falls",
+   "source": "freightwaves",
+   "published": "2026-11-12T14:24:00Z",
+   "seen": "2026-11-12T16:08:47Z",
+   "lang": "en",
+   "excerpt": "Truck stop diesel hit $6.23/gal on Nov. 9, up 65% YoY, even as Brent fell 21%. SONAR's Diesel 101 sitrep explains the crack spread and what comes next.",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "rest-area"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "8b3e63597ec3",
+   "title": "SLB on multi-year integrated drilling quest with European oil & gas operator",
+   "link": "https://www.offshore-energy.biz/2026/11/12/slb-on-multi-year-integrated-drilling-quest-with-european-oil-and-gas-operator",
+   "source": "offshoreenergy",
+   "published": "2026-11-12T14:22:03Z",
+   "seen": "2026-11-12T16:08:47Z",
+   "lang": "en",
+   "excerpt": "SLB’s new assignment with Vår Energi aims to drive efficiency and performance across two rigs owned by Transocean and Odfjell Drilling.",
+   "segments": [
+    "road",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "rig"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "b832919f19fa",
+   "title": "FedEx enhances European road and air networks",
+   "link": "https://www.freightwaves.com/news/fedex-enhances-european-road-and-air-networks",
+   "source": "freightwaves",
+   "published": "2026-11-12T14:12:18Z",
+   "seen": "2026-11-12T16:08:47Z",
+   "lang": "en",
+   "excerpt": "FedEx is making infrastructure investments at key locations in Europe, while also consolidating operations across the continent for greater efficiency.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "352ba92291f3",
+   "title": "Klaipėda Port launches tender for Southern Port area",
+   "link": "https://container-news.com/klaipeda-port-launches-tender-for-southern-port-area/",
+   "source": "containernews",
+   "published": "2026-11-12T14:00:59Z",
+   "seen": "2026-11-12T16:08:47Z",
+   "lang": "en",
+   "excerpt": "The Klaipėda State Seaport Authority has launched a tender to select future tenants for a new 100-hectare area in the southern part of the port, in a project worth more than EUR 1 billion.",
+   "segments": [
+    "road",
+    "freight",
+    "finance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "47a3bbe1c5f4",
+   "title": "One of 3 ratings agencies now has XPO as investment-grade",
+   "link": "https://www.freightwaves.com/news/one-of-3-ratings-agencies-now-has-xpo-as-investment-grade",
+   "source": "freightwaves",
+   "published": "2026-11-12T13:19:10Z",
+   "seen": "2026-11-12T16:08:47Z",
+   "lang": "en",
+   "excerpt": "LTL carrier XPO is now an investment-grade credit at one of the three major ratings agencies. Fitch Ratings has upgraded its rating on XPO (NYSE: XPO) to BBB-.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "credit-rating",
+    "ltl",
+    "cut-off",
+    "sale-purchase"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "a10b0060701a",
+   "title": "Port of Gothenburg eyes large-scale biogas bunkering in 2027",
+   "link": "https://www.offshore-energy.biz/2026/11/12/port-of-gothenburg-eyes-large-scale-biogas-bunkering-in-2027",
+   "source": "offshoreenergy",
+   "published": "2026-11-12T13:12:27Z",
+   "seen": "2026-11-12T16:08:47Z",
+   "lang": "en",
+   "excerpt": "Sweden’s Port of Gothenburg is gearing up to launch a new LBG liquefaction plant next year to enable large-scale liquefied biogas bunkering.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bunkers"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "9d74cf310424",
+   "title": "Gate stenges: Nytt kjøremønster i Oslo sentrum",
+   "link": "https://www.mtlogistikk.no/oslo-sentrum-ring-1-radhusgata/gate-stenges-nytt-kjoremonster-i-oslo-sentrum/1359479",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-12T13:08:47Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -242,6 +462,26 @@
    "level": "international",
    "terms": [
     "lng"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "dfe1557c9d5f",
+   "title": "Genesee & Wyoming prepares to split into three rail holding companies",
+   "link": "https://www.freightwaves.com/news/genesee-wyoming-prepares-to-split-into-three-rail-holding-companies",
+   "source": "freightwaves",
+   "published": "2026-11-12T11:08:00Z",
+   "seen": "2026-11-12T16:08:47Z",
+   "lang": "en",
+   "excerpt": "The largest U.S. short line railroad operator is restructuring as it plans to sell off dozens of lines.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "restructuring"
    ],
    "paywall": false
   },
@@ -510,24 +750,6 @@
    "paywall": false
   },
   {
-   "id": "95b4224b397b",
-   "title": "Bygger gigantanlegg for over 640 millioner kroner",
-   "link": "https://www.mtlogistikk.no/arlanda-dhl-express-flyfraktgateway/bygger-gigantanlegg-for-over-640-millioner-kroner/1359965",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-12T10:50:15Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "dd1c013010f3",
    "title": "2009-built seismic vessel lands ocean bottom node job offshore West Africa",
    "link": "https://www.offshore-energy.biz/2026/11/12/2009-built-seismic-vessel-lands-ocean-bottom-node-job-offshore-west-africa",
@@ -566,6 +788,48 @@
    "terms": [
     "driver-cpc"
    ],
+   "paywall": false
+  },
+  {
+   "id": "f57983610b0c",
+   "title": "Oman Monitors Handling of Oil Tanker Run Aground Off Its Coast",
+   "link": "https://gcaptain.com/oman-monitors-handling-of-oil-tanker-run-aground-off-its-coast/",
+   "source": "gcaptain",
+   "published": "2026-11-12T10:08:00Z",
+   "seen": "2026-11-12T16:08:47Z",
+   "lang": "en",
+   "excerpt": "Oman's National Emergency Management Committee discussed on Thursday the latest developments in handling the grounding of an oil tanker off Al Qibliyah Island and the progress of operations to deal with its cargo.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "598e51500f0c",
+   "title": "Benin Ships First Crude Cargo for Decades From Revived Oil Field",
+   "link": "https://gcaptain.com/benin-ships-first-crude-cargo-for-decades-from-revived-oil-field/",
+   "source": "gcaptain",
+   "published": "2026-11-12T10:03:00Z",
+   "seen": "2026-11-12T16:08:47Z",
+   "lang": "en",
+   "excerpt": "Benin has rejoined the ranks of West Africa’s oil-exporting states, with its first crude oil cargo headed to Europe from an offshore field that had been dormant since the late 1990s.",
+   "segments": [
+    "freight",
+    "offshore"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
    "paywall": false
   },
   {
@@ -18036,260 +18300,6 @@
    "terms": [
     "jones-act"
    ],
-   "paywall": false
-  },
-  {
-   "id": "2281c2a0720c",
-   "title": "Søker nye eiere til nordisk transportkonsern",
-   "link": "https://www.mtlogistikk.no/litra-mergers-and-acquisitions-okonomi/soker-nye-eiere-til-nordisk-transportkonsern/1355215",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-04T17:32:46Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a012ad04172f",
-   "title": "Trump Plays Down Prospect of Iran Strikes After Midterm Rout",
-   "link": "https://gcaptain.com/trump-plays-down-prospect-of-iran-strikes-after-midterm-rout/",
-   "source": "gcaptain",
-   "published": "2026-11-04T17:19:24Z",
-   "seen": "2026-11-04T19:02:46Z",
-   "lang": "en",
-   "excerpt": "US President Donald Trump said he has no immediate plans to launch strikes on Iran following midterm elections in which the Democrats took control of Congress in a landslide win over his Republican party.",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a5d5adfb6a7c",
-   "title": "Valencia Port tenders contract to run the ValenciaportPCS platform",
-   "link": "https://container-news.com/valencia-port-tenders-contract-to-run-the-valenciaportpcs-platform/",
-   "source": "containernews",
-   "published": "2026-11-04T17:00:15Z",
-   "seen": "2026-11-04T19:02:46Z",
-   "lang": "en",
-   "excerpt": "The Port Authority of Valencia has put out to tender the management and technical operation of ValenciaportPCS, the platform that allows public and private stakeholders in the port community to exchange information securely.",
-   "segments": [
-    "road",
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "fee77372c9db",
-   "title": "Democratic Sweep Puts Trump’s Maritime Agenda in Question",
-   "link": "https://gcaptain.com/democratic-sweep-puts-trumps-maritime-agenda-in-question/",
-   "source": "gcaptain",
-   "published": "2026-11-04T16:41:18Z",
-   "seen": "2026-11-04T19:02:46Z",
-   "lang": "en",
-   "excerpt": "Democrats’ takeover of both chambers of Congress in Tuesday’s midterm elections has raised new questions about the future of U.S. maritime policy, with implications for tariffs, shipbuilding, the Jones Act,...",
-   "segments": [
-    "freight",
-    "offshore"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "mna",
-    "jones-act"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "77bed7033135",
-   "title": "Trump’s Election Defeat Leaves Iran War With No Easy Exit",
-   "link": "https://gcaptain.com/trumps-election-defeat-leaves-iran-war-with-no-easy-exit/",
-   "source": "gcaptain",
-   "published": "2026-11-04T16:35:01Z",
-   "seen": "2026-11-04T19:02:46Z",
-   "lang": "en",
-   "excerpt": "The Iran war was a key driver of the Republican Party's shellacking in the US midterms on Tuesday, but the bruising defeat may make it more challenging for President Donald Trump to end the conflict.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "f8aa982cba24",
-   "title": "Damen Wins KNVTS Ship of the Year Award with CSOV Windcat Rotterdam",
-   "link": "https://maritime-executive.com/article/damen-wins-knvts-ship-of-the-year-award-with-csov-windcat-rotterdam",
-   "source": "marex",
-   "published": "2026-11-04T16:31:18Z",
-   "seen": "2026-11-05T10:11:23Z",
-   "lang": "en",
-   "excerpt": "Damen Shipyards Group and Windcat are pleased to announce that Commissioning Service Operations Vessel (CSOV) Windcat Rotterdam has received the KNVTS...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "csov"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "dd43b82d4e17",
-   "title": "Over 350 har søkt om gratis lastebillapp, men fortsatt mulig å vinne",
-   "link": "https://lastebil.no/aktuelt/nyheter/2026/over-350-har-soekt-om-gratis-lastebillapp-men-fortsatt-mulig-aa-vinne",
-   "source": "lastebil",
-   "published": "2026-11-04T15:51:41Z",
-   "seen": "2026-11-04T15:59:20Z",
-   "lang": "no",
-   "excerpt": "354 søknader har allerede kommet inn til P4. Det er ikke for sent å melde seg på konkurransen. Én heldig vinner får førerkort klasse C til en verdi av inntil 100 000 kroner.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "aae65921d166",
-   "title": "Trimble cuts growth outlook as European freight market slows",
-   "link": "https://www.freightwaves.com/news/trimble-cuts-growth-outlook-as-european-freight-market-slows",
-   "source": "freightwaves",
-   "published": "2026-11-04T15:28:49Z",
-   "seen": "2026-11-04T15:59:20Z",
-   "lang": "en",
-   "excerpt": "Trimble lowered its full-year recurring revenue growth forecast as softer European freight conditions pressured its transportation business.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "aacdf515d6ca",
-   "title": "Port of Gothenburg reports stable freight flows",
-   "link": "https://container-news.com/port-of-gothenburg-reports-stable-freight-flows/",
-   "source": "containernews",
-   "published": "2026-11-04T15:00:33Z",
-   "seen": "2026-11-04T15:59:20Z",
-   "lang": "en",
-   "excerpt": "Cargo volumes at the Port of Gothenburg developed steadily from January to September 2026. Container volumes were in line with the previous year, while several segments grew clearly: new cars rose 14% and energy products 10%, and Ro/Ro …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "teu"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "64431004e41e",
-   "title": "ONE lifts profit forecast to $2 billion as earnings surge",
-   "link": "https://www.freightwaves.com/news/one-lifts-profit-forecast-to-2-billion-as-earnings-surge",
-   "source": "freightwaves",
-   "published": "2026-11-04T14:43:57Z",
-   "seen": "2026-11-04T15:59:20Z",
-   "lang": "en",
-   "excerpt": "Higher freight rates and cargo volumes drive a sharp earnings rebound for Ocean Network Express, though the liner expects softer market conditions in H2.",
-   "segments": [
-    "road",
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "6477857cfe1a",
-   "title": "Samme lastebil kan være lovet bort tre ganger",
-   "link": "https://www.mtlogistikk.no/beredskap-nato-naeringslivets-sikkerhetsrad/samme-lastebil-kan-vaere-lovet-bort-tre-ganger/1355025",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-04T14:29:20Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "6e45d86dd78e",
-   "title": "– Beredskap er ikke dugnad",
-   "link": "https://www.mtlogistikk.no/beredskap-frank-stolan-toten-transport/beredskap-er-ikke-dugnad/1355100",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-04T14:14:20Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "supply-chain"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "b6262837bc31",
-   "title": "East Midlands Airport welcomes another Chinese cargo airline",
-   "link": "https://www.freightwaves.com/news/east-midlands-airport-welcomes-another-chinese-cargo-airline",
-   "source": "freightwaves",
-   "published": "2026-11-04T14:09:50Z",
-   "seen": "2026-11-04T15:59:20Z",
-   "lang": "en",
-   "excerpt": "China Central Longhao Airlines is the latest all-cargo airline to operate flights from China to East Midlands Airport.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
    "paywall": false
   }
  ]
