@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T04:00:08Z",
+ "updated": "2026-11-12T07:27:13Z",
  "sample": false,
  "articles": [
   {
@@ -7,7 +7,7 @@
    "title": "Fiskeri- og havministeren har møte med Maritime Cleantech",
    "link": "https://www.regjeringen.no/no/aktuelt/fiskeri-og-havministeren-har-mote-med-maritime-cleantech/id3192108/",
    "source": "regjeringen",
-   "published": "2026-11-12T04:00:08Z",
+   "published": "2026-11-12T07:27:13Z",
    "seen": "2026-11-09T13:20:42Z",
    "lang": "no",
    "excerpt": "Fiskeri- og havminister Marianne Sivertsen Næss har møte med Maritime Cleantech.",
@@ -22,12 +22,12 @@
    "upcoming": true
   },
   {
-   "id": "05c93b0429f7",
-   "title": "Bygger gigantanlegg for over 640 millioner kroner",
-   "link": "https://www.mtlogistikk.no/arlanda-dhl-express-flyfraktgateway/bygger-gigantanlegg-for-over-640-millioner-kroner/1359381",
+   "id": "e949a4546624",
+   "title": "Gate stenges: Nytt kjøremønster i Oslo sentrum",
+   "link": "https://www.mtlogistikk.no/oslo-sentrum-ring-1-radhusgata/gate-stenges-nytt-kjoremonster-i-oslo-sentrum/1359336",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-12T03:15:08Z",
+   "seen": "2026-11-12T07:12:13Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -36,6 +36,361 @@
    "subs": [],
    "policy": false,
    "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "1225c6c35ee9",
+   "title": "Insurance Marine News – Thursday November 12th 2026",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/insurance-marine-news-thursday-november-12th-2026/",
+   "source": "imn",
+   "published": "2026-11-12T07:02:08Z",
+   "seen": "2026-11-12T07:27:13Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "5db0d8825c87",
+   "title": "Ust-Luga suffers major hit",
+   "link": "https://insurancemarinenews.com/political-risk-credit-finance/ust-luga-suffers-major-hit/",
+   "source": "imn",
+   "published": "2026-11-12T07:01:17Z",
+   "seen": "2026-11-12T07:27:13Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "272b50591454",
+   "title": "Spike in robberies in Singapore Strait",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/spike-in-robberies-in-singapore-strait/",
+   "source": "imn",
+   "published": "2026-11-12T07:00:39Z",
+   "seen": "2026-11-12T07:27:13Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "d789c9b575b1",
+   "title": "How geopolitics is driving container ship orders at chinese yards",
+   "link": "https://container-news.com/how-geopolitics-is-driving-container-ship-orders-at-chinese-yards/",
+   "source": "containernews",
+   "published": "2026-11-12T07:00:30Z",
+   "seen": "2026-11-12T07:27:13Z",
+   "lang": "en",
+   "excerpt": "The global container ship orderbook is approaching 16 million teu. There is roughly 46.5% of the fleet now in service, the highest ratio since 2009, and deliveries are already booked into 2030 and 2031.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner",
+    "orderbook"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "b60d4b21e18a",
+   "title": "Amazon drought forcing cargo transfers to lower-draft barges",
+   "link": "https://insurancemarinenews.com/cargo/amazon-drought-forcing-cargo-transfers-to-lower-draft-barges/",
+   "source": "imn",
+   "published": "2026-11-12T07:00:16Z",
+   "seen": "2026-11-12T07:27:13Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "4d1840fa0b09",
+   "title": "Container fires involving UN 3378 sodium percarbonate",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/container-fires-involving-un-3378-sodium-percarbonate/",
+   "source": "imn",
+   "published": "2026-11-12T07:00:15Z",
+   "seen": "2026-11-12T07:27:13Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "un-number"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "7acc356391a2",
+   "title": "Antipodean agency launches commercial insurance solutions for the New Zealand marine industry",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/antipodean-agency-launches-commercial-insurance-solutions-for-the-new-zealand-marine-industry/",
+   "source": "imn",
+   "published": "2026-11-12T07:00:05Z",
+   "seen": "2026-11-12T07:27:13Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "eb23e8ab15aa",
+   "title": "Tanker attacked in Strait of Hormuz for the second time",
+   "link": "https://insurancemarinenews.com/cargo/tanker-attacked-in-strait-of-hormuz-for-the-second-time/",
+   "source": "imn",
+   "published": "2026-11-12T07:00:04Z",
+   "seen": "2026-11-12T07:27:13Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "029d91c809fe",
+   "title": "Round Up : 12th November 2026",
+   "link": "https://insurancemarinenews.com/cargo/round-up-12th-november-2026/",
+   "source": "imn",
+   "published": "2026-11-12T06:59:33Z",
+   "seen": "2026-11-12T07:27:13Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "0c2a3307abde",
+   "title": "Captain reprimanded after sailing into bridge in Rotterdam",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/captain-reprimanded-after-sailing-into-bridge-in-rotterdam/",
+   "source": "imn",
+   "published": "2026-11-12T06:59:32Z",
+   "seen": "2026-11-12T07:27:13Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "91ddd665afe2",
+   "title": "Failure of communication a factor in sinking in Marseille",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/failure-of-communication-a-factor-in-sinking-in-marseille/",
+   "source": "imn",
+   "published": "2026-11-12T06:59:26Z",
+   "seen": "2026-11-12T07:27:13Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "c2d5d4e045cf",
+   "title": "Teekay Tankers doubles down on newbuilds with four-ship deal",
+   "link": "https://splash247.com/teekay-tankers-doubles-down-on-newbuilds-with-four-ship-deal/",
+   "source": "splash",
+   "published": "2026-11-12T06:30:52Z",
+   "seen": "2026-11-12T07:27:13Z",
+   "lang": "en",
+   "excerpt": "US-listed Teekay Tankers has ordered four more newbuildings in China and South Korea, lifting its tanker construction programme to six ships worth $525.9m.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "newbuilding",
+    "aframax",
+    "product-tanker",
+    "suezmax"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "2c226c5c4fa7",
+   "title": "Shipping’s $95bn fossil fuel bonfire",
+   "link": "https://splash247.com/shippings-95bn-fossil-fuel-bonfire/",
+   "source": "splash",
+   "published": "2026-11-12T06:29:28Z",
+   "seen": "2026-11-12T07:27:13Z",
+   "lang": "en",
+   "excerpt": "The shipping industry has spent an estimated $95bn more on fuel since the Hormuz crisis began. That money could have financed wind propulsion across much of the world’s merchant fleet, slashing emissions and reducing exposure to future …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "3fc9e67fab33",
+   "title": "Bunker prices plunge 20%",
+   "link": "https://splash247.com/bunker-prices-plunge-20/",
+   "source": "splash",
+   "published": "2026-11-12T06:27:04Z",
+   "seen": "2026-11-12T07:27:13Z",
+   "lang": "en",
+   "excerpt": "Bunker prices have plunged by as much as 20% in less than two weeks as hopes of an easing of the Iran conflict send oil markets tumbling, offering shipowners some relief from what is still expected to be the most expensive year for marine …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bunkers"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "7010ebe89c46",
+   "title": "Singapore Strait robbery spike sparks fresh security warning",
+   "link": "https://splash247.com/singapore-strait-robbery-spike-sparks-fresh-security-warning/",
+   "source": "splash",
+   "published": "2026-11-12T06:24:58Z",
+   "seen": "2026-11-12T07:27:13Z",
+   "lang": "en",
+   "excerpt": "A sudden resurgence in robberies aboard merchant ships in the Singapore Strait has prompted regional maritime security authorities to issue an urgent warning, with three vessels boarded in nine days and one seafarer injured.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dry-bulk"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "a79ba7a0287e",
+   "title": "Agility Global reports revenue growth as logistics businesses expand",
+   "link": "https://container-news.com/agility-global-reports-revenue-growth-as-logistics-businesses-expand/",
+   "source": "containernews",
+   "published": "2026-11-12T06:00:04Z",
+   "seen": "2026-11-12T07:27:13Z",
+   "lang": "en",
+   "excerpt": "Agility Global reported a 22% increase in revenue for the third quarter of 2026, supported by growth across its aviation services, fuel logistics and industrial real estate operations.",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ebitda"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "95b4224b397b",
+   "title": "Bygger gigantanlegg for over 640 millioner kroner",
+   "link": "https://www.mtlogistikk.no/arlanda-dhl-express-flyfraktgateway/bygger-gigantanlegg-for-over-640-millioner-kroner/1359965",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-12T05:12:13Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "95acc7594748",
+   "title": "DHL Express invests €55 million in new Stockholm gateway",
+   "link": "https://container-news.com/dhl-express-invests-e55-million-in-new-stockholm-gateway/",
+   "source": "containernews",
+   "published": "2026-11-12T04:30:03Z",
+   "seen": "2026-11-12T07:27:13Z",
+   "lang": "en",
+   "excerpt": "DHL Express has begun construction of a new international logistics gateway near Stockholm Arlanda Airport in Sweden, as part of a wider investment programme to strengthen its Nordic and Baltic network.",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
    "terms": [],
    "paywall": false
   },
@@ -57,6 +412,44 @@
    "policy": false,
    "level": "international",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "bb4eced47547",
+   "title": "Falklands oil dispute heads for international tribunal ruling",
+   "link": "https://splash247.com/falklands-oil-dispute-heads-for-international-tribunal-ruling/",
+   "source": "splash",
+   "published": "2026-11-12T02:40:00Z",
+   "seen": "2026-11-12T07:27:13Z",
+   "lang": "en",
+   "excerpt": "The international legal battle over the Sea Lion offshore oil development near the Falkland Islands has moved a step closer to a decision, with the International Tribunal for the Law of the Sea (ITLOS) concluding two days of hearings …",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "320b4be1aceb",
+   "title": "DOF adds up to $160m in offshore vessel work",
+   "link": "https://splash247.com/dof-adds-up-to-160m-in-offshore-vessel-work/",
+   "source": "splash",
+   "published": "2026-11-12T02:30:00Z",
+   "seen": "2026-11-12T07:27:13Z",
+   "lang": "en",
+   "excerpt": "Norwegian offshore vessel owner DOF has secured a seven-year contract for an unnamed construction support vessel and an extension for the Skandi Constructor, adding between $135m and $160m in potential firm contract value.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "rov"
+   ],
    "paywall": false
   },
   {
@@ -102,6 +495,48 @@
    "paywall": false
   },
   {
+   "id": "7490e3684402",
+   "title": "EU clears $2.2bn support to revive Belgian offshore wind tender",
+   "link": "https://splash247.com/eu-clears-2-2bn-support-to-revive-belgian-offshore-wind-tender/",
+   "source": "splash",
+   "published": "2026-11-12T02:20:00Z",
+   "seen": "2026-11-12T07:27:13Z",
+   "lang": "en",
+   "excerpt": "The European Commission has approved a €2.04bn ($2.26bn) state aid scheme for Belgium’s first offshore wind farm in the Princess Elisabeth Zone, clearing the way for a new tender after the original process was cancelled last year.",
+   "segments": [
+    "road",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "offshore-wind"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "84ec933ef691",
+   "title": "South Pars platform fire forces evacuation of offshore workers",
+   "link": "https://splash247.com/south-pars-platform-fire-forces-evacuation-of-offshore-workers/",
+   "source": "splash",
+   "published": "2026-11-12T02:10:00Z",
+   "seen": "2026-11-12T07:27:13Z",
+   "lang": "en",
+   "excerpt": "A fire at Iran’s giant South Pars gas field forced 17 offshore workers to abandon a production platform, triggering a rescue operation in rough seas before the blaze was brought under control.",
+   "segments": [
+    "insurance",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lt-utc"
+   ],
+   "paywall": false
+  },
+  {
    "id": "540bf159cdb9",
    "title": "IMO Calls for All Parties in Hormuz Crisis to Respect Seafarer Safety",
    "link": "https://maritime-executive.com/article/imo-calls-for-all-parties-in-hormuz-crisis-to-respect-seafarer-safety",
@@ -142,21 +577,24 @@
    "paywall": false
   },
   {
-   "id": "9d74cf310424",
-   "title": "Gate stenges: Nytt kjøremønster i Oslo sentrum",
-   "link": "https://www.mtlogistikk.no/oslo-sentrum-ring-1-radhusgata/gate-stenges-nytt-kjoremonster-i-oslo-sentrum/1359479",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-12T01:30:08Z",
-   "lang": "no",
-   "excerpt": "",
+   "id": "17fd5f2b3cc9",
+   "title": "AREH and Pilbara Ports Sign Agreement to Advance Green Ammonia Bunkering and Exports",
+   "link": "https://maritime-executive.com/article/areh-and-pilbara-ports-sign-agreement-to-advance-green-ammonia-bunkering-and-exports",
+   "source": "marex",
+   "published": "2026-11-12T01:24:00Z",
+   "seen": "2026-11-12T07:27:13Z",
+   "lang": "en",
+   "excerpt": "PERTH, 11 November 2026 - The Australian Renewable Energy Hub (AREH) and Pilbara Ports have signed a Joint Development Agreement (JDA) to explore the...",
    "segments": [
-    "road"
+    "freight"
    ],
    "subs": [],
    "policy": false,
-   "level": "national",
-   "terms": [],
+   "level": "international",
+   "terms": [
+    "dual-fuel",
+    "bunkers"
+   ],
    "paywall": false
   },
   {
@@ -17860,431 +18298,6 @@
     "product-tanker"
    ],
    "paywall": false
-  },
-  {
-   "id": "bcfd2a6085a9",
-   "title": "MPC Oceanic strikes deal for 41% of Marlow Navigation",
-   "link": "https://splash247.com/mpc-oceanic-strikes-deal-for-41-of-marlow-navigation/",
-   "source": "splash",
-   "published": "2026-11-04T10:28:04Z",
-   "seen": "2026-11-04T13:11:13Z",
-   "lang": "en",
-   "excerpt": "Hamburg-listed MPC Oceanic Group has agreed to acquire a 41% stake in Cyprus-based shipmanager Marlow Navigation in a deal that will also see Marlow’s existing shareholders take a holding in the German maritime investment and services …",
-   "segments": [
-    "finance",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "2b0dfba56dfb",
-   "title": "K Line profit rises as ONE contribution strengthens",
-   "link": "https://container-news.com/k-line-profit-rises-as-one-contribution-strengthens/",
-   "source": "containernews",
-   "published": "2026-11-04T10:00:37Z",
-   "seen": "2026-11-04T13:11:13Z",
-   "lang": "en",
-   "excerpt": "Kawasaki Kisen Kaisha (K Line) reported a sharp increase in profit for the first half of fiscal year 2026, supported by improved earnings from Ocean Network Express (ONE).",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a0f74ef61b61",
-   "title": "Vedanta taps Exceed for Indian deepwater drilling campaign",
-   "link": "https://splash247.com/vedanta-taps-exceed-for-indian-deepwater-drilling-campaign/",
-   "source": "splash",
-   "published": "2026-11-04T10:00:00Z",
-   "seen": "2026-11-04T13:11:13Z",
-   "lang": "en",
-   "excerpt": "India’s Vedanta Oil and Gas has signed a partnership agreement with UK-based well management specialist Exceed for an exploration and appraisal campaign in the Krishna-Godavari Basin.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "105df76625f8",
-   "title": "Fugro wins East Anglia Two post-installation survey contract",
-   "link": "https://offshore-energy.biz/2026/11/04/fugro-wins-east-anglia-two-post-installation-survey-contract",
-   "source": "offshoreenergy",
-   "published": "2026-11-04T09:58:55Z",
-   "seen": "2026-11-04T13:11:13Z",
-   "lang": "en",
-   "excerpt": "Fugro has secured a contract from Cadeler to carry out post-installation seabed surveys at the 960 MW East Anglia Two offshore wind farm in the...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "offshore-wind"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "8b56dff92e76",
-   "title": "Sea1's first methanol-ready offshore energy support vessel fitted with offshore crane and helideck",
-   "link": "https://offshore-energy.biz/2026/11/04/sea1s-first-methanol-ready-offshore-energy-support-vessel-fitted-with-offshore-crane-and-helideck",
-   "source": "offshoreenergy",
-   "published": "2026-11-04T09:26:04Z",
-   "seen": "2026-11-04T13:11:13Z",
-   "lang": "en",
-   "excerpt": "Sea1 Offshore's first of four 120-meter-long offshore energy support vessels (OESVs) being built in China has been fitted with an offshore crane...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "dual-fuel"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "8efa624e2f11",
-   "title": "Hapag-Lloyd targets 1.7 million TEU in Africa by 2030",
-   "link": "https://container-news.com/hapag-lloyd-targets-1-7-million-teu-in-africa-by-2030/",
-   "source": "containernews",
-   "published": "2026-11-04T09:00:06Z",
-   "seen": "2026-11-04T13:11:13Z",
-   "lang": "en",
-   "excerpt": "Hapag-Lloyd aims to increase its annual container transport volume in Africa to 1.7 million TEU by 2030, as the German shipping company continues to expand its operations across the continent.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "teu"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "e0e86df4b42e",
-   "title": "ONE lifts full-year profit outlook after strong second quarter",
-   "link": "https://container-news.com/one-lifts-full-year-profit-outlook-after-strong-second-quarter/",
-   "source": "containernews",
-   "published": "2026-11-04T08:08:27Z",
-   "seen": "2026-11-04T13:11:13Z",
-   "lang": "en",
-   "excerpt": "Ocean Network Express (ONE) reported a net profit of US$1.32 billion for the second quarter of FY2026, up from US$285 million in the same period last year.",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "ebitda"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "18b442a15d15",
-   "title": "Multi-year US deal brings liquidity boost to New Fortress Energy as Mexican FLNG targets 4Q restart",
-   "link": "https://offshore-energy.biz/2026/11/04/multi-year-us-deal-brings-liquidity-boost-to-new-fortress-energy-as-mexican-flng-targets-4q-restart",
-   "source": "offshoreenergy",
-   "published": "2026-11-04T07:45:00Z",
-   "seen": "2026-11-04T03:58:50Z",
-   "lang": "en",
-   "excerpt": "NFE has sealed a long-term lease for 300 MW of mobile turbines with a U.S. company, while its FLNG in Mexico edges closer to a Q4 resumption.",
-   "segments": [
-    "finance",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "fsru"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "3a8edbc77751",
-   "title": "MDL supports Oceaneering offshore Egypt",
-   "link": "https://offshore-energy.biz/2026/11/04/mdl-supports-oceaneering-offshore-egypt",
-   "source": "offshoreenergy",
-   "published": "2026-11-04T07:38:07Z",
-   "seen": "2026-11-04T13:11:13Z",
-   "lang": "en",
-   "excerpt": "UK-based Maritime Developments Limited (MDL) has completed a cable replacement and flowline installation scope for Oceaneering's subsea...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "67e20eabdc6b",
-   "title": "Russia to sell $180m stake in Sovcomflot",
-   "link": "https://splash247.com/russia-to-sell-180m-stake-in-sovcomflot/",
-   "source": "splash",
-   "published": "2026-11-04T07:15:51Z",
-   "seen": "2026-11-04T07:23:42Z",
-   "lang": "en",
-   "excerpt": "Russia is preparing to sell a 7.8% stake in state-controlled shipping giant Sovcomflot as Moscow searches for additional revenues to plug its growing budget deficit.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "1b6bdd63a65a",
-   "title": "China’s property starts plunge to 2002 levels",
-   "link": "https://splash247.com/chinas-property-starts-plunge-to-2002-levels/",
-   "source": "splash",
-   "published": "2026-11-04T07:07:45Z",
-   "seen": "2026-11-04T07:23:42Z",
-   "lang": "en",
-   "excerpt": "China’s property construction collapse has taken new building starts back to levels last seen in 2002, raising fresh questions about the long-term outlook for iron ore and coking coal demand, even as dry bulk owners become increasingly …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "dry-bulk",
-    "shipbroker"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "6e8798514a17",
-   "title": "The human breaking point at sea",
-   "link": "https://splash247.com/the-human-breaking-point-at-sea/",
-   "source": "splash",
-   "published": "2026-11-04T06:58:28Z",
-   "seen": "2026-11-04T07:23:42Z",
-   "lang": "en",
-   "excerpt": "Shipping cannot keep demanding more from less, argues Steven Jones, the founder of the Seafarers Happiness Index, in this strident exclusive for Splash. We are entering an extraordinary era of maritime technology.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "960414d56b9c",
-   "title": "Hapag and ONE warn that cargo on Espirito Santo Express is severely fire damaged",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/hapag-and-one-warn-that-cargo-on-espirito-santo-express-is-severely-fire-damaged/",
-   "source": "imn",
-   "published": "2026-11-04T06:10:49Z",
-   "seen": "2026-11-04T07:23:42Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "29a28ca5d9ef",
-   "title": "Progress in dealing with fire on HMM Platinum",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/progress-in-dealing-with-fire-on-hmm-platinum/",
-   "source": "imn",
-   "published": "2026-11-04T06:09:28Z",
-   "seen": "2026-11-04T07:23:42Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "c83d5787680c",
-   "title": "India names vessel hit close to Omani coast on November 2nd",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/india-names-vessel-hit-close-to-omani-coast-on-november-2nd/",
-   "source": "imn",
-   "published": "2026-11-04T06:08:41Z",
-   "seen": "2026-11-04T07:23:42Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "1bf8885cd498",
-   "title": "Eight hijackings reported to IMB in first nine months of 2026",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/eight-hijackings-reported-to-imb-in-first-nine-months-of-2026/",
-   "source": "imn",
-   "published": "2026-11-04T06:07:19Z",
-   "seen": "2026-11-04T07:23:42Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "65cacc4f9a13",
-   "title": "Argentina demands prior authorization for Falkland Islands calls or River Plate transits",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/argentina-demands-prior-authorization-for-falkland-islands-calls-or-river-plate-transits/",
-   "source": "imn",
-   "published": "2026-11-04T06:06:19Z",
-   "seen": "2026-11-04T07:23:42Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "61cf08f1633e",
-   "title": "EU pulls back from Arctic oil ban language in Strategy Draft",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/eu-pulls-back-from-arctic-oil-ban-language-in-strategy-draft/",
-   "source": "imn",
-   "published": "2026-11-04T06:05:19Z",
-   "seen": "2026-11-04T07:23:42Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "db1c39cb93d6",
-   "title": "Russia extends ban on most diesel exports until end of January 2027",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/russia-extends-ban-on-most-diesel-exports-until-end-of-january-2027/",
-   "source": "imn",
-   "published": "2026-11-04T06:04:29Z",
-   "seen": "2026-11-04T07:23:42Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "road",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "9177f08039f2",
-   "title": "Fatal accident on cargo vessel caused by frame disconnecting, investigation finds",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/fatal-accident-on-cargo-vessel-caused-by-frame-disconnecting-investigation-finds/",
-   "source": "imn",
-   "published": "2026-11-04T06:03:05Z",
-   "seen": "2026-11-04T07:23:42Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "7a4371a6f8ef",
-   "title": "India will resume negotiations with MSC regarding loss of MSC Elsa 3",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/india-will-resume-negotiations-with-msc-regarding-loss-of-msc-elsa-3/",
-   "source": "imn",
-   "published": "2026-11-04T06:02:12Z",
-   "seen": "2026-11-04T07:23:42Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "769a2a112763",
-   "title": "Marine round-up : 4th November 2026",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/marine-round-up-4th-november-2026/",
-   "source": "imn",
-   "published": "2026-11-04T06:00:27Z",
-   "seen": "2026-11-04T07:23:42Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
   }
  ]
 }
