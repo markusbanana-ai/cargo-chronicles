@@ -1,7 +1,81 @@
 {
- "updated": "2026-11-13T01:16:21Z",
+ "updated": "2026-11-13T03:59:11Z",
  "sample": false,
  "articles": [
+  {
+   "id": "05c93b0429f7",
+   "title": "Bygger gigantanlegg for over 640 millioner kroner",
+   "link": "https://www.mtlogistikk.no/arlanda-dhl-express-flyfraktgateway/bygger-gigantanlegg-for-over-640-millioner-kroner/1359381",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-13T03:14:11Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6435e558e746",
+   "title": "New report identifies Hong Kong’s place in world shipping",
+   "link": "https://splash247.com/new-report-identifies-hong-kongs-place-in-world-shipping/",
+   "source": "splash",
+   "published": "2026-11-13T03:00:00Z",
+   "seen": "2026-11-12T21:53:40Z",
+   "lang": "en",
+   "excerpt": "Hong Kong Maritime Week is about to kick off. To celebrate the occasion, Splash today publishes a 48-page magazine on the city’s maritime hub credentials.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "002e4f809f91",
+   "title": "Kalmar secures order for 21 hybrid straddle carriers at TTI Algeciras",
+   "link": "https://container-news.com/kalmar-secures-order-for-21-hybrid-straddle-carriers-at-tti-algeciras/",
+   "source": "containernews",
+   "published": "2026-11-13T02:43:32Z",
+   "seen": "2026-11-13T03:59:11Z",
+   "lang": "en",
+   "excerpt": "Kalmar has secured an order from Total Terminal International Algeciras (TTI Algeciras) for 21 hybrid straddle carriers. The new equipment will support shuttle carrier operations at the Spanish container terminal.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "46a86d6dbeda",
+   "title": "India's Shipping Ministry Asks Public for Help on Cold-Case Fatal Accidents",
+   "link": "https://maritime-executive.com/article/india-s-shipping-ministry-asks-public-for-help-on-cold-case-fatal-accidents",
+   "source": "marex",
+   "published": "2026-11-13T02:26:00Z",
+   "seen": "2026-11-13T03:59:11Z",
+   "lang": "en",
+   "excerpt": "India's Directorate General of Maritime Administration is looking for information about a long list of long-past fatality and missing-persons cases in...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
   {
    "id": "e949a4546624",
    "title": "Gate stenges: Nytt kjøremønster i Oslo sentrum",
@@ -114,24 +188,6 @@
    "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "95b4224b397b",
-   "title": "Bygger gigantanlegg for over 640 millioner kroner",
-   "link": "https://www.mtlogistikk.no/arlanda-dhl-express-flyfraktgateway/bygger-gigantanlegg-for-over-640-millioner-kroner/1359965",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-12T22:01:21Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -613,24 +669,6 @@
     "chokepoint",
     "vlcc"
    ],
-   "paywall": false
-  },
-  {
-   "id": "6435e558e746",
-   "title": "New report identifies Hong Kong’s place in world shipping",
-   "link": "https://splash247.com/new-report-identifies-hong-kongs-place-in-world-shipping/",
-   "source": "splash",
-   "published": "2026-11-12T20:00:00Z",
-   "seen": "2026-11-12T21:53:40Z",
-   "lang": "en",
-   "excerpt": "Hong Kong Maritime Week is about to kick off. To celebrate the occasion, Splash today publishes a 48-page magazine on the city’s maritime hub credentials.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
    "paywall": false
   },
   {
@@ -18281,47 +18319,6 @@
    "level": "international",
    "terms": [
     "capesize"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "df9dc2c049c8",
-   "title": "Ship Recycling Retains Its Stable Prospects",
-   "link": "https://www.hellenicshippingnews.com/ship-recycling-retains-its-stable-prospects/",
-   "source": "hsn",
-   "published": "2026-11-04T22:00:59Z",
-   "seen": "2026-11-05T01:11:54Z",
-   "lang": "en",
-   "excerpt": "The ship recycling market has remained stable over the past week. In its latest weekly report, Best Oasis (www.best-oasis.com), a leading cash buyer of ships, said that “the Indian ship recycling market remained relatively quiet during the …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "recycling"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "66edc54558d3",
-   "title": "NAPA on why wind-assisted ships need proof of savings, not just a contract",
-   "link": "https://www.hellenicshippingnews.com/napa-on-why-wind-assisted-ships-need-proof-of-savings-not-just-a-contract/",
-   "source": "hsn",
-   "published": "2026-11-04T22:00:58Z",
-   "seen": "2026-11-05T01:11:54Z",
-   "lang": "en",
-   "excerpt": "BIMCO recently adopted its Energy Saving Device Retrofit Addendum in Autumn 2026, giving owners and charterers a contractual framework to agree how the cost, time and fuel savings of a retrofit are shared during a time charter.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bimco",
-    "time-charter"
    ],
    "paywall": false
   }
