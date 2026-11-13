@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-13T13:15:49Z",
+ "updated": "2026-11-13T15:55:39Z",
  "sample": false,
  "articles": [
   {
-   "id": "f0f0cae8e99d",
-   "title": "To løsninger for smartere lagerplukk",
-   "link": "https://www.mtlogistikk.no/autostore-kardex-lagerautomatisering/to-losninger-for-smartere-lagerplukk/1361214",
+   "id": "336a562e0eb8",
+   "title": "Kaos på første snødag – 23 bruksforbud",
+   "link": "https://www.mtlogistikk.no/dekk-e6-kjetting/kaos-pa-forste-snodag-23-bruksforbud/1361178",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-13T13:15:49Z",
+   "seen": "2026-11-13T15:25:39Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -18,6 +18,231 @@
    "policy": false,
    "level": "national",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "0e9e13ece546",
+   "title": "White House to extend Jones Act waiver as deadline nears, sources say",
+   "link": "https://www.freightwaves.com/news/white-house-to-extend-jones-act-waiver-as-deadline-nears-sources-say",
+   "source": "freightwaves",
+   "published": "2026-11-13T15:02:13Z",
+   "seen": "2026-11-13T15:55:39Z",
+   "lang": "en",
+   "excerpt": "Sources say President Trump is likely to extend the Jones Act waiver allowing foreign vessels to haul cargo between U.S. ports.",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "jones-act"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "37d02c465ac5",
+   "title": "FMCSA revokes 133 electronic logging devices in fraud crackdown",
+   "link": "https://www.freightwaves.com/news/fmcsa-revokes-133-electronic-logging-devices-in-fraud-crackdown",
+   "source": "freightwaves",
+   "published": "2026-11-13T15:00:12Z",
+   "seen": "2026-11-13T15:55:39Z",
+   "lang": "en",
+   "excerpt": "Federal regulators removed 133 electronic logging devices from their approved registry, citing widespread compliance failures and evidence of fraud.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6ca521f0ed8a",
+   "title": "ADNOC L&S reports sharp profit growth and raises 2026 outlook",
+   "link": "https://container-news.com/adnoc-ls-reports-sharp-profit-growth-and-raises-2026-outlook/",
+   "source": "containernews",
+   "published": "2026-11-13T15:00:03Z",
+   "seen": "2026-11-13T15:55:39Z",
+   "lang": "en",
+   "excerpt": "ADNOC Logistics & Services (ADNOC L&S) reported a sharp increase in third-quarter earnings, supported by higher global shipping rates and strong demand for energy transportation.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "62a0b4bd64e5",
+   "title": "Proficient Auto Logistics eyes margin recovery after challenging Q3",
+   "link": "https://www.freightwaves.com/news/proficient-auto-logistics-eyes-margin-recovery-after-challenging-q3",
+   "source": "freightwaves",
+   "published": "2026-11-13T14:42:23Z",
+   "seen": "2026-11-13T15:55:39Z",
+   "lang": "en",
+   "excerpt": "Shares of Proficient Auto Logistics were down 20% in early trading on Friday as investors contemplate the car hauler’s third-quarter net loss and margin recovery plan.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4efb637eee96",
+   "title": "Russia Oil Revenues Hit Five-Month High on Crude Rally, IEA Says",
+   "link": "https://gcaptain.com/russia-oil-revenues-hit-five-month-high-on-crude-rally-iea-says/",
+   "source": "gcaptain",
+   "published": "2026-11-13T14:39:48Z",
+   "seen": "2026-11-13T15:55:39Z",
+   "lang": "en",
+   "excerpt": "Russia’s October revenues from crude and petroleum-product exports hit the highest since May as the ongoing Iran war bolstered oil prices, according to the International Energy Agency.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "2e5254e74991",
+   "title": "Iran Says Tanker Carrying LNG Hit Mine, Suffered Explosion in Hormuz",
+   "link": "https://gcaptain.com/iran-says-tanker-carrying-lng-hit-mine-suffered-explosion-in-hormuz/",
+   "source": "gcaptain",
+   "published": "2026-11-13T14:37:27Z",
+   "seen": "2026-11-13T15:55:39Z",
+   "lang": "en",
+   "excerpt": "Iran's Revolutionary Guards navy said a tanker carrying liquefied natural gas struck a naval mine and suffered an explosion in the Strait of Hormuz on Friday while using what they described was an \"unauthorized and dangerous route,\" state …",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "gas",
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lng",
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "82e68464b082",
+   "title": "Cargojet fleet optimization boosts productivity, fuels record Q3 revenue",
+   "link": "https://www.freightwaves.com/news/cargojet-fleet-optimization-boosts-productivity-fuels-record-q3-revenue",
+   "source": "freightwaves",
+   "published": "2026-11-13T14:20:58Z",
+   "seen": "2026-11-13T15:55:39Z",
+   "lang": "en",
+   "excerpt": "Cargojet rode a strong air cargo market and the productivity gains from its fleet consolidation strategy to its highest-ever revenue and operating profit in a third quarter.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a9a4b462ad62",
+   "title": "Record October as Los Angeles tops 1 Million TEUs for second straight month",
+   "link": "https://www.freightwaves.com/news/record-october-as-los-angeles-tops-1-million-teus-for-second-straight-month",
+   "source": "freightwaves",
+   "published": "2026-11-13T14:08:21Z",
+   "seen": "2026-11-13T15:55:39Z",
+   "lang": "en",
+   "excerpt": "The Port of Los Angeles handled more than 1 million TEUs for the second straight month as cargo surged 5% ahead of 2025.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "4f13cedcad11",
+   "title": "Fincantieri reports record backlog and raises 2026 earnings outlook",
+   "link": "https://container-news.com/fincantieri-reports-record-backlog-and-raises-2026-earnings-outlook/",
+   "source": "containernews",
+   "published": "2026-11-13T14:00:01Z",
+   "seen": "2026-11-13T15:55:39Z",
+   "lang": "en",
+   "excerpt": "Italian shipbuilding group Fincantieri reported higher profitability in the first nine months of 2026, supported by stronger operating margins and continued demand across its main markets.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "backlog",
+    "ebitda"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "040bca654540",
+   "title": "To løsninger for smartere lagerplukk",
+   "link": "https://www.mtlogistikk.no/autostore-kardex-lagerautomatisering/to-losninger-for-smartere-lagerplukk/1356752",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-13T13:55:39Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "978cfb3ad58f",
+   "title": "South American shipowner orders AHTS vessel from China",
+   "link": "https://www.offshore-energy.biz/2026/11/13/south-american-shipowner-orders-ahts-vessel-from-china",
+   "source": "offshoreenergy",
+   "published": "2026-11-13T13:11:31Z",
+   "seen": "2026-11-13T15:55:39Z",
+   "lang": "en",
+   "excerpt": "Chinese shipbuilder Nantong Rainbow Offshore & Engineering Equipment (ROC) has received an order from a South American shipowner for the...",
+   "segments": [
+    "freight",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ahts"
+   ],
    "paywall": false
   },
   {
@@ -57,6 +282,29 @@
    "policy": false,
    "level": "national",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "16975ced0b1f",
+   "title": "Baltic Dry Index falls to 2980 down 40 points",
+   "link": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-2980-down-40-points/",
+   "source": "hsn",
+   "published": "2026-11-13T13:00:04Z",
+   "seen": "2026-11-13T15:55:39Z",
+   "lang": "en",
+   "excerpt": "Today, Friday, November 13 2026, the Baltic Dry Index decreased by 58 points, reaching 2590 points. Baltic Dry Index is compiled by the London-based Baltic Exchange and covers prices for transported cargo such as coal, grain and iron ore.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bdi",
+    "baltic-exchange"
+   ],
    "paywall": false
   },
   {
@@ -234,24 +482,6 @@
    "subs": [],
    "policy": true,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "03dba96690a4",
-   "title": "Kaos på første snødag – 23 bruksforbud",
-   "link": "https://www.mtlogistikk.no/dekk-e6-kjetting/kaos-pa-forste-snodag-23-bruksforbud/1360905",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-13T11:00:49Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18087,232 +18317,6 @@
    "level": "international",
    "terms": [
     "class-society"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "69dceb41408f",
-   "title": "Hapag-Lloyd unveils standalone AMX and ASX services linking Asia and Latin America",
-   "link": "https://container-news.com/hapag-lloyd-unveils-standalone-amx-and-asx-services-linking-asia-and-latin-america/",
-   "source": "containernews",
-   "published": "2026-11-05T13:00:55Z",
-   "seen": "2026-11-05T13:17:38Z",
-   "lang": "en",
-   "excerpt": "Hapag-Lloyd has announced two standalone container shipping services connecting Asia with Latin America, as the German carrier prepares to expand its network in 2027.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "3576e478b554",
-   "title": "Baltic Dry Index climbs to 2740 up 46 points",
-   "link": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2740-up-46-points/",
-   "source": "hsn",
-   "published": "2026-11-05T13:00:29Z",
-   "seen": "2026-11-05T16:07:43Z",
-   "lang": "en",
-   "excerpt": "Today, Thursday, November 5 2026, the Baltic Dry Index climbed 46 points, 2740 points. Baltic Dry Index is compiled by the London-based Baltic Exchange and covers prices for transported cargo such as coal, grain and iron ore.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bdi",
-    "baltic-exchange"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "f8acc030acdd",
-   "title": "Americold raises full-year outlook as warehouse performance improves",
-   "link": "https://www.freightwaves.com/news/americold-raises-full-year-outlook-as-warehouse-performance-improves",
-   "source": "freightwaves",
-   "published": "2026-11-05T13:00:00Z",
-   "seen": "2026-11-05T19:00:50Z",
-   "lang": "en",
-   "excerpt": "Americold Realty Trust raised its full-year earnings outlook Thursday after reporting higher third-quarter revenue.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "f5b68bcc7d01",
-   "title": "StormGeo and CCS launch digital link for maritime emissions verification",
-   "link": "https://container-news.com/stormgeo-and-ccs-launch-digital-link-for-maritime-emissions-verification/",
-   "source": "containernews",
-   "published": "2026-11-05T12:05:44Z",
-   "seen": "2026-11-05T13:17:38Z",
-   "lang": "en",
-   "excerpt": "StormGeo has partnered with China Classification Society (CCS) to improve the digital exchange and verification of maritime emissions data, strengthening its presence in China’s shipping market.",
-   "segments": [
-    "freight",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "ccs",
-    "class-society"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "2da0bc3a5f36",
-   "title": "Deutsche Windtechnik lands maintenance deal at Germany’s first offshore wind farm",
-   "link": "https://splash247.com/deutsche-windtechnik-lands-maintenance-deal-at-germanys-first-offshore-wind-farm/",
-   "source": "splash",
-   "published": "2026-11-05T12:00:00Z",
-   "seen": "2026-11-05T13:17:38Z",
-   "lang": "en",
-   "excerpt": "German offshore wind services specialist Deutsche Windtechnik has secured a comprehensive maintenance contract from Ocean Breeze Energy covering all 12 turbines at the Alpha Ventus offshore wind farm in the North Sea.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "offshore-wind"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "d2e3e1b20440",
-   "title": "Aker Solutions bags engineering deal for Qatar oilfield redevelopment",
-   "link": "https://splash247.com/aker-solutions-bags-engineering-deal-for-qatar-oilfield-redevelopment/",
-   "source": "splash",
-   "published": "2026-11-05T11:45:00Z",
-   "seen": "2026-11-05T13:17:38Z",
-   "lang": "en",
-   "excerpt": "Norwegian offshore engineering group Aker Solutions has received a letter of award from Vietnam’s PTSC Mechanical & Construction for work on QatarEnergy’s Maydan Mahzam oilfield redevelopment project.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "78a0168dae84",
-   "title": "Finland jails captain and crew member over Baltic cable sabotage",
-   "link": "https://splash247.com/finland-jails-captain-and-crew-member-over-baltic-cable-sabotage/",
-   "source": "splash",
-   "published": "2026-11-05T11:14:58Z",
-   "seen": "2026-11-05T13:17:38Z",
-   "lang": "en",
-   "excerpt": "A Finnish court has sentenced the captain and a crew member of the general cargo ship Fitburg to prison for deliberately damaging two subsea telecommunications cables in the Gulf of Finland on New Year’s Eve last year.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "82c1009bedd5",
-   "title": "Seacon snaps up fresh tanker in $19.6m deal",
-   "link": "https://splash247.com/seacon-snaps-up-fresh-tanker-in-19-6m-deal/",
-   "source": "splash",
-   "published": "2026-11-05T11:10:00Z",
-   "seen": "2026-11-05T13:17:38Z",
-   "lang": "en",
-   "excerpt": "Hong Kong-listed Seacon Shipping has struck a $19.6m deal for a newly built oil and chemical tanker, adding to its fleet amid reports of a four-vessel MR tanker disposal.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "product-tanker"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "f079c59d362d",
-   "title": "Iran’s Empty Tankers Sit Idle as Visible Crude Loadings Stop",
-   "link": "https://www.hellenicshippingnews.com/irans-empty-tankers-sit-idle-as-visible-crude-loadings-stop/",
-   "source": "hsn",
-   "published": "2026-11-05T11:00:59Z",
-   "seen": "2026-11-05T13:17:38Z",
-   "lang": "en",
-   "excerpt": "Six Weeks Without a Visible Loading No Iran-affiliated tanker still transmitting AIS in the Middle East Gulf has shown a draft change indicative of loading since September 17.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "ais"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "ffe511d1aa89",
-   "title": "BIMCO: Tripartite 2026 focuses on practical steps towards the next generation of ships",
-   "link": "https://www.hellenicshippingnews.com/bimco-tripartite-2026-focuses-on-practical-steps-towards-the-next-generation-of-ships/",
-   "source": "hsn",
-   "published": "2026-11-05T11:00:57Z",
-   "seen": "2026-11-05T13:17:38Z",
-   "lang": "en",
-   "excerpt": "Regulatory clarity, decarbonisation and digitalisation were central to discussions as more than 85 representatives of shipbuilders, shipowners and classification societies, together with invited observers, met in Tokyo on 28–29 October for …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bimco",
-    "class-society"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "ea567763cf3e",
-   "title": "What Trump’s midterm elections defeat could mean for the IMO shipping climate negotiations",
-   "link": "https://www.hellenicshippingnews.com/what-trumps-midterm-elections-defeat-could-mean-for-the-imo-shipping-climate-negotiations/",
-   "source": "hsn",
-   "published": "2026-11-05T11:00:55Z",
-   "seen": "2026-11-05T13:17:38Z",
-   "lang": "en",
-   "excerpt": "The Democratic victory in the US midterm elections on Tuesday, Nov 3, taking control of both the House and the Senate, could have important indirect implications for the US stance and behaviour at the International Maritime Organization …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "imo"
    ],
    "paywall": false
   }
