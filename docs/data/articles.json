@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-13T15:55:39Z",
+ "updated": "2026-11-13T18:59:28Z",
  "sample": false,
  "articles": [
   {
-   "id": "336a562e0eb8",
-   "title": "Kaos på første snødag – 23 bruksforbud",
-   "link": "https://www.mtlogistikk.no/dekk-e6-kjetting/kaos-pa-forste-snodag-23-bruksforbud/1361178",
+   "id": "f0f0cae8e99d",
+   "title": "To løsninger for smartere lagerplukk",
+   "link": "https://www.mtlogistikk.no/autostore-kardex-lagerautomatisering/to-losninger-for-smartere-lagerplukk/1361214",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-13T15:25:39Z",
+   "seen": "2026-11-13T18:59:28Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -17,6 +17,390 @@
    "subs": [],
    "policy": false,
    "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "3ecdb1abe3b1",
+   "title": "HMM Q3 Profit On The Rise",
+   "link": "https://www.hellenicshippingnews.com/hmm-q3-profit-on-the-rise/",
+   "source": "hsn",
+   "published": "2026-11-13T18:00:59Z",
+   "seen": "2026-11-13T18:59:28Z",
+   "lang": "en",
+   "excerpt": "Revenue for Q3 2026 totaled KRW 4,127 billion, with a net profit of KRW 1,535 billion and an operating profit of KRW 1,395 billion. In the first nine months of 2026 (9M 2026), revenue reached KRW 10,248 billion, with net profit of KRW …",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c85156d7a545",
+   "title": "BW LPG Limited Announces Sale of BW Mistral",
+   "link": "https://www.hellenicshippingnews.com/bw-lpg-limited-announces-sale-of-bw-mistral/",
+   "source": "hsn",
+   "published": "2026-11-13T18:00:57Z",
+   "seen": "2026-11-13T18:59:28Z",
+   "lang": "en",
+   "excerpt": "BW LPG Limited is pleased to announce the sale of the 2015-built BW Mistral, acquired in the 2024 Avance Gas transaction. The sale of BW Mistral is expected to generate a net book gain of approximately US$37 million and net cash proceeds …",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lpg",
+    "book-gain",
+    "spot-market"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "87578e3f9f65",
+   "title": "Cargo ship strikes bridge between New Jersey and Philadelphia, causing traffic backup",
+   "link": "https://www.hellenicshippingnews.com/cargo-ship-strikes-bridge-between-new-jersey-and-philadelphia-causing-traffic-backup/",
+   "source": "hsn",
+   "published": "2026-11-13T18:00:53Z",
+   "seen": "2026-11-13T18:59:28Z",
+   "lang": "en",
+   "excerpt": "A cargo ship struck a bridge across the Delaware River on Thursday, disrupting traffic between Palmyra, New Jersey, and Philadelphia, according to a Pennsylvania lawmaker.",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "742591f4ebe4",
+   "title": "Nikkiso delivers ahead-of-schedule dry dock overhaul for LNG tanker Ekaputra 1",
+   "link": "https://www.hellenicshippingnews.com/nikkiso-delivers-ahead-of-schedule-dry-dock-overhaul-for-lng-tanker-ekaputra-1/",
+   "source": "hsn",
+   "published": "2026-11-13T18:00:51Z",
+   "seen": "2026-11-13T18:59:28Z",
+   "lang": "en",
+   "excerpt": "Nikkiso Clean Energy & Industrial Gases Group (Nikkiso CE&IG) has successfully completed a dry-dock maintenance project for the LNG tanker Ekaputra 1, carrying out the overhaul of seven cryogenic pumps in only 10 days.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "gas",
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lng",
+    "ig"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "c02eb7b1ca14",
+   "title": "Euroports Rauma Container Terminal Has Joined The Portchain Connect Network",
+   "link": "https://www.hellenicshippingnews.com/euroports-rauma-container-terminal-has-joined-the-portchain-connect-network/",
+   "source": "hsn",
+   "published": "2026-11-13T18:00:49Z",
+   "seen": "2026-11-13T18:59:28Z",
+   "lang": "en",
+   "excerpt": "Portchain today announced Euroports’ container terminal in the Port of Rauma, will join the Portchain Connect network. Rauma terminal will use Portchain Connect to increase the quality and speed of their berth alignment with customers …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "0729570f303a",
+   "title": "Parekh Marine Services Sets New Benchmark with 6,650 Cars Loaded on Single Vessel at Mundra Port",
+   "link": "https://www.hellenicshippingnews.com/parekh-marine-services-sets-new-benchmark-with-6650-cars-loaded-on-single-vessel-at-mundra-port/",
+   "source": "hsn",
+   "published": "2026-11-13T18:00:47Z",
+   "seen": "2026-11-13T18:59:28Z",
+   "lang": "en",
+   "excerpt": "Parekh Marine Services Pvt. Ltd., the shipping agency arm of Parekh Global, has supported a new national benchmark for automobile loading at an Indian port, with 6,650 cars loaded onto a single vessel at Mundra Port.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "car-carrier"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "0396089ef3fa",
+   "title": "Lion Shipbrokers Weekly Market Report, Week 46 2026",
+   "link": "https://www.hellenicshippingnews.com/lion-shipbrokers-weekly-market-report-week-46-2026/",
+   "source": "hsn",
+   "published": "2026-11-13T18:00:00Z",
+   "seen": "2026-11-13T18:59:28Z",
+   "lang": "en",
+   "excerpt": "Sale & Purchase: The second-hand market remained active, with a further forty-four vessels reported sold across all sectors",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "reports"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "shipbroker",
+    "sale-purchase"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "ef4d017bab80",
+   "title": "Amazon-focused bill likely to pass in NYC but only after changes",
+   "link": "https://www.freightwaves.com/news/amazon-focused-bill-likely-to-pass-in-nyc-but-only-after-changes",
+   "source": "freightwaves",
+   "published": "2026-11-13T17:56:15Z",
+   "seen": "2026-11-13T18:59:28Z",
+   "lang": "en",
+   "excerpt": "New York–It is increasingly clear that before the end of 2026, the New York City Council will likely pass legislation that will be called the Delivery Protection Act, a law that from the start had Amazon and its Delivery Service Provider …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "9238341d95d2",
+   "title": "Gulf Oil Exports Recover as Hormuz Shipping Struggles",
+   "link": "https://gcaptain.com/gulf-oil-exports-recover-as-hormuz-shipping-struggles/",
+   "source": "gcaptain",
+   "published": "2026-11-13T17:51:12Z",
+   "seen": "2026-11-13T18:59:28Z",
+   "lang": "en",
+   "excerpt": "Global oil markets are beginning to recover from the Iran war, but shipping through the Strait of Hormuz remains severely disrupted, with vessel traffic roughly 65% below pre-conflict levels and...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "7188c9b4567d",
+   "title": "Truckers Die at 61? The Health Crisis We Ignore",
+   "link": "https://www.freightwaves.com/news/truckers-die-at-61-the-health-crisis-we-ignore",
+   "source": "freightwaves",
+   "published": "2026-11-13T17:41:28Z",
+   "seen": "2026-11-13T18:59:28Z",
+   "lang": "en",
+   "excerpt": "Truck drivers die at 61? Jeremy Reymer breaks down the driver health crisis, mental health tools, sleep, nutrition and the 5 axles of health.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "b59ff6adb1d5",
+   "title": "World Oil Market is Returning to Surplus as Gulf Exports Recover",
+   "link": "https://gcaptain.com/world-oil-market-is-returning-to-surplus-as-gulf-exports-recover/",
+   "source": "gcaptain",
+   "published": "2026-11-13T17:37:39Z",
+   "seen": "2026-11-13T18:59:28Z",
+   "lang": "en",
+   "excerpt": "The world oil market will return to a surplus in the fourth quarter of this year, the International Energy Agency said on Friday, as Middle East exports recover faster than global oil demand despite continued attacks on shipping.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "add3fc990e32",
+   "title": "CMA CGM Net Profit More Than Triples to $2.32 Billion as Freight Rates Surge",
+   "link": "https://gcaptain.com/cma-cgm-net-profit-more-than-triples-to-2-32-billion-as-freight-rates-surge/",
+   "source": "gcaptain",
+   "published": "2026-11-13T17:24:08Z",
+   "seen": "2026-11-13T18:59:28Z",
+   "lang": "en",
+   "excerpt": "French shipping giant CMA CGM more than tripled its third-quarter net profit as higher container freight rates and strong cargo volumes boosted earnings amid ongoing disruptions to global shipping routes...",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8cfb38eab787",
+   "title": "Study: Shipping Can Avoid Endangered-Species Habitat at Minimal Cost",
+   "link": "https://maritime-executive.com/article/study-shipping-can-avoid-endangered-species-habitat-at-minimal-cost",
+   "source": "marex",
+   "published": "2026-11-13T17:18:00Z",
+   "seen": "2026-11-11T19:03:51Z",
+   "lang": "en",
+   "excerpt": "In a study aimed at demonstrating that shipping can support marine conservation efforts without significantly increasing costs, researchers in the UK...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8a96a823beb2",
+   "title": "Suspect in $100M Brink’s jewelry theft agrees to plead guilty in related cargo robbery case",
+   "link": "https://www.freightwaves.com/news/suspect-in-100m-brinks-jewelry-theft-agrees-to-plead-guilty-in-related-cargo-robbery-case",
+   "source": "freightwaves",
+   "published": "2026-11-13T17:11:35Z",
+   "seen": "2026-11-13T18:59:28Z",
+   "lang": "en",
+   "excerpt": "A suspect in the $100 million Brink's jewelry theft has admitted participating in a coordinated cargo theft operation. Federal court records reveal how the group tracked commercial trucks, targeted unattended shipments and concealed its …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "7731ffe8a602",
+   "title": "Hapag-Lloyd Profit Surges as Freight Rates Rise, Red Sea Services Return",
+   "link": "https://gcaptain.com/hapag-lloyd-profit-surges-as-freight-rates-rise-red-sea-services-return/",
+   "source": "gcaptain",
+   "published": "2026-11-13T17:09:56Z",
+   "seen": "2026-11-13T18:59:28Z",
+   "lang": "en",
+   "excerpt": "German container shipping giant Hapag-Lloyd reported a sharp increase in third-quarter earnings as higher freight rates more than offset rising operating costs tied to the Middle East conflict and widespread...",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "7b8313611d6a",
+   "title": "Maersk introduces new Asia–Europe PSS and revises North America charges",
+   "link": "https://container-news.com/maersk-introduces-new-asia-europe-pss-and-revises-north-america-charges/",
+   "source": "containernews",
+   "published": "2026-11-13T17:00:45Z",
+   "seen": "2026-11-13T18:59:28Z",
+   "lang": "en",
+   "excerpt": "Maersk has announced a new Peak Season Surcharge (PSS) for shipments from Far East Asia to Northern Europe, effective from 1 December 2026, while also revising surcharge levels on selected routes from the Indian Subcontinent to North …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "03dba96690a4",
+   "title": "Kaos på første snødag – 23 bruksforbud",
+   "link": "https://www.mtlogistikk.no/dekk-e6-kjetting/kaos-pa-forste-snodag-23-bruksforbud/1360905",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-13T16:44:28Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "cdb31d768877",
+   "title": "Singapore-Flagged Bulk Carrier Strikes Delaware River Bridge, Coast Guard Investigating",
+   "link": "https://gcaptain.com/singapore-flagged-bulk-carrier-strikes-delaware-river-bridge-coast-guard-investigating/",
+   "source": "gcaptain",
+   "published": "2026-11-13T16:29:16Z",
+   "seen": "2026-11-13T18:59:28Z",
+   "lang": "en",
+   "excerpt": "A Singapore-flagged bulk carrier struck the Tacony-Palmyra Bridge on the Delaware River Thursday afternoon, leaving the movable span temporarily unable to close and prompting a U.S. Coast Guard inspection of...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dry-bulk"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "59cd7c905afb",
+   "title": "Premier Alliance PS6 to return to Long Beach in January 2027",
+   "link": "https://container-news.com/premier-alliance-ps6-to-return-to-long-beach-in-january-2027/",
+   "source": "containernews",
+   "published": "2026-11-13T16:00:45Z",
+   "seen": "2026-11-13T18:59:28Z",
+   "lang": "en",
+   "excerpt": "The Premier Alliance is set to shift the Southern California port call of its PS6 transpacific service from Los Angeles to Long Beach in January 2027.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
    "terms": [],
    "paywall": false
   },
@@ -207,24 +591,6 @@
    "paywall": false
   },
   {
-   "id": "040bca654540",
-   "title": "To løsninger for smartere lagerplukk",
-   "link": "https://www.mtlogistikk.no/autostore-kardex-lagerautomatisering/to-losninger-for-smartere-lagerplukk/1356752",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-13T13:55:39Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "978cfb3ad58f",
    "title": "South American shipowner orders AHTS vessel from China",
    "link": "https://www.offshore-energy.biz/2026/11/13/south-american-shipowner-orders-ahts-vessel-from-china",
@@ -383,6 +749,27 @@
     "liner",
     "newbuilding"
    ],
+   "paywall": false
+  },
+  {
+   "id": "91828045c658",
+   "title": "Evergreen Marine nine-month profit up 18% to $2.16 billion",
+   "link": "https://www.freightwaves.com/news/evergreen-marine-nine-month-profit-up-18-to-2-16-billion",
+   "source": "freightwaves",
+   "published": "2026-11-13T11:40:00Z",
+   "seen": "2026-11-13T18:59:28Z",
+   "lang": "en",
+   "excerpt": "Evergreen Marine reported nine-month revenue of $10.29 billion as stronger peak-season demand, higher freight rates and constrained shipping capacity lifted earnings.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
    "paywall": false
   },
   {
@@ -1650,26 +2037,6 @@
    "terms": [
     "seismic"
    ],
-   "paywall": false
-  },
-  {
-   "id": "ac2ee5f5768c",
-   "title": "Euroports Rauma Container Terminal has Joined the Portchain Connect Network",
-   "link": "https://maritime-executive.com/article/euroports-rauma-container-terminal-has-joined-the-portchain-connect-network",
-   "source": "marex",
-   "published": "2026-11-13T01:40:34Z",
-   "seen": "2026-11-13T07:24:09Z",
-   "lang": "en",
-   "excerpt": "Portchain today announced Euroports’ container terminal in the Port of Rauma, will join the Portchain Connect network. Rauma terminal will use Portcha...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
    "paywall": false
   },
   {
@@ -5156,24 +5523,6 @@
    "terms": [
     "chokepoint"
    ],
-   "paywall": false
-  },
-  {
-   "id": "8cfb38eab787",
-   "title": "Study: Shipping Can Avoid Endangered-Species Habitat at Minimal Cost",
-   "link": "https://maritime-executive.com/article/study-shipping-can-avoid-endangered-species-habitat-at-minimal-cost",
-   "source": "marex",
-   "published": "2026-11-11T17:10:00Z",
-   "seen": "2026-11-11T19:03:51Z",
-   "lang": "en",
-   "excerpt": "In a study aimed at demonstrating that shipping can support marine conservation efforts without significantly increasing costs, researchers in the UK...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
    "paywall": false
   },
   {
@@ -17968,356 +18317,6 @@
    "policy": false,
    "level": "international",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "206cde71b541",
-   "title": "Navios Partners triples quarterly profit and expands boxship backlog",
-   "link": "https://container-news.com/navios-partners-triples-quarterly-profit-and-expands-boxship-backlog/",
-   "source": "containernews",
-   "published": "2026-11-05T17:00:29Z",
-   "seen": "2026-11-05T19:00:50Z",
-   "lang": "en",
-   "excerpt": "Navios Maritime Partners reported a sharp rise in third-quarter earnings as the shipowner expanded its containership orderbook and secured additional long-term charter revenue.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "liner",
-    "backlog",
-    "orderbook"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "be7573276462",
-   "title": "IMO Backs Dominguez for Second Term Amid Shipping Attacks and Climate Deadlock",
-   "link": "https://gcaptain.com/imo-backs-dominguez-for-second-term-amid-shipping-attacks-and-climate-deadlock/",
-   "source": "gcaptain",
-   "published": "2026-11-05T16:56:28Z",
-   "seen": "2026-11-05T19:00:50Z",
-   "lang": "en",
-   "excerpt": "The International Maritime Organization (IMO) Council has backed Secretary-General Arsenio Dominguez for a second four-year term, extending its support for his leadership despite the organization’s failure to adopt its landmark...",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "imo"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "c5985c8428d0",
-   "title": "Maersk’s 26-Ship LNG Order Adds Nearly Half a Million TEU to Newbuilding Pipeline",
-   "link": "https://gcaptain.com/maersks-26-ship-lng-order-adds-nearly-half-a-million-teu-to-newbuilding-pipeline/",
-   "source": "gcaptain",
-   "published": "2026-11-05T16:25:45Z",
-   "seen": "2026-11-05T19:00:50Z",
-   "lang": "en",
-   "excerpt": "A.P. Moller-Maersk is pressing ahead with one of its largest containership ordering programs in years, confirming in its third-quarter earnings report that it has ordered 26 LNG dual-fuel vessels with...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers",
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng",
-    "teu",
-    "newbuilding",
-    "liner",
-    "dual-fuel"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "6bff56127c53",
-   "title": "Matson raises outlook as China volumes climb 16%",
-   "link": "https://container-news.com/matson-raises-outlook-as-china-volumes-climb-16/",
-   "source": "containernews",
-   "published": "2026-11-05T16:00:14Z",
-   "seen": "2026-11-05T16:07:43Z",
-   "lang": "en",
-   "excerpt": "Matson reported stronger third-quarter results and raised its full-year outlook, supported by higher volumes and freight rates on its China services.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "0650a7deb615",
-   "title": "Excelerate and AxDo strike multi-year Bahamas LNG deal for Caribbean’s new terminal",
-   "link": "https://www.offshore-energy.biz/2026/11/05/excelerate-and-axdo-strike-multi-year-bahamas-lng-deal-for-caribbeans-new-terminal",
-   "source": "offshoreenergy",
-   "published": "2026-11-05T15:52:21Z",
-   "seen": "2026-11-05T19:00:50Z",
-   "lang": "en",
-   "excerpt": "Excelerate Energy and AxDo Bahamas have sealed an 11-year LNG supply agreement for a new offshore hub near Grand Bahama.",
-   "segments": [
-    "road",
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "2d03366d4fd0",
-   "title": "Fem-tonns dieselkiller fra Jungheinrich",
-   "link": "https://www.mtlogistikk.no/efg-5-elektriske-motvektstrucker-internlogistikk/fem-tonns-dieselkiller-fra-jungheinrich/1356121",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-05T15:37:43Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a9e48dce32e7",
-   "title": "US Army enlists FedEx to modernize logistics at depots",
-   "link": "https://www.freightwaves.com/news/us-army-enlists-fedex-to-modernize-logistics-at-depots",
-   "source": "freightwaves",
-   "published": "2026-11-05T15:03:33Z",
-   "seen": "2026-11-05T16:07:43Z",
-   "lang": "en",
-   "excerpt": "FedEx is partnering with the U.S. Army to optimize logistics and delivery for the service’s depots, arsenals and ammunition plants.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "6fa2b69a3f1c",
-   "title": "DHL Global Forwarding revenue jumps as ocean freight volumes rise",
-   "link": "https://container-news.com/dhl-global-forwarding-revenue-jumps-as-ocean-freight-volumes-rise/",
-   "source": "containernews",
-   "published": "2026-11-05T15:00:40Z",
-   "seen": "2026-11-05T16:07:43Z",
-   "lang": "en",
-   "excerpt": "DHL Group reported higher revenue and operating profit in the third quarter of 2026, supported by growth in international freight forwarding, express deliveries and contract logistics.",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "forwarder",
-    "3pl"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "b486cc65b56c",
-   "title": "Batteridrevet bulkskip vant Næringslivets klimapris",
-   "link": "https://www.mtlogistikk.no/berge-rederi-elnesvagen-gronn-omstilling/batteridrevet-bulkskip-vant-naeringslivets-klimapris/1355893",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-05T14:37:43Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "e537c118b421",
-   "title": "Velesto’s 2010-built rig finds drilling job with Petronas",
-   "link": "https://www.offshore-energy.biz/2026/11/05/velestos-2010-built-rig-finds-drilling-job-with-petronas",
-   "source": "offshoreenergy",
-   "published": "2026-11-05T14:26:36Z",
-   "seen": "2026-11-05T16:07:43Z",
-   "lang": "en",
-   "excerpt": "Velesto’s 16-year-old jack-up has landed a new offshore drilling assignment with Petronas off the coast of Malaysia.",
-   "segments": [
-    "road",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "rig"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "13d66c0a44eb",
-   "title": "The Hidden Liabilities In Maritime Acquisitions",
-   "link": "https://gcaptain.com/the-hidden-liabilities-in-maritime-acquistions/",
-   "source": "gcaptain",
-   "published": "2026-11-05T14:26:21Z",
-   "seen": "2026-11-05T16:07:43Z",
-   "lang": "en",
-   "excerpt": "What Buyers, Sellers and Investors Often Miss During Due DiligenceBy Sabrina Brigance, CMIP, Managing Director, Marine Practice, Hylant Maritime mergers and acquisitions can create significant opportunities for growth. Private equity...",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "mna"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "e70402296a03",
-   "title": "After Subsea7, Aker BP contracts OneSubsea for Norwegian fast-track oil project",
-   "link": "https://www.offshore-energy.biz/2026/11/05/after-subsea7-aker-bp-contracts-onesubsea-for-norwegian-fast-track-oil-project",
-   "source": "offshoreenergy",
-   "published": "2026-11-05T14:23:30Z",
-   "seen": "2026-11-05T16:07:43Z",
-   "lang": "en",
-   "excerpt": "Shortly after awarding Subsea7 a contract for the project, Aker BP has revealed that OneSubsea, a joint venture backed by SLB, Aker Solutions and...",
-   "segments": [
-    "road",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "d87a93192b4f",
-   "title": "France Extends Maritime Patrol Plane’s Stay in Black Sea After Cargo Ship Attacks",
-   "link": "https://gcaptain.com/france-extends-maritime-patrol-planes-stay-in-black-sea-after-cargo-ship-attacks/",
-   "source": "gcaptain",
-   "published": "2026-11-05T14:09:49Z",
-   "seen": "2026-11-05T16:07:43Z",
-   "lang": "en",
-   "excerpt": "A French maritime patrol aircraft deployed to Romania to bolster surveillance after a series of deadly strikes on merchant ships in the Black Sea on the edge of NATO's eastern flank will extend its stay by several weeks, its commander said …",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "aa3309db7766",
-   "title": "ID Logistics and Terra Robotics plan humanoid robot pilot in Germany",
-   "link": "https://container-news.com/id-logistics-and-terra-robotics-plan-humanoid-robot-pilot-in-germany/",
-   "source": "containernews",
-   "published": "2026-11-05T14:00:36Z",
-   "seen": "2026-11-05T16:07:43Z",
-   "lang": "en",
-   "excerpt": "ID Logistics has partnered with Terra Robotics to explore the use of humanoid robots in warehouse operations, with plans to launch its first pilot under real operating conditions in Germany within six months.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "3f8aff59edb8",
-   "title": "Buying Trucks in a Buyer’s Market: What Owner-Operators Are Weighing Right Now",
-   "link": "https://www.freightwaves.com/news/buying-trucks-in-a-buyers-market-what-owner-operators-are-weighing-right-now",
-   "source": "freightwaves",
-   "published": "2026-11-05T14:00:00Z",
-   "seen": "2026-11-05T16:07:43Z",
-   "lang": "en",
-   "excerpt": "The scramble is over. Carriers and owner-operators who spent the past few years chasing build slots, paying inflated prices for used units and taking whatever iron they could find are now facing a different problem: plenty of options and …",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "2ddd5bbdd3fb",
-   "title": "Maersk raises profit outlook as earnings surge, but shares slide on expectations miss",
-   "link": "https://www.freightwaves.com/news/maersk-raises-profit-outlook-as-earnings-surge-but-shares-slide-on-expectations-miss",
-   "source": "freightwaves",
-   "published": "2026-11-05T13:58:32Z",
-   "seen": "2026-11-05T16:07:43Z",
-   "lang": "en",
-   "excerpt": "A.P. Moller-Maersk raised its full-year earnings forecast after higher rates drove a sharp increase in third-quarter profit.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "5f6926209b16",
-   "title": "RINA to mobilize up to 83 experts for €11 million contract with Petrobras",
-   "link": "https://www.offshore-energy.biz/2026/11/05/rina-to-mobilize-up-to-83-experts-for-euro11-million-contract-with-petrobras",
-   "source": "offshoreenergy",
-   "published": "2026-11-05T13:33:57Z",
-   "seen": "2026-11-05T16:07:43Z",
-   "lang": "en",
-   "excerpt": "Inspection, certification and consulting engineering group RINA has signed a three-year €11 million contract with Brazilian oil & gas giant...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "class-society"
-   ],
    "paywall": false
   }
  ]
