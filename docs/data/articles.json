@@ -1,14 +1,55 @@
 {
- "updated": "2026-11-13T18:59:28Z",
+ "updated": "2026-11-13T21:53:07Z",
  "sample": false,
  "articles": [
   {
-   "id": "f0f0cae8e99d",
-   "title": "To løsninger for smartere lagerplukk",
-   "link": "https://www.mtlogistikk.no/autostore-kardex-lagerautomatisering/to-losninger-for-smartere-lagerplukk/1361214",
+   "id": "f4262b41f729",
+   "title": "Tanker Hits Riverboat on New Orleans Waterfront, Injuring Passengers",
+   "link": "https://maritime-executive.com/article/tanker-hits-riverboat-on-new-orleans-waterfront-injuring-passengers",
+   "source": "marex",
+   "published": "2026-11-13T21:38:00Z",
+   "seen": "2026-11-13T21:53:07Z",
+   "lang": "en",
+   "excerpt": "On Friday, an asphalt tanker struck a moored riverboat on the Mississippi on the downtown New Orleans waterfront, causing the passenger vessel to caps...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "7dd500c41bb9",
+   "title": "Tanker strikes cruise riverboat in New Orleans",
+   "link": "https://www.freightwaves.com/news/tanker-strikes-cruise-riverboat-in-new-orleans",
+   "source": "freightwaves",
+   "published": "2026-11-13T21:25:44Z",
+   "seen": "2026-11-13T21:53:07Z",
+   "lang": "en",
+   "excerpt": "Rescuers pulled multiple people to safety after a tanker struck a docked cruise riverboat Friday in New Orleans.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "336a562e0eb8",
+   "title": "Kaos på første snødag – 23 bruksforbud",
+   "link": "https://www.mtlogistikk.no/dekk-e6-kjetting/kaos-pa-forste-snodag-23-bruksforbud/1361178",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-13T18:59:28Z",
+   "seen": "2026-11-13T21:23:07Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -18,6 +59,296 @@
    "policy": false,
    "level": "national",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "27bad3703597",
+   "title": "AI cargo thefts top $150 million from June 2025 to June 2026",
+   "link": "https://www.freightwaves.com/news/ai-cargo-thefts-top-150-million-from-june-2025-to-june-2026",
+   "source": "freightwaves",
+   "published": "2026-11-13T21:11:42Z",
+   "seen": "2026-11-13T21:53:07Z",
+   "lang": "en",
+   "excerpt": "Cargo thieves stole more than $150 million in AI equipment this year, with fraudulent carrier identities and falsified shipping documents involved in 92% of reported incidents, according to Overhaul.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4a7d1c33b6fc",
+   "title": "DP World fast-tracks developments in Fujairah",
+   "link": "https://container-news.com/dp-world-fast-tracks-developments-in-fujairah/",
+   "source": "containernews",
+   "published": "2026-11-13T21:10:56Z",
+   "seen": "2026-11-13T21:53:07Z",
+   "lang": "en",
+   "excerpt": "DP World is accelerating development of two ports in Fujairah, investments of around AED 2.5 billion, as the UAE strengthens alternative shipping routes to keep goods moving despite disruption in the Strait of Hormuz.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "d8bac8ceb688",
+   "title": "Norges største tømmerhavn må flyttes",
+   "link": "https://www.mtlogistikk.no/lierstranda-logistikk-tommer/norges-storste-tommerhavn-ma-flyttes/1361482",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-13T20:23:07Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ba00cf930aeb",
+   "title": "Trailer Flexibility Is Becoming a Growth Strategy for Carriers",
+   "link": "https://www.freightwaves.com/news/trailer-flexibility-is-becoming-a-growth-strategy-for-carriers",
+   "source": "freightwaves",
+   "published": "2026-11-13T20:18:31Z",
+   "seen": "2026-11-13T21:53:07Z",
+   "lang": "en",
+   "excerpt": "Trailer rental for carriers is becoming a growth strategy. REPOWR’s Matt Harb explains how carriers can cut equipment costs and test new lanes without buying a trailer, and how the Trailer Optimization Platform helps fleets turn costly …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "609c1fffa8ef",
+   "title": "Tropical Shipping adds St. Croix to Canada Express service",
+   "link": "https://container-news.com/tropical-shipping-adds-st-croix-to-canada-express-service/",
+   "source": "containernews",
+   "published": "2026-11-13T20:00:39Z",
+   "seen": "2026-11-13T21:53:07Z",
+   "lang": "en",
+   "excerpt": "Tropical Shipping has expanded its Canada Express container service with the addition of St. Croix in the US Virgin Islands, extending the route’s coverage between Canada, Florida and the Caribbean.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "c72dda5e925a",
+   "title": "Estonia Confirms Multiple Drone Hits on Russian Corvette in the Baltic",
+   "link": "https://maritime-executive.com/article/estonia-confirms-ukrainian-drone-hits-on-russian-corvette-in-the-baltic",
+   "source": "marex",
+   "published": "2026-11-13T19:56:00Z",
+   "seen": "2026-11-13T21:53:07Z",
+   "lang": "en",
+   "excerpt": "In addition to the serious damage inflicted on the Ust-Luga oil terminal in a Ukrainian strike on Wednesday night, a Russian Navy corvette suffered di...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "9188cecd8653",
+   "title": "Trucking Recession Continues: Why Carriers Face Layoffs and Bankruptcies",
+   "link": "https://www.freightwaves.com/news/trucking-recession-continues-why-carriers-face-layoffs-and-bankruptcies",
+   "source": "freightwaves",
+   "published": "2026-11-13T19:48:58Z",
+   "seen": "2026-11-13T21:53:07Z",
+   "lang": "en",
+   "excerpt": "The freight market is seeing some interesting trends with mixed volumes and rising rates across modes, but small carriers are under immense pressure.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "spot-market"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "aa81705db310",
+   "title": "Freightos’ founder accuses company of ‘rigging’ proxy vote as company opposes his proposals",
+   "link": "https://www.freightwaves.com/news/freightos-founder-accuses-company-of-rigging-proxy-vote-as-company-opposes-his-proposals",
+   "source": "freightwaves",
+   "published": "2026-11-13T19:48:52Z",
+   "seen": "2026-11-13T21:53:07Z",
+   "lang": "en",
+   "excerpt": "Freightos' board unanimously recommended rejecting three proposals from founder and former CEO Zvi Schreiber ahead of the company's Dec.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "2f9ec30f337e",
+   "title": "RICO Case Against TQL, CH Robinson: What’s At Stake for Brokers?",
+   "link": "https://www.freightwaves.com/news/rico-case-against-tql-ch-robinson-whats-at-stake-for-brokers",
+   "source": "freightwaves",
+   "published": "2026-11-13T19:48:35Z",
+   "seen": "2026-11-13T21:53:07Z",
+   "lang": "en",
+   "excerpt": "A civil RICO lawsuit against C.H. Robinson and TQL by six motor carriers alleges racketeering and collaboration with illegal carriers to depress prices, causing lost business.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "29254a6fcc31",
+   "title": "Uninsured? What Mexican Border Freight Risks You’re Missing",
+   "link": "https://www.freightwaves.com/news/uninsured-what-mexican-border-freight-risks-youre-missing",
+   "source": "freightwaves",
+   "published": "2026-11-13T19:48:06Z",
+   "seen": "2026-11-13T21:53:07Z",
+   "lang": "en",
+   "excerpt": "Shipping freight into Mexico comes with unique risks, but are you properly insured? Andy Kuchar from Centerline Insurance Company reveals why relying on “contingent” coverage can leave you exposed and what steps brokers and shippers must …",
+   "segments": [
+    "road",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "shipper-consignee"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "c8fa09a73558",
+   "title": "Humble Robotics: $51M Fuels Autonomous Electric Freight Future",
+   "link": "https://www.freightwaves.com/news/humble-robotics-51m-fuels-autonomous-electric-freight-future",
+   "source": "freightwaves",
+   "published": "2026-11-13T19:45:23Z",
+   "seen": "2026-11-13T21:53:07Z",
+   "lang": "en",
+   "excerpt": "Humble Robotics is shaking up short-haul logistics with a massive $51 million Series A funding round. Founder & CEO Eyal Cohen unveils the vision behind their electric autonomous freight haulers – a “skateboard” chassis combining tractor …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "040bca654540",
+   "title": "To løsninger for smartere lagerplukk",
+   "link": "https://www.mtlogistikk.no/autostore-kardex-lagerautomatisering/to-losninger-for-smartere-lagerplukk/1356752",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-13T19:38:07Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c5344450fe97",
+   "title": "CMA CGM triples profit as Q3 freight rates and cargo volumes rise",
+   "link": "https://www.freightwaves.com/news/cma-cgm-triples-profit-as-q3-freight-rates-and-cargo-volumes-rise",
+   "source": "freightwaves",
+   "published": "2026-11-13T19:19:11Z",
+   "seen": "2026-11-13T21:53:07Z",
+   "lang": "en",
+   "excerpt": "Shipping drives earnings growth, while logistics margins weaken despite higher revenue.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8c035b398edc",
+   "title": "Port of Hamburg records slight decline",
+   "link": "https://container-news.com/port-of-hamburg-records-slight-decline/",
+   "source": "containernews",
+   "published": "2026-11-13T19:00:56Z",
+   "seen": "2026-11-13T21:53:07Z",
+   "lang": "en",
+   "excerpt": "The Port of Hamburg steadied its cargo handling in the third quarter of 2026, partially offsetting the declines of the first half. Total throughput at Germany’s largest seaport reached 84.5 million tonnes in the first nine months, 2.6% …",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "bc0cf16df9dd",
+   "title": "USPS to add 11% permanent fuel surcharge along with parcel rate hike",
+   "link": "https://www.freightwaves.com/news/usps-to-add-11-permanent-fuel-surcharge-along-with-parcel-rate-hike",
+   "source": "freightwaves",
+   "published": "2026-11-13T19:00:38Z",
+   "seen": "2026-11-13T21:53:07Z",
+   "lang": "en",
+   "excerpt": "The U.S. Postal Service is chasing revenue more aggressively than in the past with a series of price and surcharge adjustments.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "fuel-surcharge"
+   ],
    "paywall": false
   },
   {
@@ -344,24 +675,6 @@
    "paywall": false
   },
   {
-   "id": "03dba96690a4",
-   "title": "Kaos på første snødag – 23 bruksforbud",
-   "link": "https://www.mtlogistikk.no/dekk-e6-kjetting/kaos-pa-forste-snodag-23-bruksforbud/1360905",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-13T16:44:28Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "cdb31d768877",
    "title": "Singapore-Flagged Bulk Carrier Strikes Delaware River Bridge, Coast Guard Investigating",
    "link": "https://gcaptain.com/singapore-flagged-bulk-carrier-strikes-delaware-river-bridge-coast-guard-investigating/",
@@ -503,6 +816,24 @@
    "paywall": false
   },
   {
+   "id": "2d03366d4fd0",
+   "title": "Fem-tonns dieselkiller fra Jungheinrich",
+   "link": "https://www.mtlogistikk.no/efg-5-elektriske-motvektstrucker-internlogistikk/fem-tonns-dieselkiller-fra-jungheinrich/1356121",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-13T14:38:07Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
    "id": "2e5254e74991",
    "title": "Iran Says Tanker Carrying LNG Hit Mine, Suffered Explosion in Hormuz",
    "link": "https://gcaptain.com/iran-says-tanker-carrying-lng-hit-mine-suffered-explosion-in-hormuz/",
@@ -629,24 +960,6 @@
    ],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "0bee71aecbdf",
-   "title": "Norges største tømmerhavn må flyttes",
-   "link": "https://www.mtlogistikk.no/lierstranda-logistikk-tommer/norges-storste-tommerhavn-ma-flyttes/1361351",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-13T13:00:49Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18006,314 +18319,6 @@
     "insurance"
    ],
    "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "6d7e0a5fabd2",
-   "title": "A Super El Niño Is About To Test Which Freight Enterprises Plan For Impact And Which Only React",
-   "link": "https://www.freightwaves.com/news/a-super-el-nino-is-about-to-test-which-freight-enterprises-plan-for-impact-and-which-only-react",
-   "source": "freightwaves",
-   "published": "2026-11-05T18:49:00Z",
-   "seen": "2026-11-05T21:52:54Z",
-   "lang": "en",
-   "excerpt": "For most enterprises the first sign of a winter storm is still a broad, countrywide warning, the kind that tells a leadership team something is coming but says nothing about which lanes will fail, which distribution centers sit in the …",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "8e58948e59bc",
-   "title": "STB orders Union Pacific to make alleged rate hike threat video public",
-   "link": "https://www.freightwaves.com/news/stb-orders-union-pacific-to-make-rate-hike-threat-video-public",
-   "source": "freightwaves",
-   "published": "2026-11-05T18:35:09Z",
-   "seen": "2026-11-05T19:00:50Z",
-   "lang": "en",
-   "excerpt": "Rail regulator rejects railroad’s appeal in dispute over remarks allegedly threatening shippers opposed to Norfolk Southern merger.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "shipper-consignee",
-    "mna"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "3839ef1eeed4",
-   "title": "MPC Oceanic Group acquires 41% stake in Marlow Navigation",
-   "link": "https://www.hellenicshippingnews.com/mpc-oceanic-group-acquires-41-stake-in-marlow-navigation/",
-   "source": "hsn",
-   "published": "2026-11-05T18:00:59Z",
-   "seen": "2026-11-05T21:52:54Z",
-   "lang": "en",
-   "excerpt": "MPC Oceanic Group AG signed an agreement to acquire 41% of the shares in Marlow Navigation Co. Ltd. (“Marlow”). The existing shareholders of Marlow will retain majority ownership and, as part of the transaction, will also become a …",
-   "segments": [
-    "finance",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "5b236a88e471",
-   "title": "Maritime First Movers Reveal how to Maintain Decarbonisation Momentum",
-   "link": "https://www.hellenicshippingnews.com/maritime-first-movers-reveal-how-to-maintain-decarbonisation-momentum/",
-   "source": "hsn",
-   "published": "2026-11-05T18:00:57Z",
-   "seen": "2026-11-05T21:52:54Z",
-   "lang": "en",
-   "excerpt": "Despite flatter demand for low and zero-carbon fuels, first movers across the maritime industry are finding ways to maintain momentum on decarbonisation.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "048f3932afcb",
-   "title": "Dalian Maritime University’s Yu Jiajia to receive 2027 IMO Gender Equality Award",
-   "link": "https://www.hellenicshippingnews.com/dalian-maritime-universitys-yu-jiajia-to-receive-2027-imo-gender-equality-award/",
-   "source": "hsn",
-   "published": "2026-11-05T18:00:55Z",
-   "seen": "2026-11-05T21:52:54Z",
-   "lang": "en",
-   "excerpt": "From the bridge to the classroom, Ms Yu has helped build a more inclusive maritime sector in China, serving as a role model for the global maritime community.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "imo"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "e38d04976cea",
-   "title": "Petrobras advances Tupi Field redevelopment with LR approval for FPSO concept",
-   "link": "https://www.hellenicshippingnews.com/petrobras-advances-tupi-field-redevelopment-with-lr-approval-for-fpso-concept/",
-   "source": "hsn",
-   "published": "2026-11-05T18:00:53Z",
-   "seen": "2026-11-05T21:52:54Z",
-   "lang": "en",
-   "excerpt": "Lloyd’s Register (LR) has awarded Approval in Principle (AiP) to Petrobras for the conceptual design of its proposed REVIT I TUPI Floating Production Storage and Offloading (FPSO) unit, marking a significant step in the operator’s strategy …",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "fpso"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "30dd3f597a42",
-   "title": "Nor-Shipping 2027 Thought Leader – Leif O. Høegh, CHAIR, Höegh Autoliners",
-   "link": "https://www.hellenicshippingnews.com/nor-shipping-2027-thought-leader-leif-o-hoegh-chair-hoegh-autoliners/",
-   "source": "hsn",
-   "published": "2026-11-05T18:00:51Z",
-   "seen": "2026-11-05T21:52:54Z",
-   "lang": "en",
-   "excerpt": "With plans to celebrate his family’s 100 years in shipping in 2027, Leif O. Høegh (CHAIR Höegh Autoliners) takes a moment to reflect on the company’s bold, ‘first mover’ legacy.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "b5de45ccf6ce",
-   "title": "KCC: CLEANBU vessel fixed on three-year time charter",
-   "link": "https://www.hellenicshippingnews.com/kcc-cleanbu-vessel-fixed-on-three-year-time-charter/",
-   "source": "hsn",
-   "published": "2026-11-05T18:00:49Z",
-   "seen": "2026-11-05T21:52:54Z",
-   "lang": "en",
-   "excerpt": "A subsidiary of Klaveness Combination Carriers ASA has secured a three-year time charter for one of the CLEANBU vessels, starting immediately.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "time-charter",
-    "product-tanker"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "fc3ae2735a33",
-   "title": "Marine Impact Lab programme brings policy, propulsion and finance into focus at Metstrade",
-   "link": "https://www.hellenicshippingnews.com/marine-impact-lab-programme-brings-policy-propulsion-and-finance-into-focus-at-metstrade/",
-   "source": "hsn",
-   "published": "2026-11-05T18:00:47Z",
-   "seen": "2026-11-05T21:52:54Z",
-   "lang": "en",
-   "excerpt": "How marine businesses respond to regulation, adopt alternative propulsion and fund sustainability projects will be in focus at the Marine Impact Lab at Metstrade on 16 November.",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "d13dcf69eb07",
-   "title": "India joins ISF Verify initiative for digital seafarer certification",
-   "link": "https://container-news.com/india-joins-isf-verify-initiative-for-digital-seafarer-certification/",
-   "source": "containernews",
-   "published": "2026-11-05T18:00:43Z",
-   "seen": "2026-11-05T19:00:50Z",
-   "lang": "en",
-   "excerpt": "India has joined the ISF Verify initiative, marking a significant step towards the wider adoption of digital seafarer certification across the global shipping industry.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "69b54f770e28",
-   "title": "Singapore and Qingdao plan methanol bunker pilots for direct route",
-   "link": "https://www.hellenicshippingnews.com/singapore-and-qingdao-plan-methanol-bunker-pilots-for-direct-route/",
-   "source": "hsn",
-   "published": "2026-11-05T18:00:43Z",
-   "seen": "2026-11-05T21:52:54Z",
-   "lang": "en",
-   "excerpt": "The ports will also study pooling methanol bunker demand under the Singapore-China green shipping corridor. The Maritime and Port Authority of Singapore (MPA) and Qingdao Port, part of Shandong Port Group, have signed a work plan to …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bunkers"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "4e055e9347e4",
-   "title": "U.S. Initial Jobless Claims Fall, Signaling Strength in Labor Market",
-   "link": "https://www.hellenicshippingnews.com/u-s-initial-jobless-claims-fall-signaling-strength-in-labor-market/",
-   "source": "hsn",
-   "published": "2026-11-05T18:00:41Z",
-   "seen": "2026-11-05T21:52:54Z",
-   "lang": "en",
-   "excerpt": "In a noteworthy development for the U.S. labor market, the latest data on initial jobless claims has shown a decline, reflecting a robust employment environment.",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "137c5833cbd8",
-   "title": "Behind The Capitol Christmas Tree Is A Kenworth, Four Drivers, And A 2,000 Mile Haul Only Trucking Can Pull Off",
-   "link": "https://www.freightwaves.com/news/behind-the-capitol-christmas-tree-is-a-kenworth-four-drivers-and-a-2000-mile-haul-only-trucking-can-pull-off",
-   "source": "freightwaves",
-   "published": "2026-11-05T17:50:28Z",
-   "seen": "2026-11-05T19:00:50Z",
-   "lang": "en",
-   "excerpt": "Every December a towering evergreen rises on the West Lawn of the U.S. Capitol and gets called the People’s Tree, but before a child from its home state flips the switch to light it, the tree has to survive something most of the public …",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "ee873e6d2b7d",
-   "title": "Harbinger raises $240M to expand EV platform beyond trucks",
-   "link": "https://www.freightwaves.com/news/harbinger-240m-series-d-funding",
-   "source": "freightwaves",
-   "published": "2026-11-05T17:49:10Z",
-   "seen": "2026-11-05T19:00:50Z",
-   "lang": "en",
-   "excerpt": "The Garden Grove, California, company has raised more than $650 million since 2021. FedEx and THOR Industries participated as strategic investors in the new round",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "118f2afd6402",
-   "title": "Brazilian builds boat from rubbish to collect more rubbish",
-   "link": "https://splash247.com/brazilian-builds-boat-from-rubbish-to-collect-more-rubbish/",
-   "source": "splash",
-   "published": "2026-11-05T17:17:00Z",
-   "seen": "2026-11-05T21:52:54Z",
-   "lang": "en",
-   "excerpt": "A former Brazilian ocean canoeing champion has taken recycling to a floating extreme, constructing a boat from 230 discarded plastic containers so he can collect even more rubbish from the sea.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "4de25701958c",
-   "title": "Humble Robotics raises $51M for cabless hauler pilots",
-   "link": "https://www.freightwaves.com/news/humble-robotics-51m-series-a-cabless-hauler",
-   "source": "freightwaves",
-   "published": "2026-11-05T17:05:13Z",
-   "seen": "2026-11-05T19:00:50Z",
-   "lang": "en",
-   "excerpt": "Humble Robotics raised a $51 million Series A to push its cabless, electric Humble Hauler into customer pilots, testing and early manufacturing for dock-to-dock freight.",
-   "segments": [
-    "road",
-    "freight",
-    "offshore"
-   ],
-   "subs": [
-    "containers"
-   ],
    "policy": false,
    "level": "international",
    "terms": [],
