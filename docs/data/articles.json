@@ -1,7 +1,375 @@
 {
- "updated": "2026-11-13T07:24:09Z",
+ "updated": "2026-11-13T10:06:22Z",
  "sample": false,
  "articles": [
+  {
+   "id": "02a3080c934b",
+   "title": "Maersk opens new $20m-plus logistics facility in Uruguay",
+   "link": "https://container-news.com/maersk-opens-new-20m-plus-logistics-facility-in-uruguay/",
+   "source": "containernews",
+   "published": "2026-11-13T10:00:16Z",
+   "seen": "2026-11-13T10:06:22Z",
+   "lang": "en",
+   "excerpt": "A.P. Moller–Maersk has opened a new integrated logistics facility in Montevideo, Uruguay, following a private investment of more than US$20 million, expanding its container handling, storage and cargo services near the Port of Montevideo.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "e949a4546624",
+   "title": "Gate stenges: Nytt kjøremønster i Oslo sentrum",
+   "link": "https://www.mtlogistikk.no/oslo-sentrum-ring-1-radhusgata/gate-stenges-nytt-kjoremonster-i-oslo-sentrum/1359336",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-13T09:51:22Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a2bbac3b04ab",
+   "title": "BW LPG scores another lucrative Avance VLGC flip",
+   "link": "https://splash247.com/bw-lpg-scores-another-lucrative-avance-vlgc-flip/",
+   "source": "splash",
+   "published": "2026-11-13T09:50:00Z",
+   "seen": "2026-11-13T10:06:22Z",
+   "lang": "en",
+   "excerpt": "BW LPG has struck another lucrative vessel sale, offloading a VLGC acquired in John Fredriksen’s Avance Gas fleet deal less than two years ago for well over $100m.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "lpg"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "66efb4a23e84",
+   "title": "Cetus seals $200m share placement ahead of Oslo debut",
+   "link": "https://splash247.com/cetus-seals-200m-share-placement-ahead-of-oslo-debut/",
+   "source": "splash",
+   "published": "2026-11-13T09:42:00Z",
+   "seen": "2026-11-13T10:06:22Z",
+   "lang": "en",
+   "excerpt": "Hong Kong-based dry bulk owner Cetus Maritime has successfully placed a NOK1.89bn ($200m) share offering, including an over-allotment, clearing a major hurdle ahead of its planned Oslo stock market debut next week.",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "dry-bulk"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "6c502059e6bb",
+   "title": "UK blacklists 11 ships in fresh Russia sanctions sweep",
+   "link": "https://splash247.com/uk-blacklists-11-ships-in-fresh-russia-sanctions-sweep/",
+   "source": "splash",
+   "published": "2026-11-13T09:35:00Z",
+   "seen": "2026-11-13T10:06:22Z",
+   "lang": "en",
+   "excerpt": "Britain has slapped fresh sanctions on 11 ships linked to Russian energy exports, targeting five LNG carriers, five oil tankers and a floating storage unit in its latest effort to disrupt Moscow’s seaborne oil and gas trade.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "sanctions",
+    "lng-carrier",
+    "contango"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "e56139c229bf",
+   "title": "Deutsche Windtechnik picked for UK offshore wind maintenance job",
+   "link": "https://splash247.com/deutsche-windtechnik-picked-for-uk-offshore-wind-maintenance-job/",
+   "source": "splash",
+   "published": "2026-11-13T09:30:00Z",
+   "seen": "2026-11-13T10:06:22Z",
+   "lang": "en",
+   "excerpt": "German offshore wind services specialist Deutsche Windtechnik has secured a five-year operations and maintenance contract covering two offshore wind farms in the UK.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "offshore-wind"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "f4b19193b794",
+   "title": "Pyxis cashes in on ageing MR tanker in $37m deal",
+   "link": "https://splash247.com/pyxis-cashes-in-on-ageing-mr-tanker-in-37m-deal/",
+   "source": "splash",
+   "published": "2026-11-13T09:23:00Z",
+   "seen": "2026-11-13T10:06:22Z",
+   "lang": "en",
+   "excerpt": "Greek shipowner Pyxis Tankers has agreed to sell its oldest product tanker for $37m, cashing in on firm asset values and cutting its MR fleet from three vessels to two.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "product-tanker",
+    "dwt"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "05c93b0429f7",
+   "title": "Bygger gigantanlegg for over 640 millioner kroner",
+   "link": "https://www.mtlogistikk.no/arlanda-dhl-express-flyfraktgateway/bygger-gigantanlegg-for-over-640-millioner-kroner/1359381",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-13T09:21:22Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6ea1f6bb99c9",
+   "title": "Port of Los Angeles surpasses 1 million TEUs for second consecutive month",
+   "link": "https://container-news.com/port-of-los-angeles-surpasses-1-million-teus-for-second-consecutive-month/",
+   "source": "containernews",
+   "published": "2026-11-13T09:00:24Z",
+   "seen": "2026-11-13T10:06:22Z",
+   "lang": "en",
+   "excerpt": "The Port of Los Angeles handled 1,026,872 TEUs in October 2026, setting a new record for the month. The figure also represents the second-highest monthly container volume in the port’s history.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "bb81f783f034",
+   "title": "Marine license granted for one of UK’s largest power projects",
+   "link": "https://www.offshore-energy.biz/2026/11/13/marine-license-granted-for-one-of-uks-largest-power-projects",
+   "source": "offshoreenergy",
+   "published": "2026-11-13T08:41:56Z",
+   "seen": "2026-11-13T10:06:22Z",
+   "lang": "en",
+   "excerpt": "SSEN Transmission has secured the marine license for subsea cable infrastructure in Scottish waters for the 2 GW Eastern Green Link 3 (EGL3)...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "dfc934af31d5",
+   "title": "To havnestyrer avviser oppgjør på 458 millioner",
+   "link": "https://www.mtlogistikk.no/havn-kongsgard-vige-kristiansand-havn/to-havnestyrer-avviser-oppgjor-pa-458-millioner/1361096",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-13T08:36:22Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "d2cff73e5b9f",
+   "title": "Uke 46: Rederiene kutter kapasiteten for å stanse prisfallet",
+   "link": "https://www.mtlogistikk.no/drewry-sjofrakt-spotpris/uke-46-rederiene-kutter-kapasiteten-for-a-stanse-prisfallet/1361011",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-13T08:21:22Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6be2b3d20a94",
+   "title": "Gulf war leaves toxic legacy that could last decades",
+   "link": "https://splash247.com/gulf-war-leaves-toxic-legacy-that-could-last-decades/",
+   "source": "splash",
+   "published": "2026-11-13T08:10:39Z",
+   "seen": "2026-11-13T07:24:09Z",
+   "lang": "en",
+   "excerpt": "Greenpeace has identified 540 possible oil spills across the Gulf, Strait of Hormuz and Arabian Sea since the US-Iran war began on February 28 (see map below), with satellite imagery showing a cumulative slick footprint of approximately …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "ce2ef07d4fd5",
+   "title": "ExxonMobil reaches FID on eighth project offshore Guyana",
+   "link": "https://www.offshore-energy.biz/2026/11/13/exxonmobil-reaches-fid-on-eighth-project-offshore-guyana",
+   "source": "offshoreenergy",
+   "published": "2026-11-13T08:06:59Z",
+   "seen": "2026-11-13T10:06:22Z",
+   "lang": "en",
+   "excerpt": "U.S.-headquartered oil & gas company ExxonMobil has made the final investment decision (FID) for its Longtail development offshore Guyana after...",
+   "segments": [
+    "finance",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5ccfdcb0650e",
+   "title": "Baltic Exchange and Mercuria await verdict in landmark tanker index trial",
+   "link": "https://splash247.com/baltic-exchange-and-mercuria-await-verdict-in-landmark-tanker-index-trial/",
+   "source": "splash",
+   "published": "2026-11-13T08:00:31Z",
+   "seen": "2026-11-13T07:24:09Z",
+   "lang": "en",
+   "excerpt": "One of shipping’s most consequential legal battles has concluded in London, with the Baltic Exchange and commodities trader Mercuria awaiting a High Court ruling on whether the industry’s leading VLCC freight benchmark should have …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "baltic-exchange",
+    "vlcc"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "666547375eb7",
+   "title": "Port of Helsingborg to introduce Secure Container Release for import containers",
+   "link": "https://container-news.com/port-of-helsingborg-to-introduce-secure-container-release-for-import-containers/",
+   "source": "containernews",
+   "published": "2026-11-13T08:00:25Z",
+   "seen": "2026-11-13T10:06:22Z",
+   "lang": "en",
+   "excerpt": "The Port of Helsingborg is preparing to introduce Secure Container Release (SCR), a digital system designed to strengthen security and traceability in the release and pickup of loaded import containers.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6435e558e746",
+   "title": "New report identifies Hong Kong’s place in world shipping",
+   "link": "https://splash247.com/new-report-identifies-hong-kongs-place-in-world-shipping/",
+   "source": "splash",
+   "published": "2026-11-13T07:45:00Z",
+   "seen": "2026-11-12T21:53:40Z",
+   "lang": "en",
+   "excerpt": "Hong Kong Maritime Week is about to kick off. To celebrate the occasion, Splash today publishes a 48-page magazine on the city’s maritime hub credentials.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "e16ab2c7c87b",
+   "title": "Splash Wrap: Seafarers take centre stage",
+   "link": "https://splash247.com/splash-wrap-seafarers-take-centre-stage/",
+   "source": "splash",
+   "published": "2026-11-13T07:30:11Z",
+   "seen": "2026-11-13T10:06:22Z",
+   "lang": "en",
+   "excerpt": "This week saw the launch of Splash Crew, our new title dedicated to the people who keep global shipping moving. Our opening week highlighted some uncomfortable realities.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
   {
    "id": "7451f35b68da",
    "title": "Insurance Marine News – Friday November 13th 2026",
@@ -162,6 +530,28 @@
    "paywall": true
   },
   {
+   "id": "23346423fcb5",
+   "title": "Singapore-flagged cargo ship strikes US bridge",
+   "link": "https://splash247.com/singapore-flagged-cargo-ship-strikes-us-bridge/",
+   "source": "splash",
+   "published": "2026-11-13T07:00:17Z",
+   "seen": "2026-11-13T07:24:09Z",
+   "lang": "en",
+   "excerpt": "A Singapore-flagged cargoship has struck a bridge spanning the Delaware River between Philadelphia and New Jersey, forcing its closure and renewing concerns about the vulnerability of American bridges to vessel collisions.",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "handysize",
+    "dry-bulk",
+    "lt-utc"
+   ],
+   "paywall": false
+  },
+  {
    "id": "32eefd5052db",
    "title": "Where port operators should invest in an era of geopolitical disruption",
    "link": "https://container-news.com/where-port-operators-should-invest-in-an-era-of-geopolitical-disruption/",
@@ -219,28 +609,6 @@
    "paywall": true
   },
   {
-   "id": "6be2b3d20a94",
-   "title": "Gulf war leaves toxic legacy that could last decades",
-   "link": "https://splash247.com/gulf-war-leaves-toxic-legacy-that-could-last-decades/",
-   "source": "splash",
-   "published": "2026-11-13T06:24:39Z",
-   "seen": "2026-11-13T07:24:09Z",
-   "lang": "en",
-   "excerpt": "Greenpeace has identified 540 possible oil spills across the Gulf, Strait of Hormuz and Arabian Sea since the US-Iran war began on February 28 (see map below), with satellite imagery showing a cumulative slick footprint of approximately …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
    "id": "79dfbaf189e4",
    "title": "Wallenius SOL rebrands following ownership shake-up",
    "link": "https://splash247.com/wallenius-sol-rebrands-following-ownership-shake-up/",
@@ -263,29 +631,6 @@
    "paywall": false
   },
   {
-   "id": "5ccfdcb0650e",
-   "title": "Baltic Exchange and Mercuria await verdict in landmark tanker index trial",
-   "link": "https://splash247.com/baltic-exchange-and-mercuria-await-verdict-in-landmark-tanker-index-trial/",
-   "source": "splash",
-   "published": "2026-11-13T06:00:31Z",
-   "seen": "2026-11-13T07:24:09Z",
-   "lang": "en",
-   "excerpt": "One of shipping’s most consequential legal battles has concluded in London, with the Baltic Exchange and commodities trader Mercuria awaiting a High Court ruling on whether the industry’s leading VLCC freight benchmark should have …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "baltic-exchange",
-    "vlcc"
-   ],
-   "paywall": false
-  },
-  {
    "id": "bcf02a9ed387",
    "title": "ATI secures renewal of Manila South Harbour concession",
    "link": "https://container-news.com/ati-secures-renewal-of-manila-south-harbour-concession/",
@@ -304,34 +649,48 @@
    "paywall": false
   },
   {
-   "id": "23346423fcb5",
-   "title": "Singapore-flagged cargo ship strikes US bridge",
-   "link": "https://splash247.com/singapore-flagged-cargo-ship-strikes-us-bridge/",
-   "source": "splash",
-   "published": "2026-11-13T05:54:17Z",
-   "seen": "2026-11-13T07:24:09Z",
-   "lang": "en",
-   "excerpt": "A Singapore-flagged cargoship has struck a bridge spanning the Delaware River between Philadelphia and New Jersey, forcing its closure and renewing concerns about the vulnerability of American bridges to vessel collisions.",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "handysize",
-    "dry-bulk",
-    "lt-utc"
-   ],
-   "paywall": false
-  },
-  {
    "id": "040bca654540",
    "title": "To løsninger for smartere lagerplukk",
    "link": "https://www.mtlogistikk.no/autostore-kardex-lagerautomatisering/to-losninger-for-smartere-lagerplukk/1356752",
    "source": "mtlogistikk",
    "published": null,
    "seen": "2026-11-13T05:54:09Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "336a562e0eb8",
+   "title": "Kaos på første snødag – 23 bruksforbud",
+   "link": "https://www.mtlogistikk.no/dekk-e6-kjetting/kaos-pa-forste-snodag-23-bruksforbud/1361178",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-13T05:36:22Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "506de5f7c846",
+   "title": "Bodø-terminalen nærmer seg overtakelse",
+   "link": "https://www.mtlogistikk.no/bodo-bodo-havn-intermodal/bodo-terminalen-naermer-seg-overtakelse/1341807",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-13T04:51:22Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -365,16 +724,16 @@
    "paywall": false
   },
   {
-   "id": "6435e558e746",
-   "title": "New report identifies Hong Kong’s place in world shipping",
-   "link": "https://splash247.com/new-report-identifies-hong-kongs-place-in-world-shipping/",
-   "source": "splash",
-   "published": "2026-11-13T04:20:00Z",
-   "seen": "2026-11-12T21:53:40Z",
+   "id": "10fe8939fd60",
+   "title": "U.S. Navy Removes Command Triad From Attack Sub After a Reported Grounding",
+   "link": "https://maritime-executive.com/article/u-s-navy-removes-command-triad-from-attack-sub-after-a-reported-grounding",
+   "source": "marex",
+   "published": "2026-11-13T03:22:55Z",
+   "seen": "2026-11-13T10:06:22Z",
    "lang": "en",
-   "excerpt": "Hong Kong Maritime Week is about to kick off. To celebrate the occasion, Splash today publishes a 48-page magazine on the city’s maritime hub credentials.",
+   "excerpt": "Congress has just found out that the Navy removed all three of the top officers of the attack submarine USS South Dakota last month following a ground...",
    "segments": [
-    "freight"
+    "insurance"
    ],
    "subs": [],
    "policy": false,
@@ -383,38 +742,22 @@
    "paywall": false
   },
   {
-   "id": "95b4224b397b",
-   "title": "Bygger gigantanlegg for over 640 millioner kroner",
-   "link": "https://www.mtlogistikk.no/arlanda-dhl-express-flyfraktgateway/bygger-gigantanlegg-for-over-640-millioner-kroner/1359965",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-13T03:54:09Z",
-   "lang": "no",
-   "excerpt": "",
+   "id": "d8c265631c1f",
+   "title": "U.S. Grain Exports at Risk From Aging Barge Fleet and High Replacement Cost",
+   "link": "https://maritime-executive.com/article/u-s-grain-exports-at-risk-from-aging-barge-fleet-and-high-replacement-cost",
+   "source": "marex",
+   "published": "2026-11-13T03:05:56Z",
+   "seen": "2026-11-13T10:06:22Z",
+   "lang": "en",
+   "excerpt": "The United States faces a squeeze on grain transportation over the next decade because its inland barge fleet is retiring vessels faster than it build...",
    "segments": [
-    "road"
+    "freight"
    ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "9d74cf310424",
-   "title": "Gate stenges: Nytt kjøremønster i Oslo sentrum",
-   "link": "https://www.mtlogistikk.no/oslo-sentrum-ring-1-radhusgata/gate-stenges-nytt-kjoremonster-i-oslo-sentrum/1359479",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-13T03:39:09Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
+   "subs": [
+    "drybulk"
    ],
-   "subs": [],
    "policy": false,
-   "level": "national",
+   "level": "international",
    "terms": [],
    "paywall": false
   },
@@ -663,24 +1006,6 @@
     "contango",
     "bunkers"
    ],
-   "paywall": false
-  },
-  {
-   "id": "03dba96690a4",
-   "title": "Kaos på første snødag – 23 bruksforbud",
-   "link": "https://www.mtlogistikk.no/dekk-e6-kjetting/kaos-pa-forste-snodag-23-bruksforbud/1360905",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-12T23:46:21Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -18029,326 +18354,6 @@
     "liner"
    ],
    "paywall": false
-  },
-  {
-   "id": "d8afbe2c629f",
-   "title": "Aker Solutions scores multimillion-dollar job on oil field redevelopment offshore Qatar",
-   "link": "https://www.offshore-energy.biz/2026/11/05/aker-solutions-scores-multimillion-dollar-job-on-oil-field-redevelopment-offshore-qatar",
-   "source": "offshoreenergy",
-   "published": "2026-11-05T08:39:47Z",
-   "seen": "2026-11-05T10:11:23Z",
-   "lang": "en",
-   "excerpt": "Aker Solutions has been booked to undertake an assignment to extend the life of a field that has been producing oil since the mid-1960s.",
-   "segments": [
-    "road",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "5d2f123608f2",
-   "title": "Evergreen’s Suez return leaves Zim increasingly isolated",
-   "link": "https://splash247.com/evergreens-suez-return-leaves-zim-increasingly-isolated/",
-   "source": "splash",
-   "published": "2026-11-05T08:26:30Z",
-   "seen": "2026-11-05T10:11:23Z",
-   "lang": "en",
-   "excerpt": "The container shipping industry’s long detour around southern Africa is rapidly coming to an end, with Taiwan’s Evergreen preparing to send its first ships through the Suez Canal after almost three years of avoiding the Red Sea.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "b72391d195b9",
-   "title": "PLSV owned by DOF and TechnipFMC to work longer for Petrobras",
-   "link": "https://www.offshore-energy.biz/2026/11/05/plsv-owned-by-dof-and-technipfmc-to-work-longer-for-petrobras",
-   "source": "offshoreenergy",
-   "published": "2026-11-05T08:16:04Z",
-   "seen": "2026-11-05T10:11:23Z",
-   "lang": "en",
-   "excerpt": "A pipe-laying support vessel (PLSV) owned by a joint venture between DOF Group and TechnipFMC has secured a new long-term contract extension with...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "353888040711",
-   "title": "ZIM’s ZX3 enters a Transpacific premium race already shaped by speed and landside access",
-   "link": "https://container-news.com/zims-zx3-enters-a-transpacific-premium-race-already-shaped-by-speed-and-landside-access/",
-   "source": "containernews",
-   "published": "2026-11-05T08:00:36Z",
-   "seen": "2026-11-05T10:11:23Z",
-   "lang": "en",
-   "excerpt": "ZIM’s planned ZX3 service between China and Los Angeles adds another competitor to the premium Transpacific market. But the significance of the launch extends beyond the advertised 12-day crossing from Shanghai.",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "4436b64f2c02",
-   "title": "US sanctions Indian couple behind fake flag empire serving Iran’s shadow fleet",
-   "link": "https://splash247.com/us-sanctions-indian-couple-behind-fake-flag-empire-serving-irans-shadow-fleet/",
-   "source": "splash",
-   "published": "2026-11-05T08:00:04Z",
-   "seen": "2026-11-05T10:11:23Z",
-   "lang": "en",
-   "excerpt": "Washington has sanctioned an India-based husband-and-wife operation accused of running a sprawling network of fake ship registries supplying flags and certificates to tankers moving Iranian oil.",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "sanctions",
-    "shadow-fleet"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "36225e3e4fbe",
-   "title": "Saipem7 closing in on its debut as Brazil clears Saipem-Subsea7 merger",
-   "link": "https://www.offshore-energy.biz/2026/11/05/saipem7-closing-in-on-its-debut-as-brazil-clears-saipem-subsea7-merger",
-   "source": "offshoreenergy",
-   "published": "2026-11-05T07:39:59Z",
-   "seen": "2026-11-05T10:11:23Z",
-   "lang": "en",
-   "excerpt": "The multibillion-dollar merger between Saipem and Subsea7 has secured Brazil’s blessing, pending divestment of a vessel.",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "mna"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "c9e1bb91bc0c",
-   "title": "EU court hands Russian Maritime Register partial sanctions victory",
-   "link": "https://splash247.com/eu-court-hands-russian-maritime-register-partial-sanctions-victory/",
-   "source": "splash",
-   "published": "2026-11-05T07:31:00Z",
-   "seen": "2026-11-05T10:11:23Z",
-   "lang": "en",
-   "excerpt": "Russia’s state-owned ship classification society has secured a partial legal victory against European Union sanctions, with judges overturning a decision to permanently withdraw its recognition while upholding the majority of restrictions …",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "sanctions",
-    "class-society"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "6c25c3a42681",
-   "title": "JAXPORT secures US$40 million for Blount Island berth upgrade",
-   "link": "https://container-news.com/jaxport-secures-us40-million-for-blount-island-berth-upgrade/",
-   "source": "containernews",
-   "published": "2026-11-05T07:00:46Z",
-   "seen": "2026-11-05T07:25:56Z",
-   "lang": "en",
-   "excerpt": "The Jacksonville Port Authority (JAXPORT) has secured a US$40 million federal grant to modernise Berth 32 at the Blount Island Marine Terminal.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a3ce3ed26697",
-   "title": "Shipowners’ Club announces no general increase for 2027, reports good growth and investment returns in H1",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/shipowners-club-announces-no-general-increase-for-2027-reports-good-growth-and-investment-returns-in-h1/",
-   "source": "imn",
-   "published": "2026-11-05T06:46:34Z",
-   "seen": "2026-11-05T07:25:56Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "freight",
-    "finance",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "call"
-   ],
-   "paywall": true
-  },
-  {
-   "id": "66afa30cff2a",
-   "title": "Steamship will apply 4% General Increase for 2027/28, reveals 10% Capital Distribution",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/steamship-will-apply-4-general-increase-for-2027-28-reveals-10-capital-distribution/",
-   "source": "imn",
-   "published": "2026-11-05T06:45:10Z",
-   "seen": "2026-11-05T07:25:56Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "call"
-   ],
-   "paywall": true
-  },
-  {
-   "id": "e4fd9eed0cb0",
-   "title": "Bulgaria warns of container debris hitting land after vessel sinking",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/bulgaria-warns-of-container-debris-hitting-land-after-vessel-sinking/",
-   "source": "imn",
-   "published": "2026-11-05T06:44:02Z",
-   "seen": "2026-11-05T07:25:56Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "b4dae0456576",
-   "title": "Norwegian detention of sanctioned Chinese vessel raises bar on Arctic activity",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/norwegian-detention-of-sanctioned-chinese-vessel-raises-bar-on-arctic-activity/",
-   "source": "imn",
-   "published": "2026-11-05T06:42:59Z",
-   "seen": "2026-11-05T07:25:56Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "national",
-   "terms": [
-    "sanctions"
-   ],
-   "paywall": true
-  },
-  {
-   "id": "970245815708",
-   "title": "New broker platform from tigerlab",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/new-broker-platform-from-tigerlab/",
-   "source": "imn",
-   "published": "2026-11-05T06:41:57Z",
-   "seen": "2026-11-05T07:25:56Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "60e376df050c",
-   "title": "Villa Vie Odyssey reportedly leaves Cambodia, without its",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/villa-vie-odyssey-reportedly-leaves-cambodia-without-its/",
-   "source": "imn",
-   "published": "2026-11-05T06:40:56Z",
-   "seen": "2026-11-05T07:25:56Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "bacd117b5699",
-   "title": "Another attack in Strait of Hormuz",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/another-attack-in-strait-of-hormuz-2/",
-   "source": "imn",
-   "published": "2026-11-05T06:39:55Z",
-   "seen": "2026-11-05T07:25:56Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": true
-  },
-  {
-   "id": "d320ffe4323c",
-   "title": "Cargo shipped attacked in Yemen port, again",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/cargo-shipped-attacked-in-yemen-port-again/",
-   "source": "imn",
-   "published": "2026-11-05T06:39:13Z",
-   "seen": "2026-11-05T07:25:56Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
   }
  ]
 }
