@@ -1,14 +1,94 @@
 {
- "updated": "2026-11-14T09:52:30Z",
+ "updated": "2026-11-14T12:57:56Z",
  "sample": false,
  "articles": [
   {
-   "id": "336a562e0eb8",
-   "title": "Kaos på første snødag – 23 bruksforbud",
-   "link": "https://www.mtlogistikk.no/dekk-e6-kjetting/kaos-pa-forste-snodag-23-bruksforbud/1361178",
+   "id": "0bee71aecbdf",
+   "title": "Norges største tømmerhavn må flyttes",
+   "link": "https://www.mtlogistikk.no/lierstranda-logistikk-tommer/norges-storste-tommerhavn-ma-flyttes/1361351",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-14T09:22:30Z",
+   "seen": "2026-11-14T12:42:56Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "32841d4c608f",
+   "title": "Hai An takes delivery of Green View",
+   "link": "https://container-news.com/hai-an-takes-delivery-of-green-view/",
+   "source": "containernews",
+   "published": "2026-11-14T11:34:52Z",
+   "seen": "2026-11-14T12:57:56Z",
+   "lang": "en",
+   "excerpt": "Hai An Transport and Stevedoring has taken delivery of the 2,702 TEU container vessel GREEN VIEW, increasing its fleet to 21 vessels with a combined carrying capacity of 35,700 TEU.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "040bca654540",
+   "title": "To løsninger for smartere lagerplukk",
+   "link": "https://www.mtlogistikk.no/autostore-kardex-lagerautomatisering/to-losninger-for-smartere-lagerplukk/1356752",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-14T10:12:56Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "60424d7cd37b",
+   "title": "Maersk updates fuel surcharges in Greece and Skopje",
+   "link": "https://container-news.com/maersk-updates-fuel-surcharges-in-greece-and-skopje-2/",
+   "source": "containernews",
+   "published": "2026-11-14T10:08:50Z",
+   "seen": "2026-11-14T12:57:56Z",
+   "lang": "en",
+   "excerpt": "Maersk has announced revised fuel surcharges for truck transportation in Greece and Skopje, effective from 16 November 2026, as the carrier continues adjusting inland transport charges in response to higher fuel costs linked to …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "fuel-surcharge"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "03dba96690a4",
+   "title": "Kaos på første snødag – 23 bruksforbud",
+   "link": "https://www.mtlogistikk.no/dekk-e6-kjetting/kaos-pa-forste-snodag-23-bruksforbud/1360905",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-14T09:57:56Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -41,24 +121,6 @@
    "paywall": false
   },
   {
-   "id": "d8bac8ceb688",
-   "title": "Norges største tømmerhavn må flyttes",
-   "link": "https://www.mtlogistikk.no/lierstranda-logistikk-tommer/norges-storste-tommerhavn-ma-flyttes/1361482",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-14T07:52:30Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "ad4ac39d94de",
    "title": "Bulker Hits Bridge Near Philadelphia",
    "link": "https://maritime-executive.com/article/bulker-hits-bridge-near-philadelphia",
@@ -78,24 +140,6 @@
    "terms": [
     "dry-bulk"
    ],
-   "paywall": false
-  },
-  {
-   "id": "f0f0cae8e99d",
-   "title": "To løsninger for smartere lagerplukk",
-   "link": "https://www.mtlogistikk.no/autostore-kardex-lagerautomatisering/to-losninger-for-smartere-lagerplukk/1361214",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-14T07:07:48Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -18276,53 +18320,6 @@
    "level": "international",
    "terms": [
     "offshore-wind"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "d83e509d7c4f",
-   "title": "Suez Canal Authority Tows Sanctioned Russian Tanker to Safety",
-   "link": "https://maritime-executive.com/article/suez-canal-authority-tows-sanctioned-russian-tanker-to-safety",
-   "source": "marex",
-   "published": "2026-11-06T01:47:13Z",
-   "seen": "2026-11-06T03:58:15Z",
-   "lang": "en",
-   "excerpt": "The Suez Canal Authority is highlighting its broad salvage capabilities available to shipping beyond the canal, including regional waters around Egypt...",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "chokepoint",
-    "sanctions",
-    "salvage"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "f3987ab9760c",
-   "title": "What the Transpacific boom means for operations",
-   "link": "https://container-news.com/what-the-transpacific-boom-means-for-operations/",
-   "source": "containernews",
-   "published": "2026-11-06T01:00:39Z",
-   "seen": "2026-11-06T01:16:28Z",
-   "lang": "en",
-   "excerpt": "The route’s record earnings reflect scarce usable capacity more than strong demand, and that changes the risks facing carriers, ports and shippers. The transpacific has become the most lucrative major container trade in the world.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "shipper-consignee"
    ],
    "paywall": false
   }
