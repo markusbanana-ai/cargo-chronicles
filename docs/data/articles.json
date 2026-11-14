@@ -1,7 +1,85 @@
 {
- "updated": "2026-11-14T07:07:48Z",
+ "updated": "2026-11-14T09:52:30Z",
  "sample": false,
  "articles": [
+  {
+   "id": "336a562e0eb8",
+   "title": "Kaos på første snødag – 23 bruksforbud",
+   "link": "https://www.mtlogistikk.no/dekk-e6-kjetting/kaos-pa-forste-snodag-23-bruksforbud/1361178",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-14T09:22:30Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "9dbd8eb78247",
+   "title": "Kalmar secures electric reachstacker order in Poland",
+   "link": "https://container-news.com/kalmar-secures-electric-reachstacker-order-in-poland/",
+   "source": "containernews",
+   "published": "2026-11-14T08:54:49Z",
+   "seen": "2026-11-14T09:52:30Z",
+   "lang": "en",
+   "excerpt": "Kalmar has secured an order from POK Zachód for a customised electric reachstacker at its logistics terminal in Wojkowice, Poland. The equipment will support container and steel handling operations.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "d8bac8ceb688",
+   "title": "Norges største tømmerhavn må flyttes",
+   "link": "https://www.mtlogistikk.no/lierstranda-logistikk-tommer/norges-storste-tommerhavn-ma-flyttes/1361482",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-14T07:52:30Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ad4ac39d94de",
+   "title": "Bulker Hits Bridge Near Philadelphia",
+   "link": "https://maritime-executive.com/article/bulker-hits-bridge-near-philadelphia",
+   "source": "marex",
+   "published": "2026-11-14T07:40:00Z",
+   "seen": "2026-11-14T09:52:30Z",
+   "lang": "en",
+   "excerpt": "On Thursday, a foreign-flagged bulker hit a bridge on the Delaware River, forcing a rush-hour closure for inspections. On Thursday afternoon, the bulk...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dry-bulk"
+   ],
+   "paywall": false
+  },
   {
    "id": "f0f0cae8e99d",
    "title": "To løsninger for smartere lagerplukk",
@@ -44,24 +122,6 @@
    "paywall": false
   },
   {
-   "id": "0bee71aecbdf",
-   "title": "Norges største tømmerhavn må flyttes",
-   "link": "https://www.mtlogistikk.no/lierstranda-logistikk-tommer/norges-storste-tommerhavn-ma-flyttes/1361351",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-14T06:52:48Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "5bc2958623b9",
    "title": "Evergreen and RCL join Emirates Shipping’s new East Africa service",
    "link": "https://container-news.com/evergreen-and-rcl-join-emirates-shippings-new-east-africa-service/",
@@ -84,20 +144,38 @@
    "paywall": false
   },
   {
-   "id": "03dba96690a4",
-   "title": "Kaos på første snødag – 23 bruksforbud",
-   "link": "https://www.mtlogistikk.no/dekk-e6-kjetting/kaos-pa-forste-snodag-23-bruksforbud/1360905",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-14T04:07:48Z",
-   "lang": "no",
-   "excerpt": "",
+   "id": "3bec33986016",
+   "title": "GHD Announces Port Engineering Contracts in Los Angeles and Savannah",
+   "link": "https://maritime-executive.com/article/ghd-announces-port-engineering-contracts-in-los-angeles-and-savannah",
+   "source": "marex",
+   "published": "2026-11-14T04:34:00Z",
+   "seen": "2026-11-14T09:52:30Z",
+   "lang": "en",
+   "excerpt": "GHD has been selected as the design engineer for the new marine terminal at the SeaPoint Industrial Terminal Complex in Savannah, Georgia, partnering...",
    "segments": [
-    "road"
+    "freight"
    ],
    "subs": [],
    "policy": false,
-   "level": "national",
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "f9c7a70d36cc",
+   "title": "Fairbanks Acquires Truflo Marine",
+   "link": "https://maritime-executive.com/article/fairbanks-acquires-truflo-marine-expanding-australian-submarine-manufacturing-capabilities",
+   "source": "marex",
+   "published": "2026-11-14T04:33:00Z",
+   "seen": "2026-11-14T09:52:30Z",
+   "lang": "en",
+   "excerpt": "Fairbanks Morse Defense recently announced the acquisition of Truflo Marine, marking a major expansion of its ability to support allied submarine prod...",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
    "terms": [],
    "paywall": false
   },
@@ -848,7 +926,7 @@
   },
   {
    "id": "c72dda5e925a",
-   "title": "Estonia Confirms Multiple Drone Hits on Russian Corvette in the Baltic",
+   "title": "Ukraine Hits Russian Corvette With Multiple Drones in the Gulf of Finland",
    "link": "https://maritime-executive.com/article/estonia-confirms-ukrainian-drone-hits-on-russian-corvette-in-the-baltic",
    "source": "marex",
    "published": "2026-11-13T19:56:00Z",
@@ -18245,96 +18323,6 @@
    "level": "international",
    "terms": [
     "shipper-consignee"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "017ba81dab9c",
-   "title": "Upbeat Outlook from Maersk Fails to Win Over Investors",
-   "link": "https://maritime-executive.com/article/upbeat-outlook-from-maersk-fails-to-win-over-investors",
-   "source": "marex",
-   "published": "2026-11-06T00:40:21Z",
-   "seen": "2026-11-06T01:16:28Z",
-   "lang": "en",
-   "excerpt": "Maersk, which has long been considered a bellwether for the industry as the largest publicly traded company in the sector, issued a very positive upda...",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "fa8b52877f50",
-   "title": "One Seafarer Reported Killed in Strike on a Tanker off Qatar",
-   "link": "https://maritime-executive.com/article/one-seafarer-reported-killed-in-strike-on-a-tanker-off-qatar",
-   "source": "marex",
-   "published": "2026-11-06T00:31:08Z",
-   "seen": "2026-11-06T01:16:28Z",
-   "lang": "en",
-   "excerpt": "A Greek product tanker has been damaged and one crewmember reportedly killed in an attack in the central Arabian Gulf, according to multiple open-sou...",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "product-tanker"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "ea83aebf2dd3",
-   "title": "Hapag-Lloyd announces export gate-in restrictions at APMT Valencia",
-   "link": "https://container-news.com/hapag-lloyd-announces-export-gate-in-restrictions-at-apmt-valencia/",
-   "source": "containernews",
-   "published": "2026-11-05T23:30:38Z",
-   "seen": "2026-11-06T01:16:28Z",
-   "lang": "en",
-   "excerpt": "Hapag-Lloyd has announced temporary restrictions on export container deliveries at APM Terminals Valencia due to ongoing congestion at the Spanish terminal.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "congestion"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "d740ad62d01b",
-   "title": "Ammonia-Powered Bulk Carrier Takes on Green Fuel in Australian First",
-   "link": "https://gcaptain.com/ammonia-powered-bulk-carrier-takes-on-green-fuel-in-australian-first/",
-   "source": "gcaptain",
-   "published": "2026-11-05T22:49:48Z",
-   "seen": "2026-11-06T01:16:28Z",
-   "lang": "en",
-   "excerpt": "Australia has completed its first green ammonia bunkering operation involving an ammonia-powered bulk carrier, marking another step toward bringing alternative fuels into commercial shipping. The operation took place earlier this...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "dry-bulk",
-    "dual-fuel",
-    "bunkers"
    ],
    "paywall": false
   }
