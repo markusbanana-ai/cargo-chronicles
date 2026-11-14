@@ -1,14 +1,68 @@
 {
- "updated": "2026-11-14T18:50:45Z",
+ "updated": "2026-11-14T21:44:17Z",
  "sample": false,
  "articles": [
   {
-   "id": "0bee71aecbdf",
-   "title": "Norges største tømmerhavn må flyttes",
-   "link": "https://www.mtlogistikk.no/lierstranda-logistikk-tommer/norges-storste-tommerhavn-ma-flyttes/1361351",
+   "id": "f0f0cae8e99d",
+   "title": "To løsninger for smartere lagerplukk",
+   "link": "https://www.mtlogistikk.no/autostore-kardex-lagerautomatisering/to-losninger-for-smartere-lagerplukk/1361214",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-14T18:35:45Z",
+   "seen": "2026-11-14T21:44:17Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "336a562e0eb8",
+   "title": "Kaos på første snødag – 23 bruksforbud",
+   "link": "https://www.mtlogistikk.no/dekk-e6-kjetting/kaos-pa-forste-snodag-23-bruksforbud/1361178",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-14T21:14:17Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "0eeb120b9372",
+   "title": "Tailwind replaces Colombo with Xiamen on Tiger Express service",
+   "link": "https://container-news.com/tailwind-replaces-colombo-with-xiamen-on-tiger-express-service/",
+   "source": "containernews",
+   "published": "2026-11-14T20:00:18Z",
+   "seen": "2026-11-14T21:44:17Z",
+   "lang": "en",
+   "excerpt": "Tailwind Shipping Lines will revise the rotation of its Tiger Express (TEX) service in December 2026, replacing the Sri Lankan port of Colombo with Xiamen in China.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "d8bac8ceb688",
+   "title": "Norges største tømmerhavn må flyttes",
+   "link": "https://www.mtlogistikk.no/lierstranda-logistikk-tommer/norges-storste-tommerhavn-ma-flyttes/1361482",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-14T19:44:17Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -80,42 +134,6 @@
    "terms": [
     "teu"
    ],
-   "paywall": false
-  },
-  {
-   "id": "040bca654540",
-   "title": "To løsninger for smartere lagerplukk",
-   "link": "https://www.mtlogistikk.no/autostore-kardex-lagerautomatisering/to-losninger-for-smartere-lagerplukk/1356752",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-14T16:05:45Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "03dba96690a4",
-   "title": "Kaos på første snødag – 23 bruksforbud",
-   "link": "https://www.mtlogistikk.no/dekk-e6-kjetting/kaos-pa-forste-snodag-23-bruksforbud/1360905",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-14T15:50:45Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -18312,26 +18330,6 @@
    "policy": false,
    "level": "national",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "90a29b7bb522",
-   "title": "South Korea Plans to Deploy Naval Assets Closer to Hormuz",
-   "link": "https://maritime-executive.com/article/south-korea-plans-to-deploy-naval-assets-closer-to-hormuz",
-   "source": "marex",
-   "published": "2026-11-06T02:50:47Z",
-   "seen": "2026-11-06T03:58:15Z",
-   "lang": "en",
-   "excerpt": "South Korea's government wants to deploy naval assets somewhat closer to the Strait of Hormuz, eight months after the start of the U.S.-Iran conflict....",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
    "paywall": false
   }
  ]
