@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-14T03:57:43Z",
+ "updated": "2026-11-14T07:07:48Z",
  "sample": false,
  "articles": [
   {
-   "id": "336a562e0eb8",
-   "title": "Kaos på første snødag – 23 bruksforbud",
-   "link": "https://www.mtlogistikk.no/dekk-e6-kjetting/kaos-pa-forste-snodag-23-bruksforbud/1361178",
+   "id": "f0f0cae8e99d",
+   "title": "To løsninger for smartere lagerplukk",
+   "link": "https://www.mtlogistikk.no/autostore-kardex-lagerautomatisering/to-losninger-for-smartere-lagerplukk/1361214",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-14T03:27:43Z",
+   "seen": "2026-11-14T07:07:48Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -18,6 +18,109 @@
    "policy": false,
    "level": "national",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ff37e6f9d526",
+   "title": "Summit Shipping announces new China–Red Sea container service",
+   "link": "https://container-news.com/summit-shipping-announces-new-china-red-sea-container-service/",
+   "source": "containernews",
+   "published": "2026-11-14T07:00:47Z",
+   "seen": "2026-11-14T07:07:48Z",
+   "lang": "en",
+   "excerpt": "Summit Shipping Line has announced the launch of its new China Red Sea Service (CRS), establishing a weekly container shipping connection between China and three major Red Sea ports, according to DynaLiners.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint",
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "0bee71aecbdf",
+   "title": "Norges største tømmerhavn må flyttes",
+   "link": "https://www.mtlogistikk.no/lierstranda-logistikk-tommer/norges-storste-tommerhavn-ma-flyttes/1361351",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-14T06:52:48Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5bc2958623b9",
+   "title": "Evergreen and RCL join Emirates Shipping’s new East Africa service",
+   "link": "https://container-news.com/evergreen-and-rcl-join-emirates-shippings-new-east-africa-service/",
+   "source": "containernews",
+   "published": "2026-11-14T05:34:46Z",
+   "seen": "2026-11-14T07:07:48Z",
+   "lang": "en",
+   "excerpt": "Evergreen and Regional Container Lines (RCL) will participate in the new Far East–East Africa container service alongside Emirates Shipping Line and Interasia Lines, with the four carriers marketing the connection under separate service …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "03dba96690a4",
+   "title": "Kaos på første snødag – 23 bruksforbud",
+   "link": "https://www.mtlogistikk.no/dekk-e6-kjetting/kaos-pa-forste-snodag-23-bruksforbud/1360905",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-14T04:07:48Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "52724f94c265",
+   "title": "MOVe Logistics adds Newcastle to trans-Tasman shipping service",
+   "link": "https://container-news.com/move-logistics-adds-newcastle-to-trans-tasman-shipping-service/",
+   "source": "containernews",
+   "published": "2026-11-14T04:00:56Z",
+   "seen": "2026-11-14T07:07:48Z",
+   "lang": "en",
+   "excerpt": "New Zealand-based MOVe Logistics has expanded its trans-Tasman multipurpose shipping service with a call at Newcastle, Australia, strengthening connections between regional ports in the two countries.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "project-cargo"
+   ],
    "paywall": false
   },
   {
@@ -83,24 +186,6 @@
    "paywall": false
   },
   {
-   "id": "d8bac8ceb688",
-   "title": "Norges største tømmerhavn må flyttes",
-   "link": "https://www.mtlogistikk.no/lierstranda-logistikk-tommer/norges-storste-tommerhavn-ma-flyttes/1361482",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-14T01:57:43Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "fed81f760253",
    "title": "Report: Coast Guard Investigates Possible \"Magic Pipe\" Case on MSC Poesia",
    "link": "https://maritime-executive.com/article/report-coast-guard-investigates-possible-magic-pipe-case-on-msc-poesia",
@@ -117,24 +202,6 @@
    ],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "040bca654540",
-   "title": "To løsninger for smartere lagerplukk",
-   "link": "https://www.mtlogistikk.no/autostore-kardex-lagerautomatisering/to-losninger-for-smartere-lagerplukk/1356752",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-14T01:12:43Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18268,69 +18335,6 @@
     "dry-bulk",
     "dual-fuel",
     "bunkers"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "7a3fc7ca2ba6",
-   "title": "Finnish Court Jails Cargo Ship Captain, Crew Member for Baltic Sea Cable Sabotage",
-   "link": "https://gcaptain.com/finnish-court-jails-cargo-ship-captain-crew-member-for-baltic-sea-cable-sabotage/",
-   "source": "gcaptain",
-   "published": "2026-11-05T22:44:20Z",
-   "seen": "2026-11-06T01:16:28Z",
-   "lang": "en",
-   "excerpt": "A Finnish court on Thursday jailed the Russian captain and an Azerbaijani crew member of the cargo ship Fitburg for aggravated sabotage over damage to two subsea telecommunications cables in the Gulf of Finland last year.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "98e023a53ba1",
-   "title": "Ørsted Starts Commercial Operations on Its Second US Offshore Wind Farm",
-   "link": "https://maritime-executive.com/article/oersted-starts-commercial-operations-on-its-second-us-offshore-wind-farm",
-   "source": "marex",
-   "published": "2026-11-05T22:26:26Z",
-   "seen": "2026-11-06T01:16:28Z",
-   "lang": "en",
-   "excerpt": "Revolution Wind, an offshore wind farm providing power to Connecticut and Rhode Island, has entered commercial operations, despite repeated challenges...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "offshore-wind"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "b438841bece9",
-   "title": "Seven Shadow Fleet Tankers Spoof AIS to Hide Novorossiysk Voyages",
-   "link": "https://www.hellenicshippingnews.com/seven-shadow-fleet-tankers-spoof-ais-to-hide-novorossiysk-voyages/",
-   "source": "hsn",
-   "published": "2026-11-05T22:00:59Z",
-   "seen": "2026-11-06T01:16:28Z",
-   "lang": "en",
-   "excerpt": "Sanctioned Tankers Fake Their Positions Near the Bosphorus A cluster of seven sanctioned Russian tankers were found to have routinely and deliberately manipulated AIS over the past 90 days to falsely claim they were drifting off the Black …",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "shadow-fleet",
-    "ais",
-    "sanctions"
    ],
    "paywall": false
   }
