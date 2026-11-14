@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-14T12:57:56Z",
+ "updated": "2026-11-14T15:47:09Z",
  "sample": false,
  "articles": [
   {
-   "id": "0bee71aecbdf",
-   "title": "Norges største tømmerhavn må flyttes",
-   "link": "https://www.mtlogistikk.no/lierstranda-logistikk-tommer/norges-storste-tommerhavn-ma-flyttes/1361351",
+   "id": "f0f0cae8e99d",
+   "title": "To løsninger for smartere lagerplukk",
+   "link": "https://www.mtlogistikk.no/autostore-kardex-lagerautomatisering/to-losninger-for-smartere-lagerplukk/1361214",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-14T12:42:56Z",
+   "seen": "2026-11-14T15:47:09Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -18,6 +18,86 @@
    "policy": false,
    "level": "national",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "336a562e0eb8",
+   "title": "Kaos på første snødag – 23 bruksforbud",
+   "link": "https://www.mtlogistikk.no/dekk-e6-kjetting/kaos-pa-forste-snodag-23-bruksforbud/1361178",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-14T15:17:09Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "fa4af764560a",
+   "title": "Why Maersk’s latest hack matters more than it looks",
+   "link": "https://container-news.com/why-maersks-latest-hack-matters-more-than-it-looks/",
+   "source": "containernews",
+   "published": "2026-11-14T14:43:11Z",
+   "seen": "2026-11-14T15:47:09Z",
+   "lang": "en",
+   "excerpt": "A contained intrusion into a legacy system shows how consolidation, logistics data and the Hormuz war’s digital front are reshaping shipping’s risk map On Wednesday, Maersk confirmed that hackers had broken into an older IT system and …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "d8bac8ceb688",
+   "title": "Norges største tømmerhavn må flyttes",
+   "link": "https://www.mtlogistikk.no/lierstranda-logistikk-tommer/norges-storste-tommerhavn-ma-flyttes/1361482",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-14T13:47:09Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4c661939a55c",
+   "title": "KMTC to launch own South Korea–Vietnam container service in December",
+   "link": "https://container-news.com/kmtc-to-launch-own-south-korea-vietnam-container-service-in-december/",
+   "source": "containernews",
+   "published": "2026-11-14T13:00:57Z",
+   "seen": "2026-11-14T15:47:09Z",
+   "lang": "en",
+   "excerpt": "KMTC is preparing to launch a new container shipping service connecting South Korea, Vietnam and China in December 2026, introducing its own vessel-operated connection on a trade currently served through a slot-chartering arrangement.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "teu"
+   ],
    "paywall": false
   },
   {
@@ -43,24 +123,6 @@
    "paywall": false
   },
   {
-   "id": "040bca654540",
-   "title": "To løsninger for smartere lagerplukk",
-   "link": "https://www.mtlogistikk.no/autostore-kardex-lagerautomatisering/to-losninger-for-smartere-lagerplukk/1356752",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-14T10:12:56Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "60424d7cd37b",
    "title": "Maersk updates fuel surcharges in Greece and Skopje",
    "link": "https://container-news.com/maersk-updates-fuel-surcharges-in-greece-and-skopje-2/",
@@ -80,24 +142,6 @@
    "terms": [
     "fuel-surcharge"
    ],
-   "paywall": false
-  },
-  {
-   "id": "03dba96690a4",
-   "title": "Kaos på første snødag – 23 bruksforbud",
-   "link": "https://www.mtlogistikk.no/dekk-e6-kjetting/kaos-pa-forste-snodag-23-bruksforbud/1360905",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-14T09:57:56Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -18280,47 +18324,6 @@
    "policy": false,
    "level": "national",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "34a782950d3c",
-   "title": "HEA Energy snaps up Subsea7’s six-ship heavy transport business",
-   "link": "https://splash247.com/hea-energy-snaps-up-subsea7s-six-ship-heavy-transport-business/",
-   "source": "splash",
-   "published": "2026-11-06T02:20:54Z",
-   "seen": "2026-11-05T13:17:38Z",
-   "lang": "en",
-   "excerpt": "Abu Dhabi-based HEA Energy has struck a deal to acquire Subsea7’s heavy transportation business, adding a six-vessel operation to its growing offshore fleet.",
-   "segments": [
-    "finance",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "rig"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "eb2fb54358e9",
-   "title": "Fugro lands German offshore wind survey contract",
-   "link": "https://splash247.com/fugro-lands-german-offshore-wind-survey-contract/",
-   "source": "splash",
-   "published": "2026-11-06T02:10:00Z",
-   "seen": "2026-11-06T07:22:52Z",
-   "lang": "en",
-   "excerpt": "Dutch marine survey specialist Fugro has secured a multi-year framework agreement with Germany’s Federal Maritime and Hydrographic Agency (BSH) for geotechnical site investigations in the German North Sea.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "offshore-wind"
-   ],
    "paywall": false
   }
  ]
