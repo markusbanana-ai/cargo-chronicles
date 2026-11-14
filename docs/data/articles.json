@@ -1,7 +1,105 @@
 {
- "updated": "2026-11-14T01:08:25Z",
+ "updated": "2026-11-14T03:57:43Z",
  "sample": false,
  "articles": [
+  {
+   "id": "336a562e0eb8",
+   "title": "Kaos på første snødag – 23 bruksforbud",
+   "link": "https://www.mtlogistikk.no/dekk-e6-kjetting/kaos-pa-forste-snodag-23-bruksforbud/1361178",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-14T03:27:43Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "10607b23b39f",
+   "title": "Bunker Industry Adapts in Year of Extraordinary Disruption",
+   "link": "https://maritime-executive.com/article/bunker-industry-adapts-in-year-of-extraordinary-disruption",
+   "source": "marex",
+   "published": "2026-11-14T02:39:30Z",
+   "seen": "2026-11-14T03:57:43Z",
+   "lang": "en",
+   "excerpt": "The bunker industry has adapted to what many industry executives called a year of extraordinary disruption and challenges. While overcoming geopolitic...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bunkers"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "6d7e3c9a11f3",
+   "title": "‘Miracle on the Mississippi’: All Accounted For After Tanker Capsizes Cruise Ship in New Orleans",
+   "link": "https://gcaptain.com/miracle-on-the-mississippi-all-accounted-for-after-tanker-capsizes-cruise-ship-in-new-orleans/",
+   "source": "gcaptain",
+   "published": "2026-11-14T02:34:17Z",
+   "seen": "2026-11-14T03:57:43Z",
+   "lang": "en",
+   "excerpt": "All passengers and crew aboard an American Cruise Lines riverboat survived after a Marshall Islands-flagged asphalt tanker struck the docked paddle-wheeler on the Mississippi River in New Orleans on Friday,...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ab96f07b0c5a",
+   "title": "Aliança shifts ALCT1 service from Sepetiba to Rio de Janeiro",
+   "link": "https://container-news.com/alianca-shifts-alct1-service-from-sepetiba-to-rio-de-janeiro/",
+   "source": "containernews",
+   "published": "2026-11-14T02:12:56Z",
+   "seen": "2026-11-14T03:57:43Z",
+   "lang": "en",
+   "excerpt": "Aliança, Maersk’s Brazilian shipping subsidiary, will replace its existing Sepetiba call with Rio de Janeiro on its domestic cabotage ALCT1 service, effective from 4 December 2026.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "cabotage"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "d8bac8ceb688",
+   "title": "Norges største tømmerhavn må flyttes",
+   "link": "https://www.mtlogistikk.no/lierstranda-logistikk-tommer/norges-storste-tommerhavn-ma-flyttes/1361482",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-14T01:57:43Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
   {
    "id": "fed81f760253",
    "title": "Report: Coast Guard Investigates Possible \"Magic Pipe\" Case on MSC Poesia",
@@ -23,12 +121,12 @@
    "paywall": false
   },
   {
-   "id": "f0f0cae8e99d",
+   "id": "040bca654540",
    "title": "To løsninger for smartere lagerplukk",
-   "link": "https://www.mtlogistikk.no/autostore-kardex-lagerautomatisering/to-losninger-for-smartere-lagerplukk/1361214",
+   "link": "https://www.mtlogistikk.no/autostore-kardex-lagerautomatisering/to-losninger-for-smartere-lagerplukk/1356752",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-14T01:08:25Z",
+   "seen": "2026-11-14T01:12:43Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -62,24 +160,6 @@
     "dwt",
     "lt-utc"
    ],
-   "paywall": false
-  },
-  {
-   "id": "0bee71aecbdf",
-   "title": "Norges største tømmerhavn må flyttes",
-   "link": "https://www.mtlogistikk.no/lierstranda-logistikk-tommer/norges-storste-tommerhavn-ma-flyttes/1361351",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-14T00:53:25Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -153,24 +233,6 @@
    "subs": [],
    "policy": true,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "03dba96690a4",
-   "title": "Kaos på første snødag – 23 bruksforbud",
-   "link": "https://www.mtlogistikk.no/dekk-e6-kjetting/kaos-pa-forste-snodag-23-bruksforbud/1360905",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-13T22:08:25Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -664,7 +726,7 @@
    "published": "2026-11-13T20:45:59Z",
    "seen": "2026-11-14T01:08:25Z",
    "lang": "en",
-   "excerpt": "Update: Local officials say there are all passengers are accounted for. More than 30 hospitalized, but none in critical condition. A Marshall Islands-flagged asphalt tanker struck the docked American Cruise...",
+   "excerpt": "Update: ‘Miracle on the Mississippi’: All Accounted For After Tanker Capsizes Cruise Ship in New Orleans A Marshall Islands-flagged asphalt tanker struck the docked American Cruise Lines riverboat American Heritage on the...",
    "segments": [
     "freight",
     "insurance"
@@ -18269,70 +18331,6 @@
     "shadow-fleet",
     "ais",
     "sanctions"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "7fe578359b9c",
-   "title": "Newbuilding Orders Piling Up",
-   "link": "https://www.hellenicshippingnews.com/newbuilding-orders-piling-up/",
-   "source": "hsn",
-   "published": "2026-11-05T22:00:59Z",
-   "seen": "2026-11-06T01:16:28Z",
-   "lang": "en",
-   "excerpt": "The newbuilding market has remained very elevated over the past week, as owners have kept securing more orders. In its latest weekly report, shipbroker Banchero Costa said that “newbuilding activity remained exceptionally strong this week …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "newbuilding",
-    "shipbroker",
-    "dry-bulk"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "32dcb5545a0c",
-   "title": "Inmarsat Maritime Safety Data Hub to help shipping weather the storm",
-   "link": "https://www.hellenicshippingnews.com/inmarsat-maritime-safety-data-hub-to-help-shipping-weather-the-storm/",
-   "source": "hsn",
-   "published": "2026-11-05T22:00:58Z",
-   "seen": "2026-11-06T01:16:28Z",
-   "lang": "en",
-   "excerpt": "Deep-sea shipping is an inherently hazardous enterprise and the many operational risks faced by vessels, cargo, and crew will likely never be eliminated entirely.",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "21064830e95f",
-   "title": "Dorian LPG Ltd. Reports Record Earnings on Strong Market Conditions and Ship Resale Profits",
-   "link": "https://www.hellenicshippingnews.com/dorian-lpg-ltd-reports-record-earnings-on-strong-market-conditions-and-ship-resale-profits/",
-   "source": "hsn",
-   "published": "2026-11-05T22:00:57Z",
-   "seen": "2026-11-06T01:16:28Z",
-   "lang": "en",
-   "excerpt": "Dorian LPG Ltd., a leading owner and operator of modern very large gas carriers (“VLGCs”), reported its financial results for the three months ended September 30, 2026.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lpg"
    ],
    "paywall": false
   }
