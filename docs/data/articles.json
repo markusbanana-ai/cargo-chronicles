@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-15T09:54:05Z",
+ "updated": "2026-11-15T12:59:30Z",
  "sample": false,
  "articles": [
   {
-   "id": "f0f0cae8e99d",
-   "title": "To løsninger for smartere lagerplukk",
-   "link": "https://www.mtlogistikk.no/autostore-kardex-lagerautomatisering/to-losninger-for-smartere-lagerplukk/1361214",
+   "id": "0bee71aecbdf",
+   "title": "Norges største tømmerhavn må flyttes",
+   "link": "https://www.mtlogistikk.no/lierstranda-logistikk-tommer/norges-storste-tommerhavn-ma-flyttes/1361351",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-15T09:54:05Z",
+   "seen": "2026-11-15T12:44:30Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -21,12 +21,50 @@
    "paywall": false
   },
   {
-   "id": "336a562e0eb8",
-   "title": "Kaos på første snødag – 23 bruksforbud",
-   "link": "https://www.mtlogistikk.no/dekk-e6-kjetting/kaos-pa-forste-snodag-23-bruksforbud/1361178",
+   "id": "a4e1b950e809",
+   "title": "Borderlands Mexico: Texas cross-border traffic rises by 400 trucks through Saturday pilot",
+   "link": "https://www.freightwaves.com/news/borderlands-mexico-texas-cross-border-traffic-rises-by-400-trucks-through-saturday-pilot",
+   "source": "freightwaves",
+   "published": "2026-11-15T12:00:00Z",
+   "seen": "2026-11-15T12:59:30Z",
+   "lang": "en",
+   "excerpt": "This week in Borderlands Mexico: Texas cross-border traffic rises by 400 trucks through Saturday pilot; Truck freight between US and Mexico reaches $75.4B in September; and Teleflex invests $5M in new medical device manufacturing facility …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8bd7cf24b38a",
+   "title": "MSC restructures Baltic Loop 07 into Klaipeda–Kotka shuttle",
+   "link": "https://container-news.com/msc-restructures-baltic-loop-07-into-klaipeda-kotka-shuttle/",
+   "source": "containernews",
+   "published": "2026-11-15T11:38:07Z",
+   "seen": "2026-11-15T12:59:30Z",
+   "lang": "en",
+   "excerpt": "MSC has revised its Baltic Loop 07 service, replacing the previous multi-port rotation with a dedicated shuttle connection between Klaipeda in Lithuania and Kotka in Finland.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "040bca654540",
+   "title": "To løsninger for smartere lagerplukk",
+   "link": "https://www.mtlogistikk.no/autostore-kardex-lagerautomatisering/to-losninger-for-smartere-lagerplukk/1356752",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-15T09:24:05Z",
+   "seen": "2026-11-15T10:14:30Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -35,6 +73,44 @@
    "subs": [],
    "policy": false,
    "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "03dba96690a4",
+   "title": "Kaos på første snødag – 23 bruksforbud",
+   "link": "https://www.mtlogistikk.no/dekk-e6-kjetting/kaos-pa-forste-snodag-23-bruksforbud/1360905",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-15T09:59:30Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "2cc7daa76132",
+   "title": "Sea-Intelligence: Is 2026 TP Peak Season Driven by AI?",
+   "link": "https://container-news.com/sea-intelligence-is-2026-tp-peak-season-driven-by-ai/",
+   "source": "containernews",
+   "published": "2026-11-15T09:55:03Z",
+   "seen": "2026-11-15T12:59:30Z",
+   "lang": "en",
+   "excerpt": "According to data from the US Census Bureau, the still-ongoing 2026 Transpacific container shipping peak season is not being driven by the boom in investments in artificial intelligence (AI) and is instead being actively fuelled by …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
    "terms": [],
    "paywall": false
   },
@@ -55,24 +131,6 @@
    ],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "d8bac8ceb688",
-   "title": "Norges største tømmerhavn må flyttes",
-   "link": "https://www.mtlogistikk.no/lierstranda-logistikk-tommer/norges-storste-tommerhavn-ma-flyttes/1361482",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-15T07:54:05Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18287,64 +18345,6 @@
    "policy": false,
    "level": "international",
    "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "4fddbcb6a46e",
-   "title": "Equinor North Sea platform temporarily closed after electrical fire",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/equinor-north-sea-platform-temporarily-closed-after-electrical-fire/",
-   "source": "imn",
-   "published": "2026-11-06T06:39:03Z",
-   "seen": "2026-11-06T07:22:52Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "366bdfe5f395",
-   "title": "EU Court of Justice upholds restrictions on Russian Maritime Register",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/eu-court-of-justice-upholds-restrictions-on-russian-maritime-register/",
-   "source": "imn",
-   "published": "2026-11-06T06:37:21Z",
-   "seen": "2026-11-06T07:22:52Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "c41f19619829",
-   "title": "OFAC takes aim at fraudulent ship registries",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/ofac-takes-aim-at-fraudulent-ship-registries/",
-   "source": "imn",
-   "published": "2026-11-06T06:36:01Z",
-   "seen": "2026-11-06T07:22:52Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "sanctions"
-   ],
    "paywall": true
   }
  ]
