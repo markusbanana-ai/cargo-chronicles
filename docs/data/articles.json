@@ -1,7 +1,102 @@
 {
- "updated": "2026-11-15T01:13:35Z",
+ "updated": "2026-11-15T03:57:53Z",
  "sample": false,
  "articles": [
+  {
+   "id": "f0f0cae8e99d",
+   "title": "To løsninger for smartere lagerplukk",
+   "link": "https://www.mtlogistikk.no/autostore-kardex-lagerautomatisering/to-losninger-for-smartere-lagerplukk/1361214",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-15T03:57:53Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "336a562e0eb8",
+   "title": "Kaos på første snødag – 23 bruksforbud",
+   "link": "https://www.mtlogistikk.no/dekk-e6-kjetting/kaos-pa-forste-snodag-23-bruksforbud/1361178",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-15T03:27:53Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "1e71ab83ff13",
+   "title": "ZIM withdraws from Arkas–Evergreen Black Sea service",
+   "link": "https://container-news.com/zim-withdraws-from-arkas-evergreen-black-sea-service/",
+   "source": "containernews",
+   "published": "2026-11-15T02:00:07Z",
+   "seen": "2026-11-15T03:57:53Z",
+   "lang": "en",
+   "excerpt": "ZIM has ended its slot-chartering arrangement on the GPM/BSX service operated by Arkas and Evergreen, withdrawing from a regional container shipping connection linking Piraeus with ports in the Black Sea.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "d8bac8ceb688",
+   "title": "Norges største tømmerhavn må flyttes",
+   "link": "https://www.mtlogistikk.no/lierstranda-logistikk-tommer/norges-storste-tommerhavn-ma-flyttes/1361482",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-15T01:57:53Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c21e7b45b93b",
+   "title": "Spot rates jump ahead of holidays",
+   "link": "https://www.freightwaves.com/news/spot-rates-jump-ahead-of-holidays",
+   "source": "freightwaves",
+   "published": "2026-11-15T01:30:00Z",
+   "seen": "2026-11-15T03:57:53Z",
+   "lang": "en",
+   "excerpt": "Trucking spot rates are off to the races earlier than usual. Was this part of the shipper playbook?",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "spot-market",
+    "shipper-consignee"
+   ],
+   "paywall": false
+  },
   {
    "id": "2d4f7faa89ee",
    "title": "US court orders arrest of tanker after New Orleans cruise ship collision",
@@ -20,24 +115,6 @@
    ],
    "policy": true,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "0bee71aecbdf",
-   "title": "Norges største tømmerhavn må flyttes",
-   "link": "https://www.mtlogistikk.no/lierstranda-logistikk-tommer/norges-storste-tommerhavn-ma-flyttes/1361351",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-15T00:58:35Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -65,24 +142,6 @@
    "paywall": false
   },
   {
-   "id": "040bca654540",
-   "title": "To løsninger for smartere lagerplukk",
-   "link": "https://www.mtlogistikk.no/autostore-kardex-lagerautomatisering/to-losninger-for-smartere-lagerplukk/1356752",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-14T22:28:35Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "cd0fab1f0e53",
    "title": "Everllence Two-Stroke Dual-Fuel Technology Selected for Tanker Project",
    "link": "https://maritime-executive.com/article/everllence-two-stroke-dual-fuel-technology-selected-for-tanker-project",
@@ -102,24 +161,6 @@
    "terms": [
     "dual-fuel"
    ],
-   "paywall": false
-  },
-  {
-   "id": "03dba96690a4",
-   "title": "Kaos på første snødag – 23 bruksforbud",
-   "link": "https://www.mtlogistikk.no/dekk-e6-kjetting/kaos-pa-forste-snodag-23-bruksforbud/1360905",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-14T22:13:35Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -199,6 +240,26 @@
    "paywall": false
   },
   {
+   "id": "41325b0f4f4a",
+   "title": "Interessen for elektriske lastebiler er rekordhøy",
+   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-enova/interessen-for-elektriske-lastebiler-er-rekordhoy/1349851",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-14T18:27:53Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "electric-truck"
+   ],
+   "paywall": false
+  },
+  {
    "id": "f10876e273d0",
    "title": "Hapag-Lloyd and ZIM add Imbituba to Asia–South America service",
    "link": "https://container-news.com/hapag-lloyd-and-zim-add-imbituba-to-asia-south-america-service/",
@@ -235,6 +296,24 @@
    ],
    "policy": false,
    "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "9d9d77521286",
+   "title": "Hver tredje nye går på el eller gass",
+   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-gasslastebiler-lastebil/hver-tredje-nye-gar-pa-el-eller-gass/1349834",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-14T18:12:53Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18265,79 +18344,6 @@
    "level": "international",
    "terms": [],
    "paywall": true
-  },
-  {
-   "id": "3264c4df1b3c",
-   "title": "AskChief expands maritime AI platform after surpassing 100 vessels",
-   "link": "https://container-news.com/askchief-expands-maritime-ai-platform-after-surpassing-100-vessels/",
-   "source": "containernews",
-   "published": "2026-11-06T06:00:09Z",
-   "seen": "2026-11-06T07:22:52Z",
-   "lang": "en",
-   "excerpt": "Maritime artificial intelligence company AskChief has opened its specialised AI platform to the wider shipping market after surpassing 100 vessels in less than a year of live use with shipowners and ship managers.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "e8d35e41450c",
-   "title": "Spår mye billigere sjøfrakt i 2027",
-   "link": "https://www.mtlogistikk.no/sjofrakt-xeneta-okonomi/spar-mye-billigere-sjofrakt-i-2027/1356256",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-06T05:52:52Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "05707eec2d8d",
-   "title": "Uke 45: Rederienes prisoffensiv møter motvind",
-   "link": "https://www.mtlogistikk.no/drewry-sjofrakt-spotpris/uke-45-rederienes-prisoffensiv-moter-motvind/1356218",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-06T05:37:52Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road",
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "775ba981d769",
-   "title": "Axess Logistics varsler nedbemanning",
-   "link": "https://www.mtlogistikk.no/axess-logistics/axess-logistics-varsler-nedbemanning/1356285",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-06T05:22:52Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
   }
  ]
 }
