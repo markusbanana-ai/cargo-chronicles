@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-15T03:57:53Z",
+ "updated": "2026-11-15T07:10:46Z",
  "sample": false,
  "articles": [
   {
-   "id": "f0f0cae8e99d",
-   "title": "To løsninger for smartere lagerplukk",
-   "link": "https://www.mtlogistikk.no/autostore-kardex-lagerautomatisering/to-losninger-for-smartere-lagerplukk/1361214",
+   "id": "0bee71aecbdf",
+   "title": "Norges største tømmerhavn må flyttes",
+   "link": "https://www.mtlogistikk.no/lierstranda-logistikk-tommer/norges-storste-tommerhavn-ma-flyttes/1361351",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-15T03:57:53Z",
+   "seen": "2026-11-15T06:55:46Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -21,12 +21,32 @@
    "paywall": false
   },
   {
-   "id": "336a562e0eb8",
-   "title": "Kaos på første snødag – 23 bruksforbud",
-   "link": "https://www.mtlogistikk.no/dekk-e6-kjetting/kaos-pa-forste-snodag-23-bruksforbud/1361178",
+   "id": "28d37c822d4b",
+   "title": "Hapag-Lloyd raises Far East–Europe freight rates from December",
+   "link": "https://container-news.com/hapag-lloyd-raises-far-east-europe-freight-rates-from-december/",
+   "source": "containernews",
+   "published": "2026-11-15T06:00:11Z",
+   "seen": "2026-11-15T07:10:46Z",
+   "lang": "en",
+   "excerpt": "Hapag-Lloyd has announced an increase in its Freight All Kinds (FAK) ocean tariff rates for shipments from the Far East to Europe, effective from 1 December 2026, with the highest published rate reaching US$6,800 per 40-foot container.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "040bca654540",
+   "title": "To løsninger for smartere lagerplukk",
+   "link": "https://www.mtlogistikk.no/autostore-kardex-lagerautomatisering/to-losninger-for-smartere-lagerplukk/1356752",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-15T03:27:53Z",
+   "seen": "2026-11-15T04:25:46Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -35,6 +55,60 @@
    "subs": [],
    "policy": false,
    "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "03dba96690a4",
+   "title": "Kaos på første snødag – 23 bruksforbud",
+   "link": "https://www.mtlogistikk.no/dekk-e6-kjetting/kaos-pa-forste-snodag-23-bruksforbud/1360905",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-15T04:10:46Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a25f9e9817b7",
+   "title": "GXO and Apptronik target deployment of up to 1,000 humanoid robots",
+   "link": "https://container-news.com/gxo-and-apptronik-target-deployment-of-up-to-1000-humanoid-robots/",
+   "source": "containernews",
+   "published": "2026-11-15T04:01:10Z",
+   "seen": "2026-11-15T07:10:46Z",
+   "lang": "en",
+   "excerpt": "GXO Logistics has signed a letter of intent with robotics developer Apptronik to expand the use of humanoid robots in warehouse operations.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "07423261c02e",
+   "title": "South Africa’s Auto Industry Threatened By Worsening Port Delays",
+   "link": "https://gcaptain.com/south-africas-auto-industry-threatened-by-worsening-port-delays/",
+   "source": "gcaptain",
+   "published": "2026-11-15T03:48:26Z",
+   "seen": "2026-11-15T07:10:46Z",
+   "lang": "en",
+   "excerpt": "By Matthew Hill and Alexander Parker Nov 14, 2026 (Bloomberg) –Severe delays at South Africa’s biggest container terminal in the port city of Durban are threatening the nation’s auto industry, already under...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
    "terms": [],
    "paywall": false
   },
@@ -55,24 +129,6 @@
    ],
    "policy": false,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "d8bac8ceb688",
-   "title": "Norges største tømmerhavn må flyttes",
-   "link": "https://www.mtlogistikk.no/lierstranda-logistikk-tommer/norges-storste-tommerhavn-ma-flyttes/1361482",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-15T01:57:53Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18283,60 +18339,6 @@
    "segments": [
     "road",
     "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "72e183326e2d",
-   "title": "Mein Schiff 3 enters yard for repairs",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/mein-schiff-3-enters-yard-for-repairs/",
-   "source": "imn",
-   "published": "2026-11-06T06:33:23Z",
-   "seen": "2026-11-06T07:22:52Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "46a9c9db883c",
-   "title": "New investigation announced by MAIB",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/new-investigation-announced-by-maib/",
-   "source": "imn",
-   "published": "2026-11-06T06:32:17Z",
-   "seen": "2026-11-06T07:22:52Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "fdd9eb34a24b",
-   "title": "Marine round-up : 6th November 2026",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/marine-round-up-6th-november-2026/",
-   "source": "imn",
-   "published": "2026-11-06T06:30:48Z",
-   "seen": "2026-11-06T07:22:52Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
     "insurance"
    ],
    "subs": [],
