@@ -1,14 +1,70 @@
 {
- "updated": "2026-11-15T07:10:46Z",
+ "updated": "2026-11-15T09:54:05Z",
  "sample": false,
  "articles": [
   {
-   "id": "0bee71aecbdf",
-   "title": "Norges største tømmerhavn må flyttes",
-   "link": "https://www.mtlogistikk.no/lierstranda-logistikk-tommer/norges-storste-tommerhavn-ma-flyttes/1361351",
+   "id": "f0f0cae8e99d",
+   "title": "To løsninger for smartere lagerplukk",
+   "link": "https://www.mtlogistikk.no/autostore-kardex-lagerautomatisering/to-losninger-for-smartere-lagerplukk/1361214",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-15T06:55:46Z",
+   "seen": "2026-11-15T09:54:05Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "336a562e0eb8",
+   "title": "Kaos på første snødag – 23 bruksforbud",
+   "link": "https://www.mtlogistikk.no/dekk-e6-kjetting/kaos-pa-forste-snodag-23-bruksforbud/1361178",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-15T09:24:05Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a4b254a6e8ef",
+   "title": "Liquefied biogas storage tank installed at the port of Gothenburg",
+   "link": "https://container-news.com/liquefied-biogas-storage-tank-installed-at-the-port-of-gothenburg/",
+   "source": "containernews",
+   "published": "2026-11-15T08:00:59Z",
+   "seen": "2026-11-15T09:54:05Z",
+   "lang": "en",
+   "excerpt": "Construction of the biogas liquefaction plant at the Port of Gothenburg has reached an important milestone with the installation of the facility’s liquefied biogas storage tank.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "d8bac8ceb688",
+   "title": "Norges største tømmerhavn må flyttes",
+   "link": "https://www.mtlogistikk.no/lierstranda-logistikk-tommer/norges-storste-tommerhavn-ma-flyttes/1361482",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-15T07:54:05Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -37,42 +93,6 @@
    ],
    "policy": true,
    "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "040bca654540",
-   "title": "To løsninger for smartere lagerplukk",
-   "link": "https://www.mtlogistikk.no/autostore-kardex-lagerautomatisering/to-losninger-for-smartere-lagerplukk/1356752",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-15T04:25:46Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "03dba96690a4",
-   "title": "Kaos på første snødag – 23 bruksforbud",
-   "link": "https://www.mtlogistikk.no/dekk-e6-kjetting/kaos-pa-forste-snodag-23-bruksforbud/1360905",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-15T04:10:46Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
    "terms": [],
    "paywall": false
   },
@@ -18325,26 +18345,6 @@
    "terms": [
     "sanctions"
    ],
-   "paywall": true
-  },
-  {
-   "id": "2e0cc347c7c1",
-   "title": "New Jersey Governor warns ports against handling Russian diesel",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/new-jersey-governor-warns-ports-against-handling-russian-diesel/",
-   "source": "imn",
-   "published": "2026-11-06T06:34:22Z",
-   "seen": "2026-11-06T07:22:52Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "road",
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
    "paywall": true
   }
  ]
