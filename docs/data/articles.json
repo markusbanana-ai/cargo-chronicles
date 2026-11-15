@@ -1,14 +1,35 @@
 {
- "updated": "2026-11-14T21:44:17Z",
+ "updated": "2026-11-15T01:13:35Z",
  "sample": false,
  "articles": [
   {
-   "id": "f0f0cae8e99d",
-   "title": "To løsninger for smartere lagerplukk",
-   "link": "https://www.mtlogistikk.no/autostore-kardex-lagerautomatisering/to-losninger-for-smartere-lagerplukk/1361214",
+   "id": "2d4f7faa89ee",
+   "title": "US court orders arrest of tanker after New Orleans cruise ship collision",
+   "link": "https://splash247.com/us-court-orders-arrest-of-tanker-after-new-orleans-cruise-ship-collision/",
+   "source": "splash",
+   "published": "2026-11-15T01:06:11Z",
+   "seen": "2026-11-15T01:13:35Z",
+   "lang": "en",
+   "excerpt": "A US federal court has authorised the arrest of the tanker Atlantic Asphalt after the Port of New Orleans launched legal action seeking more than $1m in damages following the collision that sank American Cruise Lines’ American Heritage.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "0bee71aecbdf",
+   "title": "Norges største tømmerhavn må flyttes",
+   "link": "https://www.mtlogistikk.no/lierstranda-logistikk-tommer/norges-storste-tommerhavn-ma-flyttes/1361351",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-14T21:44:17Z",
+   "seen": "2026-11-15T00:58:35Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -21,12 +42,35 @@
    "paywall": false
   },
   {
-   "id": "336a562e0eb8",
-   "title": "Kaos på første snødag – 23 bruksforbud",
-   "link": "https://www.mtlogistikk.no/dekk-e6-kjetting/kaos-pa-forste-snodag-23-bruksforbud/1361178",
+   "id": "ea38ebf79e64",
+   "title": "MSC to launch new North India–Red Sea container service",
+   "link": "https://container-news.com/msc-to-launch-new-north-india-red-sea-container-service/",
+   "source": "containernews",
+   "published": "2026-11-15T00:00:07Z",
+   "seen": "2026-11-15T01:13:35Z",
+   "lang": "en",
+   "excerpt": "MSC is preparing to introduce a new container shipping service connecting India and Pakistan directly with Saudi Arabia, with operations scheduled to begin in late November 2026.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint",
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "040bca654540",
+   "title": "To løsninger for smartere lagerplukk",
+   "link": "https://www.mtlogistikk.no/autostore-kardex-lagerautomatisering/to-losninger-for-smartere-lagerplukk/1356752",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-14T21:14:17Z",
+   "seen": "2026-11-14T22:28:35Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -36,6 +80,86 @@
    "policy": false,
    "level": "national",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "cd0fab1f0e53",
+   "title": "Everllence Two-Stroke Dual-Fuel Technology Selected for Tanker Project",
+   "link": "https://maritime-executive.com/article/everllence-two-stroke-dual-fuel-technology-selected-for-tanker-project",
+   "source": "marex",
+   "published": "2026-11-14T22:23:43Z",
+   "seen": "2026-11-12T04:00:08Z",
+   "lang": "en",
+   "excerpt": "Everllence has received an order from Swan Defence and Heavy Industries Limited (SDHI), India’s largest shipbuilding and heavy engineering company, fo...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dual-fuel"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "03dba96690a4",
+   "title": "Kaos på første snødag – 23 bruksforbud",
+   "link": "https://www.mtlogistikk.no/dekk-e6-kjetting/kaos-pa-forste-snodag-23-bruksforbud/1360905",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-14T22:13:35Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "cb0a34299124",
+   "title": "Trump To Extend Shipping Waiver For Oil, Fertilizer For 90 Days",
+   "link": "https://gcaptain.com/trump-to-extend-shipping-waiver-for-oil-fertilizer-for-90-days/",
+   "source": "gcaptain",
+   "published": "2026-11-14T22:08:51Z",
+   "seen": "2026-11-15T01:13:35Z",
+   "lang": "en",
+   "excerpt": "By Jennifer A. Dlouhy Nov 14, 2026 (Bloomberg) –President Donald Trump is giving energy companies and traders more time to transport oil and other commodities around the US on foreign-flagged ships,...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4ccecf5c5a50",
+   "title": "Asean Seas Line removes Shekou from China–Philippines service",
+   "link": "https://container-news.com/asean-seas-line-removes-shekou-from-china-philippines-service/",
+   "source": "containernews",
+   "published": "2026-11-14T21:59:59Z",
+   "seen": "2026-11-15T01:13:35Z",
+   "lang": "en",
+   "excerpt": "Asean Seas Line (ASL) has revised the rotation of its China–Philippines SVP service, removing Shenzhen (Shekou) as a regular port of call.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "teu"
+   ],
    "paywall": false
   },
   {
@@ -57,20 +181,20 @@
    "paywall": false
   },
   {
-   "id": "d8bac8ceb688",
-   "title": "Norges største tømmerhavn må flyttes",
-   "link": "https://www.mtlogistikk.no/lierstranda-logistikk-tommer/norges-storste-tommerhavn-ma-flyttes/1361482",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-14T19:44:17Z",
-   "lang": "no",
-   "excerpt": "",
+   "id": "f9c7a70d36cc",
+   "title": "Fairbanks Acquires Truflo Marine",
+   "link": "https://maritime-executive.com/article/fairbanks-acquires-truflo-marine-expanding-australian-submarine-manufacturing-capabilities",
+   "source": "marex",
+   "published": "2026-11-14T18:33:00Z",
+   "seen": "2026-11-14T09:52:30Z",
+   "lang": "en",
+   "excerpt": "Fairbanks Morse Defense recently announced the acquisition of Truflo Marine, marking a major expansion of its ability to support allied submarine prod...",
    "segments": [
-    "road"
+    "finance"
    ],
    "subs": [],
    "policy": false,
-   "level": "national",
+   "level": "international",
    "terms": [],
    "paywall": false
   },
@@ -115,6 +239,26 @@
    "paywall": false
   },
   {
+   "id": "03c6ce4133eb",
+   "title": "The Second Edition of the Sustainable Maritime Transport Outlook",
+   "link": "https://maritime-executive.com/article/the-second-edition-of-the-sustainable-maritime-transport-outlook",
+   "source": "marex",
+   "published": "2026-11-14T16:50:51Z",
+   "seen": "2026-11-13T07:24:09Z",
+   "lang": "en",
+   "excerpt": "Eni, a global energy company, Fincantieri, a global leader in the construction of high-complexity ships, and RINA, the global inspection, certificatio...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "class-society"
+   ],
+   "paywall": false
+  },
+  {
    "id": "992bf07dba56",
    "title": "Port of Long Beach records lowest emissions per container",
    "link": "https://container-news.com/port-of-long-beach-records-lowest-emissions-per-container/",
@@ -133,6 +277,28 @@
    "level": "international",
    "terms": [
     "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "af8fd3c12fcf",
+   "title": "Korean Partnership's Carbon Capture Proposal Chosen as Basis for IMO Safety",
+   "link": "https://maritime-executive.com/article/korean-partnership-s-carbon-capture-proposal-chosen-as-basis-for-imo-safety",
+   "source": "marex",
+   "published": "2026-11-14T15:30:10Z",
+   "seen": "2026-11-13T07:24:09Z",
+   "lang": "en",
+   "excerpt": "A leading Korean public-private partnership comprising 10 maritime organizations has reached a major milestone in the development of international saf...",
+   "segments": [
+    "insurance",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "ccs",
+    "imo"
    ],
    "paywall": false
   },
@@ -353,24 +519,6 @@
    "paywall": false
   },
   {
-   "id": "f9c7a70d36cc",
-   "title": "Fairbanks Acquires Truflo Marine",
-   "link": "https://maritime-executive.com/article/fairbanks-acquires-truflo-marine-expanding-australian-submarine-manufacturing-capabilities",
-   "source": "marex",
-   "published": "2026-11-14T04:33:00Z",
-   "seen": "2026-11-14T09:52:30Z",
-   "lang": "en",
-   "excerpt": "Fairbanks Morse Defense recently announced the acquisition of Truflo Marine, marking a major expansion of its ability to support allied submarine prod...",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "52724f94c265",
    "title": "MOVe Logistics adds Newcastle to trans-Tasman shipping service",
    "link": "https://container-news.com/move-logistics-adds-newcastle-to-trans-tasman-shipping-service/",
@@ -482,7 +630,7 @@
    "published": "2026-11-14T00:58:11Z",
    "seen": "2026-11-14T01:08:25Z",
    "lang": "en",
-   "excerpt": "The 17,764 dwt bitumen tanker Atlantic Asphalt has struck and sunk a river cruise ship on the Mississippi River in New Orleans, leaving 32 people hospitalised and prompting a major emergency response.",
+   "excerpt": "The 17,764 dwt bitumen tanker Atlantic Asphalt has struck and partially sunk a river cruise ship on the Mississippi River in New Orleans, leaving 32 people hospitalised and prompting a major emergency response.",
    "segments": [
     "freight",
     "insurance"
@@ -3154,26 +3302,6 @@
    "paywall": false
   },
   {
-   "id": "03c6ce4133eb",
-   "title": "The Second Edition of the Sustainable Maritime Transport Outlook",
-   "link": "https://maritime-executive.com/article/the-second-edition-of-the-sustainable-maritime-transport-outlook",
-   "source": "marex",
-   "published": "2026-11-13T02:50:51Z",
-   "seen": "2026-11-13T07:24:09Z",
-   "lang": "en",
-   "excerpt": "Eni, a global energy company, Fincantieri, a global leader in the construction of high-complexity ships, and RINA, the global inspection, certificatio...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "class-society"
-   ],
-   "paywall": false
-  },
-  {
    "id": "002e4f809f91",
    "title": "Kalmar secures order for 21 hybrid straddle carriers at TTI Algeciras",
    "link": "https://container-news.com/kalmar-secures-order-for-21-hybrid-straddle-carriers-at-tti-algeciras/",
@@ -3288,28 +3416,6 @@
    "level": "international",
    "terms": [
     "seismic"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "af8fd3c12fcf",
-   "title": "Korean Partnership's Carbon Capture Proposal Chosen as Basis for IMO Safety",
-   "link": "https://maritime-executive.com/article/korean-partnership-s-carbon-capture-proposal-chosen-as-basis-for-imo-safety",
-   "source": "marex",
-   "published": "2026-11-13T01:30:10Z",
-   "seen": "2026-11-13T07:24:09Z",
-   "lang": "en",
-   "excerpt": "A leading Korean public-private partnership comprising 10 maritime organizations has reached a major milestone in the development of international saf...",
-   "segments": [
-    "insurance",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "ccs",
-    "imo"
    ],
    "paywall": false
   },
@@ -5657,28 +5763,6 @@
    "policy": false,
    "level": "international",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "cd0fab1f0e53",
-   "title": "Everllence Two-Stroke Dual-Fuel Technology Selected for Tanker Project",
-   "link": "https://maritime-executive.com/article/everllence-two-stroke-dual-fuel-technology-selected-for-tanker-project",
-   "source": "marex",
-   "published": "2026-11-12T02:22:44Z",
-   "seen": "2026-11-12T04:00:08Z",
-   "lang": "en",
-   "excerpt": "Everllence has received an order from Swan Defence and Heavy Industries Limited (SDHI), India’s largest shipbuilding and heavy engineering company, fo...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "dual-fuel"
-   ],
    "paywall": false
   },
   {
@@ -18244,83 +18328,6 @@
    "source": "mtlogistikk",
    "published": null,
    "seen": "2026-11-06T05:22:52Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "41325b0f4f4a",
-   "title": "Interessen for elektriske lastebiler er rekordhøy",
-   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-enova/interessen-for-elektriske-lastebiler-er-rekordhoy/1349851",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-06T03:23:44Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "electric-truck"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "7f36ea0aee9b",
-   "title": "U.S. State Department Expands Sanctions on Cuban Shipping",
-   "link": "https://maritime-executive.com/article/u-s-state-department-expands-sanctions-on-cuban-shipping",
-   "source": "marex",
-   "published": "2026-11-06T03:10:48Z",
-   "seen": "2026-11-06T07:22:52Z",
-   "lang": "en",
-   "excerpt": "The Trump administration has sanctioned five ships and two people for allegedly serving Cuba's oil shipping network, and has rolled out broad sectoral...",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "sanctions"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "9d9d77521286",
-   "title": "Hver tredje nye går på el eller gass",
-   "link": "https://www.mtlogistikk.no/elektrisk-lastebil-gasslastebiler-lastebil/hver-tredje-nye-gar-pa-el-eller-gass/1349834",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-06T03:08:44Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "c917d93e40aa",
-   "title": "Kai - en digital driftsleder",
-   "link": "https://www.mtlogistikk.no/flatestyring-future-driver-kai/kai-en-digital-driftsleder/1349342",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-06T02:53:44Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
