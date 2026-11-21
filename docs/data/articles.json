@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-20T20:12:28Z",
+ "updated": "2026-11-21T02:11:51Z",
  "sample": false,
  "articles": [
   {
-   "id": "699bcbaf2a25",
-   "title": "Sterk vekst i boks allerede før Black Week",
-   "link": "https://www.mtlogistikk.no/helthjem-netthandel-pakkeskap/sterk-vekst-i-boks-allerede-for-black-week/1365238",
+   "id": "29335c485930",
+   "title": "Nattestenger E6-tunnel i to uker",
+   "link": "https://www.mtlogistikk.no/e6-statens-vegvesen-tunnelvedlikehold/nattestenger-e6-tunnel-i-to-uker/1364968",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-20T20:12:28Z",
+   "seen": "2026-11-21T01:56:51Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -18,6 +18,614 @@
    "policy": false,
    "level": "national",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "03064e324196",
+   "title": "Energy Efficiency in Boiler, Steam System & Cargo Operations on Oil Tankers",
+   "link": "https://maritime-executive.com/article/energy-efficiency-in-boiler-steam-system-cargo-operations-on-oil-tankers",
+   "source": "marex",
+   "published": "2026-11-21T01:32:37Z",
+   "seen": "2026-11-21T02:11:51Z",
+   "lang": "en",
+   "excerpt": "ClassNK has granted its Innovation Endorsement for Products & Solutions to ‘Energy Efficiency in Boiler, Steam Systems and Cargo Operations on Oil Tan...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "class-society"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "49a44a810726",
+   "title": "Eimskip orders new Konecranes mobile harbor crane for Icelandic port",
+   "link": "https://container-news.com/eimskip-orders-new-konecranes-mobile-harbor-crane-for-icelandic-port/",
+   "source": "containernews",
+   "published": "2026-11-21T01:20:02Z",
+   "seen": "2026-11-21T02:11:51Z",
+   "lang": "en",
+   "excerpt": "Icelandic shipping and logistics company Eimskip has ordered a new Konecranes Gottwald ESP.8 Mobile Harbor Crane for the port of Reyðarfjörður in Iceland.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "project-cargo"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "b09c382fb05d",
+   "title": "Sterk vekst i boks allerede før Black Week",
+   "link": "https://www.mtlogistikk.no/helthjem-netthandel-pakkeskap/sterk-vekst-i-boks-allerede-for-black-week/1365273",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-21T00:41:51Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "2ea3c1f1e327",
+   "title": "Panda Express Line reorganises Russian Far East network",
+   "link": "https://container-news.com/panda-express-line-reorganises-russian-far-east-network/",
+   "source": "containernews",
+   "published": "2026-11-20T23:47:57Z",
+   "seen": "2026-11-21T02:11:51Z",
+   "lang": "en",
+   "excerpt": "Panda Express Line has revised four services connecting the Russian Far East with ports in China and South Korea. The carrier has redistributed port coverage across its PEL2, PEL4, PEL5 and PEL6 loops.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "7e5106bdb303",
+   "title": "Turkish Seismic Research Ship to Restart Pakistan’s Oil Exploration Efforts",
+   "link": "https://maritime-executive.com/article/turkish-seismic-research-ship-to-restart-pakistan-s-oil-exploration-efforts",
+   "source": "marex",
+   "published": "2026-11-20T23:25:17Z",
+   "seen": "2026-11-21T02:11:51Z",
+   "lang": "en",
+   "excerpt": "After nearly two decades, Pakistan is set to restart its oil exploration efforts through a new partnership with Turkey. The Turkish seismic research v...",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "seismic"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "4c8404a9afc1",
+   "title": "Skiff Shoots at Bulker as Pirates Renewed Efforts in Gulf of Aden",
+   "link": "https://maritime-executive.com/article/skiff-shoots-at-bulker-as-pirates-renewed-efforts-in-gulf-of-aden",
+   "source": "marex",
+   "published": "2026-11-20T22:40:17Z",
+   "seen": "2026-11-21T02:11:51Z",
+   "lang": "en",
+   "excerpt": "Security monitors are reporting another incident of piracy and an apparent attempt to board a commercial vessel underway in the Gulf of Aden. For the...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dry-bulk"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "4b4f72008acd",
+   "title": "More Than 110 Trade Groups Urge Deal as LA-Long Beach Port Strike Deadline Nears",
+   "link": "https://gcaptain.com/more-than-110-trade-groups-urge-deal-as-la-long-beach-port-strike-deadline-nears/",
+   "source": "gcaptain",
+   "published": "2026-11-20T22:33:04Z",
+   "seen": "2026-11-21T02:11:51Z",
+   "lang": "en",
+   "excerpt": "More than 110 U.S. trade associations are urging waterfront employers and union leaders to reach a labor agreement and avert a potentially crippling strike at the ports of Los Angeles...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4ed5a2427394",
+   "title": "FESCO removes two ports from FCDL1 service",
+   "link": "https://container-news.com/fesco-removes-two-ports-from-fcdl1-service/",
+   "source": "containernews",
+   "published": "2026-11-20T22:21:57Z",
+   "seen": "2026-11-21T02:11:51Z",
+   "lang": "en",
+   "excerpt": "FESCO has removed Da Nang and Shenzhen’s Yantian terminal from its FESCO China Direct Line 1 (FCDL1). According to DynaLiners, the service connects Vietnam and southern China with Vladivostok in the Russian Far East.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "dc58f5e10846",
+   "title": "J.B. Hunt broker liability case proceeding after split decision",
+   "link": "https://www.freightwaves.com/news/j-b-hunt-broker-liability-case-proceeding-after-split-decision",
+   "source": "freightwaves",
+   "published": "2026-11-20T22:09:00Z",
+   "seen": "2026-11-21T02:11:51Z",
+   "lang": "en",
+   "excerpt": "The brokerage arm of J.B. Hunt won one and lost one in an Arizona federal court Thursday in what now is shaping up to be one of the key cases on broker liability as the industry moves to a new legal landscape following the decision in …",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "686336204680",
+   "title": "Vassilis Kikilias at the EPP: “We Cannot Afford to Lose Any More Time – Joint European Action Is Needed on Competitiveness and Shipping”",
+   "link": "https://www.hellenicshippingnews.com/vassilis-kikilias-at-the-epp-we-cannot-afford-to-lose-any-more-time-joint-european-action-is-needed-on-competitiveness-and-shipping/",
+   "source": "hsn",
+   "published": "2026-11-20T22:00:59Z",
+   "seen": "2026-11-21T02:11:51Z",
+   "lang": "en",
+   "excerpt": "The need for joint European action to strengthen competitiveness, through the effective implementation of the Draghi Report, was highlighted by Greece’s Minister of Maritime Affairs and Insular Policy, Vassilis Kikilias, in a speech …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ed4f9419f2d3",
+   "title": "Tanker Market: Arabian Gulf Crude Oil Exports Down 27.6% This Year",
+   "link": "https://www.hellenicshippingnews.com/tanker-market-arabian-gulf-crude-oil-exports-down-27-6-this-year/",
+   "source": "hsn",
+   "published": "2026-11-20T22:00:59Z",
+   "seen": "2026-11-21T02:11:51Z",
+   "lang": "en",
+   "excerpt": "The war in Iran has dealt a significant blow to the Gulf oil export markets, with crude oil loading significantly lower over the 10-month period (Jan.-Oct.).",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "shipbroker",
+    "cabotage"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "5270932738ef",
+   "title": "MEPC 85 to confront net-zero divide",
+   "link": "https://www.hellenicshippingnews.com/mepc-85-to-confront-net-zero-divide/",
+   "source": "hsn",
+   "published": "2026-11-20T22:00:58Z",
+   "seen": "2026-11-21T02:11:51Z",
+   "lang": "en",
+   "excerpt": "The International Maritime Organization’s Marine Environment Protection Committee (MEPC 85) will convene in London from Nov 30-Dec 3 against a backdrop of intensifying pressure to deliver a landmark agreement on shipping decarbonisation …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "imo-nzf",
+    "imo"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "a7a95bf7152e",
+   "title": "Baltic Dry Index Eases For 2nd Day",
+   "link": "https://www.hellenicshippingnews.com/baltic-dry-index-eases-for-2nd-day/",
+   "source": "hsn",
+   "published": "2026-11-20T22:00:57Z",
+   "seen": "2026-11-21T02:11:51Z",
+   "lang": "en",
+   "excerpt": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, was down for a second session on Friday, falling by 0.1% to 2,898 points.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bdi",
+    "baltic-exchange",
+    "dry-bulk",
+    "capesize",
+    "supramax"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "06013d437164",
+   "title": "How SAL and DNV are strengthening heavy-lift shipping",
+   "link": "https://www.hellenicshippingnews.com/how-sal-and-dnv-are-strengthening-heavy-lift-shipping/",
+   "source": "hsn",
+   "published": "2026-11-20T22:00:57Z",
+   "seen": "2026-11-21T02:11:51Z",
+   "lang": "en",
+   "excerpt": "From classification and newbuilding support to operational tools and advisory expertise, SAL and DNV have been collaborating for decades.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "class-society",
+    "project-cargo",
+    "newbuilding"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "c410a5f9f3bb",
+   "title": "Xeneta Weekly Ocean Container Shipping Market Update: Mediterranean spot rates move in mysterious ways as Red Sea return stalls",
+   "link": "https://www.hellenicshippingnews.com/xeneta-weekly-ocean-container-shipping-market-update-mediterranean-spot-rates-move-in-mysterious-ways-as-red-sea-return-stalls/",
+   "source": "hsn",
+   "published": "2026-11-20T22:00:55Z",
+   "seen": "2026-11-21T02:11:51Z",
+   "lang": "en",
+   "excerpt": "The Xeneta Weekly Ocean Container Shipping Market Update provides data and intelligence including the latest freight rate and capacity movements across global trades with supporting insight from Peter Sand, Xeneta Chief Analyst.",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "spot-market",
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "930bb9e0f259",
+   "title": "GMS Week 47 – The Tide Of Second Thoughts",
+   "link": "https://www.hellenicshippingnews.com/gms-week-47-the-tide-of-second-thoughts/",
+   "source": "hsn",
+   "published": "2026-11-20T22:00:54Z",
+   "seen": "2026-11-21T02:11:51Z",
+   "lang": "en",
+   "excerpt": "After several weeks of improving confidence, recycling buyers are beginning to have second thoughts about how aggressively to pursue fresh tonnage.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "53b0329873f7",
+   "title": "VHBS New ConTex Container Ship Time Charter Assessment Index Week 47",
+   "link": "https://www.hellenicshippingnews.com/vhbs-new-contex-container-ship-time-charter-assessment-index-week-47-3/",
+   "source": "hsn",
+   "published": "2026-11-20T22:00:54Z",
+   "seen": "2026-11-21T02:11:51Z",
+   "lang": "en",
+   "excerpt": "The overall container market in Week 47 remained stable, with only limited week-on-week improvements.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner",
+    "time-charter"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "3c25d89f4193",
+   "title": "Drewry: World Container Index Down 3% Last Week",
+   "link": "https://www.hellenicshippingnews.com/drewry-world-container-index-down-3-last-week-8/",
+   "source": "hsn",
+   "published": "2026-11-20T22:00:53Z",
+   "seen": "2026-11-21T02:11:51Z",
+   "lang": "en",
+   "excerpt": "For many years, World Container Index (WCI) has been the go-to, independent, global reference for index-linked contracts. If your organisation requires regional visibility/coverage beyond the eight trade lanes provided below, contact the …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "container-index"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "fa884ddfe1b3",
+   "title": "Advanced Shipping & Trading – WEEKLY SHIPPING MARKET REPORT WEEK 47 2026",
+   "link": "https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-47-2026/",
+   "source": "hsn",
+   "published": "2026-11-20T22:00:50Z",
+   "seen": "2026-11-21T02:11:51Z",
+   "lang": "en",
+   "excerpt": "The Capesize “Ever Beauty” 180/2011 Qingdao Beihai, China (SS 07/2031, DD 8/2029, Scrubber fitted) was committed",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "reports"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "capesize",
+    "scrubber"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "fde698e90ac8",
+   "title": "Affinity Tanker Weekly, 20 November 2026",
+   "link": "https://www.hellenicshippingnews.com/affinity-tanker-weekly-20-november-2026/",
+   "source": "hsn",
+   "published": "2026-11-20T22:00:50Z",
+   "seen": "2026-11-21T02:11:51Z",
+   "lang": "en",
+   "excerpt": "This week the VLCC market moved from a quiet, largely steady start to a firmer tone towards week-end. Early optimism faded",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "reports",
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "vlcc"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "ebaa9690bc71",
+   "title": "Russian Vessels Have Shifted From Europe’s Cables to Its Energy Grid",
+   "link": "https://www.hellenicshippingnews.com/russian-vessels-have-shifted-from-europes-cables-to-its-energy-grid/",
+   "source": "hsn",
+   "published": "2026-11-20T22:00:49Z",
+   "seen": "2026-11-21T02:11:51Z",
+   "lang": "en",
+   "excerpt": "Windward’s MIOC tracks vessels loitering over European subsea and offshore infrastructure. Between late August and mid-November, Russia-linked loitering events in that record shifted decisively toward energy.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "d0cb10cebc37",
+   "title": "Best Oasis Weekly Recycling Market Report, 20 November 2026",
+   "link": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-20-november-2026/",
+   "source": "hsn",
+   "published": "2026-11-20T22:00:47Z",
+   "seen": "2026-11-21T02:11:51Z",
+   "lang": "en",
+   "excerpt": "The Indian ship recycling market has weakened this week, primarily influenced by currency fluctuations, resulting in softer buying",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "reports"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "recycling"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "44c4e2b3e67f",
+   "title": "Frontline Reports Third Quarter Profit of $641.4 Million",
+   "link": "https://www.hellenicshippingnews.com/frontline-reports-third-quarter-profit-of-641-4-million/",
+   "source": "hsn",
+   "published": "2026-11-20T22:00:47Z",
+   "seen": "2026-11-21T02:11:51Z",
+   "lang": "en",
+   "excerpt": "Frontline plc reported unaudited results for the nine months ended September 30, 2026: Highlights • Profit of $641.4 million, or $2.88 per share for the third quarter of 2026 and adjusted profit1 of $530.9 million for the third quarter of …",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "91eecdabb1fa",
+   "title": "Gibson tanker report – Cracks are showing",
+   "link": "https://www.hellenicshippingnews.com/gibson-tanker-report-cracks-are-showing/",
+   "source": "hsn",
+   "published": "2026-11-20T22:00:46Z",
+   "seen": "2026-11-21T02:11:51Z",
+   "lang": "en",
+   "excerpt": "Refining margins have fallen sharply this month, led by gasoline. Asian gasoline cracks stand at just over $1/bbl,",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "reports",
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "units",
+    "shipbroker"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "55ae7bc69c5f",
+   "title": "Fujairah fuel oil stocks edge up 1% in November so far",
+   "link": "https://www.hellenicshippingnews.com/fujairah-fuel-oil-stocks-edge-up-1-in-november-so-far/",
+   "source": "hsn",
+   "published": "2026-11-20T22:00:45Z",
+   "seen": "2026-11-21T02:11:51Z",
+   "lang": "en",
+   "excerpt": "Fujairah’s fuel oil stocks have averaged 1% higher so far in November than across October, Fujairah Oil Industry Zone (FOIZ) and S&P Global data shows.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "sale-purchase",
+    "units"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "1406dd78aa1b",
+   "title": "ClassNK grants Innovation Endorsement for Products & Solutions to ‘Energy Efficiency in Boiler, Steam Systems and Cargo Operations on Oil Tankers (Guideline)’ developed by Samundra Institute of Maritime Studies",
+   "link": "https://www.hellenicshippingnews.com/classnk-grants-innovation-endorsement-for-products-solutions-to-energy-efficiency-in-boiler-steam-systems-and-cargo-operations-on-oil-tankers-guideline-developed-by-samundra-ins/",
+   "source": "hsn",
+   "published": "2026-11-20T22:00:43Z",
+   "seen": "2026-11-21T02:11:51Z",
+   "lang": "en",
+   "excerpt": "ClassNK has granted its Innovation Endorsement for Products & Solutions to ‘Energy Efficiency in Boiler, Steam Systems and Cargo Operations on Oil Tankers’, a guideline developed by Samundra Institute of Maritime Studies (SIMS).",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "class-society"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "58f67f84c59b",
+   "title": "Crew Teams Are Told To Book Flights Early, Yet Nearly Half Of Maritime Crew Tickets Booked A Week Ahead Are Cancelled",
+   "link": "https://www.hellenicshippingnews.com/crew-teams-are-told-to-book-flights-early-yet-nearly-half-of-maritime-crew-tickets-booked-a-week-ahead-are-cancelled/",
+   "source": "hsn",
+   "published": "2026-11-20T22:00:39Z",
+   "seen": "2026-11-21T02:11:51Z",
+   "lang": "en",
+   "excerpt": "Crew teams are often told to book flights early to save money. On the C Teleport platform, maritime crew teams cancelled 48.5% of the tickets they booked a week or more before departure, against 18.1% of tickets booked in the last 24 …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ebe1d90b5cc2",
+   "title": "How lawfare took over the Panama Canal’s ports",
+   "link": "https://container-news.com/how-lawfare-took-over-the-panama-canals-ports/",
+   "source": "containernews",
+   "published": "2026-11-20T21:00:19Z",
+   "seen": "2026-11-21T02:11:51Z",
+   "lang": "en",
+   "excerpt": "Hutchison litigates to set an exit price. Panama now answers with a criminal file. Neither side is seeking a verdict.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "eba41ae87191",
+   "title": "Cruise Ship Detained and Cited as Brazilian Startup Struggles",
+   "link": "https://maritime-executive.com/article/cruise-ship-detained-and-cited-as-brazilian-startup-struggles",
+   "source": "marex",
+   "published": "2026-11-20T20:59:45Z",
+   "seen": "2026-11-21T02:11:51Z",
+   "lang": "en",
+   "excerpt": "A startup operation hoping to launch a new cruise operation in Brazil is reporting difficulties just days after it began operations. The Spanish cruis...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "psc"
+   ],
    "paywall": false
   },
   {
@@ -41,6 +649,27 @@
     "liner",
     "teu"
    ],
+   "paywall": false
+  },
+  {
+   "id": "708c16eedfcc",
+   "title": "Iran War Oil Premium Evaporates as Global Crude Supplies Surge",
+   "link": "https://gcaptain.com/iran-war-oil-premium-evaporates-as-global-crude-supplies-surge/",
+   "source": "gcaptain",
+   "published": "2026-11-20T19:35:22Z",
+   "seen": "2026-11-21T02:11:51Z",
+   "lang": "en",
+   "excerpt": "The price of US sour oil has plunged, as a surge in crude supply from Venezuela, Canada and the Middle East gives refiners ample barrels to choose from.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
    "paywall": false
   },
   {
@@ -126,24 +755,6 @@
    "source": "mtlogistikk",
    "published": null,
    "seen": "2026-11-20T18:27:28Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "ef933badcd40",
-   "title": "Nattestenger E6-tunnel i to uker",
-   "link": "https://www.mtlogistikk.no/e6-statens-vegvesen-tunnelvedlikehold/nattestenger-e6-tunnel-i-to-uker/1365220",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-20T18:12:28Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -17646,604 +18257,6 @@
    "terms": [
     "restructuring"
    ],
-   "paywall": false
-  },
-  {
-   "id": "004a9245b6ce",
-   "title": "Financing the maritime energy transition",
-   "link": "https://www.hellenicshippingnews.com/financing-the-maritime-energy-transition/",
-   "source": "hsn",
-   "published": "2026-11-12T11:00:59Z",
-   "seen": "2026-11-12T13:20:15Z",
-   "lang": "en",
-   "excerpt": "The maritime energy transition will require support for human capacity development across developing States, including SIDS and LDCS, as well as investment in scalable and bankable projects that will support the move to zero emission …",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "imo"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "5f27d76b577f",
-   "title": "Explainer: Opening the corridor, or joining it?",
-   "link": "https://container-news.com/explainer-opening-the-corridor-or-joining-it/",
-   "source": "containernews",
-   "published": "2026-11-12T11:00:58Z",
-   "seen": "2026-11-12T13:20:15Z",
-   "lang": "en",
-   "excerpt": "South Korea’s new Arctic hub idea widens the circle of Northern Sea Route users. It does not yet change who controls the route.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "524fbd26e132",
-   "title": "Pacific Environment Welcomes Ulsan Port’s Commercial e-Ammonia Bunkering Milestone",
-   "link": "https://www.hellenicshippingnews.com/pacific-environment-welcomes-ulsan-ports-commercial-e-ammonia-bunkering-milestone/",
-   "source": "hsn",
-   "published": "2026-11-12T11:00:55Z",
-   "seen": "2026-11-12T13:20:15Z",
-   "lang": "en",
-   "excerpt": "On October 25–26, Ulsan Port Authority (UPA), together with Lotte Fine Chemical, HD Hyundai Heavy Industries, Shinheungsa, and Eastern Pacific Shipping (EPS), supplied 800 tonnes of renewable energy-based e-ammonia to Terra Clove, a newly …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bunkers",
-    "lpg"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "988c7142df80",
-   "title": "Monjasa adds five sister tankers in major fleet renewal deal",
-   "link": "https://www.hellenicshippingnews.com/monjasa-adds-five-sister-tankers-in-major-fleet-renewal-deal/",
-   "source": "hsn",
-   "published": "2026-11-12T11:00:53Z",
-   "seen": "2026-11-12T13:20:15Z",
-   "lang": "en",
-   "excerpt": "Global oil and shipping group, Monjasa is adding five sister tankers to its fleet in the company’s largestever tonnage acquisition, strengthening its activities in West Africa and providing greater flexibility across its global marine …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bunkers",
-    "dwt",
-    "product-tanker"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "ddaeb52a712b",
-   "title": "Oman: Asyad Shipping JV to sell tanker Haima for $63.1mln",
-   "link": "https://www.hellenicshippingnews.com/oman-asyad-shipping-jv-to-sell-tanker-haima-for-63-1mln/",
-   "source": "hsn",
-   "published": "2026-11-12T11:00:51Z",
-   "seen": "2026-11-12T13:20:15Z",
-   "lang": "en",
-   "excerpt": "Asyad Shipping Company’s 50:50 joint venture with Japan’s Mitsui OSK Lines Ltd has agreed to sell its LR2 tanker Haima for approximately RO24.3mn, with the transaction expected to generate a gain of around RO19mn for the joint venture.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "product-tanker"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "8eb920de5de6",
-   "title": "Korea and China vie to lead ammonia-fueled shipping market",
-   "link": "https://www.hellenicshippingnews.com/korea-and-china-vie-to-lead-ammonia-fueled-shipping-market/",
-   "source": "hsn",
-   "published": "2026-11-12T11:00:49Z",
-   "seen": "2026-11-12T13:20:15Z",
-   "lang": "en",
-   "excerpt": "Korean and Chinese shipbuilders are locked in a battle of pride over ships that carry ammonia. Korea is highlighting the world’s largest ammonia “propulsion ship,” while China is rolling out an ammonia “carrier.” The situation signals …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "dual-fuel"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "c9efeccfcc5a",
-   "title": "Drone strike starts fire at Russian Baltic port of Ust-Luga",
-   "link": "https://www.hellenicshippingnews.com/drone-strike-starts-fire-at-russian-baltic-port-of-ust-luga/",
-   "source": "hsn",
-   "published": "2026-11-12T11:00:47Z",
-   "seen": "2026-11-12T13:20:15Z",
-   "lang": "en",
-   "excerpt": "A fire broke out at Russia’s Ust-Luga port on the Baltic Sea after a Ukrainian drone strike, the Leningrad regional governor Alexander Drozdenko said in a Telegram post Nov. 11. “Several drones” hit the site, he said.",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "c57c647f4a5e",
-   "title": "Hapag-Lloyd completes acquisition of 25% stake in APM Terminals Maasvlakte II",
-   "link": "https://www.hellenicshippingnews.com/hapag-lloyd-completes-acquisition-of-25-stake-in-apm-terminals-maasvlakte-ii/",
-   "source": "hsn",
-   "published": "2026-11-12T11:00:45Z",
-   "seen": "2026-11-12T13:20:15Z",
-   "lang": "en",
-   "excerpt": "Hapag-Lloyd has successfully completed the acquisition of a 25% stake in APM Terminals Maasvlakte II in Rotterdam, following unconditional approval by the relevant antitrust authorities.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "267deb5ce991",
-   "title": "Smart Port Challenge 2026 Marks 10 Years of Growing Maritime Innovation",
-   "link": "https://www.hellenicshippingnews.com/smart-port-challenge-2026-marks-10-years-of-growing-maritime-innovation/",
-   "source": "hsn",
-   "published": "2026-11-12T11:00:43Z",
-   "seen": "2026-11-12T13:20:15Z",
-   "lang": "en",
-   "excerpt": "The Maritime and Port Authority of Singapore (MPA) and NUSX, the entrepreneurial heart of the National University of Singapore (NUS), announced the winners of the 10th PIER71 Smart Port Challenge (SPC) at its Grand Finale today.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "ceb0e09451f9",
-   "title": "Sea Leader begins physical deliveries in eastern Indian ports",
-   "link": "https://www.hellenicshippingnews.com/sea-leader-begins-physical-deliveries-in-eastern-indian-ports/",
-   "source": "hsn",
-   "published": "2026-11-12T11:00:41Z",
-   "seen": "2026-11-12T13:20:15Z",
-   "lang": "en",
-   "excerpt": "UAE-based bunker supplier Sea Leader has started delivering marine fuels, by barge, at five locations in eastern India. Sea Leader made its first delivery on 16 October, supplying the NZ Ningbo at a berth in Budge Budge, with its 300 mt …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bunkers"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "de5138cf05ab",
-   "title": "Russia shifts steel exports to Baltic ports from Black Sea in 2026",
-   "link": "https://www.hellenicshippingnews.com/russia-shifts-steel-exports-to-baltic-ports-from-black-sea-in-2026/",
-   "source": "hsn",
-   "published": "2026-11-12T11:00:39Z",
-   "seen": "2026-11-12T13:20:15Z",
-   "lang": "en",
-   "excerpt": "Russian semifinished steel export flows have increasingly shifted away from the Black Sea toward Baltic ports in 2026, as disruptions to traditional southern export routes reshape shipment patterns and tighten the availability of Black …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "1cfc263277e2",
-   "title": "Brent at $77/bbl Next Year: ING’s 3 calls for energy markets",
-   "link": "https://www.hellenicshippingnews.com/brent-at-77-bbl-next-year-ings-3-calls-for-energy-markets/",
-   "source": "hsn",
-   "published": "2026-11-12T11:00:33Z",
-   "seen": "2026-11-12T13:20:15Z",
-   "lang": "en",
-   "excerpt": "Oil markets have been on a roller coaster this year given events in the Middle East. However, we are going into year-end with oil flows from the region near pre-war levels despite the lack of a deal between the US and Iran.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "units"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "d50dd3b09ec6",
-   "title": "European shares hit record highs as defensive appeal offsets Nvidia shock",
-   "link": "https://www.hellenicshippingnews.com/european-shares-hit-record-highs-as-defensive-appeal-offsets-nvidia-shock/",
-   "source": "hsn",
-   "published": "2026-11-12T11:00:25Z",
-   "seen": "2026-11-12T13:20:15Z",
-   "lang": "en",
-   "excerpt": "European shares edged higher on Thursday, striking a fresh record high, as robust corporate earnings and the region’s defensive composition offset volatility in technology stocks triggered by mounting leadership turmoil at AI-bellwether …",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "cac29a18d75b",
-   "title": "Intermodal leads U.S. rail traffic up 6.6% from a year ago",
-   "link": "https://www.freightwaves.com/news/intermodal-leads-u-s-rail-traffic-up-6-6-from-a-year-ago",
-   "source": "freightwaves",
-   "published": "2026-11-12T11:00:00Z",
-   "seen": "2026-11-12T19:01:55Z",
-   "lang": "en",
-   "excerpt": "U.S. rail traffic advanced as strong intermodal growth outweighed some carload declines.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "intermodal"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "dd1c013010f3",
-   "title": "2009-built seismic vessel lands ocean bottom node job offshore West Africa",
-   "link": "https://www.offshore-energy.biz/2026/11/12/2009-built-seismic-vessel-lands-ocean-bottom-node-job-offshore-west-africa",
-   "source": "offshoreenergy",
-   "published": "2026-11-12T10:38:48Z",
-   "seen": "2026-11-12T13:20:15Z",
-   "lang": "en",
-   "excerpt": "SeaBird Exploration has lined up a multi-month ocean bottom node (OBN) source assignment off the coast of West Africa.",
-   "segments": [
-    "road",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "seismic"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "07383c046230",
-   "title": "Helseministeren markerte Kollegahjelpens dag sammen med NLF",
-   "link": "https://lastebil.no/aktuelt/nyheter/2026/helseministeren-markerte-kollegahjelpens-dag-sammen-med-nlf",
-   "source": "lastebil",
-   "published": "2026-11-12T10:29:47Z",
-   "seen": "2026-11-12T13:20:15Z",
-   "lang": "no",
-   "excerpt": "Helseminister Jan Christian Vestre besøkte Norges Lastebileier-Forbund (NLF) på Kollegahjelpens dag 12. november for å sette søkelys på psykisk helse blant yrkessjåfører. Ministeren la ikke skjul på at besøket gjorde inntrykk.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "driver-cpc"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "f57983610b0c",
-   "title": "Oman Monitors Handling of Oil Tanker Run Aground Off Its Coast",
-   "link": "https://gcaptain.com/oman-monitors-handling-of-oil-tanker-run-aground-off-its-coast/",
-   "source": "gcaptain",
-   "published": "2026-11-12T10:08:00Z",
-   "seen": "2026-11-12T16:08:47Z",
-   "lang": "en",
-   "excerpt": "Oman's National Emergency Management Committee discussed on Thursday the latest developments in handling the grounding of an oil tanker off Al Qibliyah Island and the progress of operations to deal with its cargo.",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "598e51500f0c",
-   "title": "Benin Ships First Crude Cargo for Decades From Revived Oil Field",
-   "link": "https://gcaptain.com/benin-ships-first-crude-cargo-for-decades-from-revived-oil-field/",
-   "source": "gcaptain",
-   "published": "2026-11-12T10:03:00Z",
-   "seen": "2026-11-12T16:08:47Z",
-   "lang": "en",
-   "excerpt": "Benin has rejoined the ranks of West Africa’s oil-exporting states, with its first crude oil cargo headed to Europe from an offshore field that had been dormant since the late 1990s.",
-   "segments": [
-    "freight",
-    "offshore"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "17f5a820a113",
-   "title": "ICTSI reports throughput increase and net income growth",
-   "link": "https://container-news.com/ictsi-reports-throughput-increase-and-net-income-growth/",
-   "source": "containernews",
-   "published": "2026-11-12T10:00:01Z",
-   "seen": "2026-11-12T10:10:02Z",
-   "lang": "en",
-   "excerpt": "International Container Terminal Services, Inc. reported double-digit growth in volumes, revenues and earnings for the first nine months of 2026. Consolidated volume reached 12,114,429 TEUs in the nine months, up 13% from 10,687,128 TEUs.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "teu"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "76c875eb4cab",
-   "title": "Fiskeri- og havministeren har møte med Maritime Cleantech",
-   "link": "https://www.regjeringen.no/no/aktuelt/fiskeri-og-havministeren-har-mote-med-maritime-cleantech/id3192108/",
-   "source": "regjeringen",
-   "published": "2026-11-12T10:00:00Z",
-   "seen": "2026-11-09T13:20:42Z",
-   "lang": "no",
-   "excerpt": "Fiskeri- og havminister Marianne Sivertsen Næss har møte med Maritime Cleantech.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "1c624e7feb6d",
-   "title": "TGS lands seismic contract offshore Namibia",
-   "link": "https://splash247.com/tgs-lands-seismic-contract-offshore-namibia/",
-   "source": "splash",
-   "published": "2026-11-12T10:00:00Z",
-   "seen": "2026-11-12T10:10:02Z",
-   "lang": "en",
-   "excerpt": "Oslo-listed seismic specialist TGS has secured an ocean bottom node contract offshore Namibia from an undisclosed repeat customer. A deepwater crew is scheduled to mobilise in the fourth quarter of 2026, with the survey expected to last …",
-   "segments": [
-    "finance",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "seismic"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "0258160d7f28",
-   "title": "Brazilian soybean exports smash records",
-   "link": "https://splash247.com/brazilian-soybean-exports-smash-records/",
-   "source": "splash",
-   "published": "2026-11-12T09:11:32Z",
-   "seen": "2026-11-12T10:10:02Z",
-   "lang": "en",
-   "excerpt": "Brazilian soybean exports have smashed all previous records, with shipments during the first ten months of 2026 already exceeding the whole of last year’s total, providing a significant boost to dry bulk shipping demand, primarily …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "dry-bulk",
-    "panamax",
-    "supramax",
-    "shipbroker"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "80180a412f24",
-   "title": "HMM operating profit surges 370% in third quarter",
-   "link": "https://container-news.com/hmm-operating-profit-surges-370-in-third-quarter/",
-   "source": "containernews",
-   "published": "2026-11-12T09:00:49Z",
-   "seen": "2026-11-12T10:10:02Z",
-   "lang": "en",
-   "excerpt": "South Korean container shipping company HMM reported a sharp increase in earnings for the third quarter of 2026, with operating profit rising 370% year-on-year amid improvements in operational efficiency and profitability across its …",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "412a7d5fdc8e",
-   "title": "Why shipowners might be better off sharing profits than taking on debt",
-   "link": "https://splash247.com/why-shipowners-might-be-better-off-sharing-profits-than-taking-on-debt/",
-   "source": "splash",
-   "published": "2026-11-12T08:03:00Z",
-   "seen": "2026-11-12T10:10:02Z",
-   "lang": "en",
-   "excerpt": "Traditional loans demand repayments regardless of freight markets. Earnings-sharing structures offer a different proposition: investors participate in a vessel’s fortunes while owners retain control.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "25a3626d6d11",
-   "title": "Hapag-Lloyd nearly doubles Q3 EBITDA and raises 2026 outlook",
-   "link": "https://container-news.com/hapag-lloyd-nearly-doubles-q3-ebitda-and-raises-2026-outlook/",
-   "source": "containernews",
-   "published": "2026-11-12T08:00:27Z",
-   "seen": "2026-11-12T10:10:02Z",
-   "lang": "en",
-   "excerpt": "Hapag-Lloyd reported a sharp improvement in third-quarter earnings in 2026, supported by higher freight rates and strong vessel utilisation, while upgrading its full-year earnings outlook amid continued favourable market conditions.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "ebitda",
-    "utilisation"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "4dd15844e813",
-   "title": "DOF rakes in up to $160 million for new vessel deal and 2009-built CSV’s job extension",
-   "link": "https://www.offshore-energy.biz/2026/11/12/dof-rakes-in-up-to-dollar160-million-for-new-vessel-deal-and-2009-built-csvs-job-extension",
-   "source": "offshoreenergy",
-   "published": "2026-11-12T07:53:39Z",
-   "seen": "2026-11-12T10:10:02Z",
-   "lang": "en",
-   "excerpt": "DOF has secured a seven-year assignment for a construction support vessel (CSV) and an extension of the charter for its 2009-built vessel.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "csv"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "333bd829ee83",
-   "title": "Maersk hit by fresh cyber breach",
-   "link": "https://splash247.com/maersk-hit-by-fresh-cyber-breach/",
-   "source": "splash",
-   "published": "2026-11-12T07:45:12Z",
-   "seen": "2026-11-11T19:03:51Z",
-   "lang": "en",
-   "excerpt": "Danish shipping giant AP Moller-Maersk has confirmed another cybersecurity breach after hackers gained access to an older IT system and extracted data, nearly a decade after the devastating NotPetya attack that cost the company up to …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "3fc9e67fab33",
-   "title": "Bunker prices plunge 20%",
-   "link": "https://splash247.com/bunker-prices-plunge-20/",
-   "source": "splash",
-   "published": "2026-11-12T07:27:04Z",
-   "seen": "2026-11-12T07:27:13Z",
-   "lang": "en",
-   "excerpt": "Bunker prices have plunged by as much as 20% in less than two weeks as hopes of an easing of the Iran conflict send oil markets tumbling, offering shipowners some relief from what is still expected to be the most expensive year for marine …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bunkers"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "d154bbbcb0e0",
-   "title": "Geneva Dry: Belships’ Ivar Hansson Myklebust on China’s changing commodities role",
-   "link": "https://splash247.com/geneva-dry-belships-ivar-hansson-myklebust-on-chinas-changing-commodities-role/",
-   "source": "splash",
-   "published": "2026-11-12T07:15:00Z",
-   "seen": "2026-11-12T01:19:47Z",
-   "lang": "en",
-   "excerpt": "Ivar Hansson Myklebust, chair and CEO of Norway’s Belships, believes the shipping industry continues to underestimate the growth potential of developing economies.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   }
  ]
