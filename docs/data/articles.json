@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-21T02:11:51Z",
+ "updated": "2026-11-21T10:57:47Z",
  "sample": false,
  "articles": [
   {
-   "id": "29335c485930",
-   "title": "Nattestenger E6-tunnel i to uker",
-   "link": "https://www.mtlogistikk.no/e6-statens-vegvesen-tunnelvedlikehold/nattestenger-e6-tunnel-i-to-uker/1364968",
+   "id": "699bcbaf2a25",
+   "title": "Sterk vekst i boks allerede før Black Week",
+   "link": "https://www.mtlogistikk.no/helthjem-netthandel-pakkeskap/sterk-vekst-i-boks-allerede-for-black-week/1365238",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-21T01:56:51Z",
+   "seen": "2026-11-21T10:57:47Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -18,6 +18,158 @@
    "policy": false,
    "level": "national",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "b9642958d707",
+   "title": "Eimskip raises ISK 2.5 billion through new bond issue",
+   "link": "https://container-news.com/eimskip-raises-isk-2-5-billion-through-new-bond-issue/",
+   "source": "containernews",
+   "published": "2026-11-21T10:30:54Z",
+   "seen": "2026-11-21T10:57:47Z",
+   "lang": "en",
+   "excerpt": "Icelandic shipping and logistics company Eimskip has completed the auction of its new EIM 261130 bond series, accepting bids worth ISK 2.5 billion at a yield of 8.50%. The auction attracted 17 bids with a combined value of ISK 2.7 billion.",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bond"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "ace9e9068d85",
+   "title": "Interasia and T.S. Lines restore two Southeast Asia services",
+   "link": "https://container-news.com/interasia-and-t-s-lines-restore-two-southeast-asia-services/",
+   "source": "containernews",
+   "published": "2026-11-21T09:00:14Z",
+   "seen": "2026-11-21T10:57:47Z",
+   "lang": "en",
+   "excerpt": "Interasia Lines and T.S. Lines are restoring two weekly container services connecting South China with Southeast Asia. The carriers will jointly operate the South China-Vietnam-Thailand service, branded SVT, with two ships of approximately …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "ef933badcd40",
+   "title": "Nattestenger E6-tunnel i to uker",
+   "link": "https://www.mtlogistikk.no/e6-statens-vegvesen-tunnelvedlikehold/nattestenger-e6-tunnel-i-to-uker/1365220",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-21T08:57:47Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "cd3044b6eaa0",
+   "title": "Fincantieri secures order for two LNG-powered Carnival cruise ships",
+   "link": "https://container-news.com/fincantieri-secures-order-for-two-lng-powered-carnival-cruise-ships/",
+   "source": "containernews",
+   "published": "2026-11-21T07:47:12Z",
+   "seen": "2026-11-21T10:57:47Z",
+   "lang": "en",
+   "excerpt": "Fincantieri has signed a contract with Carnival Corporation to build two new dual-fuel cruise ships for Carnival Cruise Line. The vessels will be constructed at the Italian shipbuilder’s Marghera yard, with deliveries scheduled for 2033 …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lng",
+    "dual-fuel",
+    "gt"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "306d7f49343d",
+   "title": "Akkon Lines launches Türkiye–Levant service",
+   "link": "https://container-news.com/akkon-lines-launches-turkiye-levant-service/",
+   "source": "containernews",
+   "published": "2026-11-21T06:00:08Z",
+   "seen": "2026-11-21T10:57:47Z",
+   "lang": "en",
+   "excerpt": "Akkon Lines will launch a new container service connecting Türkiye with Syria and Lebanon in December 2026. The new Levant Bridge Service (LBS) will be operated by a single 340 TEU vessel, offering one sailing every ten days.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "45fe7b63af08",
+   "title": "Seatrium reports S$12.2 billion order book as new contracts increase",
+   "link": "https://container-news.com/seatrium-reports-s12-2-billion-order-book-as-new-contracts-increase/",
+   "source": "containernews",
+   "published": "2026-11-21T04:30:36Z",
+   "seen": "2026-11-21T10:57:47Z",
+   "lang": "en",
+   "excerpt": "Seatrium reported a net order book of S$12.2 billion at the end of September 2026, supported by new contract wins across its offshore energy and marine engineering businesses.",
+   "segments": [
+    "freight",
+    "offshore"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "orderbook"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "3549b40a72b3",
+   "title": "CMA CGM adds Hazira to PIKEX2 service",
+   "link": "https://container-news.com/cma-cgm-adds-hazira-to-pikex2-service/",
+   "source": "containernews",
+   "published": "2026-11-21T03:00:37Z",
+   "seen": "2026-11-21T10:57:47Z",
+   "lang": "en",
+   "excerpt": "CMA CGM will add Hazira to its weekly Pakistan Khalifa Express 2 (PIKEX2), expanding the service’s coverage of India’s west coast. The regional loop connects Colombo with ports across India and Pakistan.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner",
+    "teu"
+   ],
    "paywall": false
   },
   {
@@ -62,24 +214,6 @@
    "terms": [
     "project-cargo"
    ],
-   "paywall": false
-  },
-  {
-   "id": "b09c382fb05d",
-   "title": "Sterk vekst i boks allerede før Black Week",
-   "link": "https://www.mtlogistikk.no/helthjem-netthandel-pakkeskap/sterk-vekst-i-boks-allerede-for-black-week/1365273",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-21T00:41:51Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -18132,130 +18266,6 @@
    "level": "international",
    "terms": [
     "ahts"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "5e4c7f9f9f0e",
-   "title": "Jernbanen forfaller mens entreprenørene permitterer",
-   "link": "https://www.mtlogistikk.no/bane-nor-entreprenorbransjen-jernbanevedlikehold/jernbanen-forfaller-mens-entreprenorene-permitterer/1360591",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-12T11:50:15Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a0861dd172d3",
-   "title": "GULF broadens LNG trading horizons beyond Thailand with PetroChina deal",
-   "link": "https://www.offshore-energy.biz/2026/11/12/gulf-broadens-lng-trading-horizons-beyond-thailand-with-petrochina-deal",
-   "source": "offshoreenergy",
-   "published": "2026-11-12T11:48:55Z",
-   "seen": "2026-11-12T13:20:15Z",
-   "lang": "en",
-   "excerpt": "This deal enables GULF to supply 0.3 million tonnes of LNG to PetroChina in 2027, marking its strategic expansion into international trading.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "b0750b571a84",
-   "title": "Marine Platforms plans full takeover of former Technip pipelay vessel",
-   "link": "https://splash247.com/marine-platforms-plans-full-takeover-of-former-technip-pipelay-vessel/",
-   "source": "splash",
-   "published": "2026-11-12T11:38:00Z",
-   "seen": "2026-11-12T13:20:15Z",
-   "lang": "en",
-   "excerpt": "Nigerian offshore services contractor Marine Platforms is moving towards full ownership of the pipelay and heavy-lift construction vessel Zhong Fei Huan Qiu 1200, formerly known as Global 1200.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "mna",
-    "project-cargo"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "f57a1df70cc3",
-   "title": "MSC CEO Søren Toft highlights stronger growth despite global uncertainty",
-   "link": "https://container-news.com/msc-ceo-soren-toft-highlights-stronger-growth-despite-global-uncertainty/",
-   "source": "containernews",
-   "published": "2026-11-12T11:22:21Z",
-   "seen": "2026-11-12T13:20:15Z",
-   "lang": "en",
-   "excerpt": "MSC Mediterranean Shipping Company has recorded stronger growth since the spring of 2026, particularly on trades originating in Asia, according to CEO Søren Toft, who outlined the carrier’s performance, ongoing investments and operational …",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "c5a70556433b",
-   "title": "EU’s Russian Arctic LNG Bill Hits €8.7 Billion as Yamal Faces Shipping Challenge Come January",
-   "link": "https://gcaptain.com/eus-russian-arctic-lng-bill-hits-e8-7-billion-as-yamal-faces-shipping-challenge-come-january/",
-   "source": "gcaptain",
-   "published": "2026-11-12T11:16:36Z",
-   "seen": "2026-11-12T13:20:15Z",
-   "lang": "en",
-   "excerpt": "The European Union paid an estimated €8.7 billion for liquefied natural gas from Russia’s Yamal project in the first 10 months of 2026, exceeding the estimated total for all of 2025, as the countdown to a ban on Russian LNG imports enters …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "lng"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "dfe1557c9d5f",
-   "title": "Genesee & Wyoming prepares to split into three rail holding companies",
-   "link": "https://www.freightwaves.com/news/genesee-wyoming-prepares-to-split-into-three-rail-holding-companies",
-   "source": "freightwaves",
-   "published": "2026-11-12T11:08:00Z",
-   "seen": "2026-11-12T16:08:47Z",
-   "lang": "en",
-   "excerpt": "The largest U.S. short line railroad operator is restructuring as it plans to sell off dozens of lines.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "restructuring"
    ],
    "paywall": false
   }
