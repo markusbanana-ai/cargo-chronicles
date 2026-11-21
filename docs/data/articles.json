@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-21T10:57:47Z",
+ "updated": "2026-11-21T19:12:33Z",
  "sample": false,
  "articles": [
   {
-   "id": "699bcbaf2a25",
-   "title": "Sterk vekst i boks allerede før Black Week",
-   "link": "https://www.mtlogistikk.no/helthjem-netthandel-pakkeskap/sterk-vekst-i-boks-allerede-for-black-week/1365238",
+   "id": "29335c485930",
+   "title": "Nattestenger E6-tunnel i to uker",
+   "link": "https://www.mtlogistikk.no/e6-statens-vegvesen-tunnelvedlikehold/nattestenger-e6-tunnel-i-to-uker/1364968",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-21T10:57:47Z",
+   "seen": "2026-11-21T18:57:33Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -18,6 +18,230 @@
    "policy": false,
    "level": "national",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "45a7b4571e77",
+   "title": "Russian Military RoRo Abandoned After Drone Attack in the Baltic",
+   "link": "https://maritime-executive.com/article/russian-military-roro-attacked-by-drones-in-the-baltic-near-finland",
+   "source": "marex",
+   "published": "2026-11-21T18:26:21Z",
+   "seen": "2026-11-21T19:12:33Z",
+   "lang": "en",
+   "excerpt": "The Russian RoRo cargo ship Sparta II, well-known for carrying military cargo, was struck Saturday morning while sailing in the Baltic. There are conf...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "roro"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "d4c6efa03903",
+   "title": "ASIA LNG MOC PERFORMANCE: Deliveries conclude for record volume of 148.5 TBtu during August MOC",
+   "link": "https://www.hellenicshippingnews.com/asia-lng-moc-performance-deliveries-conclude-for-record-volume-of-148-5-tbtu-during-august-moc-2/",
+   "source": "hsn",
+   "published": "2026-11-21T18:00:23Z",
+   "seen": "2026-11-21T19:12:33Z",
+   "lang": "en",
+   "excerpt": "Participants in the Asia LNG Platts Market on Close assessment process concluded physical deliveries for a record volume of 148.5 TBtu during August, according to operational trade performance data compiled by Platts, part of S&P Global …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lng",
+    "sale-purchase"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "b09c382fb05d",
+   "title": "Sterk vekst i boks allerede før Black Week",
+   "link": "https://www.mtlogistikk.no/helthjem-netthandel-pakkeskap/sterk-vekst-i-boks-allerede-for-black-week/1365273",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-21T17:42:33Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8dcb324ec439",
+   "title": "Maersk delays Australia and New Zealand no-load policy",
+   "link": "https://container-news.com/maersk-delays-australia-and-new-zealand-no-load-policy/",
+   "source": "containernews",
+   "published": "2026-11-21T17:30:53Z",
+   "seen": "2026-11-21T19:12:33Z",
+   "lang": "en",
+   "excerpt": "Maersk has extended the transition period for its No Shipping Instruction, No Load Policy covering export cargo from Australia and New Zealand.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "e851e8faedf5",
+   "title": "Russian Military-Linked Cargo Ship Burns After Suspected Drone Strike in Gulf of Finland",
+   "link": "https://gcaptain.com/russian-military-linked-cargo-ship-burns-after-suspected-drone-strike-in-gulf-of-finland/",
+   "source": "gcaptain",
+   "published": "2026-11-21T16:34:08Z",
+   "seen": "2026-11-21T19:12:33Z",
+   "lang": "en",
+   "excerpt": "A Russian cargo ship linked to Moscow’s military logistics network caught fire after a drone strike in the Gulf of Finland on Saturday, drifting into Finnish territorial waters and triggering...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "0a5106e24c2b",
+   "title": "MSC expands regional network with two new services",
+   "link": "https://container-news.com/msc-expands-regional-network-with-two-new-services/",
+   "source": "containernews",
+   "published": "2026-11-21T16:00:19Z",
+   "seen": "2026-11-21T19:12:33Z",
+   "lang": "en",
+   "excerpt": "MSC is expanding its regional network with two new services covering the Arabian Gulf and the Indian Subcontinent. The carrier will launch Fujairah Shuttle 2 in December 2026, while also introducing a dedicated connection between Ennore in …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8df72216c578",
+   "title": "Tentative union deal averts strike at Port of LA-Long Beach",
+   "link": "https://www.freightwaves.com/news/tentative-union-deal-averts-strike-at-port-of-la-long-beach",
+   "source": "freightwaves",
+   "published": "2026-11-21T14:57:00Z",
+   "seen": "2026-11-21T19:12:33Z",
+   "lang": "en",
+   "excerpt": "A tentative accord eases the immediate threat of a strike at the nation’s busiest container port complex after more than a year of bargaining and federally mediated negotiations.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a5251111f759",
+   "title": "Caerus Shipping launches direct Oman–India service",
+   "link": "https://container-news.com/caerus-shipping-launches-direct-oman-india-service/",
+   "source": "containernews",
+   "published": "2026-11-21T14:12:18Z",
+   "seen": "2026-11-21T19:12:33Z",
+   "lang": "en",
+   "excerpt": "Caerus Shipping has introduced its Arab Sea Express (AXS), providing direct connections between Sohar in Oman and the Indian ports of Nhava Sheva and Mundra. The service operates every 14 days.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "forwarder"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "5cb6592e9f6b",
+   "title": "Southern California Port Employers, Watchmen Union Reach Tentative Deal",
+   "link": "https://gcaptain.com/southern-california-port-employers-watchmen-union-reach-tentative-deal/",
+   "source": "gcaptain",
+   "published": "2026-11-21T13:58:36Z",
+   "seen": "2026-11-21T19:12:33Z",
+   "lang": "en",
+   "excerpt": "Nov 21 (Reuters) – The Pacific Maritime Association (PMA) employers group at the Los Angeles and Long Beach ports said on Saturday it had reached a tentative agreement with the union for security...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "1ec24ff9702c",
+   "title": "DHL Express makes customs clearance easier for small cross-border shippers",
+   "link": "https://www.freightwaves.com/news/dhl-express-makes-customs-clearance-easier-for-small-cross-border-shippers",
+   "source": "freightwaves",
+   "published": "2026-11-21T13:38:56Z",
+   "seen": "2026-11-21T19:12:33Z",
+   "lang": "en",
+   "excerpt": "DHL Express has introduced a new AI-generated product identifier for customs clearance that takes the guesswork out of the process.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "customs-transit",
+    "shipper-consignee"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "14c3e0d33231",
+   "title": "Maersk sets Cyprus truck fuel surcharge at 15%",
+   "link": "https://container-news.com/maersk-sets-cyprus-truck-fuel-surcharge-at-15/",
+   "source": "containernews",
+   "published": "2026-11-21T12:21:16Z",
+   "seen": "2026-11-21T19:12:33Z",
+   "lang": "en",
+   "excerpt": "Maersk will apply a 15% fuel surcharge to truck transportation in Cyprus from 23 November 2026. The carrier attributed the temporary measure to higher fuel-related costs arising from the situation in the Middle East.",
+   "segments": [
+    "road",
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "fuel-surcharge"
+   ],
    "paywall": false
   },
   {
@@ -60,24 +284,6 @@
    "terms": [
     "teu"
    ],
-   "paywall": false
-  },
-  {
-   "id": "ef933badcd40",
-   "title": "Nattestenger E6-tunnel i to uker",
-   "link": "https://www.mtlogistikk.no/e6-statens-vegvesen-tunnelvedlikehold/nattestenger-e6-tunnel-i-to-uker/1365220",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-21T08:57:47Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -18063,209 +18269,6 @@
    "level": "national",
    "terms": [
     "rig"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "b832919f19fa",
-   "title": "FedEx enhances European road and air networks",
-   "link": "https://www.freightwaves.com/news/fedex-enhances-european-road-and-air-networks",
-   "source": "freightwaves",
-   "published": "2026-11-12T14:12:18Z",
-   "seen": "2026-11-12T16:08:47Z",
-   "lang": "en",
-   "excerpt": "FedEx is making infrastructure investments at key locations in Europe, while also consolidating operations across the continent for greater efficiency.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "352ba92291f3",
-   "title": "Klaipėda Port launches tender for Southern Port area",
-   "link": "https://container-news.com/klaipeda-port-launches-tender-for-southern-port-area/",
-   "source": "containernews",
-   "published": "2026-11-12T14:00:59Z",
-   "seen": "2026-11-12T16:08:47Z",
-   "lang": "en",
-   "excerpt": "The Klaipėda State Seaport Authority has launched a tender to select future tenants for a new 100-hectare area in the southern part of the port, in a project worth more than EUR 1 billion.",
-   "segments": [
-    "road",
-    "freight",
-    "finance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "47a3bbe1c5f4",
-   "title": "One of 3 ratings agencies now has XPO as investment-grade",
-   "link": "https://www.freightwaves.com/news/one-of-3-ratings-agencies-now-has-xpo-as-investment-grade",
-   "source": "freightwaves",
-   "published": "2026-11-12T13:19:10Z",
-   "seen": "2026-11-12T16:08:47Z",
-   "lang": "en",
-   "excerpt": "LTL carrier XPO is now an investment-grade credit at one of the three major ratings agencies. Fitch Ratings has upgraded its rating on XPO (NYSE: XPO) to BBB-.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "credit-rating",
-    "ltl",
-    "cut-off",
-    "sale-purchase"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "a10b0060701a",
-   "title": "Port of Gothenburg eyes large-scale biogas bunkering in 2027",
-   "link": "https://www.offshore-energy.biz/2026/11/12/port-of-gothenburg-eyes-large-scale-biogas-bunkering-in-2027",
-   "source": "offshoreenergy",
-   "published": "2026-11-12T13:12:27Z",
-   "seen": "2026-11-12T16:08:47Z",
-   "lang": "en",
-   "excerpt": "Sweden’s Port of Gothenburg is gearing up to launch a new LBG liquefaction plant next year to enable large-scale liquefied biogas bunkering.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bunkers"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "747ce3713409",
-   "title": "Baltic Dry Index climbs to 3020 up 61 points",
-   "link": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-3020-up-61-points/",
-   "source": "hsn",
-   "published": "2026-11-12T13:00:41Z",
-   "seen": "2026-11-12T13:20:15Z",
-   "lang": "en",
-   "excerpt": "Today, Thursday, November 12 2026, the Baltic Dry Index climbed 61 points, 3020 points. Baltic Dry Index is compiled by the London-based Baltic Exchange and covers prices for transported cargo such as coal, grain and iron ore.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bdi",
-    "baltic-exchange"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "bd799b81b01c",
-   "title": "Wallem appoints Apostolos Poulovassilis to lead Greek expansion",
-   "link": "https://container-news.com/wallem-appoints-apostolos-poulovassilis-to-lead-greek-expansion/",
-   "source": "containernews",
-   "published": "2026-11-12T13:00:32Z",
-   "seen": "2026-11-12T13:20:15Z",
-   "lang": "en",
-   "excerpt": "Wallem Group has appointed Apostolos Poulovassilis as General Manager, Ship Management, Greece, as the company moves to expand its ship management business in the Greek market.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a20fce642be2",
-   "title": "ITF report ties part of retail’s $850B returns to freight",
-   "link": "https://www.freightwaves.com/news/itf-group-report-retail-returns-freight",
-   "source": "freightwaves",
-   "published": "2026-11-12T13:00:00Z",
-   "seen": "2026-11-12T13:20:15Z",
-   "lang": "en",
-   "excerpt": "NRF projected $849.9 billion in 2025 returns, down from $890 billion in 2024. ITF Group's report says retailers book part of that cost in the wrong department.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a3c227a07c2e",
-   "title": "Xiamen Port launches green methanol bunkering with OOCL WISDOM",
-   "link": "https://container-news.com/xiamen-port-launches-green-methanol-bunkering-with-oocl-wisdom/",
-   "source": "containernews",
-   "published": "2026-11-12T12:00:54Z",
-   "seen": "2026-11-12T13:20:15Z",
-   "lang": "en",
-   "excerpt": "Xiamen Port in China has completed its first ship-to-ship green methanol bunkering operation, supplying 1,005 tonnes of the alternative marine fuel to OOCL WISDOM, one of the world’s largest methanol dual-fuel container vessels.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "dual-fuel",
-    "bunkers"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "06e22d57c233",
-   "title": "FarEye turns profitable in Q4 as EMEA revenue jumps 51%",
-   "link": "https://www.freightwaves.com/news/fareye-q4-profit-emea-revenue",
-   "source": "freightwaves",
-   "published": "2026-11-12T12:00:00Z",
-   "seen": "2026-11-12T13:20:15Z",
-   "lang": "en",
-   "excerpt": "FarEye reported its first profitable quarter as fiscal 2026 revenue from operations rose 24.58% to $27.9 million, led by a 51.17% jump in EMEA revenue",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "6ce5af2e7573",
-   "title": "Chinese shipbuilder wins AHTS order from South American owner",
-   "link": "https://splash247.com/chinese-shipbuilder-wins-ahts-order-from-south-american-owner/",
-   "source": "splash",
-   "published": "2026-11-12T12:00:00Z",
-   "seen": "2026-11-12T13:20:15Z",
-   "lang": "en",
-   "excerpt": "Chinese shipbuilder Rainbow Offshore Engineering (ROC), part of Shenzhen-listed Jiangsu Rainbow Heavy Industries, has secured a contract to build an anchor-handling tug supply (AHTS) vessel for an undisclosed South American owner.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "ahts"
    ],
    "paywall": false
   }
