@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-21T19:12:33Z",
+ "updated": "2026-11-22T01:16:32Z",
  "sample": false,
  "articles": [
   {
-   "id": "29335c485930",
-   "title": "Nattestenger E6-tunnel i to uker",
-   "link": "https://www.mtlogistikk.no/e6-statens-vegvesen-tunnelvedlikehold/nattestenger-e6-tunnel-i-to-uker/1364968",
+   "id": "699bcbaf2a25",
+   "title": "Sterk vekst i boks allerede før Black Week",
+   "link": "https://www.mtlogistikk.no/helthjem-netthandel-pakkeskap/sterk-vekst-i-boks-allerede-for-black-week/1365238",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-21T18:57:33Z",
+   "seen": "2026-11-22T01:16:32Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -17,6 +17,149 @@
    "subs": [],
    "policy": false,
    "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "e2ccd2b22cec",
+   "title": "JSV Logistic reconnects Türkiye with Canary Islands",
+   "link": "https://container-news.com/jsv-logistic-reconnects-turkiye-with-canary-islands/",
+   "source": "containernews",
+   "published": "2026-11-22T00:34:29Z",
+   "seen": "2026-11-22T01:16:32Z",
+   "lang": "en",
+   "excerpt": "JSV Logistic has reinstated the Canary Islands leg of its weekly Türkiye–Spain service, restoring direct calls between Türkiye and the Spanish archipelago. The Canary Islands section was separated from the operation in mid-2026.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner",
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "ef933badcd40",
+   "title": "Nattestenger E6-tunnel i to uker",
+   "link": "https://www.mtlogistikk.no/e6-statens-vegvesen-tunnelvedlikehold/nattestenger-e6-tunnel-i-to-uker/1365220",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-21T23:16:32Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "810bb0edcf36",
+   "title": "Port of Los Angeles releases environmental impact report",
+   "link": "https://container-news.com/port-of-los-angeles-releases-environmental-impact-report/",
+   "source": "containernews",
+   "published": "2026-11-21T22:54:27Z",
+   "seen": "2026-11-22T01:16:32Z",
+   "lang": "en",
+   "excerpt": "The Port of Los Angeles has released a Draft Environmental Impact Report for a proposed Marine Oil Terminal and Wharf Improvements Project at Berths 148-151 in Wilmington, a terminal operated by Phillips 66.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "024103fd6bd8",
+   "title": "Balaena and Kongsberg Maritime Sign Agreement on Arctic Hunter USV",
+   "link": "https://maritime-executive.com/article/balaena-and-kongsberg-maritime-sign-agreement-on-arctic-hunter-usv",
+   "source": "marex",
+   "published": "2026-11-21T21:55:00Z",
+   "seen": "2026-11-19T11:35:15Z",
+   "lang": "en",
+   "excerpt": "British-owned shipbuilding and maritime engineering group Balaena has signed a Memorandum of Understanding (MoU) with Norwegian maritime technology le...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "7bb5206586ab",
+   "title": "MSC reinstates three calls on Ecuador–NWC–USA service",
+   "link": "https://container-news.com/msc-reinstates-three-calls-on-ecuador-nwc-usa-service/",
+   "source": "containernews",
+   "published": "2026-11-21T21:00:58Z",
+   "seen": "2026-11-22T01:16:32Z",
+   "lang": "en",
+   "excerpt": "MSC is reinstating calls at St. Petersburg, Rotterdam and Jacksonville on its Ecuador–NWC–USA service, as repirted by DynaLiners. The three ports were removed from the service in July 2026.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "dc0637495814",
+   "title": "Two Tanker Incidents Reported Near Oman; Vessel Hit Mine East Of Hormuz",
+   "link": "https://gcaptain.com/two-tanker-incidents-reported-near-oman-vessel-hit-mine-east-of-hormuz/",
+   "source": "gcaptain",
+   "published": "2026-11-21T19:38:29Z",
+   "seen": "2026-11-22T01:16:32Z",
+   "lang": "en",
+   "excerpt": "Nov 21 (Reuters) – A tanker sailing outbound through the Strait of Hormuz was hit on its stern by an unidentified projectile about 11 nautical miles north of Oman’s Khasab, the United...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "3d2aaa0e1e5e",
+   "title": "Lloyd’s Register approves new classification rules for nuclear-powered ships",
+   "link": "https://container-news.com/lloyds-register-approves-new-classification-rules-for-nuclear-powered-ships/",
+   "source": "containernews",
+   "published": "2026-11-21T19:16:56Z",
+   "seen": "2026-11-22T01:16:32Z",
+   "lang": "en",
+   "excerpt": "Lloyd’s Register (LR) has approved new classification rules for nuclear-powered ships and offshore units, marking another step towards the potential use of nuclear energy in commercial shipping.",
+   "segments": [
+    "freight",
+    "insurance",
+    "offshore"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": true,
+   "level": "international",
    "terms": [],
    "paywall": false
   },
@@ -61,24 +204,6 @@
     "lng",
     "sale-purchase"
    ],
-   "paywall": false
-  },
-  {
-   "id": "b09c382fb05d",
-   "title": "Sterk vekst i boks allerede før Black Week",
-   "link": "https://www.mtlogistikk.no/helthjem-netthandel-pakkeskap/sterk-vekst-i-boks-allerede-for-black-week/1365273",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-21T17:42:33Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
    "paywall": false
   },
   {
@@ -137,6 +262,28 @@
    "policy": false,
    "level": "international",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "03064e324196",
+   "title": "Energy Efficiency in Boiler, Steam System & Cargo Operations on Oil Tankers",
+   "link": "https://maritime-executive.com/article/energy-efficiency-in-boiler-steam-system-cargo-operations-on-oil-tankers",
+   "source": "marex",
+   "published": "2026-11-21T15:32:37Z",
+   "seen": "2026-11-21T02:11:51Z",
+   "lang": "en",
+   "excerpt": "ClassNK has granted its Innovation Endorsement for Products & Solutions to ‘Energy Efficiency in Boiler, Steam Systems and Cargo Operations on Oil Tan...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "class-society"
+   ],
    "paywall": false
   },
   {
@@ -375,28 +522,6 @@
    "terms": [
     "liner",
     "teu"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "03064e324196",
-   "title": "Energy Efficiency in Boiler, Steam System & Cargo Operations on Oil Tankers",
-   "link": "https://maritime-executive.com/article/energy-efficiency-in-boiler-steam-system-cargo-operations-on-oil-tankers",
-   "source": "marex",
-   "published": "2026-11-21T01:32:37Z",
-   "seen": "2026-11-21T02:11:51Z",
-   "lang": "en",
-   "excerpt": "ClassNK has granted its Innovation Endorsement for Products & Solutions to ‘Energy Efficiency in Boiler, Steam Systems and Cargo Operations on Oil Tan...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "class-society"
    ],
    "paywall": false
   },
@@ -7831,24 +7956,6 @@
    "seen": "2026-11-19T11:35:15Z",
    "lang": "en",
    "excerpt": "Saronic has contracted Syncrolift AS, a wholly owned subsidiary of Oslo-listed Nekkar ASA, to design and supply what will be the world’s largest shipl...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "024103fd6bd8",
-   "title": "Balaena and Kongsberg Maritime Sign Agreement on Arctic Hunter USV",
-   "link": "https://maritime-executive.com/article/balaena-and-kongsberg-maritime-sign-agreement-on-arctic-hunter-usv",
-   "source": "marex",
-   "published": "2026-11-18T05:55:00Z",
-   "seen": "2026-11-19T11:35:15Z",
-   "lang": "en",
-   "excerpt": "British-owned shipbuilding and maritime engineering group Balaena has signed a Memorandum of Understanding (MoU) with Norwegian maritime technology le...",
    "segments": [
     "freight"
    ],
@@ -18168,108 +18275,6 @@
    "policy": false,
    "level": "international",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "54d0cf235796",
-   "title": "Farewell to America’s Flagship: SS United States Sinks After 74 Years",
-   "link": "https://gcaptain.com/farewell-to-americas-flagship-ss-united-states-sinks-after-74-years/",
-   "source": "gcaptain",
-   "published": "2026-11-12T14:59:53Z",
-   "seen": "2026-11-12T19:01:55Z",
-   "lang": "en",
-   "excerpt": "The legendary ocean liner, which still holds the transatlantic speed record, took hours to sink off Florida’s Gulf Coast, ending a remarkable chapter in American maritime history. The SS United...",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "f14801e4a35a",
-   "title": "Trondheim Havn blir knutepunkt mellom øst og vest",
-   "link": "https://www.mtlogistikk.no/godstogrute-onrail-sjotransport/trondheim-havn-blir-knutepunkt-mellom-ost-og-vest/1360675",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-12T14:38:47Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road",
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "2ffb4ac1c799",
-   "title": "US midterm shift adds trade uncertainty as trans-Pacific ocean freight rates stay elevated",
-   "link": "https://www.freightwaves.com/news/us-midterm-shift-adds-trade-uncertainty-as-trans-pacific-ocean-freight-rates-stay-elevated",
-   "source": "freightwaves",
-   "published": "2026-11-12T14:25:28Z",
-   "seen": "2026-11-12T16:08:47Z",
-   "lang": "en",
-   "excerpt": "Democrats’ victories in both chambers of Congress has added uncertainty to the trade outlook as ocean imports ease from a near-record peak.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "03646d503d33",
-   "title": "Diesel 101: Why Truck Stop Diesel Is Still Above $6 a Gallon as Crude Falls",
-   "link": "https://www.freightwaves.com/news/diesel-101-why-truck-stop-diesel-is-still-above-6-a-gallon-as-crude-falls",
-   "source": "freightwaves",
-   "published": "2026-11-12T14:24:00Z",
-   "seen": "2026-11-12T16:08:47Z",
-   "lang": "en",
-   "excerpt": "Truck stop diesel hit $6.23/gal on Nov. 9, up 65% YoY, even as Brent fell 21%. SONAR's Diesel 101 sitrep explains the crack spread and what comes next.",
-   "segments": [
-    "road",
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "rest-area"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "8b3e63597ec3",
-   "title": "SLB on multi-year integrated drilling quest with European oil & gas operator",
-   "link": "https://www.offshore-energy.biz/2026/11/12/slb-on-multi-year-integrated-drilling-quest-with-european-oil-and-gas-operator",
-   "source": "offshoreenergy",
-   "published": "2026-11-12T14:22:03Z",
-   "seen": "2026-11-12T16:08:47Z",
-   "lang": "en",
-   "excerpt": "SLB’s new assignment with Vår Energi aims to drive efficiency and performance across two rigs owned by Transocean and Odfjell Drilling.",
-   "segments": [
-    "road",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "rig"
-   ],
    "paywall": false
   }
  ]
