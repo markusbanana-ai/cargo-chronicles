@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-22T11:18:07Z",
+ "updated": "2026-11-22T19:35:02Z",
  "sample": false,
  "articles": [
   {
-   "id": "29335c485930",
-   "title": "Nattestenger E6-tunnel i to uker",
-   "link": "https://www.mtlogistikk.no/e6-statens-vegvesen-tunnelvedlikehold/nattestenger-e6-tunnel-i-to-uker/1364968",
+   "id": "699bcbaf2a25",
+   "title": "Sterk vekst i boks allerede før Black Week",
+   "link": "https://www.mtlogistikk.no/helthjem-netthandel-pakkeskap/sterk-vekst-i-boks-allerede-for-black-week/1365238",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-22T11:03:07Z",
+   "seen": "2026-11-22T19:35:02Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -21,12 +21,68 @@
    "paywall": false
   },
   {
-   "id": "b09c382fb05d",
-   "title": "Sterk vekst i boks allerede før Black Week",
-   "link": "https://www.mtlogistikk.no/helthjem-netthandel-pakkeskap/sterk-vekst-i-boks-allerede-for-black-week/1365273",
+   "id": "33f9e79052ae",
+   "title": "Diamond Line doubles Piraeus–Constanta service frequency",
+   "link": "https://container-news.com/diamond-line-doubles-piraeus-constanta-service-frequency/",
+   "source": "containernews",
+   "published": "2026-11-22T19:00:06Z",
+   "seen": "2026-11-22T19:35:02Z",
+   "lang": "en",
+   "excerpt": "Diamond Line has increased the frequency of its Piraeus–Constanta Express (PCE) from weekly to twice weekly. Accoring to DynaLiners the intra-European subsidiary of COSCO Shipping Lines has added a second vessel to the service, providing …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "d7e4b5ef84b7",
+   "title": "San Pedro Bay Ports Mark 20 Years of Landmark Clean Air Action Plan",
+   "link": "https://www.hellenicshippingnews.com/san-pedro-bay-ports-mark-20-years-of-landmark-clean-air-action-plan/",
+   "source": "hsn",
+   "published": "2026-11-22T18:00:58Z",
+   "seen": "2026-11-22T19:35:02Z",
+   "lang": "en",
+   "excerpt": "Twenty years after adopting the landmark Clean Air Action Plan (CAAP), the ports of Long Beach and Los Angeles are advancing a new phase of clean air initiatives, building on two decades of dramatic reductions in air pollution while …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "e63397982d48",
+   "title": "Barclays warns of further equity weakness as hawkish Fed bets build",
+   "link": "https://www.hellenicshippingnews.com/barclays-warns-of-further-equity-weakness-as-hawkish-fed-bets-build/",
+   "source": "hsn",
+   "published": "2026-11-22T18:00:56Z",
+   "seen": "2026-11-22T19:35:02Z",
+   "lang": "en",
+   "excerpt": "Equities could weaken further into year-end if Federal Reserve communication turns more hawkish or inflation data comes in hot, as investors question whether the central bank’s support has disappeared, according to Barclays.",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "ef933badcd40",
+   "title": "Nattestenger E6-tunnel i to uker",
+   "link": "https://www.mtlogistikk.no/e6-statens-vegvesen-tunnelvedlikehold/nattestenger-e6-tunnel-i-to-uker/1365220",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-22T09:48:07Z",
+   "seen": "2026-11-22T17:35:02Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -35,6 +91,108 @@
    "subs": [],
    "policy": false,
    "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "52b3e50f5f35",
+   "title": "Pan Continental and PanStar launch new PHX service",
+   "link": "https://container-news.com/pan-continental-and-panstar-launch-new-phx-service/",
+   "source": "containernews",
+   "published": "2026-11-22T17:00:04Z",
+   "seen": "2026-11-22T19:35:02Z",
+   "lang": "en",
+   "excerpt": "Pan Continental and PanStar will launch a new weekly container service connecting South Korea, Vietnam and China, with CK Line taking slots on the operation, as reported by DynaLiners.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner",
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "7864d27a4baa",
+   "title": "Suspected Drone Attack Caused Explosion On Russian Ship At Benghazi Port",
+   "link": "https://gcaptain.com/suspected-drone-attack-caused-explosion-on-russian-ship-at-benghazi-port/",
+   "source": "gcaptain",
+   "published": "2026-11-22T15:09:48Z",
+   "seen": "2026-11-22T19:35:02Z",
+   "lang": "en",
+   "excerpt": "Nov 22 (Reuters) – Libya’s eastern-based government said on Sunday that a preliminary investigation indicated an explosion at the Benghazi naval base in eastern Libya occurred aboard a Russian ship docked at...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "695d10d5a415",
+   "title": "Russian Cargo Ship Still On Fire Off Finland After Attack",
+   "link": "https://gcaptain.com/russian-cargo-ship-still-on-fire-off-finland-after-attack/",
+   "source": "gcaptain",
+   "published": "2026-11-22T14:31:31Z",
+   "seen": "2026-11-22T19:35:02Z",
+   "lang": "en",
+   "excerpt": "HELSINKI, Nov 22 (Reuters) – A fire onboard a Russian cargo ship that was struck by drones in the Baltic Sea continued to burn through the night even as efforts were made to...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "71e09e594deb",
+   "title": "Claus-Peter Offen orders four 7,000 TEU boxships",
+   "link": "https://container-news.com/claus-peter-offen-orders-four-7000-teu-boxships/",
+   "source": "containernews",
+   "published": "2026-11-22T13:00:46Z",
+   "seen": "2026-11-22T19:35:02Z",
+   "lang": "en",
+   "excerpt": "German non-operating owner Claus-Peter Offen has reportedly ordered four container ships of approximately 7,000 TEU from China’s Guangzhou Shipyard International (GSI), as citted by DynaLiners.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "teu",
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "494017521a4f",
+   "title": "Borderlands Mexico: Truckers secure 29 agreements on highway safety after nationwide strike",
+   "link": "https://www.freightwaves.com/news/borderlands-mexico-truckers-secure-29-agreements-on-highway-safety-after-nationwide-strike",
+   "source": "freightwaves",
+   "published": "2026-11-22T12:00:00Z",
+   "seen": "2026-11-22T19:35:02Z",
+   "lang": "en",
+   "excerpt": "Mexican trucking organizations have advanced new agreements with government authorities aimed at improving highway security and freight transportation conditions.",
+   "segments": [
+    "road",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
    "terms": [],
    "paywall": false
   },
@@ -18121,168 +18279,6 @@
     "containers"
    ],
    "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "44dadf2a5d5d",
-   "title": "Seanergy lines up four more bulkers in $855m fleet push",
-   "link": "https://splash247.com/seanergy-lines-up-four-more-bulkers-in-855m-fleet-push/",
-   "source": "splash",
-   "published": "2026-11-12T18:26:56Z",
-   "seen": "2026-11-12T19:01:55Z",
-   "lang": "en",
-   "excerpt": "Greek capesize specialist Seanergy Maritime has added four more vessels worth $264m to its fleet investment programme, taking its total spending commitments to $855m.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "dry-bulk",
-    "capesize",
-    "newbuilding",
-    "sale-purchase"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "6ade334b9ece",
-   "title": "Tanker Ablaze Off UAE as More Attacks Rattle Gulf Shipping",
-   "link": "https://gcaptain.com/tanker-ablaze-off-uae-as-more-attacks-rattle-gulf-shipping/",
-   "source": "gcaptain",
-   "published": "2026-11-12T18:20:34Z",
-   "seen": "2026-11-12T19:01:55Z",
-   "lang": "en",
-   "excerpt": "A projectile struck the engine room of the Liberia-flagged crude oil tanker Dominica Prosperity off the United Arab Emirates on Wednesday, forcing the evacuation of all 22 crew members as...",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "c689139e543b",
-   "title": "HHLA container throughput falls 7.3% as automation challenges weigh on earnings",
-   "link": "https://container-news.com/hhla-container-throughput-falls-7-3-as-automation-challenges-weigh-on-earnings/",
-   "source": "containernews",
-   "published": "2026-11-12T18:00:06Z",
-   "seen": "2026-11-12T19:01:55Z",
-   "lang": "en",
-   "excerpt": "Hamburger Hafen und Logistik AG (HHLA) reported a 7.3% decline in container throughput during the first nine months of 2026, as terminal automation projects and operational disruptions affected performance at its Hamburg facilities.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "teu"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "6d0de95bcf35",
-   "title": "SS United States Has Been Sunk as a Reef - What Happens Next?",
-   "link": "https://maritime-executive.com/article/ss-united-states-has-been-sunk-as-a-reef-what-happens-next",
-   "source": "marex",
-   "published": "2026-11-12T17:34:00Z",
-   "seen": "2026-11-12T19:01:55Z",
-   "lang": "en",
-   "excerpt": "As a marine ecologist and keen scuba diver, I’ve long been fascinated by what happens when a large structure is introduced to the sea. Within hours, m...",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "8a447bb2ea17",
-   "title": "Finland Says it Detects Strike on Russian Warship in Baltic Sea",
-   "link": "https://gcaptain.com/finland-says-it-detects-strike-on-russian-warship-in-baltic-sea/",
-   "source": "gcaptain",
-   "published": "2026-11-12T17:14:34Z",
-   "seen": "2026-11-12T19:01:55Z",
-   "lang": "en",
-   "excerpt": "Finland's military said on Thursday its forces had detected \"a strike\" on a Russian warship in the Baltic Sea a day earlier, but that the security situation in the area remained stable.",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "57cdd3d2731e",
-   "title": "MSC raises December FAK rates to Mediterranean and Black Sea",
-   "link": "https://container-news.com/msc-raises-december-fak-rates-to-mediterranean-and-black-sea/",
-   "source": "containernews",
-   "published": "2026-11-12T17:00:29Z",
-   "seen": "2026-11-12T19:01:55Z",
-   "lang": "en",
-   "excerpt": "MSC has announced higher Freight All Kinds (FAK) rates for shipments from the Far East to the Mediterranean, North Africa and the Black Sea, effective from 1 December 2026, while maintaining its existing rates to Northern Europe.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "e6abe230efad",
-   "title": "Tractor Supply partners with Uber to offer on-demand delivery",
-   "link": "https://www.freightwaves.com/news/tractor-supply-partners-with-uber-to-offer-on-demand-delivery",
-   "source": "freightwaves",
-   "published": "2026-11-12T16:15:36Z",
-   "seen": "2026-11-12T19:01:55Z",
-   "lang": "en",
-   "excerpt": "Tractor Supply Company is teaming up with Uber to give customers another option for fast same-day delivery of digital orders, underscoring the degree to which retailers are embracing quick commerce as table stakes for growing business.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "3f2687a5f81e",
-   "title": "Trump threatens to double Mexico tariffs over alleged migrant influx",
-   "link": "https://www.freightwaves.com/news/trump-threatens-to-double-mexico-tariffs-over-alleged-migrant-influx",
-   "source": "freightwaves",
-   "published": "2026-11-12T16:13:14Z",
-   "seen": "2026-11-12T19:01:55Z",
-   "lang": "en",
-   "excerpt": "President Donald Trump threatened to double tariffs on Mexican imports unless Mexico halts the alleged increase of migrants arriving at the border.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": true,
    "level": "international",
    "terms": [],
    "paywall": false
