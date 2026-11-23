@@ -1,7 +1,1242 @@
 {
- "updated": "2026-11-23T01:40:03Z",
+ "updated": "2026-11-23T12:31:27Z",
  "sample": false,
  "articles": [
+  {
+   "id": "63a40fd12487",
+   "title": "Minstelønnen for godssjåfører økt med 6,8 prosent",
+   "link": "https://www.mtlogistikk.no/allmenngjoring-minstelonn-tariffnemnda/minstelonnen-for-godssjaforer-okt-med-68-prosent/1365968",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5ba442860705",
+   "title": "Fiskeri- og havministeren har møte maritim næring",
+   "link": "https://www.regjeringen.no/no/aktuelt/mote-maritim-naring-om-usa/id3194375/",
+   "source": "regjeringen",
+   "published": "2026-11-23T12:31:27Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "no",
+   "excerpt": "Fiskeri- og havminister Marianne Sivertsen Næss har møte maritim næring.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false,
+   "upcoming": true
+  },
+  {
+   "id": "25479c21ee9e",
+   "title": "Fiskeri- og havministeren har innspillsmøte med ledere av maritime organisasjoner",
+   "link": "https://www.regjeringen.no/no/aktuelt/innspillsmote-med-ledere-av-maritime-organisasjoner/id3194369/",
+   "source": "regjeringen",
+   "published": "2026-11-23T12:31:27Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "no",
+   "excerpt": "Fiskeri- og havminister Marianne Sivertsen Næss har innspillsmøte med ledere av maritime organisasjoner.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false,
+   "upcoming": true
+  },
+  {
+   "id": "996ffb638272",
+   "title": "Fiskeri- og havministeren deltar på Maritim utdanningskonferanse",
+   "link": "https://www.regjeringen.no/no/aktuelt/maritim-utdanningskonferanse/id3194366/",
+   "source": "regjeringen",
+   "published": "2026-11-23T12:31:27Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "no",
+   "excerpt": "Fiskeri- og havminister Marianne Sivertsen Næss deltar på Maritim utdanningskonferanse.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false,
+   "upcoming": true
+  },
+  {
+   "id": "0819bbd36f9f",
+   "title": "Nær én av fem kontroller endte med bruksforbud",
+   "link": "https://www.mtlogistikk.no/kontroll-kontrollstasjon-statens-vegvesen/naer-en-av-fem-kontroller-endte-med-bruksforbud/1365908",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-23T12:16:27Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "7eacccb07693",
+   "title": "Precious Shipping secures year-long ultramax charter",
+   "link": "https://splash247.com/precious-shipping-secures-year-long-ultramax-charter/",
+   "source": "splash",
+   "published": "2026-11-23T12:05:00Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "Thailand’s Precious Shipping has secured another index-linked ultramax charter with Singapore’s PACC Line, fixing the 2015-built Sarita Naree for up to 13 months at a current equivalent rate of around $23,700 per day.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "supramax",
+    "dwt"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "59999e81b6b0",
+   "title": "Kansai Electric takes 40% stake in Polish offshore wind project",
+   "link": "https://splash247.com/kansai-electric-takes-40-stake-in-polish-offshore-wind-project/",
+   "source": "splash",
+   "published": "2026-11-23T12:02:00Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "Japan’s Kansai Electric Power has agreed to acquire a 40% interest in Ocean Winds’ 390 MW BC-Wind offshore wind development in Poland, marking its first investment in the country.",
+   "segments": [
+    "finance",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "offshore-wind"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "34fa8d81cf0c",
+   "title": "Explainer: The Red Sea comes to Europe",
+   "link": "https://container-news.com/explainer-the-red-sea-comes-to-europe/",
+   "source": "containernews",
+   "published": "2026-11-23T12:00:40Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "Russia has adopted the Houthi targeting method, the naval war now runs from the Baltic to Libya, and Europe’s coastal states are left with the consequences.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "699bcbaf2a25",
+   "title": "Sterk vekst i boks allerede før Black Week",
+   "link": "https://www.mtlogistikk.no/helthjem-netthandel-pakkeskap/sterk-vekst-i-boks-allerede-for-black-week/1365238",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-23T11:46:27Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c84a113ab53a",
+   "title": "Tar over ansvaret for Transport & Logistikk på Gardermoen",
+   "link": "https://www.mtlogistikk.no/gardermoen-kjersti-hagen-shetelig-lina-snekkestad-malmo/tar-over-ansvaret-for-transport-logistikk-pa-gardermoen/1366149",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-23T11:16:27Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "b28832180ece",
+   "title": "Jinhui finds new buyer for supramax at higher price",
+   "link": "https://splash247.com/jinhui-finds-new-buyer-for-supramax-at-higher-price/",
+   "source": "splash",
+   "published": "2026-11-23T11:10:00Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "Hong Kong-based dry bulk owner Jinhui Shipping and Transportation has found a new buyer for its 2012-built supramax Jin Bi, securing $17.8m for a vessel it unsuccessfully tried to sell for $14.4m earlier this year.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "supramax",
+    "dry-bulk",
+    "dwt"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "762733e20244",
+   "title": "- Logistikk må vise sin verdi",
+   "link": "https://www.mtlogistikk.no/kaffepraten-mona-juell-nho-logistikk-og-transport/logistikk-ma-vise-sin-verdi/1361614",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-23T11:01:27Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "d4f6b7c3492e",
+   "title": "LNG Market Remained Under Pressure Last Week, As LPGs Firmed",
+   "link": "https://www.hellenicshippingnews.com/lng-market-remained-under-pressure-last-week-as-lpgs-firmed/",
+   "source": "hsn",
+   "published": "2026-11-23T11:00:57Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "The LNG market remained under pressure this week, with an abundance of prompt vessel availability in the Atlantic continuing to weigh on freight rates.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lng"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "79cad30eaa09",
+   "title": "Hong Kong advances green marine fuel trading platform, eyes tax cut vote",
+   "link": "https://www.hellenicshippingnews.com/hong-kong-advances-green-marine-fuel-trading-platform-eyes-tax-cut-vote/",
+   "source": "hsn",
+   "published": "2026-11-23T11:00:55Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "Hong Kong has formed an industry group to develop a green marine fuel trading platform and to explore a transaction-based price index, while the government expects lawmakers to pass a tax-break bill covering physical fuel trades on Nov.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "bunkers"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "3a7be2a3140d",
+   "title": "Iran asserts control over Hormuz as strikes on Bahrain, Saudi Arabia escalate",
+   "link": "https://www.hellenicshippingnews.com/iran-asserts-control-over-hormuz-as-strikes-on-bahrain-saudi-arabia-escalate/",
+   "source": "hsn",
+   "published": "2026-11-23T11:00:53Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "Iran asserted control over the Strait of Hormuz on Sunday after claiming strikes on U.S. air defense radars in Bahrain, as renewed Houthi attacks on Saudi Arabia threatened to widen the regional conflict.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "84763228fac8",
+   "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+   "link": "https://www.hellenicshippingnews.com/explosion-on-russian-ship-at-libya-port-caused-by-suspected-drone-attack-officials-say/",
+   "source": "hsn",
+   "published": "2026-11-23T11:00:49Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "An explosion on a Russian ship docked at Benghazi naval base port was caused by a suspected drone attack, Libya’s eastern government has said.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "dd83f85f90d2",
+   "title": "US firm partners with SHI for nuclear-powered LNG carrier",
+   "link": "https://www.hellenicshippingnews.com/us-firm-partners-with-shi-for-nuclear-powered-lng-carrier/",
+   "source": "hsn",
+   "published": "2026-11-23T11:00:47Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "US-based nuclear technology firm Tesser Atomics has partnered with South Korea’s Samsung Heavy Industries (SHI) to develop a nuclear-powered LNG carrier for transatlantic voyages.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "gas"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lng-carrier"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "51c443489c09",
+   "title": "Hanwha Ocean wins tanker order at highest price since 2008 crisis",
+   "link": "https://www.hellenicshippingnews.com/hanwha-ocean-wins-tanker-order-at-highest-price-since-2008-crisis/",
+   "source": "hsn",
+   "published": "2026-11-23T11:00:45Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "Hanwha Ocean recently won a $272 million order for two very large crude carriers (VLCCs). The price of $136 million per vessel is the highest since the 2008 global financial crisis.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "vlcc"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "329194e72e28",
+   "title": "Oil flows through Middle East chokepoints increased in the third quarter",
+   "link": "https://www.hellenicshippingnews.com/oil-flows-through-middle-east-chokepoints-increased-in-the-third-quarter/",
+   "source": "hsn",
+   "published": "2026-11-23T11:00:41Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "Collective oil shipments through key chokepoints around the Middle East increased by 19% in the third quarter of 2026 (3Q26), according to our recently published Global Energy Security Data.",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "1e67412a2935",
+   "title": "UBS flags resilient commodity investment case despite easing oil supply premium",
+   "link": "https://www.hellenicshippingnews.com/ubs-flags-resilient-commodity-investment-case-despite-easing-oil-supply-premium/",
+   "source": "hsn",
+   "published": "2026-11-23T11:00:37Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "UBS sees continued investment opportunities in critical minerals and power infrastructure as rising electricity demand, artificial intelligence spending, and electrification support long-term growth, even as technology-sector volatility …",
+   "segments": [
+    "finance",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "d14f89789d57",
+   "title": "MMI Daily Iron Ore Index Report November 23 2026",
+   "link": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-november-23-2026/",
+   "source": "hsn",
+   "published": "2026-11-23T11:00:35Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "Iron ore futures and seaborne composite indices edged higher today, while port spot products and seaborne brands diverged narrowly. DCE most-traded closed at 654.0 yuan/mt, up 0.23% from Nov 20.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "3fc3d65c7a7d",
+   "title": "Metals sell-off runs ahead of physical markets",
+   "link": "https://www.hellenicshippingnews.com/metals-sell-off-runs-ahead-of-physical-markets/",
+   "source": "hsn",
+   "published": "2026-11-23T11:00:35Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "The speed of the sell-off looks more like a sharp repricing of investor exposure than a broad weakening in physical markets. Copper has taken the biggest hit as investors unwind bullish positions and reassess AI-related demand.",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "1edcd8680591",
+   "title": "Copper Prices Stabilize After Sharp Selloff",
+   "link": "https://www.hellenicshippingnews.com/copper-prices-stabilize-after-sharp-selloff/",
+   "source": "hsn",
+   "published": "2026-11-23T11:00:31Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "Copper futures steadied above $5.50 per pound on Monday following a steep decline last week, as investors continued to evaluate the outlook for artificial intelligence-driven demand.",
+   "segments": [
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "c6511951ca75",
+   "title": "Oil falls as robust Gulf exports offset Iran escalation, supply glut risks",
+   "link": "https://www.hellenicshippingnews.com/oil-falls-as-robust-gulf-exports-offset-iran-escalation-supply-glut-risks/",
+   "source": "hsn",
+   "published": "2026-11-23T11:00:29Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "Oil prices were little changed in Asian trading on Monday as renewed attacks on commercial shipping and energy infrastructure across the Persian Gulf kept supply concerns elevated, offsetting signs of resilient crude exports and …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "a5d5af284fe3",
+   "title": "How the oil market could move from famine to glut",
+   "link": "https://www.hellenicshippingnews.com/how-the-oil-market-could-move-from-famine-to-glut/",
+   "source": "hsn",
+   "published": "2026-11-23T11:00:27Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "The constraint of Gulf crude exports since the closure of the Strait of Hormuz in March pushed Brent prices above US$100/bbl for much of the past nine months, triggering soaring fuel prices, rising inflation and weaker economic growth.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint",
+    "units"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "e84228e00727",
+   "title": "US imposes new sanctions on Iranian oil traders and government-linked facilitators",
+   "link": "https://www.hellenicshippingnews.com/us-imposes-new-sanctions-on-iranian-oil-traders-and-government-linked-facilitators/",
+   "source": "hsn",
+   "published": "2026-11-23T11:00:25Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "The US Treasury Department announced new sanctions on Friday targeting Iranian oil traders and government-linked facilitators accused of helping Tehran sell oil abroad and misappropriating the proceeds.",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "sanctions"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "3f752b50896a",
+   "title": "GXO to expand warehouse automation across US operations in 2027",
+   "link": "https://container-news.com/gxo-to-expand-warehouse-automation-across-us-operations-in-2027/",
+   "source": "containernews",
+   "published": "2026-11-23T11:00:15Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "GXO Logistics plans to accelerate the deployment of automation technologies across its US operations, with the rollout scheduled to begin in early 2027.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "9502282c2b0b",
+   "title": "Arabian Drilling picks up $400m in long-term offshore work",
+   "link": "https://splash247.com/arabian-drilling-picks-up-400m-in-long-term-offshore-work/",
+   "source": "splash",
+   "published": "2026-11-23T11:00:00Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "Saudi Arabian drilling contractor Arabian Drilling has secured a SAR1.5bn ($400m) long-term contract from Khafji Joint Operations (KJO) to provide and operate two self-propelled offshore service units.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "7ad4ea7a6cd6",
+   "title": "Arbeidstilsynet truet med å stoppe transportselskap",
+   "link": "https://www.mtlogistikk.no/arbeidstilsynet/arbeidstilsynet-truet-med-a-stoppe-transportselskap/1365795",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-23T10:46:27Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "dcb70806b89f",
+   "title": "Shipping Corp of India casts $3.2bn net for 22 ships",
+   "link": "https://splash247.com/shipping-corp-of-india-casts-3-2bn-net-for-22-ships/",
+   "source": "splash",
+   "published": "2026-11-23T10:20:00Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "State-owned Shipping Corporation of India (SCI) is pressing ahead with a fleet expansion drive worth an estimated $3.2bn, launching tenders for up to 22 newbuildings across the gas carrier, tanker and container segments, alongside a …",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers",
+    "gas",
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "newbuilding",
+    "sale-purchase"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "8c5ffb299b1b",
+   "title": "Fikk tilbake 90 kWt på vei ned fra fjellet",
+   "link": "https://www.mtlogistikk.no/bertel-o-steen-drivstoffokonomi-eactros/fikk-tilbake-90-kwt-pa-vei-ned-fra-fjellet/1364703",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-23T10:16:27Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "335d3351d413",
+   "title": "HMM signs green shipping partnership with NEXTPOWER",
+   "link": "https://container-news.com/hmm-signs-green-shipping-partnership-with-nextpower/",
+   "source": "containernews",
+   "published": "2026-11-23T10:00:23Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "South Korean container carrier HMM has signed a strategic agreement with US renewable energy company NEXTPOWER under its Green Sailing Service programme.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bunkers"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "267c4edafd01",
+   "title": "ExxonMobil greenlights $4bn Angola offshore redevelopment",
+   "link": "https://splash247.com/exxonmobil-greenlights-4bn-angola-offshore-redevelopment/",
+   "source": "splash",
+   "published": "2026-11-23T10:00:00Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "US energy major ExxonMobil and its partners have taken a final investment decision worth an estimated $4bn to redevelop the Kizomba A and B fields offshore Angola, while announcing a fresh hydrocarbon discovery in the same block.",
+   "segments": [
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "8d06c93365eb",
+   "title": "Aegean Shipping adds fresh tanker pair at COSCO yard",
+   "link": "https://splash247.com/aegean-shipping-adds-fresh-tanker-pair-at-cosco-yard/",
+   "source": "splash",
+   "published": "2026-11-23T09:55:00Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "George Melissanidis-led Aegean Shipping Management has been linked to another two LR2 tanker newbuildings at COSCO Shipping Heavy Industry’s Yangzhou yard in China, extending its tanker investment programme into 2030.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers",
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "product-tanker",
+    "newbuilding"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "22d556d66c38",
+   "title": "Tanker boom turns conservative owners into asset traders",
+   "link": "https://splash247.com/tanker-boom-turns-conservative-owners-into-asset-traders/",
+   "source": "splash",
+   "published": "2026-11-23T09:44:00Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "Surging tanker and VLGC values are turning some of shipping’s most conservative owners into opportunistic asset players, with a string of recent sales generating extraordinary returns in a matter of months.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "lpg",
+    "chokepoint",
+    "sale-purchase"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "54baecb88103",
+   "title": "Hunter seals $168m Jacktel takeover",
+   "link": "https://splash247.com/251882-2/",
+   "source": "splash",
+   "published": "2026-11-23T09:30:00Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "Norway’s Hunter Group has secured control of offshore accommodation rig owner Jacktel after winning acceptances for more than 91% of the company’s shares in a NOK1.63bn ($168m) takeover.",
+   "segments": [
+    "finance",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "mna",
+    "rig"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "ef933badcd40",
+   "title": "Nattestenger E6-tunnel i to uker",
+   "link": "https://www.mtlogistikk.no/e6-statens-vegvesen-tunnelvedlikehold/nattestenger-e6-tunnel-i-to-uker/1365220",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-23T09:16:27Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "2a2afede9b4b",
+   "title": "Readers Speak: Cargo disruptions lead shipping cyber concerns",
+   "link": "https://container-news.com/readers-speak-cargo-disruptions-lead-shipping-cyber-concerns/",
+   "source": "containernews",
+   "published": "2026-11-23T09:00:51Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "Cargo disruptions and sensitive data theft have emerged as the leading concerns among shipping industry readers when considering the consequences of cyberattacks, according to the latest Container News Readers Speak poll.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "5843b9a2b873",
+   "title": "$4.4 billion play for ConocoPhillips’ Norwegian oil & gas assets and UK infrastructure expands Vår Energi’s North Sea footprint",
+   "link": "https://www.offshore-energy.biz/2026/11/23/dollar44-billion-play-for-conocophillips-norwegian-oil-and-gas-assets-and-uk-infrastructure-expands-var-energis-north-sea-footprint",
+   "source": "offshoreenergy",
+   "published": "2026-11-23T08:39:00Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "Vår Energi is acquiring ConocoPhillips’ Norwegian business and related UK infrastructure, strengthening its position as 'Europe’s largest independent E&P company.'",
+   "segments": [
+    "finance",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "ep"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "eaf83d368513",
+   "title": "No safe harbour as maritime war spreads beyond Black Sea",
+   "link": "https://splash247.com/no-safe-harbour-as-maritime-war-spreads-beyond-black-sea/",
+   "source": "splash",
+   "published": "2026-11-23T08:35:06Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "The maritime war between Russia and Ukraine has expanded far beyond the Black Sea, with a Russian naval corvette sunk in Libya and a sanctioned Russian cargo ship attacked in the Baltic over the weekend.",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers",
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "sanctions"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "9b1fe157a15d",
+   "title": "Gulftainer signs 10-year partnership with CU Lines for Khorfakkan Port",
+   "link": "https://container-news.com/gulftainer-signs-10-year-partnership-with-cu-lines-for-khorfakkan-port/",
+   "source": "containernews",
+   "published": "2026-11-23T08:00:31Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "Gulftainer has entered into a 10-year strategic partnership with China United Lines (CU Lines), securing long-term container volumes through Khorfakkan Port in the United Arab Emirates.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "6ef9fa3e882d",
+   "title": "1974-built rig changes hands as Dolphin Drilling and SPM forge joint venture for drilling jobs in India",
+   "link": "https://www.offshore-energy.biz/2026/11/23/1974-built-rig-changes-hands-as-dolphin-drilling-and-spm-forge-joint-venture-for-drilling-jobs-in-india",
+   "source": "offshoreenergy",
+   "published": "2026-11-23T07:52:08Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "With the sale of a 52-year-old semi-submersible out of the way, Dolphin Drilling and SPM have taken steps to create an India-focused joint venture.",
+   "segments": [
+    "finance",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "rig"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "52453fe6eca8",
+   "title": "CMA CGM shifts Manaus cargo from PEX2 to SEAS 2 service",
+   "link": "https://container-news.com/cma-cgm-shifts-manaus-cargo-from-pex2-to-seas-2-service/",
+   "source": "containernews",
+   "published": "2026-11-23T07:00:19Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "CMA CGM has announced a new routing arrangement for container shipments between the Far East and Manaus, Brazil, shifting cargo from its PEX2 service to SEAS 2.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "bcc7530ec677",
+   "title": "American Club targets 5% increase in revenue at February renewal",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/american-club-targets-5-increase-in-revenue-at-february-renewal/",
+   "source": "imn",
+   "published": "2026-11-23T06:17:18Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "finance",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "pi-club"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "5b4433b0e265",
+   "title": "Multiple attacks in the Strait of Hormuz",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/multiple-attacks-in-the-strait-of-hormuz/",
+   "source": "imn",
+   "published": "2026-11-23T06:16:30Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "154501afdf06",
+   "title": "Cargo vessel struck in Baltic Sea, disabled, drifts into Finnish waters",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/cargo-vessel-struck-in-baltic-sea-disabled-drifts-into-finnish-waters/",
+   "source": "imn",
+   "published": "2026-11-23T06:15:30Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "16669974b300",
+   "title": "One missing, 11 injured in Navig8 Messi attack",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/one-missing-11-injured-in-navig8-messi-attack/",
+   "source": "imn",
+   "published": "2026-11-23T06:14:25Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "b993a2abeb88",
+   "title": "Port employers and watchmen union reach tentative deal for SoCal ports",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/port-employers-and-watchmen-union-reach-tentative-deal-for-socal-ports/",
+   "source": "imn",
+   "published": "2026-11-23T06:13:15Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "e7628a65e278",
+   "title": "Crew airlifted to safety after bulk carrier grounds on French coast",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/crew-airlifted-to-safety-after-bulk-carrier-grounds-on-french-coast/",
+   "source": "imn",
+   "published": "2026-11-23T06:11:47Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dry-bulk"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "800160074270",
+   "title": "Iran undertakes STS transfer within the Persian Gulf",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/iran-undertakes-sts-transfer-within-the-persian-gulf/",
+   "source": "imn",
+   "published": "2026-11-23T06:10:48Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "dc20f8fe78f0",
+   "title": "US Treasury exerts Asian pressure on Iran sanctions compliance",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/us-treasury-exerts-asian-pressure-on-iran-sanctions-compliance/",
+   "source": "imn",
+   "published": "2026-11-23T06:09:47Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "sanctions"
+   ],
+   "paywall": true
+  },
+  {
+   "id": "f578a3a4df48",
+   "title": "Port of Ceuta placed at “normal” security level",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/port-of-ceuta-placed-at-normal-security-level/",
+   "source": "imn",
+   "published": "2026-11-23T06:08:54Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "6b94933a8d85",
+   "title": "Lost Scottish Highlands fishing boat recovered 200 miles away off Orkney",
+   "link": "https://insurancemarinenews.com/insurance-marine-news/lost-scottish-highlands-fishing-boat-recovered-200-miles-away-off-orkney/",
+   "source": "imn",
+   "published": "2026-11-23T06:08:03Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": true
+  },
+  {
+   "id": "a1f090f95a14",
+   "title": "How the Hormuz blockade moved from the map to the cargo",
+   "link": "https://container-news.com/how-the-hormuz-blockade-moved-from-the-map-to-the-cargo/",
+   "source": "containernews",
+   "published": "2026-11-23T06:00:28Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "A new US rule on ship-to-ship transfers continues the blockade’s steady tightening, but it shifts the risk onto the ships that keep Gulf oil moving.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "387c413d6540",
+   "title": "MSC adds Busan call to Pearl service",
+   "link": "https://container-news.com/msc-adds-busan-call-to-pearl-service/",
+   "source": "containernews",
+   "published": "2026-11-23T04:30:38Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "MSC has added Busan to the westbound leg of its weekly Pearl service between the Far East and the US West Coast. The South Korean port will be called after Los Angeles and Oakland, before the vessels continue to Hai Phong in Vietnam.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "261f0ff248a1",
+   "title": "U.S. Treasury Warns Singapore and Malaysia Over Iran Sanctions Compliance",
+   "link": "https://maritime-executive.com/article/u-s-treasury-warns-singapore-and-malaysia-over-iran-sanctions",
+   "source": "marex",
+   "published": "2026-11-23T04:30:00Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "U.S. Treasury officials have warned the governments of Singapore and Malaysia of \"potential risks\" they could face if they do not comply with U.S. san...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "sanctions"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "e6b128e16369",
+   "title": "LA/Long Beach Terminals Reach Deal With Union Watchmen to Avoid Strike",
+   "link": "https://maritime-executive.com/article/ports-of-la-and-long-beach-avert-strike-as-watchmen-reach-deal",
+   "source": "marex",
+   "published": "2026-11-23T04:14:00Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "Terminal employers at the ports of Los Angeles and Long Beach have avoided a security guard strike that threatened to idle much of the largest U.S. co...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "2b52ceb524c4",
+   "title": "Two More Tankers Hit Off Oman, Houthis Threaten Saudi Red Sea Ports",
+   "link": "https://maritime-executive.com/article/two-more-tankers-hit-off-oman-as-houthis-threaten-saudi-red-sea-ports",
+   "source": "marex",
+   "published": "2026-11-23T03:03:00Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "Two more tankers were hit by projectiles in the Strait of Hormuz on Saturday morning, the latest strikes in an accelerating pace of likely Iranian att...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "782b141498b9",
+   "title": "ONE to launch new Korea-China-Jakarta service",
+   "link": "https://container-news.com/one-to-launch-new-korea-china-jakarta-service/",
+   "source": "containernews",
+   "published": "2026-11-23T03:00:37Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "Ocean Network Express (ONE) will launch a new weekly Korea-China-Jakarta service in late November. The new service, branded KCJ, is expected to replace ONE’s current slot arrangement on the KCI service operated by Gold Star Line, Interasia …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner",
+    "teu"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "597202b8d1bc",
+   "title": "Maersk announces ASAS blank sailing",
+   "link": "https://container-news.com/maersk-announces-asas-blank-sailing/",
+   "source": "containernews",
+   "published": "2026-11-23T01:54:36Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "Maersk will blank one sailing on its ASAS service connecting Far East Asia with the East Coast of Latin America. The carrier attributed the capacity adjustment to cargo seasonality and fluctuations in demand.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "blank-sailing"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "28da22ff1b72",
+   "title": "In the Know 83: How Folding Containers Save Space for Ports and Carriers",
+   "link": "https://maritime-executive.com/article/in-the-know-83-how-folding-containers-save-space-for-ports-and-carriers",
+   "source": "marex",
+   "published": "2026-11-23T01:47:00Z",
+   "seen": "2026-11-23T12:31:27Z",
+   "lang": "en",
+   "excerpt": "In this episode of the In the Know podcast series, TME spoke with Drew Hall, co-founder and CEO of GenFlat, about how collapsible shipping containers...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
   {
    "id": "a7fdb71c5305",
    "title": "Cool Carriers Launches Newest Vessel, Cool Eternity, at Shikoku Shipyard",
@@ -79,42 +1314,6 @@
    "paywall": false
   },
   {
-   "id": "29335c485930",
-   "title": "Nattestenger E6-tunnel i to uker",
-   "link": "https://www.mtlogistikk.no/e6-statens-vegvesen-tunnelvedlikehold/nattestenger-e6-tunnel-i-to-uker/1364968",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-23T01:25:03Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "b09c382fb05d",
-   "title": "Sterk vekst i boks allerede før Black Week",
-   "link": "https://www.mtlogistikk.no/helthjem-netthandel-pakkeskap/sterk-vekst-i-boks-allerede-for-black-week/1365273",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-23T00:10:03Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "b65d34a5536a",
    "title": "Hapag-Lloyd introduces Vietnam equipment surcharge",
    "link": "https://container-news.com/hapag-lloyd-introduces-vietnam-equipment-surcharge/",
@@ -138,7 +1337,7 @@
   },
   {
    "id": "e6292800dab2",
-   "title": "Massive Attack on Russian Shipping in Benghazi",
+   "title": "Massive Ukrainian Attack on Russian Shipping in Benghazi",
    "link": "https://maritime-executive.com/article/massive-attack-on-russian-shipping-in-benghazi",
    "source": "marex",
    "published": "2026-11-22T22:28:00Z",
@@ -17084,1191 +18283,6 @@
    "excerpt": "CYTUR Inc. (CEO Yonghyun Jo), a maritime cybersecurity specialist, announced that it signed a Memorandum of Understanding (MOU) with Plainbit Co., Ltd.",
    "segments": [
     "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "f345c317022a",
-   "title": "Local knowledge, global reach: How LR is supporting Germany’s shipping industry",
-   "link": "https://www.hellenicshippingnews.com/local-knowledge-global-reach-how-lr-is-supporting-germanys-shipping-industry-2/",
-   "source": "hsn",
-   "published": "2026-11-13T11:00:45Z",
-   "seen": "2026-11-13T13:15:49Z",
-   "lang": "en",
-   "excerpt": "Germany remains one of the world’s most influential maritime nations. Home to leading shipowners, operators, ports, shipyards and equipment suppliers, it sits at the centre of many of the decisions shaping shipping’s future.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a3c4eef41ffc",
-   "title": "China Merchants takes delivery of methanol-capable car carrier",
-   "link": "https://www.hellenicshippingnews.com/china-merchants-takes-delivery-of-methanol-capable-car-carrier/",
-   "source": "hsn",
-   "published": "2026-11-13T11:00:43Z",
-   "seen": "2026-11-13T13:15:49Z",
-   "lang": "en",
-   "excerpt": "The ship was built to carry electric and plug-in hybrid cars and will add capacity to China’s vehicle exports, China Classification Society said.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "car-carrier",
-    "class-society",
-    "roro"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "afb3fc995a8d",
-   "title": "Turkey – Environmental Pollution Fines: Updated for 2027",
-   "link": "https://www.hellenicshippingnews.com/turkey-environmental-pollution-fines-updated-for-2027/",
-   "source": "hsn",
-   "published": "2026-11-13T11:00:41Z",
-   "seen": "2026-11-13T13:15:49Z",
-   "lang": "en",
-   "excerpt": "Environmental pollution fines in Turkish waters will increase by 27.83% from 1 January 2027. The revised fines apply to pollution offences under Turkish Environmental Code No.",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "gt"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "c141058dfe51",
-   "title": "IAPH2026: tools launched to support decarbonisation",
-   "link": "https://www.hellenicshippingnews.com/iaph2026-tools-launched-to-support-decarbonisation/",
-   "source": "hsn",
-   "published": "2026-11-13T11:00:39Z",
-   "seen": "2026-11-13T13:15:49Z",
-   "lang": "en",
-   "excerpt": "During the 2026 World Ports Conference in London last week, IAPH released a suite of tools to add vital momentum to the port industry’s ambitions to decarbonise.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "befb64cd202a",
-   "title": "Long Beach: Emissions Driven to Lowest Levels in Port’s Busiest Year",
-   "link": "https://www.hellenicshippingnews.com/long-beach-emissions-driven-to-lowest-levels-in-ports-busiest-year/",
-   "source": "hsn",
-   "published": "2026-11-13T11:00:37Z",
-   "seen": "2026-11-13T13:15:49Z",
-   "lang": "en",
-   "excerpt": "Strategic investments in zero-emissions equipment, greater use of shore power and more frequent visits by cleaner ships have driven the Port of Long Beach’s emissions per container to an all-time low, even as the global trade hub moved …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "6caa9615f039",
-   "title": "MPA Opens Applications for LNG Floating Storage Unit Licences in Singapore",
-   "link": "https://www.hellenicshippingnews.com/mpa-opens-applications-for-lng-floating-storage-unit-licences-in-singapore/",
-   "source": "hsn",
-   "published": "2026-11-13T11:00:35Z",
-   "seen": "2026-11-13T13:15:49Z",
-   "lang": "en",
-   "excerpt": "The Maritime and Port Authority of Singapore (MPA) has opened applications for licences to operate up to two liquefied natural gas (LNG) Floating Storage Units (FSUs) in Singapore anchorages.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng",
-    "contango",
-    "bunkers"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "a099480b988d",
-   "title": "Iron Ore Slides Toward Four-Year Low",
-   "link": "https://www.hellenicshippingnews.com/iron-ore-slides-toward-four-year-low/",
-   "source": "hsn",
-   "published": "2026-11-13T11:00:33Z",
-   "seen": "2026-11-13T13:15:49Z",
-   "lang": "en",
-   "excerpt": "Iron ore futures declined to around CNY 670 per ton, approaching their lowest levels since October 2022 as rising supply and weakening demand continued to weigh on the market.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "550d55925daf",
-   "title": "Coal Gains on US-Iran Tensions",
-   "link": "https://www.hellenicshippingnews.com/coal-gains-on-us-iran-tensions/",
-   "source": "hsn",
-   "published": "2026-11-13T11:00:31Z",
-   "seen": "2026-11-13T13:15:49Z",
-   "lang": "en",
-   "excerpt": "Coal prices climbed to around $145 per ton, recovering from two-month lows as broader energy markets strengthened amid persistent geopolitical tensions in the Middle East.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "8a5b7382fbb6",
-   "title": "Chinese-backed Simandou iron ore project in Guinea makes major progress",
-   "link": "https://www.hellenicshippingnews.com/chinese-backed-simandou-iron-ore-project-in-guinea-makes-major-progress/",
-   "source": "hsn",
-   "published": "2026-11-13T11:00:29Z",
-   "seen": "2026-11-13T13:15:49Z",
-   "lang": "en",
-   "excerpt": "China Baowu Steel Group (CBSG) announced on Thursday that the north section of the Simandou iron ore and infrastructure project in Guinea, a world-class hematite deposit, has been completed and entered operation.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "5f22980459b1",
-   "title": "Navigating geopolitical risk in LNG",
-   "link": "https://www.hellenicshippingnews.com/navigating-geopolitical-risk-in-lng/",
-   "source": "hsn",
-   "published": "2026-11-13T11:00:23Z",
-   "seen": "2026-11-13T13:15:49Z",
-   "lang": "en",
-   "excerpt": "Geopolitical pressure is increasingly visible in physical LNG flows, shipping behavior and ownership structures, not only in headline supply numbers.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "b95fcd9de7d7",
-   "title": "Seaway7 kicks off cable installation work at Ørsted's Hornsea 3 offshore wind farm",
-   "link": "https://www.offshore-energy.biz/2026/11/13/seaway7-kicks-off-cable-installation-work-at-orsteds-hornsea-3-offshore-wind-farm",
-   "source": "offshoreenergy",
-   "published": "2026-11-13T10:54:38Z",
-   "seen": "2026-11-13T13:15:49Z",
-   "lang": "en",
-   "excerpt": "Seaway7 has begun installing inter-array cables at Ørsted's Hornsea 3 offshore wind farm site in the UK. The company will install 500 kilometers...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "offshore-wind",
-    "inter-array"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "d08881dd5d5e",
-   "title": "Three bidders in the run for seismic surveys offshore Greece",
-   "link": "https://www.offshore-energy.biz/2026/11/13/three-bidders-in-the-run-for-seismic-surveys-offshore-greece",
-   "source": "offshoreenergy",
-   "published": "2026-11-13T10:18:52Z",
-   "seen": "2026-11-13T13:15:49Z",
-   "lang": "en",
-   "excerpt": "Three companies have submitted bids to perform the acquisition and processing of non-exclusive seismic data offshore Greece that will help assess...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "seismic"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "de51dd407f26",
-   "title": "From ocean liner to artificial reef: A warning for container shipping",
-   "link": "https://splash247.com/from-ocean-liner-to-artificial-reef-a-warning-for-container-shipping/",
-   "source": "splash",
-   "published": "2026-11-13T10:07:00Z",
-   "seen": "2026-11-13T13:15:49Z",
-   "lang": "en",
-   "excerpt": "Dr Raymon Krishnan, president of Singapore’s Logistics & Supply Chain Management Society, writes for Splash today, reflecting on one of this week’s most talked about stories in the mainstream press.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "02a3080c934b",
-   "title": "Maersk opens new $20m-plus logistics facility in Uruguay",
-   "link": "https://container-news.com/maersk-opens-new-20m-plus-logistics-facility-in-uruguay/",
-   "source": "containernews",
-   "published": "2026-11-13T10:00:16Z",
-   "seen": "2026-11-13T10:06:22Z",
-   "lang": "en",
-   "excerpt": "A.P. Moller–Maersk has opened a new integrated logistics facility in Montevideo, Uruguay, following a private investment of more than US$20 million, expanding its container handling, storage and cargo services near the Port of Montevideo.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "e949a4546624",
-   "title": "Gate stenges: Nytt kjøremønster i Oslo sentrum",
-   "link": "https://www.mtlogistikk.no/oslo-sentrum-ring-1-radhusgata/gate-stenges-nytt-kjoremonster-i-oslo-sentrum/1359336",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-13T09:51:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a2bbac3b04ab",
-   "title": "BW LPG scores another lucrative Avance VLGC flip",
-   "link": "https://splash247.com/bw-lpg-scores-another-lucrative-avance-vlgc-flip/",
-   "source": "splash",
-   "published": "2026-11-13T09:50:00Z",
-   "seen": "2026-11-13T10:06:22Z",
-   "lang": "en",
-   "excerpt": "BW LPG has struck another lucrative vessel sale, offloading a VLGC acquired in John Fredriksen’s Avance Gas fleet deal less than two years ago for well over $100m.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "lpg"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "66efb4a23e84",
-   "title": "Cetus seals $200m share placement ahead of Oslo debut",
-   "link": "https://splash247.com/cetus-seals-200m-share-placement-ahead-of-oslo-debut/",
-   "source": "splash",
-   "published": "2026-11-13T09:42:00Z",
-   "seen": "2026-11-13T10:06:22Z",
-   "lang": "en",
-   "excerpt": "Hong Kong-based dry bulk owner Cetus Maritime has successfully placed a NOK1.89bn ($200m) share offering, including an over-allotment, clearing a major hurdle ahead of its planned Oslo stock market debut next week.",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "dry-bulk"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "e56139c229bf",
-   "title": "Deutsche Windtechnik picked for UK offshore wind maintenance job",
-   "link": "https://splash247.com/deutsche-windtechnik-picked-for-uk-offshore-wind-maintenance-job/",
-   "source": "splash",
-   "published": "2026-11-13T09:30:00Z",
-   "seen": "2026-11-13T10:06:22Z",
-   "lang": "en",
-   "excerpt": "German offshore wind services specialist Deutsche Windtechnik has secured a five-year operations and maintenance contract covering two offshore wind farms in the UK.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "offshore-wind"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "f4b19193b794",
-   "title": "Pyxis cashes in on ageing MR tanker in $37m deal",
-   "link": "https://splash247.com/pyxis-cashes-in-on-ageing-mr-tanker-in-37m-deal/",
-   "source": "splash",
-   "published": "2026-11-13T09:23:00Z",
-   "seen": "2026-11-13T10:06:22Z",
-   "lang": "en",
-   "excerpt": "Greek shipowner Pyxis Tankers has agreed to sell its oldest product tanker for $37m, cashing in on firm asset values and cutting its MR fleet from three vessels to two.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "product-tanker",
-    "dwt"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "05c93b0429f7",
-   "title": "Bygger gigantanlegg for over 640 millioner kroner",
-   "link": "https://www.mtlogistikk.no/arlanda-dhl-express-flyfraktgateway/bygger-gigantanlegg-for-over-640-millioner-kroner/1359381",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-13T09:21:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "6ea1f6bb99c9",
-   "title": "Port of Los Angeles surpasses 1 million TEUs for second consecutive month",
-   "link": "https://container-news.com/port-of-los-angeles-surpasses-1-million-teus-for-second-consecutive-month/",
-   "source": "containernews",
-   "published": "2026-11-13T09:00:24Z",
-   "seen": "2026-11-13T10:06:22Z",
-   "lang": "en",
-   "excerpt": "The Port of Los Angeles handled 1,026,872 TEUs in October 2026, setting a new record for the month. The figure also represents the second-highest monthly container volume in the port’s history.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "teu"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "bb81f783f034",
-   "title": "Marine license granted for one of UK’s largest power projects",
-   "link": "https://www.offshore-energy.biz/2026/11/13/marine-license-granted-for-one-of-uks-largest-power-projects",
-   "source": "offshoreenergy",
-   "published": "2026-11-13T08:41:56Z",
-   "seen": "2026-11-13T10:06:22Z",
-   "lang": "en",
-   "excerpt": "SSEN Transmission has secured the marine license for subsea cable infrastructure in Scottish waters for the 2 GW Eastern Green Link 3 (EGL3)...",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "dfc934af31d5",
-   "title": "To havnestyrer avviser oppgjør på 458 millioner",
-   "link": "https://www.mtlogistikk.no/havn-kongsgard-vige-kristiansand-havn/to-havnestyrer-avviser-oppgjor-pa-458-millioner/1361096",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-13T08:36:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road",
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "d2cff73e5b9f",
-   "title": "Uke 46: Rederiene kutter kapasiteten for å stanse prisfallet",
-   "link": "https://www.mtlogistikk.no/drewry-sjofrakt-spotpris/uke-46-rederiene-kutter-kapasiteten-for-a-stanse-prisfallet/1361011",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-13T08:21:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road",
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "6be2b3d20a94",
-   "title": "Gulf war leaves toxic legacy that could last decades",
-   "link": "https://splash247.com/gulf-war-leaves-toxic-legacy-that-could-last-decades/",
-   "source": "splash",
-   "published": "2026-11-13T08:10:39Z",
-   "seen": "2026-11-13T07:24:09Z",
-   "lang": "en",
-   "excerpt": "Greenpeace has identified 540 possible oil spills across the Gulf, Strait of Hormuz and Arabian Sea since the US-Iran war began on February 28 (see map below), with satellite imagery showing a cumulative slick footprint of approximately …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "ce2ef07d4fd5",
-   "title": "ExxonMobil reaches FID on eighth project offshore Guyana",
-   "link": "https://www.offshore-energy.biz/2026/11/13/exxonmobil-reaches-fid-on-eighth-project-offshore-guyana",
-   "source": "offshoreenergy",
-   "published": "2026-11-13T08:06:59Z",
-   "seen": "2026-11-13T10:06:22Z",
-   "lang": "en",
-   "excerpt": "U.S.-headquartered oil & gas company ExxonMobil has made the final investment decision (FID) for its Longtail development offshore Guyana after...",
-   "segments": [
-    "finance",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "5ccfdcb0650e",
-   "title": "Baltic Exchange and Mercuria await verdict in landmark tanker index trial",
-   "link": "https://splash247.com/baltic-exchange-and-mercuria-await-verdict-in-landmark-tanker-index-trial/",
-   "source": "splash",
-   "published": "2026-11-13T08:00:31Z",
-   "seen": "2026-11-13T07:24:09Z",
-   "lang": "en",
-   "excerpt": "One of shipping’s most consequential legal battles has concluded in London, with the Baltic Exchange and commodities trader Mercuria awaiting a High Court ruling on whether the industry’s leading VLCC freight benchmark should have …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "baltic-exchange",
-    "vlcc"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "666547375eb7",
-   "title": "Port of Helsingborg to introduce Secure Container Release for import containers",
-   "link": "https://container-news.com/port-of-helsingborg-to-introduce-secure-container-release-for-import-containers/",
-   "source": "containernews",
-   "published": "2026-11-13T08:00:25Z",
-   "seen": "2026-11-13T10:06:22Z",
-   "lang": "en",
-   "excerpt": "The Port of Helsingborg is preparing to introduce Secure Container Release (SCR), a digital system designed to strengthen security and traceability in the release and pickup of loaded import containers.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "6435e558e746",
-   "title": "New report identifies Hong Kong’s place in world shipping",
-   "link": "https://splash247.com/new-report-identifies-hong-kongs-place-in-world-shipping/",
-   "source": "splash",
-   "published": "2026-11-13T07:45:00Z",
-   "seen": "2026-11-12T21:53:40Z",
-   "lang": "en",
-   "excerpt": "Hong Kong Maritime Week is about to kick off. To celebrate the occasion, Splash today publishes a 48-page magazine on the city’s maritime hub credentials.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "e16ab2c7c87b",
-   "title": "Splash Wrap: Seafarers take centre stage",
-   "link": "https://splash247.com/splash-wrap-seafarers-take-centre-stage/",
-   "source": "splash",
-   "published": "2026-11-13T07:30:11Z",
-   "seen": "2026-11-13T10:06:22Z",
-   "lang": "en",
-   "excerpt": "This week saw the launch of Splash Crew, our new title dedicated to the people who keep global shipping moving. Our opening week highlighted some uncomfortable realities.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "7451f35b68da",
-   "title": "Insurance Marine News – Friday November 13th 2026",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/insurance-marine-news-friday-november-13th-2026/",
-   "source": "imn",
-   "published": "2026-11-13T07:02:21Z",
-   "seen": "2026-11-13T07:24:09Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "ad60ff8976cb",
-   "title": "Diesel deliveries to the US from Russia looking unlikely",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/diesel-deliveries-to-the-us-from-russia-looking-unlikely/",
-   "source": "imn",
-   "published": "2026-11-13T07:01:35Z",
-   "seen": "2026-11-13T07:24:09Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "road",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "ce974abd931f",
-   "title": "Multiple attacks reported in Strait of Hormuz",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/multiple-attacks-reported-in-strait-of-hormuz/",
-   "source": "imn",
-   "published": "2026-11-13T07:01:06Z",
-   "seen": "2026-11-13T07:24:09Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": true
-  },
-  {
-   "id": "8cc708f87cf7",
-   "title": "New Gard tool provides fleet insights into sensitive marine areas",
-   "link": "https://insurancemarinenews.com/marine-liability/new-gard-tool-provides-fleet-insights-into-sensitive-marine-areas/",
-   "source": "imn",
-   "published": "2026-11-13T07:00:48Z",
-   "seen": "2026-11-13T07:24:09Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [
-    "pi-club"
-   ],
-   "paywall": true
-  },
-  {
-   "id": "299ffd81afca",
-   "title": "Six crew members reported missing as fuel supply tanker sinks in Gulf of Thailand",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/six-crew-members-reported-missing-as-fuel-supply-tanker-sinks-in-gulf-of-thailand/",
-   "source": "imn",
-   "published": "2026-11-13T07:00:48Z",
-   "seen": "2026-11-13T07:24:09Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "662f8d2e54c5",
-   "title": "Italy continues campaign for greater Red Sea security from the EU",
-   "link": "https://insurancemarinenews.com/political-risk-credit-finance/italy-continues-campaign-for-greater-red-sea-security-from-the-eu/",
-   "source": "imn",
-   "published": "2026-11-13T07:00:35Z",
-   "seen": "2026-11-13T07:24:09Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": true
-  },
-  {
-   "id": "cc3fd7ea8bd4",
-   "title": "Older IT system at Maersk is breached",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/older-it-system-at-maersk-is-breached/",
-   "source": "imn",
-   "published": "2026-11-13T07:00:35Z",
-   "seen": "2026-11-13T07:24:09Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "05a41532517f",
-   "title": "Safety alert from US Coast Guard on ship heights",
-   "link": "https://insurancemarinenews.com/marine-hull/safety-alert-from-us-coast-guard-on-ship-heights/",
-   "source": "imn",
-   "published": "2026-11-13T07:00:25Z",
-   "seen": "2026-11-13T07:24:09Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "23346423fcb5",
-   "title": "Singapore-flagged cargo ship strikes US bridge",
-   "link": "https://splash247.com/singapore-flagged-cargo-ship-strikes-us-bridge/",
-   "source": "splash",
-   "published": "2026-11-13T07:00:17Z",
-   "seen": "2026-11-13T07:24:09Z",
-   "lang": "en",
-   "excerpt": "A Singapore-flagged cargoship has struck a bridge spanning the Delaware River between Philadelphia and New Jersey, forcing its closure and renewing concerns about the vulnerability of American bridges to vessel collisions.",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "handysize",
-    "dry-bulk",
-    "lt-utc"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "32eefd5052db",
-   "title": "Where port operators should invest in an era of geopolitical disruption",
-   "link": "https://container-news.com/where-port-operators-should-invest-in-an-era-of-geopolitical-disruption/",
-   "source": "containernews",
-   "published": "2026-11-13T07:00:14Z",
-   "seen": "2026-11-13T07:24:09Z",
-   "lang": "en",
-   "excerpt": "For port operators, geopolitical disruption is no longer a passing shock to wait out. It has become a lasting feature of the market.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "5b3f066c3519",
-   "title": "More water enables Panama Canal to raise daily transit capacity",
-   "link": "https://insurancemarinenews.com/insurance-marine-news/more-water-enables-panama-canal-to-raise-daily-transit-capacity/",
-   "source": "imn",
-   "published": "2026-11-13T07:00:00Z",
-   "seen": "2026-11-13T07:24:09Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": true
-  },
-  {
-   "id": "e607b501b5d5",
-   "title": "Round Up : Friday 13th November 2026",
-   "link": "https://insurancemarinenews.com/cargo/round-up-friday-13th-november-2026/",
-   "source": "imn",
-   "published": "2026-11-13T06:59:43Z",
-   "seen": "2026-11-13T07:24:09Z",
-   "lang": "en",
-   "excerpt": "",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": true
-  },
-  {
-   "id": "79dfbaf189e4",
-   "title": "Wallenius SOL rebrands following ownership shake-up",
-   "link": "https://splash247.com/wallenius-sol-rebrands-following-ownership-shake-up/",
-   "source": "splash",
-   "published": "2026-11-13T06:05:19Z",
-   "seen": "2026-11-13T07:24:09Z",
-   "lang": "en",
-   "excerpt": "Swedish shipping company Wallenius SOL has changed its name to Wallenius Link following the takeover of the business by Wallenius Lines earlier this year.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "mna"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "bcf02a9ed387",
-   "title": "ATI secures renewal of Manila South Harbour concession",
-   "link": "https://container-news.com/ati-secures-renewal-of-manila-south-harbour-concession/",
-   "source": "containernews",
-   "published": "2026-11-13T06:00:26Z",
-   "seen": "2026-11-13T07:24:09Z",
-   "lang": "en",
-   "excerpt": "Asian Terminals has secured a 25-year renewal of its concession to operate and develop Manila South Harbour. The renewed agreement, signed with the Philippine Ports Authority, will run from May 2038 to May 2063, giving long-term certainty …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "506de5f7c846",
-   "title": "Bodø-terminalen nærmer seg overtakelse",
-   "link": "https://www.mtlogistikk.no/bodo-bodo-havn-intermodal/bodo-terminalen-naermer-seg-overtakelse/1341807",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-13T04:51:22Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "aa6d4808d4da",
-   "title": "How a Taiwan crisis could paralyze Western ports without a single warship",
-   "link": "https://container-news.com/how-a-taiwan-crisis-could-paralyze-western-ports-without-a-single-warship/",
-   "source": "containernews",
-   "published": "2026-11-13T04:34:24Z",
-   "seen": "2026-11-13T07:24:09Z",
-   "lang": "en",
-   "excerpt": "For two years, maritime risk analysis has been dominated by chokepoints: Hormuz, Bab el-Mandeb, Panama, the Danish straits. Each crisis reinforced the same conclusion: control is now exercised less through closure than through …",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "10fe8939fd60",
-   "title": "U.S. Navy Removes Command Triad From Attack Sub After a Reported Grounding",
-   "link": "https://maritime-executive.com/article/u-s-navy-removes-command-triad-from-attack-sub-after-a-reported-grounding",
-   "source": "marex",
-   "published": "2026-11-13T03:22:55Z",
-   "seen": "2026-11-13T10:06:22Z",
-   "lang": "en",
-   "excerpt": "Congress has just found out that the Navy removed all three of the top officers of the attack submarine USS South Dakota last month following a ground...",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "d8c265631c1f",
-   "title": "U.S. Grain Exports at Risk From Aging Barge Fleet and High Replacement Cost",
-   "link": "https://maritime-executive.com/article/u-s-grain-exports-at-risk-from-aging-barge-fleet-and-high-replacement-cost",
-   "source": "marex",
-   "published": "2026-11-13T03:05:56Z",
-   "seen": "2026-11-13T10:06:22Z",
-   "lang": "en",
-   "excerpt": "The United States faces a squeeze on grain transportation over the next decade because its inland barge fleet is retiring vessels faster than it build...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "a3b549ed49f9",
-   "title": "Maersk’s cyber breach is a warning for every secondhand ship sale",
-   "link": "https://splash247.com/maersks-cyber-breach-is-a-warning-for-every-secondhand-ship-sale/",
-   "source": "splash",
-   "published": "2026-11-13T03:00:55Z",
-   "seen": "2026-11-13T07:24:09Z",
-   "lang": "en",
-   "excerpt": "The door was a system that came with an acquisition. Every owner who buys a secondhand vessel takes the same risk on board, and few check for it at delivery. By Argyris Zafeiropoulos from Athens-based Resilience & Compliance Advisory.",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "sale-purchase"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "002e4f809f91",
-   "title": "Kalmar secures order for 21 hybrid straddle carriers at TTI Algeciras",
-   "link": "https://container-news.com/kalmar-secures-order-for-21-hybrid-straddle-carriers-at-tti-algeciras/",
-   "source": "containernews",
-   "published": "2026-11-13T02:43:32Z",
-   "seen": "2026-11-13T03:59:11Z",
-   "lang": "en",
-   "excerpt": "Kalmar has secured an order from Total Terminal International Algeciras (TTI Algeciras) for 21 hybrid straddle carriers. The new equipment will support shuttle carrier operations at the Spanish container terminal.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "24199610a242",
-   "title": "ExxonMobil greenlights $12.5bn offshore gas project in Guyana",
-   "link": "https://splash247.com/exxonmobil-greenlights-12-5bn-offshore-gas-project-in-guyana/",
-   "source": "splash",
-   "published": "2026-11-13T02:40:00Z",
-   "seen": "2026-11-13T07:24:09Z",
-   "lang": "en",
-   "excerpt": "US supermajor ExxonMobil has taken a final investment decision on the $12.5bn Longtail gas and condensate project offshore Guyana after receiving the necessary government and regulatory approvals.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [
-    "sanctions"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "fa41cbbb49c7",
-   "title": "Hokchi lines up Mexican drilling campaign with Fontis jackup",
-   "link": "https://splash247.com/hokchi-lines-up-mexican-drilling-campaign-with-fontis-jackup/",
-   "source": "splash",
-   "published": "2026-11-13T02:30:00Z",
-   "seen": "2026-11-13T07:24:09Z",
-   "lang": "en",
-   "excerpt": "Hokchi Energy, the Mexican subsidiary of Argentina’s Pan American Energy, has hired Fontis Energy’s Oberón jackup for a two-well exploration campaign in the shallow waters of the Gulf of Mexico.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "rig"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "46a86d6dbeda",
-   "title": "India's Shipping Ministry Asks Public for Help on Cold-Case Fatal Accidents",
-   "link": "https://maritime-executive.com/article/india-s-shipping-ministry-asks-public-for-help-on-cold-case-fatal-accidents",
-   "source": "marex",
-   "published": "2026-11-13T02:26:00Z",
-   "seen": "2026-11-13T03:59:11Z",
-   "lang": "en",
-   "excerpt": "India's Directorate General of Maritime Administration is looking for information about a long list of long-past fatality and missing-persons cases in...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "c03f04b520f3",
-   "title": "SLB bags offshore drilling services deal with Vår Energi",
-   "link": "https://splash247.com/slb-bags-offshore-drilling-services-deal-with-var-energi/",
-   "source": "splash",
-   "published": "2026-11-13T02:20:00Z",
-   "seen": "2026-11-13T07:24:09Z",
-   "lang": "en",
-   "excerpt": "US oilfield services giant SLB has secured a four-year integrated drilling services contract with Vår Energi covering two semisubmersible drilling rigs on the Norwegian continental shelf.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "local",
-   "terms": [
-    "rig"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "1e42e2936f2e",
-   "title": "SeaBird secures seismic vessel work in West Africa",
-   "link": "https://splash247.com/seabird-secures-seismic-vessel-work-in-west-africa/",
-   "source": "splash",
-   "published": "2026-11-13T02:10:00Z",
-   "seen": "2026-11-13T07:24:09Z",
-   "lang": "en",
-   "excerpt": "Marine seismic specialist SeaBird Exploration has secured a new contract for ocean bottom node (OBN) source work in West Africa. The company, a wholly owned subsidiary of SED Energy Holdings, will deploy its 2009-built seismic vessel …",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "seismic"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "d5e72ed84095",
-   "title": "Giosuè Vezzuto Appointed RINA Services CEO to Lead Maritime & Certification",
-   "link": "https://maritime-executive.com/article/giosue-vezzuto-appointed-rina-services-ceo-to-lead-maritime-certification",
-   "source": "marex",
-   "published": "2026-11-13T01:05:06Z",
-   "seen": "2026-11-13T07:24:09Z",
-   "lang": "en",
-   "excerpt": "Giosuè Vezzuto has been appointed Chief Executive Officer of RINA Services, the RINA Group company active in marine and certification services. He has...",
-   "segments": [
-    "freight"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "class-society"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "68d72589168c",
-   "title": "MPA opens applications for LNG floating storage unit licences",
-   "link": "https://container-news.com/mpa-opens-applications-for-lng-floating-storage-unit-licences/",
-   "source": "containernews",
-   "published": "2026-11-13T00:30:31Z",
-   "seen": "2026-11-13T01:16:21Z",
-   "lang": "en",
-   "excerpt": "The Maritime and Port Authority of Singapore has opened applications for licences to operate up to two LNG Floating Storage Units in Singapore anchorages. The call follows MPA’s award of eight new LNG bunker supplier licences in July 2026.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng",
-    "contango",
-    "bunkers"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "4a5e71e9c119",
-   "title": "PST: Forventer russisk sabotasje i Norge - advarer logistikkaktører",
-   "link": "https://www.mtlogistikk.no/nato-pst-sabotasje/pst-forventer-russisk-sabotasje-i-norge-advarer-logistikkaktorer/1360875",
-   "source": "mtlogistikk",
-   "published": null,
-   "seen": "2026-11-12T23:31:21Z",
-   "lang": "no",
-   "excerpt": "",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "3565d4a008ab",
-   "title": "Fishing Tender Goes Down off Thailand, Leaving Six Missing",
-   "link": "https://maritime-executive.com/article/fishing-tender-goes-down-off-thailand-leaving-six-missing",
-   "source": "marex",
-   "published": "2026-11-12T22:30:00Z",
-   "seen": "2026-11-13T01:16:21Z",
-   "lang": "en",
-   "excerpt": "A fishing tender has gone down off the coast of Sattahip, Thailand, leaving six crewmembers missing, according to local authorities. The tender Venus...",
-   "segments": [
-    "road",
-    "insurance"
    ],
    "subs": [],
    "policy": false,
