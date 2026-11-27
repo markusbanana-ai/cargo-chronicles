@@ -1,14 +1,35 @@
 {
- "updated": "2026-11-27T12:12:40Z",
+ "updated": "2026-11-27T21:14:37Z",
  "sample": false,
  "articles": [
   {
-   "id": "692c4d7bd634",
-   "title": "Her er finalistene til IFOY Awards 2027 - for første gang er et norsk selskap nominert",
-   "link": "https://www.mtlogistikk.no/ifoy-awards-internlogistikk-kunstig-intelligens/her-er-finalistene-til-ifoy-awards-2027-for-forste-gang-er-et-norsk-selskap-nominert/1368761",
+   "id": "84aea189e000",
+   "title": "Global Feeder Shipping restructures Djibouti JSA feeder service",
+   "link": "https://container-news.com/global-feeder-shipping-restructures-djibouti-jsa-feeder-service/",
+   "source": "containernews",
+   "published": "2026-11-27T21:00:09Z",
+   "seen": "2026-11-27T21:14:37Z",
+   "lang": "en",
+   "excerpt": "Global Feeder Shipping is restructuring its Djibouti-based JSA feeder service. The carrier is reinstating Mukalla in Yemen and adding a regular call at Salalah in Oman, while Berbera is understood to be dropped from the rotation.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "transshipment",
+    "restructuring"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "22526d261e1c",
+   "title": "Annonsørinnhold for Supercharge Ett gigantisk ladedepot bærer hele bussdriften",
+   "link": "https://www.mtlogistikk.no/buss-connect-bus-elektrisk-drift/ett-gigantisk-ladedepot-baerer-hele-bussdriften/1370020",
    "source": "mtlogistikk",
    "published": null,
-   "seen": "2026-11-27T12:12:40Z",
+   "seen": "2026-11-27T20:59:37Z",
    "lang": "no",
    "excerpt": "",
    "segments": [
@@ -18,6 +39,550 @@
    "policy": false,
    "level": "national",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "060e4f5f912d",
+   "title": "Been a long time: Expeditors meets analysts, discloses revenue shares",
+   "link": "https://www.freightwaves.com/news/been-a-long-time-expeditors-meets-analysts-discloses-revenue-shares",
+   "source": "freightwaves",
+   "published": "2026-11-27T20:38:15Z",
+   "seen": "2026-11-27T21:14:37Z",
+   "lang": "en",
+   "excerpt": "The most shocking thing about the recent investors day presentation held by Expeditors International is that it was taking place at all.",
+   "segments": [
+    "road",
+    "finance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "forwarder"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "d4dfa5c175cf",
+   "title": "Dutch Court Auctions Bulkers for Crew Wages as Fraud Allegations Loom",
+   "link": "https://maritime-executive.com/article/dutch-court-auctions-bulkers-for-crew-wages-as-fraud-allegations-loom",
+   "source": "marex",
+   "published": "2026-11-27T20:09:52Z",
+   "seen": "2026-11-27T21:14:37Z",
+   "lang": "en",
+   "excerpt": "A Dutch court is moving forward with the sale of bulkers owned by a bankrupt shipping company, using the proceeds to settle the crews’ back-wage claim...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": true,
+   "level": "international",
+   "terms": [
+    "dry-bulk"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "a781e2347bfb",
+   "title": "Maersk confirms order for twelve 24,000 TEU containerships",
+   "link": "https://container-news.com/maersk-confirms-order-for-twelve-24000-teu-containerships/",
+   "source": "containernews",
+   "published": "2026-11-27T20:00:20Z",
+   "seen": "2026-11-27T21:14:37Z",
+   "lang": "en",
+   "excerpt": "Maersk has confirmed an order for twelve 24,000 TEU containerships, with deliveries expected in 2030 and 2031. The vessels would be the largest in the carrier’s fleet when they enter service.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "teu",
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "a52627292ec4",
+   "title": "Helgebrief uke 48: Planene møter virkeligheten",
+   "link": "https://www.mtlogistikk.no/helgebrief-kronikk-ukerapport/helgebrief-uke-48-planene-moter-virkeligheten/1369857",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-27T19:44:37Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "e2024374097e",
+   "title": "Vil ha raskere dieselkompensasjon",
+   "link": "https://www.mtlogistikk.no/diesel-nlf-statsbudsjettet/vil-ha-raskere-dieselkompensasjon/1370147",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-27T19:29:37Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "4a8968c15547",
+   "title": "Emirates Shipping Line to launch EFIX through slot agreement",
+   "link": "https://container-news.com/emirates-shipping-line-to-launch-efix-through-slot-agreement/",
+   "source": "containernews",
+   "published": "2026-11-27T19:00:16Z",
+   "seen": "2026-11-27T21:14:37Z",
+   "lang": "en",
+   "excerpt": "Emirates Shipping Line will begin offering its EFIX service in mid-December through a slot agreement on an existing Far East–Indian Subcontinent loop, according to DynaLiners.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "4bba08747f5d",
+   "title": "KCC taking concrete steps on whale exposure with insights from HUB Ocean",
+   "link": "https://www.hellenicshippingnews.com/kcc-taking-concrete-steps-on-whale-exposure-with-insights-from-hub-ocean/",
+   "source": "hsn",
+   "published": "2026-11-27T18:00:57Z",
+   "seen": "2026-11-27T21:14:37Z",
+   "lang": "en",
+   "excerpt": "In 2025, Klaveness Combination Carriers ASA (KCC) and HUB Ocean announced a collaboration to better understand how KCC’s shipping operations interact with sensitive marine ecosystems.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "ais"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "3ddc714f79eb",
+   "title": "Lion Shipbrokers Weekly Market Report, Week 48 2026",
+   "link": "https://www.hellenicshippingnews.com/lion-shipbrokers-weekly-market-report-week-48-2026/",
+   "source": "hsn",
+   "published": "2026-11-27T18:00:29Z",
+   "seen": "2026-11-27T21:14:37Z",
+   "lang": "en",
+   "excerpt": "Sale & Purchase: The second-hand market stayed busy, with a further thirty-one vessels reported sold (20 bulkers, 7 tankers and 4 containerships)",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "reports"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "shipbroker",
+    "sale-purchase",
+    "dry-bulk",
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "f0a1910d010c",
+   "title": "CLARKSONS HELLAS – SnP WEEKLY",
+   "link": "https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-20/",
+   "source": "hsn",
+   "published": "2026-11-27T18:00:26Z",
+   "seen": "2026-11-27T21:14:37Z",
+   "lang": "en",
+   "excerpt": "This week, attacks around Hormuz have reached their highest levels since the war began, with 17 tankers struck so far this month. Diplomacy offers little near-term relief: Iran insists the strait stays closed until its demands are met …",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint",
+    "sanctions"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "c4341a713e62",
+   "title": "Ellerman to combine parts of Baltex and IPEX2 services",
+   "link": "https://container-news.com/ellerman-to-combine-parts-of-baltex-and-ipex2-services/",
+   "source": "containernews",
+   "published": "2026-11-27T18:00:14Z",
+   "seen": "2026-11-27T21:14:37Z",
+   "lang": "en",
+   "excerpt": "Ellerman City Liners will combine parts of its Baltex and IPEX2 services rather than suspend Baltex as previously reported, according to DynaLiners.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "e83427f8c1d0",
+   "title": "Cuba Runs SAR Op for Three Missing Seafarers After Containership Sinks",
+   "link": "https://maritime-executive.com/article/cuba-runs-sar-op-for-three-missing-seafarers-after-containership-sinks",
+   "source": "marex",
+   "published": "2026-11-27T17:52:13Z",
+   "seen": "2026-11-27T21:14:37Z",
+   "lang": "en",
+   "excerpt": "Cuba’s Maritime Administration reported that a search and rescue operation had been launched after a small containership with a spotty record sank nor...",
+   "segments": [
+    "freight",
+    "insurance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "2b451ffd15da",
+   "title": "Precious Shipping lines up five-ship buying spree",
+   "link": "https://splash247.com/precious-shipping-lines-up-five-ship-buying-spree/",
+   "source": "splash",
+   "published": "2026-11-27T17:50:09Z",
+   "seen": "2026-11-27T21:14:37Z",
+   "lang": "en",
+   "excerpt": "Thailand’s Precious Shipping is lining up the acquisition of five more vessels through a fresh series of joint ventures with Malaysia’s Emstraits Navigation and Singapore-based Lianson Fleet.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk",
+    "tankers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dry-bulk"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "68c934b1768f",
+   "title": "Her er finalistene til IFOY Awards 2027 - for første gang er et norsk selskap nominert",
+   "link": "https://www.mtlogistikk.no/ifoy-awards-internlogistikk-kunstig-intelligens/her-er-finalistene-til-ifoy-awards-2027-for-forste-gang-er-et-norsk-selskap-nominert/1368872",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-27T17:44:37Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "9926f892a2c0",
+   "title": "Okee Maritime buys two newbuilds as Costamare expands capacity on five ships",
+   "link": "https://container-news.com/okee-maritime-buys-two-newbuilds-as-costamare-expands-capacity-on-five-ships/",
+   "source": "containernews",
+   "published": "2026-11-27T17:00:14Z",
+   "seen": "2026-11-27T21:14:37Z",
+   "lang": "en",
+   "excerpt": "German shipowner Okee Maritime has bought two 1,800 TEU containerships under construction at Huanghai Shipbuilding, according to TradeWinds. The vessels were originally ordered by Greece’s Cosmoship and are due for delivery in mid-2027.",
+   "segments": [
+    "freight",
+    "finance"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "newbuilding",
+    "teu",
+    "liner"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "62f9320c826d",
+   "title": "Evergreen, OOCL and X-Press Feeders drop Port Klang from Kenya service",
+   "link": "https://container-news.com/evergreen-oocl-and-x-press-feeders-drop-port-klang-from-kenya-service/",
+   "source": "containernews",
+   "published": "2026-11-27T16:00:22Z",
+   "seen": "2026-11-27T21:14:37Z",
+   "lang": "en",
+   "excerpt": "Evergreen, OOCL and X-Press Feeders have removed the southbound Port Klang call from their joint Far East–Kenya service, according to DynaLiners.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "containers"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "transshipment"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "706765258160",
+   "title": "Historic Great Lakes Bulker Departs for Boneyard",
+   "link": "https://maritime-executive.com/article/historic-great-lakes-bulker-set-to-depart-for-boneyard",
+   "source": "marex",
+   "published": "2026-11-27T15:59:40Z",
+   "seen": "2026-11-27T21:14:37Z",
+   "lang": "en",
+   "excerpt": "Michipicoten, which until recently was the third- or fourth-oldest Great Lakes bulker still in service, departed on Friday, November 27, to be scrappe...",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "dry-bulk"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "7bd7ec1d1691",
+   "title": "Rio Tinto Ships First Ore From Giant Simandou Mine to Europe",
+   "link": "https://gcaptain.com/rio-tinto-ships-first-ore-from-giant-simandou-mine-to-europe/",
+   "source": "gcaptain",
+   "published": "2026-11-27T15:32:47Z",
+   "seen": "2026-11-27T21:14:37Z",
+   "lang": "en",
+   "excerpt": "Guinea’s giant Simandou iron ore project, which began stepping up production this year, has exported its first cargo to a European customer, according to Kpler.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "34bfb82e01e2",
+   "title": "Building a Culture of Safety: Leadership, Accountability, and Workforce Commitment",
+   "link": "https://gcaptain.com/building-a-culture-of-safety-leadership-accountability-and-workforce-commitment/",
+   "source": "gcaptain",
+   "published": "2026-11-27T15:26:39Z",
+   "seen": "2026-11-27T21:14:37Z",
+   "lang": "en",
+   "excerpt": "In the ship repair industry, safety is more than a regulatory requirement or a box to check. It is a fundamental part of successful operations and a responsibility that must be reinforced...",
+   "segments": [
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "b45bef586dc3",
+   "title": "Weekly US rail freight climbs 4.7% as intermodal surges 8.3%",
+   "link": "https://www.freightwaves.com/news/weekly-us-rail-freight-climbs-4-7-as-intermodal-surges-8-3",
+   "source": "freightwaves",
+   "published": "2026-11-27T14:45:31Z",
+   "seen": "2026-11-27T21:14:37Z",
+   "lang": "en",
+   "excerpt": "U.S. freight by rail rose 4.7% year over year in the latest week, led by an 8.3% surge in intermodal volumes.",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "intermodal"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "d28061f5354d",
+   "title": "Universal Africa Lines to extend Caribbean network to Venezuela",
+   "link": "https://container-news.com/universal-africa-lines-to-extend-caribbean-network-to-venezuela/",
+   "source": "containernews",
+   "published": "2026-11-27T14:00:17Z",
+   "seen": "2026-11-27T21:14:37Z",
+   "lang": "en",
+   "excerpt": "Universal Africa Lines (UAL) plans to extend its multipurpose shipping network to Venezuela. DynaLiners reports that the carrier is expected to add Venezuelan coverage to its UAL Caribbean Shuttle, although the Venezuelan port and start …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "efe9415a5b6f",
+   "title": "Marine Alliance snaps up German marine insurance broker Marincon",
+   "link": "https://splash247.com/marine-alliance-snaps-up-german-marine-insurance-broker-marincon/",
+   "source": "splash",
+   "published": "2026-11-27T13:42:53Z",
+   "seen": "2026-11-27T21:14:37Z",
+   "lang": "en",
+   "excerpt": "Norwegian marine insurance group Marine Alliance has acquired Hamburg-based Marincon, adding a fourth specialist brokerage to its growing European network. The company has taken full ownership of Marincon GmbH & Co.",
+   "segments": [
+    "finance",
+    "insurance"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [
+    "insurance-broker"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "a9610a0b317a",
+   "title": "Vil lade flere lastebiler uten å bygge ut strømnettet",
+   "link": "https://www.mtlogistikk.no/batterilagring-megawattlading-mobilityx/vil-lade-flere-lastebiler-uten-a-bygge-ut-stromnettet/1363414",
+   "source": "mtlogistikk",
+   "published": null,
+   "seen": "2026-11-27T13:14:37Z",
+   "lang": "no",
+   "excerpt": "",
+   "segments": [
+    "road"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "national",
+   "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "1d62547a7420",
+   "title": "Baltic Dry Index falls to 3137 down 15 points",
+   "link": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-3137-down-15-points/",
+   "source": "hsn",
+   "published": "2026-11-27T13:00:50Z",
+   "seen": "2026-11-27T21:14:37Z",
+   "lang": "en",
+   "excerpt": "Today, Friday, November 27 2026, the Baltic Dry Index decreased by 15 points, reaching 3137 points. Baltic Dry Index is compiled by the London-based Baltic Exchange and covers prices for transported cargo such as coal, grain and iron ore.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bdi",
+    "baltic-exchange"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "b07b47b19dee",
+   "title": "Explainer: How Red Sea task force open three contests",
+   "link": "https://container-news.com/explainer-how-red-sea-task-force-open-three-contests/",
+   "source": "containernews",
+   "published": "2026-11-27T13:00:46Z",
+   "seen": "2026-11-27T21:14:37Z",
+   "lang": "en",
+   "excerpt": "The states bordering the Red Sea and the Western Indian Ocean took a step that looks procedural but is not.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "chokepoint"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "f7b51f8831a7",
+   "title": "Seamec lands fresh DSV charter offshore India",
+   "link": "https://splash247.com/seamec-lands-fresh-dsv-charter-offshore-india/",
+   "source": "splash",
+   "published": "2026-11-27T13:00:00Z",
+   "seen": "2026-11-27T21:14:37Z",
+   "lang": "en",
+   "excerpt": "Indian offshore vessel operator Seamec has secured a charter from compatriot oil and gas company Hindustan Oil Exploration Company (HOEC) for one of its diving support vessels (DSVs).",
+   "segments": [
+    "road",
+    "freight",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "bimco",
+    "charter-party"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "26650435fb51",
+   "title": "Revisjon av MRV-forordningen og FuelEU Maritime-forordningen 2026",
+   "link": "https://www.regjeringen.no/no/sub/eos-notatbasen/notatene/2026/sep/revisjon-av-mrv-forordningen-og-fueleu-maritime-forordningen-2026/id3195178/",
+   "source": "regjeringen",
+   "published": "2026-11-27T12:27:45Z",
+   "seen": "2026-11-27T21:14:37Z",
+   "lang": "no",
+   "excerpt": "Forslag til europaparlaments- og rådsforordning om endring av forordning (EU) 2015/757 og forordning (EU) 2023/1805 for å forenkle og effektivisere overvåking, rapportering og verifikasjon og tilpasse regelverket til revisjonen av EUs …",
+   "segments": [
+    "freight"
+   ],
+   "subs": [],
+   "policy": true,
+   "level": "national",
+   "terms": [
+    "seemp",
+    "fueleu"
+   ],
    "paywall": false
   },
   {
@@ -80,6 +645,54 @@
    "policy": false,
    "level": "national",
    "terms": [],
+   "paywall": false
+  },
+  {
+   "id": "cd29af2c17ca",
+   "title": "Navibulgar adds handymax pair to growing China orderbook",
+   "link": "https://splash247.com/navibulgar-adds-handymax-pair-to-growing-china-orderbook/",
+   "source": "splash",
+   "published": "2026-11-27T11:10:25Z",
+   "seen": "2026-11-27T12:12:40Z",
+   "lang": "en",
+   "excerpt": "Bulgarian dry bulk owner Navibulgar has returned to China’s Yangzijiang Shipbuilding for another pair of handymax bulk carriers, expanding its newbuilding programme to 13 vessels.",
+   "segments": [
+    "freight"
+   ],
+   "subs": [
+    "drybulk"
+   ],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "supramax",
+    "orderbook",
+    "dry-bulk",
+    "newbuilding",
+    "dwt"
+   ],
+   "paywall": false
+  },
+  {
+   "id": "ed4e5b5b25b3",
+   "title": "EDT Offshore kicks off fleet renewal with subsea newbuild",
+   "link": "https://splash247.com/edt-offshore-kicks-off-fleet-renewal-with-subsea-newbuild/",
+   "source": "splash",
+   "published": "2026-11-27T11:05:00Z",
+   "seen": "2026-11-27T12:12:40Z",
+   "lang": "en",
+   "excerpt": "Cyprus-based EDT Offshore has ordered a subsea construction vessel at China’s ZPMC, with an option for a second unit, kicking off a newbuilding programme aimed at expanding its offshore capabilities.",
+   "segments": [
+    "freight",
+    "offshore"
+   ],
+   "subs": [],
+   "policy": false,
+   "level": "international",
+   "terms": [
+    "newbuilding",
+    "csv"
+   ],
    "paywall": false
   },
   {
@@ -350,24 +963,6 @@
    "paywall": false
   },
   {
-   "id": "9256fdc963f5",
-   "title": "Wood scores FEED work on Spain-France offshore hydrogen link",
-   "link": "https://splash247.com/wood-scores-feed-work-on-spain-france-offshore-hydrogen-link/",
-   "source": "splash",
-   "published": "2026-11-27T11:00:00Z",
-   "seen": "2026-11-27T12:12:40Z",
-   "lang": "en",
-   "excerpt": "UK engineering and consulting firm Wood has secured a front-end engineering design (FEED) contract for the proposed BarMar subsea hydrogen pipeline connecting Spain and France.",
-   "segments": [
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
    "id": "2b82e249a95d",
    "title": "Kamerateknologi kan gi smartere fiskelogistikk",
    "link": "https://www.mtlogistikk.no/holdbarhet-maritech-eye-maskinlaering/kamerateknologi-kan-gi-smartere-fiskelogistikk/1367832",
@@ -461,32 +1056,6 @@
    "paywall": false
   },
   {
-   "id": "cd29af2c17ca",
-   "title": "Navibulgar adds handymax pair to growing China orderbook",
-   "link": "https://splash247.com/navibulgar-adds-handymax-pair-to-growing-china-orderbook/",
-   "source": "splash",
-   "published": "2026-11-27T10:00:25Z",
-   "seen": "2026-11-27T12:12:40Z",
-   "lang": "en",
-   "excerpt": "Bulgarian dry bulk owner Navibulgar has returned to China’s Yangzijiang Shipbuilding for another pair of handymax bulk carriers, expanding its newbuilding programme to 13 vessels.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "supramax",
-    "orderbook",
-    "dry-bulk",
-    "newbuilding",
-    "dwt"
-   ],
-   "paywall": false
-  },
-  {
    "id": "d9979fd47939",
    "title": "Prysmian gets green light for $1bn Greek cable programme",
    "link": "https://splash247.com/prysmian-gets-green-light-for-1bn-greek-cable-programme/",
@@ -549,25 +1118,21 @@
    "paywall": false
   },
   {
-   "id": "ed4e5b5b25b3",
-   "title": "EDT Offshore kicks off fleet renewal with subsea newbuild",
-   "link": "https://splash247.com/edt-offshore-kicks-off-fleet-renewal-with-subsea-newbuild/",
+   "id": "9256fdc963f5",
+   "title": "Wood scores FEED work on Spain-France offshore hydrogen link",
+   "link": "https://splash247.com/wood-scores-feed-work-on-spain-france-offshore-hydrogen-link/",
    "source": "splash",
    "published": "2026-11-27T09:20:00Z",
    "seen": "2026-11-27T12:12:40Z",
    "lang": "en",
-   "excerpt": "Cyprus-based EDT Offshore has ordered a subsea construction vessel at China’s ZPMC, with an option for a second unit, kicking off a newbuilding programme aimed at expanding its offshore capabilities.",
+   "excerpt": "UK engineering and consulting firm Wood has secured a front-end engineering design (FEED) contract for the proposed BarMar subsea hydrogen pipeline connecting Spain and France.",
    "segments": [
-    "freight",
     "offshore"
    ],
    "subs": [],
    "policy": false,
    "level": "international",
-   "terms": [
-    "newbuilding",
-    "csv"
-   ],
+   "terms": [],
    "paywall": false
   },
   {
@@ -17748,556 +18313,6 @@
    "policy": false,
    "level": "international",
    "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "5851c6fce289",
-   "title": "GTT Energy receives an order from Hudong-Zhonghua Shipbuilding for the tank design of five new LNG Carriers",
-   "link": "https://www.hellenicshippingnews.com/gtt-energy-receives-an-order-from-hudong-zhonghua-shipbuilding-for-the-tank-design-of-five-new-lng-carriers/",
-   "source": "hsn",
-   "published": "2026-11-18T18:00:47Z",
-   "seen": "2026-11-18T20:28:24Z",
-   "lang": "en",
-   "excerpt": "GTT Energy, the Group business unit dedicated to containment and energy management systems, announces that it has received, in the fourth quarter of 2026, an order from Hudong-Zhonghua Shipbuilding for the tank design of five new Liquefied …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng-carrier",
-    "lng"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "f0e12894e8f6",
-   "title": "Ravenna: Nova Marine Carriers acquires a 25% stake in Terminal Nord S.p.A.",
-   "link": "https://www.hellenicshippingnews.com/ravenna-nova-marine-carriers-acquires-a-25-stake-in-terminal-nord-s-p-a/",
-   "source": "hsn",
-   "published": "2026-11-18T18:00:45Z",
-   "seen": "2026-11-18T20:28:24Z",
-   "lang": "en",
-   "excerpt": "Sider Navi S.r.l., the Italian sub-holding company of the international shipping group Nova Marine Carriers, based in Lugano, has acquired a 25% stake in Terminal Nord S.p.A., a port terminal operator belonging to the Sapir Group at the …",
-   "segments": [
-    "freight",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "2019a596c1c4",
-   "title": "Savannah container volumes up 25 percent in October",
-   "link": "https://www.hellenicshippingnews.com/savannah-container-volumes-up-25-percent-in-october/",
-   "source": "hsn",
-   "published": "2026-11-18T18:00:43Z",
-   "seen": "2026-11-18T20:28:24Z",
-   "lang": "en",
-   "excerpt": "The Port of Savannah reported strong volumes in October, handling 565,366 twenty-foot equivalent container units (TEUs), an increase of 25 percent compared to October 2025.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "teu"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "57ade136eb44",
-   "title": "CNC launches SCV2 service linking South China, Thailand and Cambodia",
-   "link": "https://container-news.com/cnc-launches-scv2-service-linking-south-china-thailand-and-cambodia/",
-   "source": "containernews",
-   "published": "2026-11-18T18:00:38Z",
-   "seen": "2026-11-19T02:32:30Z",
-   "lang": "en",
-   "excerpt": "CNC will launch a new Intra-Asia service connecting South China with Thailand and Cambodia in late November. The new SCV2 service will provide direct connections between Yantian and Shekou in China, Laem Chabang in Thailand and …",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "5b89ceb8d4fd",
-   "title": "More U.S. LNG Cargoes Divert to Europe in Relief for Tight Market",
-   "link": "https://gcaptain.com/more-u-s-lng-cargoes-divert-to-europe-in-relief-for-tight-market/",
-   "source": "gcaptain",
-   "published": "2026-11-18T17:58:30Z",
-   "seen": "2026-11-18T20:28:24Z",
-   "lang": "en",
-   "excerpt": "More liquefied natural gas vessels have diverted toward Europe in recent days, bolstering supplies in a tight market and pressuring prices.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "7dc5285ea77a",
-   "title": "Seafarer is Missing as Iran Continues Attacks on ADNOC Tankers",
-   "link": "https://maritime-executive.com/article/seafarer-is-missing-as-iran-continues-attacks-on-adnoc-tankers",
-   "source": "marex",
-   "published": "2026-11-18T17:58:25Z",
-   "seen": "2026-11-18T20:28:24Z",
-   "lang": "en",
-   "excerpt": "Iran continues to target the vessels operating for the Gulf State oil companies, with the latest strike coming overnight near the Strait of Hormuz. Ab...",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "tankers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "chokepoint"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "6cb01d14edd9",
-   "title": "DHL Forwarding launches first-ever dedicated freighter service for India",
-   "link": "https://www.freightwaves.com/news/dhl-forwarding-launches-first-ever-dedicated-freighter-service-for-india",
-   "source": "freightwaves",
-   "published": "2026-11-18T17:37:49Z",
-   "seen": "2026-11-18T20:28:24Z",
-   "lang": "en",
-   "excerpt": "DHL Forwarding, the freight intermediary business of DHL Group, has rented a bundled 747 freighter transportation service to offer shippers dedicated cargo space in and out of India for the first time.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "shipper-consignee"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "e494504a371e",
-   "title": "Over 284 out-of-service violations uncovered in latest truck enforcement blitzes",
-   "link": "https://www.freightwaves.com/news/over-284-out-of-service-violations-uncovered-in-latest-truck-enforcement-blitzes",
-   "source": "freightwaves",
-   "published": "2026-11-18T17:25:46Z",
-   "seen": "2026-11-18T20:28:24Z",
-   "lang": "en",
-   "excerpt": "Recent commercial vehicle enforcement operations across the U.S. and Canada put more than 76 drivers and 208 trucks out-of-service.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "7e7e2e3c104f",
-   "title": "Houston Ship Pilot Faces Historic Manslaughter Charge After Fatal Collision",
-   "link": "https://gcaptain.com/houston-ship-pilot-faces-historic-manslaughter-charge-after-fatal-collision/",
-   "source": "gcaptain",
-   "published": "2026-11-18T17:18:41Z",
-   "seen": "2026-11-18T20:28:24Z",
-   "lang": "en",
-   "excerpt": "A Houston ship pilot has been indicted on a federal seaman’s manslaughter charge over a deadly 2024 collision in the Houston Ship Channel, in what federal officials describe as the...",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "f14d3bd0aaa7",
-   "title": "Coast Guard Restricts Mississippi River Traffic for Monthlong Cruise Ship Salvage",
-   "link": "https://gcaptain.com/coast-guard-restricts-mississippi-river-traffic-for-monthlong-cruise-ship-salvage/",
-   "source": "gcaptain",
-   "published": "2026-11-18T17:15:10Z",
-   "seen": "2026-11-18T20:28:24Z",
-   "lang": "en",
-   "excerpt": "The U.S. Coast Guard has established a temporary safety zone on the Mississippi River in New Orleans through December 11 as salvage crews prepare to recover the American Heritage river...",
-   "segments": [
-    "insurance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "salvage"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "c4b321fe3926",
-   "title": "Strike Threat Looms at Ports of Los Angeles and Long Beach as Labor Talks Stall",
-   "link": "https://gcaptain.com/strike-threat-looms-at-ports-of-los-angeles-and-long-beach-as-labor-talks-stall/",
-   "source": "gcaptain",
-   "published": "2026-11-18T17:08:34Z",
-   "seen": "2026-11-18T20:28:24Z",
-   "lang": "en",
-   "excerpt": "A potential strike at the nation’s busiest container port complex is back on the table after contract negotiations between waterfront employers and a union representing about 250 port security workers...",
-   "segments": [
-    "freight",
-    "insurance"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "36e6884c6a8d",
-   "title": "NWSA records increased import volumes in October",
-   "link": "https://container-news.com/nwsa-records-increased-import-volumes-in-october/",
-   "source": "containernews",
-   "published": "2026-11-18T17:00:33Z",
-   "seen": "2026-11-19T02:32:30Z",
-   "lang": "en",
-   "excerpt": "The Northwest Seaport Alliance recorded strong import volumes in October 2026, with full imports growing 13.1% compared with October 2025.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "dwell",
-    "congestion",
-    "teu"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "1909ea364b24",
-   "title": "Veterans and Team Driving: How Werner Is Building a Pipeline Around Both",
-   "link": "https://www.freightwaves.com/news/veterans-and-team-driving-how-werner-is-building-a-pipeline-around-both",
-   "source": "freightwaves",
-   "published": "2026-11-18T16:59:03Z",
-   "seen": "2026-11-18T20:28:24Z",
-   "lang": "en",
-   "excerpt": "The trucking industry needs people who can work under pressure, follow procedure and keep moving when plans change. Veterans have been trained to do exactly that.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "761ea2dbe3b0",
-   "title": "The Trump Crackdown Aims At The Driver, However The Same Government Keeps Clearing The Company Behind Him",
-   "link": "https://www.freightwaves.com/news/the-trump-crackdown-aims-at-the-driver-however-the-same-government-keeps-clearing-the-company-behind-him",
-   "source": "freightwaves",
-   "published": "2026-11-18T16:51:46Z",
-   "seen": "2026-11-18T20:28:24Z",
-   "lang": "en",
-   "excerpt": "Editor’s note: Rob Carpenter is an independent contributor to FreightWaves. The reporting, analysis and opinions in this piece are his own and do not necessarily reflect the views of FreightWaves or its affiliates.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "bb2c72a11ffa",
-   "title": "Running the Business by the Numbers",
-   "link": "https://www.freightwaves.com/news/running-the-business-by-the-numbers",
-   "source": "freightwaves",
-   "published": "2026-11-18T16:51:09Z",
-   "seen": "2026-11-18T20:28:24Z",
-   "lang": "en",
-   "excerpt": "Jennifer Ramirez logged more flight time than most owner-operators log windshield time just to sit down for this conversation. She flew from LAX to Dallas-Fort Worth, then on to Chattanooga, Tennessee, for a special report produced with …",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "dbfbd9b1af2a",
-   "title": "Owning the Business, Not Just the Truck",
-   "link": "https://www.freightwaves.com/news/owning-the-business-not-just-the-truck",
-   "source": "freightwaves",
-   "published": "2026-11-18T16:49:02Z",
-   "seen": "2026-11-18T20:28:24Z",
-   "lang": "en",
-   "excerpt": "Richard Loya Jr., owner of Classic Trucking LLC, joined a special report presented by Amazon Relay to explain how contract freight gave him stability, how he runs the numbers on every load, and why he’s focused on the business side of …",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "7982ae0115df",
-   "title": "Carriers can now pass loads they can’t cover to 7 vetted peers",
-   "link": "https://www.freightwaves.com/news/graypool-exchange-carriers-pass-uncovered-loads",
-   "source": "freightwaves",
-   "published": "2026-11-18T16:40:00Z",
-   "seen": "2026-11-18T20:28:24Z",
-   "lang": "en",
-   "excerpt": "With tender rejections more than double last year's level, Graypool opened an invitation-only exchange where carriers trade freight they can't run with one another.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "200dbfc99891",
-   "title": "Euroseas reports US$25.6 million profit in third quarter",
-   "link": "https://container-news.com/euroseas-reports-us25-6-million-profit-in-third-quarter/",
-   "source": "containernews",
-   "published": "2026-11-18T16:00:22Z",
-   "seen": "2026-11-19T02:32:30Z",
-   "lang": "en",
-   "excerpt": "Euroseas reported net income attributable to controlling shareholders of US$25.6 million for the third quarter of 2026, compared with US$29.7 million during the same period last year.",
-   "segments": [
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "liner",
-    "ebitda"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "923f94461170",
-   "title": "Skanskas krav om Fair Transport gir sertifiserte transportører et fortrinn",
-   "link": "https://lastebil.no/aktuelt/nyheter/2026/skanskas-krav-om-fair-transport-gir-sertifiserte-transportoerer-et-fortrinn",
-   "source": "lastebil",
-   "published": "2026-11-18T15:27:50Z",
-   "seen": "2026-11-18T20:28:24Z",
-   "lang": "no",
-   "excerpt": "Når en stor transportkjøper som Skanska stiller krav om Fair Transport, er det et tydelig signal. Ansvarlig drift skal lønne seg. For NLFs Fair Transport-sertifiserte medlemsbedrifter kan dokumentert kvalitet, sikkerhet og ordnede forhold …",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": true,
-   "level": "national",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "fed1761f0083",
-   "title": "Orlen spreads its wings across Central and Eastern Europe with new gas pacts",
-   "link": "https://www.offshore-energy.biz/2026/11/18/orlen-spreads-its-wings-across-central-and-eastern-europe-with-new-gas-pacts",
-   "source": "offshoreenergy",
-   "published": "2026-11-18T15:07:53Z",
-   "seen": "2026-11-18T20:28:24Z",
-   "lang": "en",
-   "excerpt": "U.S. LNG is expected to reach more European energy markets as Orlen’s new partnerships strengthen regional cooperation.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "c9a1c1fe579d",
-   "title": "Port of Savannah container volumes surge 25% in October",
-   "link": "https://container-news.com/port-of-savannah-container-volumes-surge-25-in-october/",
-   "source": "containernews",
-   "published": "2026-11-18T15:00:55Z",
-   "seen": "2026-11-19T02:32:30Z",
-   "lang": "en",
-   "excerpt": "The Port of Savannah handled 565,366 TEUs in October 2026, an increase of 25% compared with the same month last year, according to the Georgia Ports Authority (GPA).",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "containers"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "teu"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "d36fad2e2194",
-   "title": "J.B. Hunt sees cost pressures ease, touts dedicated wins",
-   "link": "https://www.freightwaves.com/news/j-b-hunt-sees-cost-pressures-ease-touts-dedicated-wins",
-   "source": "freightwaves",
-   "published": "2026-11-18T14:27:51Z",
-   "seen": "2026-11-18T20:28:24Z",
-   "lang": "en",
-   "excerpt": "J.B. Hunt flags easing cost pressures, dedicated wins and a minimal volume impact from BNSF’s rail outage at an investor conference on Tuesday.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [],
-   "paywall": false
-  },
-  {
-   "id": "5b1982088207",
-   "title": "The Lag Effect: Trucking Capacity Declines as Rates Recover",
-   "link": "https://www.freightwaves.com/news/the-lag-effect-trucking-capacity-declines-as-rates-recover",
-   "source": "freightwaves",
-   "published": "2026-11-18T14:04:00Z",
-   "seen": "2026-11-18T20:28:24Z",
-   "lang": "en",
-   "excerpt": "Truckload rates rose far faster than costs in 2026, yet carriers keep failing. SONAR data shows why, and what it means for 2027 contract bids.",
-   "segments": [
-    "road",
-    "finance"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "ftl"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "496d01d818fb",
-   "title": "Venture Global’s bigger LNG deal with China Gas adds 500,000 tons annually",
-   "link": "https://www.offshore-energy.biz/2026/11/18/venture-globals-bigger-lng-deal-with-china-gas-adds-500000-tons-annually",
-   "source": "offshoreenergy",
-   "published": "2026-11-18T13:01:15Z",
-   "seen": "2026-11-18T20:28:24Z",
-   "lang": "en",
-   "excerpt": "U.S. LNG is gaining a larger foothold in China as Venture Global expands its 20-year supply agreement with China Gas.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "gas"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "lng"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "d827f51baa07",
-   "title": "Baltic Dry Index climbs to 2914 up 21 points",
-   "link": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2914-up-21-points/",
-   "source": "hsn",
-   "published": "2026-11-18T13:00:02Z",
-   "seen": "2026-11-18T20:28:24Z",
-   "lang": "en",
-   "excerpt": "Today, Wednesday, November 18 2026, the Baltic Dry Index climbed 21 points, 2914 points. Baltic Dry Index is compiled by the London-based Baltic Exchange and covers prices for transported cargo such as coal, grain and iron ore.",
-   "segments": [
-    "freight"
-   ],
-   "subs": [
-    "drybulk"
-   ],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "bdi",
-    "baltic-exchange"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "47085ecb5f04",
-   "title": "Redwood report lists 9 warning signs for shippers picking a 4PL",
-   "link": "https://www.freightwaves.com/news/redwood-state-of-4pl-2027-warning-signs",
-   "source": "freightwaves",
-   "published": "2026-11-18T13:00:00Z",
-   "seen": "2026-11-18T20:28:24Z",
-   "lang": "en",
-   "excerpt": "The Chicago-based 4PL's new report gives shippers a maturity model, a buyer's checklist, and 10 predictions through 2031, built around its case for an open orchestration model.",
-   "segments": [
-    "road"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "shipper-consignee",
-    "3pl"
-   ],
-   "paywall": false
-  },
-  {
-   "id": "d522baf9156c",
-   "title": "Neo Next+ snaps up EnQuest’s North Sea business in $960m deal",
-   "link": "https://splash247.com/neo-next-snaps-up-enquests-north-sea-business-in-960m-deal/",
-   "source": "splash",
-   "published": "2026-11-18T12:00:00Z",
-   "seen": "2026-11-18T20:28:24Z",
-   "lang": "en",
-   "excerpt": "UK offshore producer Neo Next+ Energy has agreed to acquire EnQuest’s entire UK upstream oil and gas business in a deal worth up to $960m, further consolidating its position as the largest producer on the UK Continental Shelf.",
-   "segments": [
-    "finance",
-    "offshore"
-   ],
-   "subs": [],
-   "policy": false,
-   "level": "international",
-   "terms": [
-    "ep"
-   ],
    "paywall": false
   }
  ]
